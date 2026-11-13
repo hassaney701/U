@@ -1,556 +1,614 @@
 #EXTM3U
-#M3U_EXTRACT: 103.176.90.139
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT RAW
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790151&extension=ts&play_token=RejZciZLjG
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790153&extension=ts&play_token=LSBRUtYESX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTFIGHT.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| AD SPORT FIGHT SD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1790152&extension=ts&play_token=F6ko8MkSRM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADAMSERIE.png" group-title="[LIVE]- AR| KIDS",AR| ADAM SERIE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2044540&extension=ts&play_token=Y7oT1GC2pD
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADNANLINA.png" group-title="[LIVE]- AR| KIDS",AR| ADNAN & LINA
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387896&extension=ts&play_token=ea19RfOoaq
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALIMAMALBUKHARI.png" group-title="[LIVE]- AR| KIDS",AR| AL IMAM AL BUKHARI
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2044541&extension=ts&play_token=iydXSZ8B9G
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 1 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859098&extension=ts&play_token=JkMMCjSB3E
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859092&extension=ts&play_token=1pLzqCJjvp
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 1 SD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859086&extension=ts&play_token=ifsS5Pl8XL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 2 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859097&extension=ts&play_token=WmheYe8JJZ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859091&extension=ts&play_token=FQo5kuQkHe
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 2 SD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859085&extension=ts&play_token=fs4pDJqjmr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 3 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859096&extension=ts&play_token=wiu2gHXs4l
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859090&extension=ts&play_token=SkjL55HdVO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 4 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859095&extension=ts&play_token=Dhu5TMktnS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859089&extension=ts&play_token=v4541Btn0x
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 5 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859094&extension=ts&play_token=k0oBOVplk2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 5 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859088&extension=ts&play_token=cW9l7s9L8Q
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 6 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859093&extension=ts&play_token=IcucAB6JTf
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- AR| ALWAN",AR| ALWAN SPORT 6 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1859087&extension=ts&play_token=1uDCkoHKXF
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ASHABANABIY.png" group-title="[LIVE]- AR| KIDS",AR| ASHAB A NABIY
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2044542&extension=ts&play_token=SqxQkMUroo
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINACTION2.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN ACTION 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141582&extension=ts&play_token=c4TGtFGhLR
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINDRAMA.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN DRAMA HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141577&extension=ts&play_token=Dcm2eOfFHp
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINDRAMA3.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN DRAMA 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141581&extension=ts&play_token=hvu5NRwino
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINFAMILY4.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN FAMILY 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141580&extension=ts&play_token=JWnC5j0omq
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINFATAFEET.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN FATAFEET
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141574&extension=ts&play_token=Uq1ryRquAm
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN-GOURMET.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN GOURMET HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141575&extension=ts&play_token=TzLsLd4Qq2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINMOVIES1.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1356721&extension=ts&play_token=XDztRJkh4L
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINMOVIES2.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1356720&extension=ts&play_token=HK8dgqtSNR
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINMOVIES3.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1356719&extension=ts&play_token=WsrReRMnaf
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINMOVIES4.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1356718&extension=ts&play_token=xjunIMoDqM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINPREMIERE1.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN PREMIERE 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141583&extension=ts&play_token=Q7JqGl5fj5
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSERIES1.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN SERIES 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141579&extension=ts&play_token=O9NIpLlN8f
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSERIES2.png" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",AR| BEIN SERIES 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141578&extension=ts&play_token=B4EeIV0CHA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330433.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330433&extension=ts&play_token=BMWLLeRrBK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294764.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294764&extension=ts&play_token=eHxdCah7rW
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330437.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330437&extension=ts&play_token=T0IZR7CoNQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363490.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363490&extension=ts&play_token=i6C68OovCY
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330421.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 ENGLISH HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330421&extension=ts&play_token=zsaT2TwRxw
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330424.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 1 XTRA HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330424&extension=ts&play_token=iLZUyGQrRp
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363480.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 1ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363480&extension=ts&play_token=N1vYjXPXmc
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330432.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330432&extension=ts&play_token=Kh7S0pi7CT
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294763.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 2 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294763&extension=ts&play_token=ZOYMv6BRru
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330438.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330438&extension=ts&play_token=PtrbWkR6tg
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363491.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363491&extension=ts&play_token=gWR2eRPTM6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330423.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 2 XTRA HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330423&extension=ts&play_token=HsdmRMaRcG
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363481.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 2ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363481&extension=ts&play_token=McEQwC9dOC
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330431.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 3 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330431&extension=ts&play_token=CtFtgU7Fvf
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294762.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 3 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294762&extension=ts&play_token=RqZ5J37oUb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330439.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330439&extension=ts&play_token=tCtRr4UqGQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330422.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 3 XTRA HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330422&extension=ts&play_token=y72M4Wtw2K
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363482.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 3ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363482&extension=ts&play_token=43KiNQDSIU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330430.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 4 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330430&extension=ts&play_token=eEFjFXdoUf
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294761.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 4 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294761&extension=ts&play_token=dEmNiLqpS1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330440.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330440&extension=ts&play_token=NgMm08ggYU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363483.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 4ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363483&extension=ts&play_token=VpVDIKUpbA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330429.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 5 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330429&extension=ts&play_token=omNgH1OU5R
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294760.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 5 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294760&extension=ts&play_token=76Pa3nM2by
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330441.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 5 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330441&extension=ts&play_token=W7oC1SIEv4
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363484.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 5ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363484&extension=ts&play_token=9nk7wJob21
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330428.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 6 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330428&extension=ts&play_token=TMapoU1Oai
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294759.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 6 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294759&extension=ts&play_token=kU5xIHQDwx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330442.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 6 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330442&extension=ts&play_token=4XD6s6L8mx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363485.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 6ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363485&extension=ts&play_token=YnosTPN4Q0
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330427.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 7 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330427&extension=ts&play_token=pDPMfcB6nE
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294758.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 7 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294758&extension=ts&play_token=yIrouNT5Xb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330443.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 7 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330443&extension=ts&play_token=9XbyMMs0vk
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363486.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 7ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363486&extension=ts&play_token=eUS2IC11ld
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330426.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 8 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330426&extension=ts&play_token=CJo7kFASsv
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330412.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 8 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330412&extension=ts&play_token=GtSI2k2HIK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330444.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 8 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330444&extension=ts&play_token=yO7AIxBbXS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363487.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 8ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363487&extension=ts&play_token=yRtxthuX7i
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330425.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",AR| BEIN SPORTS 9 HEVC
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330425&extension=ts&play_token=YwZKR7L0pQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330413.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR|  BEIN  SPORTS 9 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330413&extension=ts&play_token=Thxb3uGSNr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330445.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS 9 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330445&extension=ts&play_token=jqzCOtMZ5k
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363488.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS 9ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363488&extension=ts&play_token=yvn1T6nn63
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363489.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS AFCᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363489&extension=ts&play_token=Np1gQfvPse
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1764953.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS 4K/UHD [EVENT]
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1764953&extension=ts&play_token=VrTkBHyBK2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294772.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294772&extension=ts&play_token=2Vps7DZCPj
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330435.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS GLOBAL HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330435&extension=ts&play_token=iFzKk0gIBn
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294773.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| BEIN SPORTS NEWS FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294773&extension=ts&play_token=665qf5ThSD
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1330434.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1330434&extension=ts&play_token=Pz7Tks3r56
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363492.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363492&extension=ts&play_token=PC2TUjFWsl
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1363493.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1363493&extension=ts&play_token=TDHQ3jWYUR
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BILLSEBASTIAN.png" group-title="[LIVE]- AR| KIDS",AR| BILL & SEBASTIAN
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387892&extension=ts&play_token=agWyiOXtaw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARTOON-NETWORK.png" group-title="[LIVE]- AR| KIDS",AR| CARTOON NETWORK
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387909&extension=ts&play_token=Burhsy2o2S
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/COCOMELON.png" group-title="[LIVE]- AR| KIDS",AR| COCOMELON EN
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387900&extension=ts&play_token=D9pHS0kgvs
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669024&extension=ts&play_token=QpbtMD2bUk
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669031&extension=ts&play_token=gOamMjGUv6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669030&extension=ts&play_token=f6TVkzk1B3
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669029&extension=ts&play_token=wjVBx4a0Tt
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669028&extension=ts&play_token=JT0cZnD6h9
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669027&extension=ts&play_token=AvfilmPooc
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669026&extension=ts&play_token=JeXBGWZf9u
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669025&extension=ts&play_token=yasbEnHzaV
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669023&extension=ts&play_token=KWUeNMwUvY
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669022&extension=ts&play_token=e57HFrtf2F
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669021&extension=ts&play_token=qixH1a52g6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669020&extension=ts&play_token=ndiPkHJDLX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",AR: DAZN PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669019&extension=ts&play_token=uvTiZkjUej
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="[LIVE]- AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 1 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2024564&extension=ts&play_token=3ibsUELbDe
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="[LIVE]- AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 2 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2024563&extension=ts&play_token=FxpycFQqOF
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="[LIVE]- AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 3 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2024562&extension=ts&play_token=TKDHIJFXjL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="[LIVE]- AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 4 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2024561&extension=ts&play_token=Me5qjNzWGJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="[LIVE]- AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 5 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2024560&extension=ts&play_token=Xgv3qgGoQr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/FREE.png" group-title="[LIVE]- AR| KIDS",AR| FREE TV
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=587339&extension=ts&play_token=9afQrtoNfG
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ISLAMSTORIESSERIE.png" group-title="[LIVE]- AR| KIDS",AR| ISLAM STORIES SERIE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2044543&extension=ts&play_token=j4xyyRUDg1
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587338.png" group-title="[LIVE]- AR| KIDS",AR| MAJID KIDS FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=587338&extension=ts&play_token=xnIzr4JLsO
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587337.png" group-title="[LIVE]- AR| KIDS",AR| MAJID KIDS
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=587337&extension=ts&play_token=OjEyCSpLCe
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",AR: SHAHID PPV 1 - AL QADSIAH FC VS. EASTERN FLAMES FC | Tue 16 Dec 13:30 | 8K EXCLUSIVE
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993511&extension=ts&play_token=feiQNADWQM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988032&extension=ts&play_token=iyBu4bxvfA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988033&extension=ts&play_token=Cm6KWApGk4
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 3 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988034&extension=ts&play_token=Fdo08TcUAr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 4 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988035&extension=ts&play_token=E4NCKsigra
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORT 5 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988036&extension=ts&play_token=h1Uza2BuCQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 1 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993327&extension=ts&play_token=km3lrX6Fok
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 2 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993328&extension=ts&play_token=6ZDOEDu2Q2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / AD SPORTS 3 FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=993329&extension=ts&play_token=M2c9wFnKue
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / CRLIFE 1 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=994886&extension=ts&play_token=cOM7uV6pgB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZPLAY.png" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",AR| STARZPLAY / CRLIFE 2 HD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=994887&extension=ts&play_token=sGXQihPGYC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STC-PPV.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| STC PPV [LIVE-EVENTS]
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1356796&extension=ts&play_token=yWCVexBQBi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="[LIVE]- AR| BEIN SPORTS HD",AR| TOD 360 HD ( EVENT ONLY )
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1347223&extension=ts&play_token=lQVti8PISN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1347222&extension=ts&play_token=pFHIUBtKVl
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YUNUSSERIES.png" group-title="[LIVE]- AR| KIDS",AR| YUNUS SERIES
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2044544&extension=ts&play_token=PWiBijUmtB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الأجهر
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272266&extension=ts&play_token=QmycN0rGyP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الثمن
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272590&extension=ts&play_token=3WMw6IGqeU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| الخربة
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548601&extension=ts&play_token=LEkp5vNRm4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| الزند
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272267&extension=ts&play_token=4EYGC6zYkL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| الطواريد
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548602&extension=ts&play_token=QqpQeF2Imh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| اللعبة
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548600&extension=ts&play_token=bxjKc72BIN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| النار بالنار
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272268&extension=ts&play_token=mX40PdVu3R
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| الواق الواق
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548603&extension=ts&play_token=BbrZD5VQRh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| الوصية
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548597&extension=ts&play_token=pM2obdG6Ki
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| ببساطة 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548606&extension=ts&play_token=8I9zl9xCWr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| ببساطة 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548605&extension=ts&play_token=geOfbnVJrA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| جمجوم وبم بم
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=705101&extension=ts&play_token=j2krufWqBc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| خريف عمر
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272269&extension=ts&play_token=OkLqWxVyZW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| زقاق الجن
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272270&extension=ts&play_token=gPmw5bR56x
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| عائلة زيزو
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=705100&extension=ts&play_token=S5R3Ro66VD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| عملة نادرة
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272260&extension=ts&play_token=YmJ5AWW0fa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| عيله 5 نجوم
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=732123&extension=ts&play_token=D2ha5x0vNL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| عيله 6 نجوم
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=732122&extension=ts&play_token=QQOaC2OHs7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| فنطاس
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272261&extension=ts&play_token=1fPQVZqz7Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| قرة عينك
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272262&extension=ts&play_token=rNZhLZV99e
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| قفص مخملي
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272263&extension=ts&play_token=3ZL32bxGGA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| مجاريح
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272264&extension=ts&play_token=rTdrNVM26a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZ--PLAY.png" group-title="[LIVE]- AR| STARZ PLAY",AR| مربى العز
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272271&extension=ts&play_token=RWPvVfVCsc
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1272265.png" group-title="[LIVE]- AR| STARZ PLAY",AR| منزل 12
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272265&extension=ts&play_token=WFBvnJKU7V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| وش السعد
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548599&extension=ts&play_token=KuAQCSTV4y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SHOOF-COMEDY.png" group-title="[LIVE]- AR| SHOOF COMEDY",AR| وعدتني يا رفيقي
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548604&extension=ts&play_token=deGekot2Hy
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN4.png" group-title="[LIVE]- AR| BEIN SPORTS 4K 3840P ᵁᴴᴰ",BE| BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2034168&extension=ts&play_token=5QpRNUuFDV
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN4.png" group-title="[LIVE]- AR| BEIN SPORTS 4K 3840P ᵁᴴᴰ",BE| BEIN SPORTS MAX ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2089406&extension=ts&play_token=0261oh8H8w
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN4.png" group-title="[LIVE]- AR| BEIN SPORTS 4K 3840P ᵁᴴᴰ",4K| BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2034166&extension=ts&play_token=SgjdVjaQ2o
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836245.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN AFC FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836245&extension=ts&play_token=862f4JwuVJ
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- AR| BEIN ENTERTAINMENT",##### BEIN ENTERTAINMANT #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1141584&extension=ts&play_token=v2nBT5liDj
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081912&extension=ts&play_token=cIxsPkDFFr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081911&extension=ts&play_token=OIhgoWAKM1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 3
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081910&extension=ts&play_token=atvFyo4htL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 4
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081909&extension=ts&play_token=wHHmCUSEOZ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 5
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081908&extension=ts&play_token=t1sEDknc2g
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 6
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081907&extension=ts&play_token=7IMcpyuo0V
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 7
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081906&extension=ts&play_token=S0A1Um4D3R
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 8
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081905&extension=ts&play_token=cpFSTIBtbk
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD 9
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081904&extension=ts&play_token=5DdwJGXu7U
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD ENGLISH 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081903&extension=ts&play_token=cqbiFE5DZX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD ENGLISH 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081902&extension=ts&play_token=yg76LH67jF
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD EXTRA 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081901&extension=ts&play_token=NOn4lv608o
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN SPORT TOD EXTRA 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081900&extension=ts&play_token=1MYQakZGE8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836270.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836270&extension=ts&play_token=zNe90JYr0g
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294788.png" group-title="[LIVE]- AR| BEIN SPORTS HEVC",##### BEIN SPORTS HEVC #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294788&extension=ts&play_token=fMWcDLm1d8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294774.png" group-title="[LIVE]- AR| BEIN SPORTS FHD",##### BEIN SPORTS FHD #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294774&extension=ts&play_token=axQlK4VAIl
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836259.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836259&extension=ts&play_token=u0nuhsGGrH
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1294822.png" group-title="[LIVE]- AR| BEIN SPORTS HD",##### BEIN SPORTS HD #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1294822&extension=ts&play_token=fIT78hoPlw
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411383.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS1 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411383&extension=ts&play_token=H3GNQURByg
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411374.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS1 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411374&extension=ts&play_token=rnzFewIw3a
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411396.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS1 ᵁᴴᴰ8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411396&extension=ts&play_token=aQnl6gpAMo
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411382.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS2 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411382&extension=ts&play_token=MfUHIGBLmF
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411395.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS2 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411395&extension=ts&play_token=qDspH2is9W
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411373.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS2 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411373&extension=ts&play_token=220rEjv63u
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411381.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS3 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411381&extension=ts&play_token=jeOwVxUoEr
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411394.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS3 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411394&extension=ts&play_token=kshGzRYcHt
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411372.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS3 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411372&extension=ts&play_token=sBA0fkEtPa
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411380.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS4 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411380&extension=ts&play_token=Fr0qn7TTzK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411393.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS4 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411393&extension=ts&play_token=p1MIpCBqqe
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411371.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS4 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411371&extension=ts&play_token=yUDWqzh0l8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411379.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS5 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411379&extension=ts&play_token=rn5QMdeM08
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411392.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS5 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411392&extension=ts&play_token=RzNsCKeIbk
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411370.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS5 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411370&extension=ts&play_token=iXjkcHfn87
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411378.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS6 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411378&extension=ts&play_token=fDSJKAQ3sN
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411391.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS6 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411391&extension=ts&play_token=7qc0EnaPr1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411369.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS6 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411369&extension=ts&play_token=A20zzLKgyw
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411377.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS7 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411377&extension=ts&play_token=RIizMzwTBV
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411390.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS7 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411390&extension=ts&play_token=QSGY3pzBI1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411368.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS7 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411368&extension=ts&play_token=bOHajikxe1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411376.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS8 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411376&extension=ts&play_token=eGPAqJDGzT
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411389.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS8 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411389&extension=ts&play_token=TgGI6JvEn0
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411367.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS8 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411367&extension=ts&play_token=W5E1BA4E5e
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411375.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 4K",BEIN SPORTS9 ᵁᴴᴰ 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411375&extension=ts&play_token=oXGsTB4Ng3
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411388.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS9 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411388&extension=ts&play_token=fU16TSLClv
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411366.png" group-title="[LIVE]- AR| BEIN SPORTS G ᵁᴴᴰ",BEIN SPORTS9 Gᵁᴴᴰ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411366&extension=ts&play_token=6vc8Cw8XVb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660415.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 1 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660415&extension=ts&play_token=NfiSBFZFQa
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836268.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836268&extension=ts&play_token=tClf2l3yVz
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660414.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 1 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660414&extension=ts&play_token=reVIORBq6D
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660426.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 2 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660426&extension=ts&play_token=Wui3zp7Sfg
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836267.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836267&extension=ts&play_token=AuziZXxVUS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660412.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 2 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660412&extension=ts&play_token=CU0qJfKNyc
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660425.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 3 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660425&extension=ts&play_token=1iZst0Hjqa
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836266.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 3
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836266&extension=ts&play_token=DhfJVbK57F
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660410.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 3 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660410&extension=ts&play_token=LPInjXOZCI
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660424.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 4 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660424&extension=ts&play_token=QROEvSdefM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836265.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 4
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836265&extension=ts&play_token=nyQhXxkSyA
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660408.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 4 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660408&extension=ts&play_token=43R44wuPlX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660423.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 5 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660423&extension=ts&play_token=gkYD2sURRZ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836264.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 5
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836264&extension=ts&play_token=9zOUsiNZDM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660406.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 5 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660406&extension=ts&play_token=eztOcqD4om
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660422.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 6 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660422&extension=ts&play_token=UMPyBMmtnT
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836263.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 6
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836263&extension=ts&play_token=Xj80YjuYwW
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660404.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 6 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660404&extension=ts&play_token=lwMpvYzxl1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660421.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 7 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660421&extension=ts&play_token=Wlg3vjrh74
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836262.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 7
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836262&extension=ts&play_token=7PwVANQZ0v
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660402.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 7 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660402&extension=ts&play_token=y3NoeHBrFJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660420.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 8 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660420&extension=ts&play_token=fjIbAV4ySu
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836261.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 8
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836261&extension=ts&play_token=zZIvwGOqBK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660400.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 8 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660400&extension=ts&play_token=fa5zEn8xGd
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660419.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS 9 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660419&extension=ts&play_token=FuFV6Z1xec
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836260.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS FHD 9
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836260&extension=ts&play_token=ogZBzUzoP8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660398.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS 9 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660398&extension=ts&play_token=napc4oWES7
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660383.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS AFC 1 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660383&extension=ts&play_token=DlWkFl0Qhw
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660381.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS AFC 2 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660381&extension=ts&play_token=vzonE3LyKm
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660386.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS  AFC 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660386&extension=ts&play_token=ecNAibbglS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660418.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS ENGLISH 1 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660418&extension=ts&play_token=oCuybrLznb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660396.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS ENGLISH 1 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660396&extension=ts&play_token=ZuVhbonDYJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660417.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS ENGLISH 2 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660417&extension=ts&play_token=Faa7tqamKC
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1660394.png" group-title="[LIVE]- AR| BEIN SPORTS NX 720",BEIN SPORTS ENGLISH 2 720
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1660394&extension=ts&play_token=LsIqXl4uoW
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411397.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411397&extension=ts&play_token=dXIPDYBun6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836269.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",BEIN SPORTS NEWS 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836269&extension=ts&play_token=7jK6UPkU0g
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836258.png" group-title="[LIVE]- AR| BEIN SPORTS NX FHD",BEIN SPORTS NEWS FHD
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836258&extension=ts&play_token=YkQjPWHW6w
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411398.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS NEWS ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411398&extension=ts&play_token=KWvk8477s6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411385.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411385&extension=ts&play_token=des17qp81i
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1411384.png" group-title="[LIVE]- AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1411384&extension=ts&play_token=LOPQXltWhH
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEINSPORTTOD.png" group-title="[LIVE]- AR| TOD PPV",BEIN TOD 4k
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2081913&extension=ts&play_token=VqZmrJnl7Y
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV",####### DAZN MENA PPV #######
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1669032&extension=ts&play_token=85eHLA4Amm
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",####### DAZN PPV MA #######
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047005&extension=ts&play_token=YmrnIGWxsE
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- AR| KIDS",##### KIDS TV #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=587355&extension=ts&play_token=oR1BuMu0cV
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",Live | Canada vs. Zambia | FIFA Women's Series | 8K EXCLUSIVE | MA: DAZN PPV 10
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046995&extension=ts&play_token=jvUoBJ3zOd
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",Live | Capitals @ Penguins | NHL.TV | 8K EXCLUSIVE | MA: DAZN PPV 11
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046994&extension=ts&play_token=AIyhkwpi5v
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",Live | Toronto - Day 6 | Rock League | 8K EXCLUSIVE | MA: DAZN PPV 7
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046998&extension=ts&play_token=b7PSy2VK1p
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1836271.png" group-title="[LIVE]- AR| BEIN SPORTS NX 4K",NBA HD 4K
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1836271&extension=ts&play_token=zRF0fhvauK
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN4.png" group-title="[LIVE]- AR| BEIN SPORTS 4K 3840P ᵁᴴᴰ",NM| BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2034167&extension=ts&play_token=kyfp0qGQCL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SA: SHAHID PPV 14
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993498&extension=ts&play_token=KOeVEtkFeI
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 9
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046996&extension=ts&play_token=UP1MSH6BME
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 13
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046992&extension=ts&play_token=Vs8rpMaDwW
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- AR| SHOOF COMEDY",##### SHOOF COMEDY #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=548607&extension=ts&play_token=2ypgPc1E0d
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/BEIN4.png" group-title="[LIVE]- AR| BEIN SPORTS 4K 3840P ᵁᴴᴰ",SS| BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2034169&extension=ts&play_token=7RfygRx6A3
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- AR| STARZ PLAY",##### STARS PLAY 4K #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1272272&extension=ts&play_token=24sk9ZAWxp
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- AR| STARZPLAY / AD SPORTS",##### STARZPLAY / AD SPORT #####
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=988043&extension=ts&play_token=vjN5O6jlSh
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/COCOMELON.png" group-title="[LIVE]- AR| KIDS",AR| COCOMELON AR
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387899&extension=ts&play_token=ooZwQ8XSdk
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Australia vs. Malawi | FIFA Women's Series | 2026-04-11 | 11:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 1
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047004&extension=ts&play_token=q3KjI32kgB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Kenya vs. India | FIFA Women's Series | 2026-04-11 | 14:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 6
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046999&extension=ts&play_token=Od0sWaoiQb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Linz Open - Day 6 | Upper Austria Ladies Linz Women Single | 2026-04-11 | 13:30 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 12
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046993&extension=ts&play_token=VNP40bTvQv
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Nasukawa vs. Estrada (en Español): Full Event Replay | Nasukawa v Estrada | 2026-04-11 | 09:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 5
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047000&extension=ts&play_token=G8Wk89H2Qs
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Nasukawa vs. Estrada: Full Event Replay | Nasukawa v Estrada | 2026-04-11 | 09:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 4
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047001&extension=ts&play_token=Lp750tWrnB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | RWS April Inferno: Sangmanee vs. Bikrev | RWS Muay Thai | 2026-04-11 | 12:10 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 8
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2046997&extension=ts&play_token=Ild0k9LEnI
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Sebring - Trofeo Pirelli & Coppa Shell Races 1 | Ferrari Challenge North America | 2026-04-11 | 17:45 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047003&extension=ts&play_token=fSKHSLJVAq
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="[LIVE]- AR| DAZN MENA PPV VIP",End | Sint-Truiden vs. Club Brugge | Jupiler Pro League | 2026-04-11 | 18:45 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 3
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=2047002&extension=ts&play_token=hm90271O6p
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | AL AHLI SFC VS. AL ITTIHAD FC | Fri 06 Nov 19:45 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 4
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993508&extension=ts&play_token=uhVI0QzYjD
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | AL QADSIAH FC VS. AL NASSR FC | Sat 07 Nov 17:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 12
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993500&extension=ts&play_token=66X9zmtwfJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | AL TARAJI VS. AL ULA | Fri 06 Nov 17:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 3
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993509&extension=ts&play_token=tEgjrp2GuS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | BORUSSIA DORTMUND VS. SV ELVERSBERG | Sat 07 Nov 17:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 13
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993499&extension=ts&play_token=TQsROVwQQl
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | CD TARANCÓN VS. LEVANTE UD | Thu 05 Nov 21:00 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 2
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993510&extension=ts&play_token=7xpWjMPvET
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | EINTRACHT BRAUNSCHWEIG VS. FC ENERGIE COTTBUS | Fri 06 Nov 20:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 5
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993507&extension=ts&play_token=mQVtyFrWrS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | FC NÜRNBERG VS. SV DARMSTADT 98 | Sat 07 Nov 15:00 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 8
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993504&extension=ts&play_token=SIlOSDmtM1
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | HAMBURGER SV VS. BORUSSIA M'GLADBACH | Fri 06 Nov 22:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 7
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993505&extension=ts&play_token=oCgl6GhQwN
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | HOLSTEIN KIEL VS. DSC ARMINIA BIELEFELD | Sat 07 Nov 15:00 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 9
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993503&extension=ts&play_token=NttbEm6PxL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | SC PADERBORN 07 VS. EINTRACHT FRANKFURT | Sat 07 Nov 17:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 11
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993501&extension=ts&play_token=xnr8yF4Vhw
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | SG DYNAMO DRESDEN VS. SPVGG GREUTHER FÜRTH | Fri 06 Nov 20:30 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 6
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993506&extension=ts&play_token=kQtEgxhh1M
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/SHAHID.png" group-title="[LIVE]- AR| SHAHID PPV",NEXT | VFL OSNABRÜCK VS. FC KAISERSLAUTERN | Sat 07 Nov 15:00 +03 (SA) | 8K EXCLUSIVE | SA: SHAHID PPV 10
-http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1993502&extension=ts&play_token=tLeul6AaxT
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ OSN MBC",ALWAN SPORT 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/402389.ts
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 1 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/402388.ts
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/402386.ts
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/402383.ts
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 6 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/402374.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 1 HD BKP
+http://4kpro2.com:80/live/WSET2024/SADF5566/13681.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 2 FHD BKP
+http://4kpro2.com:80/live/WSET2024/SADF5566/368731.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 3 FHD BKP
+http://4kpro2.com:80/live/WSET2024/SADF5566/441361.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 3 HD BKP
+http://4kpro2.com:80/live/WSET2024/SADF5566/13677.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 4 FHD BKP
+http://4kpro2.com:80/live/WSET2024/SADF5566/441362.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN Sport_ FR",BEIN SPORT FRENCH 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151987.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN Sport_ FR",BEIN SPORT FRENCH 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151988.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS 1 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/92.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax4.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 4 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151958.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax5.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 5 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/39882.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423811.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/129996.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/129997.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423814.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/129999.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/129998.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423819.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423821.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423820.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423823.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423826.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423825.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423824.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423827.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423830.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423829.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423828.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423831.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423834.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423833.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423832.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423835.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423838.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423837.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423836.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/423839.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423841.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/423840.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/beinsports1.png" group-title="beIN Sports",BEIN SPORTS 1 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47499.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14160.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13608.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sports",BEIN SPORTS 1 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14170.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 1 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13682.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/beinsports2.png" group-title="beIN Sports",BEIN SPORTS 2 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47500.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14153.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14169.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/93.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 2 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13615.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sports",4K BEIN SPORTS 3
+http://4kpro2.com:80/live/WSET2024/SADF5566/89342.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="beIN Sports",BEIN SPORTS 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14152.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="beIN Sports",BEIN SPORTS 3 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14163.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13605.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13676.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13617.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 5 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13674.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 5 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13618.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/SPORTS_6-1.png" group-title="beIN Sports",BEIN SPORTS 6 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13672.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 7 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13642.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/24980.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/409586.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax4.png" group-title="beIN Sports",BEIN SPORTS MAX 4 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/95.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax5.png" group-title="beIN Sports",BEIN SPORTS MAX 5 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151961.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax6.png" group-title="beIN Sports",BEIN SPORTS MAX 6 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151964.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax6.png" group-title="beIN Sports",BEIN SPORTS MAX 6 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1089.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax7.png" group-title="beIN Sports",BEIN SPORTS MAX 7 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151967.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax7.png" group-title="beIN Sports",BEIN SPORTS MAX 7 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1113.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax8.png" group-title="beIN Sports",BEIN SPORTS MAX 8 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151970.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax8.png" group-title="beIN Sports",BEIN SPORTS MAX 8 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1468.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax9.png" group-title="beIN Sports",BEIN SPORTS MAX 9 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151973.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax9.png" group-title="beIN Sports",BEIN SPORTS MAX 9 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1469.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax10.png" group-title="beIN Sports",BEIN SPORTS MAX 10 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/151976.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax10.png" group-title="beIN Sports",BEIN SPORTS MAX 10 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1470.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/NEWS_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS NEWS FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/24979.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/NEWS_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS NEWS HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/78372.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/180946.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/181485.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/84801.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327340.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 2
+http://4kpro2.com:80/live/WSET2024/SADF5566/327311.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 3
+http://4kpro2.com:80/live/WSET2024/SADF5566/327310.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 4 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327337.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 5 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327336.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 5
+http://4kpro2.com:80/live/WSET2024/SADF5566/327309.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 6 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327335.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 6
+http://4kpro2.com:80/live/WSET2024/SADF5566/327308.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 7 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327334.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 7
+http://4kpro2.com:80/live/WSET2024/SADF5566/327307.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 8 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327333.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 8
+http://4kpro2.com:80/live/WSET2024/SADF5566/327306.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 9 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327332.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 9
+http://4kpro2.com:80/live/WSET2024/SADF5566/327305.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 10 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327331.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 11 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327330.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 12 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327329.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 13 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327328.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 14 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327327.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 15 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327326.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 15
+http://4kpro2.com:80/live/WSET2024/SADF5566/327299.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 16 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327325.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 16
+http://4kpro2.com:80/live/WSET2024/SADF5566/327298.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 18 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327323.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 18
+http://4kpro2.com:80/live/WSET2024/SADF5566/327296.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 19
+http://4kpro2.com:80/live/WSET2024/SADF5566/327295.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cpl.png" group-title="CANAL+ FR",CANAL+ PREMIER LEAGUE FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/116520.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cpl.png" group-title="CANAL+ FR",CANAL+ PREMIER LEAGUE HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/116522.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport.png" group-title="CANAL+ FR",CANAL+ SPORT FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14156.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport.png" group-title="CANAL+ FR",CANAL+ SPORT HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14161.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/180947.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/181486.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/84802.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canal-canalfootuhdhdr.png" group-title="CANAL+ FR",CANAL+ FOOT UHD HDR
+http://4kpro2.com:80/live/WSET2024/SADF5566/479238.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 1 ACTION
+http://4kpro2.com:80/live/WSET2024/SADF5566/13970.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 2 DRAMA
+http://4kpro2.com:80/live/WSET2024/SADF5566/13962.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 3 ANIMATION
+http://4kpro2.com:80/live/WSET2024/SADF5566/13961.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 5 THRILLER
+http://4kpro2.com:80/live/WSET2024/SADF5566/13959.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 6 ADVENTURE
+http://4kpro2.com:80/live/WSET2024/SADF5566/13958.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 7 HORROR
+http://4kpro2.com:80/live/WSET2024/SADF5566/13957.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 8 SCIENCE FICTION
+http://4kpro2.com:80/live/WSET2024/SADF5566/13956.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 9 DOCUMENTAIRE
+http://4kpro2.com:80/live/WSET2024/SADF5566/13955.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 10 MANGA
+http://4kpro2.com:80/live/WSET2024/SADF5566/13969.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 11 CRIME/POLICIER
+http://4kpro2.com:80/live/WSET2024/SADF5566/13968.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/canalplus.png" group-title="FR_ CANAL+",CANAL+ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216688.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14151.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14167.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28345.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/boxofficeuhd.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE UHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/436433.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4YTEW9.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/265758.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4YTEW9.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/265759.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47506.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13769.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28942.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28347.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/logo/49100.png" group-title="FR_ CANAL+",CANAL+ DOCS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216661.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216660.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216663.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75avpC2.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/156272.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75avpC2.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/461479.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 1
+http://4kpro2.com:80/live/WSET2024/SADF5566/327312.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/327338.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 4
+http://4kpro2.com:80/live/WSET2024/SADF5566/327383.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 10
+http://4kpro2.com:80/live/WSET2024/SADF5566/327304.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalpluspremierleague.png" group-title="FR_ CANAL+",CANAL+ PREMIER LEAGUE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216645.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47533.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13758.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14026.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47519.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13756.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14024.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13755.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13941.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28329.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusfamiz.png" group-title="FR_ Cine+",CINE+ FAMIZ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47532.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/47556.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14025.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47516.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13754.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14023.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28331.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/OCS.png" group-title="FR_ Cine+",CINE+ OCS FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13834.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER 4K
+http://4kpro2.com:80/live/WSET2024/SADF5566/47520.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13759.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14021.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28332.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/animaux.png" group-title="FR_ Documentary",ANIMAUX HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47510.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE UHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/451702.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/arte.png" group-title="FR_ Documentary",ARTE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47480.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13788.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14043.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/chasseetpeche.png" group-title="FR_ Documentary",CHASSE & PECHE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47543.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/discovery.png" group-title="FR_ Documentary",DISCOVERY HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47535.ts
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/discoveryidx.png" group-title="FR_ Documentary",DISCOVERY INVES HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47538.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/histoire.png" group-title="FR_ Documentary",HISTOIRE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216728.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeowild.png" group-title="FR_ Documentary",NAT GEO WILD HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47511.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeographic.png" group-title="FR_ Documentary",NATIONAL GEO CHANNEL HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47523.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/planeteplus.png" group-title="FR_ Documentary",PLANETE+ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47534.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE+ AVENTURE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47541.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE + CRIME HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47542.ts
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/rmcdecouverte.png" group-title="FR_ Documentary",RMC DECOUVERTE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47498.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V60ctwM/output-onlinepngtools-3.png" group-title="FR_ Documentary",RMC LIFE FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13760.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V60ctwM/output-onlinepngtools-3.png" group-title="FR_ Documentary",RMC LIFE SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1027.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/rmcstory.png" group-title="FR_ Documentary",RMC STORY HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47497.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/seasons.png" group-title="FR_ Documentary",SEASONS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216770.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/toutelhistoire.png" group-title="FR_ Documentary",TOUTE L HISTOIRE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47490.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tv5monde.png" group-title="FR_ Documentary",TV5 MONDE FBS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216736.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/ushuaia.png" group-title="FR_ Documentary",USHUAIA HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47540.ts
+#M3U_EXTRACT: 4kpro2.com
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47495.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14046.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/ab1.png" group-title="FR_ France",AB1 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216773.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/action.png" group-title="FR_ France",ACTION HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47518.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/logo/25606.png" group-title="FR_ France",BFM BUSINESS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216702.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/BFMMARSEILLE-2024.svg" group-title="FR_ France",BFM MARSEILLE PROVENCE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216704.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/boomerang.png" group-title="FR_ France",BOOMERANG HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47517.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cartoonnetwork.png" group-title="FR_ France",CARTOON NETWORK HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47513.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cnews.png" group-title="FR_ France",CNEWS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47483.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/comedieplus.png" group-title="FR_ France",COMEDIE+ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216782.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/comedy_central_m.png" group-title="FR_ France",COMEDY CENTRAL FRANCE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216783.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cstar.png" group-title="FR_ France",CSTAR HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47484.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13749.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13940.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="FR_ France",E! ENTERTAINMENT HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216777.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/equidialive.png" group-title="FR_ France",EQUIDIA HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47527.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/eurosport1.png" group-title="FR_ France",EUROSPORT 1 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47548.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france2.png" group-title="FR_ France",FRANCE 2 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47475.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGA9bWx.png" group-title="FR_ France",FRANCE 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13739.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGA9bWx.png" group-title="FR_ France",FRANCE 2 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1007.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france3.png" group-title="FR_ France",FRANCE 3 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47476.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13738.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13915.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1008.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france4.png" group-title="FR_ France",FRANCE 4 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47477.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13737.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13914.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1009.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/france5.png" group-title="FR_ France",FRANCE 5 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47478.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yfr0rW.png" group-title="FR_ France",FRANCE 5 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13736.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yfr0rW.png" group-title="FR_ France",FRANCE 5 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1013.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/franceinfo.png" group-title="FR_ France",FRANCE INFO HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216739.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/gulli.png" group-title="FR_ France",GULLI HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47488.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/lachainemeteo.png" group-title="FR_ France",LA CHAINE METEO HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216742.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/lci.png" group-title="FR_ France",LCI HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47485.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/m6.png" group-title="FR_ France",M6 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47479.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNjzQMf.png" group-title="FR_ France",M6 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13726.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNjzQMf.png" group-title="FR_ France",M6 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14003.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/m6music.png" group-title="FR_ France",M6 MUSIC HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47512.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/mangas.png" group-title="FR_ France",MANGAS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216730.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/mcmtop.png" group-title="FR_ France",MCM TOP HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47526.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/melody.png" group-title="FR_ France",MELODY HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216707.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtvhits.png" group-title="FR_ France",MTV HITS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216722.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nrjhits.png" group-title="FR_ France",NRJ HITS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216731.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216784.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/piwiplus.png" group-title="FR_ France",PIWI+ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216764.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216785.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13763.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/25041.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/syfy.png" group-title="FR_ France",SYFY HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216772.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216780.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13697.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13980.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/28337.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/teletoonplus1.png" group-title="FR_ France",TÉLÉTOON +1 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216649.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/teva.png" group-title="FR_ France",TEVA HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47521.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tf1.png" group-title="FR_ France",TF1 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47474.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tf1seriesfilms.png" group-title="FR_ France",TF1 SERIES FILMS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47493.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/tfx.png" group-title="FR_ France",TFX HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47492.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13716.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13998.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1015.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/tmc.png" group-title="FR_ France",TMC HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47494.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13696.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1014.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tvbreizh.png" group-title="FR_ France",TV BREIZH HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216775.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/250px-Logo_TVM3_2015.png" group-title="FR_ France",TVM3 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216679.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/w9.png" group-title="FR_ France",W9 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47481.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13690.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13973.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/421.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47546.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13784.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/88193.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="FR_ France",‎WARNER TV NEXT HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216762.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/automotorsporthd.png" group-title="FR_ GENERAL",AUTOMOTO HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216725.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/bfmtv.png" group-title="FR_ GENERAL",BFMTV HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47486.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/boing.png" group-title="FR_ GENERAL",BOING HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216761.ts
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalj.png" group-title="FR_ GENERAL",CANALJ HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47539.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/france24.png" group-title="FR_ GENERAL",FRANCE 24 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216740.ts
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="FR_ GENERAL",GÉNÉRATION TV HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216670.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="FR_ GENERAL",GONG HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216651.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lcp.png" group-title="FR_ GENERAL",LA CHAÎNE PARLEMENTAIRE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216690.ts
+#EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/lfm-carre-rgb-violet-fond-blanc-1.png" group-title="FR_ GENERAL",LFM TV HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216673.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/luckyjack.png" group-title="FR_ GENERAL",LUCKY JACK HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216691.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/museum.png" group-title="FR_ GENERAL",MUSEUM CHANNEL HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216769.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX COMEDY
+http://4kpro2.com:80/live/WSET2024/SADF5566/87975.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DOC
+http://4kpro2.com:80/live/WSET2024/SADF5566/87979.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DRAME
+http://4kpro2.com:80/live/WSET2024/SADF5566/87977.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX HORROR
+http://4kpro2.com:80/live/WSET2024/SADF5566/87978.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeonjunior.png" group-title="FR_ GENERAL",NICK JUNIOR HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47550.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1q3nEs.png" group-title="FR_ GENERAL",NOVO 19 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/469339.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1q3nEs.png" group-title="FR_ GENERAL",NOVO 19 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/394021.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nrj12hd.png" group-title="FR_ GENERAL",NRJ12 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47491.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPRhvLg/PITCHONTV.png" group-title="FR_ GENERAL",PITCHOUN TV HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216648.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg" group-title="FR_ GENERAL",PUBLIC SENAT HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216727.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/rtl9.png" group-title="FR_ GENERAL",RTL9 HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47496.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vE6ijp.png" group-title="FR_ GENERAL",T18 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/374422.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vE6ijp.png" group-title="FR_ GENERAL",T18 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14036.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png/640px-T%C3%A9b%C3%A9Sud_logo_2013.png" group-title="FR_ GENERAL",TÉBÉSUD HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216700.ts
+#EXTINF:-1 tvg-logo="https://archives.eelv.fr/departementales2015/49.ecologie2015.fr/files/2015/03/logo-angers-t%C3%A9l%C3%A9.jpg" group-title="FR_ GENERAL",TÉLÉ ANGERS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216685.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/TVR_%28Bretagne%29_logo_2011.png/640px-TVR_%28Bretagne%29_logo_2011.png" group-title="FR_ GENERAL",TVR HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216694.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="FR_ L'EQUIPE",L'EQUIPE HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47489.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13728.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/14005.ts
+#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/1023.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport1.png" group-title="FR_ RMC",RMC SPORT 1 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/408065.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13701.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 HD
+http://4kpro2.com:80/live/WSET2024/SADF5566/32718.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 SD
+http://4kpro2.com:80/live/WSET2024/SADF5566/32713.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport3.png" group-title="FR_ RMC",RMC SPORT LIVE 3 FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13700.ts
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/3xj-pofb-400x400-1590594586.png" group-title="Kids",CANAL+ KIDS HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/216662.ts
+#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeon4teen.png" group-title="Kids",NICKELODEON 4TEEN HEVC
+http://4kpro2.com:80/live/WSET2024/SADF5566/47551.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9b596Np/hu.png" group-title="Mix_ Documentary",HU VIASAT HISTORY
+http://4kpro2.com:80/live/WSET2024/SADF5566/337354.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Infosportplus.png" group-title="Sports_ Mix",INFOSPORT + FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13729.ts
+#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/action.png" group-title="TV mix",ACTION FHD
+http://4kpro2.com:80/live/WSET2024/SADF5566/13790.ts
