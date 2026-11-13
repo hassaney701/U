@@ -1,1192 +1,492 @@
 #EXTM3U
-#M3U_EXTRACT: hrjbcbba.mosstvip.com
-#EXTINF:-1 tvg-name="6TER FHD" tvg-logo="https://lo1.in/fr/6therhdd.png" group-title="FR_ France",6TER FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165
-#EXTINF:-1 tvg-name="13EME RUE HEVC" tvg-logo="https://lo1.in/fr/13emruhdd.png" group-title="FR_ France",13EME RUE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/351
-#EXTINF:-1 tvg-name="13EME RUE FHD" tvg-logo="https://lo1.in/fr/13emruhdd.png" group-title="FR_ France",13EME RUE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/332
-#EXTINF:-1 tvg-name="13EME RUE HD" tvg-logo="https://lo1.in/fr/13emruhdd.png" group-title="FR_ France",13EME RUE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/368
-#EXTINF:-1 tvg-name="13EME RUE SD" tvg-logo="https://lo1.in/fr/13emruhdd.png" group-title="FR_ France",13EME RUE SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2191
-#EXTINF:-1 tvg-name="A+ HEVC" tvg-logo="https://lo1.in/fr/appp.png" group-title="FR_ GENERAL",A+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/678
-#EXTINF:-1 tvg-name="A+ FHD" tvg-logo="https://lo1.in/fr/appp.png" group-title="FR_ GENERAL",A+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/735
-#EXTINF:-1 tvg-name="A+ HD" tvg-logo="https://lo1.in/fr/appp.png" group-title="FR_ GENERAL",A+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/677
-#EXTINF:-1 tvg-name="AB1 HEVC" tvg-logo="https://lo1.in/fr/ab1hd1.png" group-title="FR_ France",AB1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/356
-#EXTINF:-1 tvg-name="AB1 FHD" tvg-logo="https://lo1.in/fr/ab1hd1.png" group-title="FR_ France",AB1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/337
-#EXTINF:-1 tvg-name="AB1 HD" tvg-logo="https://lo1.in/fr/ab1hd1.png" group-title="FR_ France",AB1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/373
-#EXTINF:-1 tvg-name="AB1 SD" tvg-logo="https://lo1.in/fr/ab1hd1.png" group-title="FR_ France",AB1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4349
-#EXTINF:-1 tvg-name="AB3 HEVC" tvg-logo="https://lo1.in/fr/ab3hd.png" group-title="FR_ GENERAL",AB3 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/357
-#EXTINF:-1 tvg-name="AB3 FHD" tvg-logo="https://lo1.in/fr/ab3hd.png" group-title="FR_ GENERAL",AB3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/338
-#EXTINF:-1 tvg-name="AB3 SD" tvg-logo="https://lo1.in/fr/ab3hd.png" group-title="FR_ GENERAL",AB3 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2189
-#EXTINF:-1 tvg-name="ACTION HEVC" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="FR_ France",ACTION HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/409
-#EXTINF:-1 tvg-name="ACTION FHD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="FR_ France",ACTION FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/392
-#EXTINF:-1 tvg-name="ACTION HD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="FR_ France",ACTION HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/428
-#EXTINF:-1 tvg-name="ACTION SD" tvg-logo="https://lo1.in/fr/actionhddd.png" group-title="FR_ France",ACTION SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4310
-#EXTINF:-1 tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adh1.png" group-title="STARZPLAY",AD SPORTS 1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/3339
-#EXTINF:-1 tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",AD SPORTS 2 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/3338
-#EXTINF:-1 tvg-name="ALWAN AFLAM 2 FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN AFLAM 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276559
-#EXTINF:-1 tvg-name="ALWAN AFLAM 3 FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN AFLAM 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276558
-#EXTINF:-1 tvg-name="ALWAN AGHANI FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN AGHANI FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276566
-#EXTINF:-1 tvg-name="ALWAN ALWATHAEQYE FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN ALWATHAEQYE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276567
-#EXTINF:-1 tvg-name="ALWAN ANIME FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN ANIME FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276569
-#EXTINF:-1 tvg-name="ALWAN ATFAL FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN ATFAL FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276568
-#EXTINF:-1 tvg-name="ALWAN BOLLYWOOD FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN BOLLYWOOD FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276564
-#EXTINF:-1 tvg-name="ALWAN F1 HEVC" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN F1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1236889
-#EXTINF:-1 tvg-name="ALWAN F1 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN F1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276555
-#EXTINF:-1 tvg-name="ALWAN MOSALSALAT FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN MOSALSALAT FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276563
-#EXTINF:-1 tvg-name="ALWAN MOSALSALAT+ FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN MOSALSALAT+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276562
-#EXTINF:-1 tvg-name="ALWAN SPORT 1 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276553
-#EXTINF:-1 tvg-name="ALWAN SPORT 1 HD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276543
-#EXTINF:-1 tvg-name="ALWAN SPORT 2 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276552
-#EXTINF:-1 tvg-name="ALWAN SPORT 2 SD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 2 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276536
-#EXTINF:-1 tvg-name="ALWAN SPORT 3 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276551
-#EXTINF:-1 tvg-name="ALWAN SPORT 3 HD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276541
-#EXTINF:-1 tvg-name="ALWAN SPORT 4 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276550
-#EXTINF:-1 tvg-name="ALWAN SPORT 5 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276549
-#EXTINF:-1 tvg-name="ALWAN SPORT 5 HD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 5 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276539
-#EXTINF:-1 tvg-name="ALWAN SPORT 6 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 6 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276548
-#EXTINF:-1 tvg-name="ALWAN SPORT 6 HD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 6 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276538
-#EXTINF:-1 tvg-name="ALWAN SPORT 7 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 7 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276547
-#EXTINF:-1 tvg-name="ALWAN SPORT 8 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 8 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276546
-#EXTINF:-1 tvg-name="ALWAN SPORT 9 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276545
-#EXTINF:-1 tvg-name="ALWAN SPORT 10 FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORT 10 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276544
-#EXTINF:-1 tvg-name="✦●✦ ALWAN SPORTS ✦●✦" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",✦●✦ ALWAN SPORTS ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1277209
-#EXTINF:-1 tvg-name="ALWAN SPORTS 1 HEVC" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN SPORTS 1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1236888
-#EXTINF:-1 tvg-name="ALWAN TURKEY FHD" tvg-logo="https://lo1.in/fwc/ALWAN.png" group-title="AR_ OSN MBC",ALWAN TURKEY FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276561
-#EXTINF:-1 tvg-name="ALWAN WWE FHD" tvg-logo="https://lo1.in/fwc/ALWANS.png" group-title="AR_ Sports",ALWAN WWE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1276556
-#EXTINF:-1 tvg-name="ANGERS TV FHD" tvg-logo="https://lo1.in/fr/angers.png" group-title="FR_ GENERAL",ANGERS TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29242
-#EXTINF:-1 tvg-name="ARTE FHD" tvg-logo="https://lo1.in/fr/art.png" group-title="FR_ Documentary",ARTE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/160
-#EXTINF:-1 tvg-name="AUTOMOTO LA CHAINE HEVC" tvg-logo="https://lo1.in/FR/automt.png" group-title="Sports_ Mix",AUTOMOTO LA CHAINE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/255
-#EXTINF:-1 tvg-name="AUTOMOTO LA CHAINE FHD" tvg-logo="https://lo1.in/FR/automt.png" group-title="Sports_ Mix",AUTOMOTO LA CHAINE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/238
-#EXTINF:-1 tvg-name="AUTOPLUS TV FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="Sports_ Mix",AUTOPLUS TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050936
-#EXTINF:-1 tvg-name="BEIN SPORTS 4K" tvg-logo="https://lo1.in/bss/bs.png" group-title="beIN Sports",BEIN SPORTS 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/24
-#EXTINF:-1 tvg-name="✦●✦ 4K BEIN SPORTS 4K ✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="beIN Sports",✦●✦ 4K BEIN SPORTS 4K ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22
-#EXTINF:-1 tvg-name="BEIN SPORTS FHD" tvg-logo="https://lo1.in/bss/bs.png" group-title="beIN Sports",BEIN SPORTS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1332744
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 4K" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="beIN Sports",BEIN SPORTS 01 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/37
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://lo1.in/fr/bns1.png" group-title="beIN Sport_ FR",BEIN SPORTS 1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/248
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://lo1.in/fr/bns1.png" group-title="beIN Sport_ FR",BEIN SPORTS 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/224
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 4K BK1" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2251
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 ENGLISH 4K BK1" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 ENGLISH 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5055
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 FRENCH FHD BK1" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 FRENCH FHD BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5069
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 XTRA FHD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="beIN Sport_ Xtra",BEIN SPORTS 01 XTRA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/147666
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 XTRA 4K BK1" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 XTRA 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5053
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 4K" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="beIN Sports",BEIN SPORTS 02 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/38
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://lo1.in/fr/bns2.png" group-title="beIN Sport_ FR",BEIN SPORTS 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/225
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 4K BK1" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="beIN Sport_ BK",BEIN SPORTS 02 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2250
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 ENGLISH 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="beIN Sport_ EN",BEIN SPORTS 02 ENGLISH 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/43
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 ENGLISH FHD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="beIN Sport_ EN",BEIN SPORTS 02 ENGLISH FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/21
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 ENGLISH 4K BK1" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="beIN Sport_ BK",BEIN SPORTS 02 ENGLISH 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5054
-#EXTINF:-1 tvg-name="BEIN SPORTS 03 4K" tvg-logo="https://lo1.in/bss/bs3.png" group-title="beIN Sports",BEIN SPORTS 03 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/26
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://lo1.in/fr/bns3.png" group-title="beIN Sport_ FR",BEIN SPORTS 3 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/250
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://lo1.in/fr/bns3.png" group-title="beIN Sport_ FR",BEIN SPORTS 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/226
-#EXTINF:-1 tvg-name="BEIN SPORTS 03 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="beIN Sport_ AFC",BEIN SPORTS 03 AFC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/194916
-#EXTINF:-1 tvg-name="BEIN SPORTS 03 4K BK1" tvg-logo="https://lo1.in/bss/bs3.png" group-title="beIN Sport_ BK",BEIN SPORTS 03 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5062
-#EXTINF:-1 tvg-name="BEIN SPORTS 03 XTRA FHD BK1" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="beIN Sport_ BK",BEIN SPORTS 03 XTRA FHD BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5063
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 4K" tvg-logo="https://lo1.in/bss/bs4.png" group-title="beIN Sports",BEIN SPORTS 04 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/27
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 FHD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="beIN Sports",BEIN SPORTS 04 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="beIN Sport_ AFC",BEIN SPORTS 04 AFC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/53525
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 4K BK1" tvg-logo="https://lo1.in/bss/bs4.png" group-title="beIN Sport_ BK",BEIN SPORTS 04 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5061
-#EXTINF:-1 tvg-name="BEIN SPORTS 05 4K" tvg-logo="https://lo1.in/bss/bs5.png" group-title="beIN Sports",BEIN SPORTS 05 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/28
-#EXTINF:-1 tvg-name="BEIN SPORTS 05 FHD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="beIN Sports",BEIN SPORTS 05 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6
-#EXTINF:-1 tvg-name="BEIN SPORTS 05 4K BK1" tvg-logo="https://lo1.in/bss/bs5.png" group-title="beIN Sport_ BK",BEIN SPORTS 05 4K BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5060
-#EXTINF:-1 tvg-name="BEIN SPORTS 06 4K" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="beIN Sports",BEIN SPORTS 06 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29
-#EXTINF:-1 tvg-name="BEIN SPORTS 06 FHD BK1" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="beIN Sport_ BK",BEIN SPORTS 06 FHD BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5073
-#EXTINF:-1 tvg-name="BEIN SPORTS 07 FHD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="beIN Sports",BEIN SPORTS 07 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/8
-#EXTINF:-1 tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="beIN Sports",BEIN SPORTS 8 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953599
-#EXTINF:-1 tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="beIN Sports",BEIN SPORTS 8 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953582
-#EXTINF:-1 tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="beIN Sports",BEIN SPORTS 8 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953572
-#EXTINF:-1 tvg-name="BEIN SPORTS 08 XTRA FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ Xtra",BEIN SPORTS 08 XTRA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1057581
-#EXTINF:-1 tvg-name="BEIN SPORTS 09 4K" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sports",BEIN SPORTS 09 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/32
-#EXTINF:-1 tvg-name="BEIN SPORTS 09 FHD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sports",BEIN SPORTS 09 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/10
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sports",BEIN SPORTS 9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953597
-#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sports",BEIN SPORTS 9 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953581
-#EXTINF:-1 tvg-name="BEIN SPORTS 09 FHD BK1" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sport_ BK",BEIN SPORTS 09 FHD BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5070
-#EXTINF:-1 tvg-name="BEIN SPORTS AFC 4K" tvg-logo="https://lo1.in/bss/AFC.png" group-title="beIN Sport_ AFC",BEIN SPORTS AFC 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/194921
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 1 SD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="beIN Sports",BEIN SPORTS EXTRA 1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953570
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 3 FHD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="beIN Sports",BEIN SPORTS EXTRA 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/953594
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX4 FHD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/227
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX4 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/269
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX5 FHD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX5 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/270
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm6.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX6 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/271
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX7 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm7.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX7 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/272
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm8.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX8 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/273
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX9 FHD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/232
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm9.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX9 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/274
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX10 HD (EVENT ONLY)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/275
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="beIN Sports",BEIN SPORTS MAX 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/12
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 3 4K" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="beIN Sports",BEIN SPORTS MAX 3 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/35
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 3 FHD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="beIN Sports",BEIN SPORTS MAX 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/13
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="beIN Sports",BEIN SPORTS MAX 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/14
-#EXTINF:-1 tvg-name="BEIN SPORTS NBA 4K" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="beIN Sports",BEIN SPORTS NBA 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/25
-#EXTINF:-1 tvg-name="BEIN SPORTS NBA FHD" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="beIN Sports",BEIN SPORTS NBA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/3
-#EXTINF:-1 tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="beIN Sports",BEIN SPORTS NEWS 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/23
-#EXTINF:-1 tvg-name="BEIN SPORTS NEWS FHD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="beIN Sports",BEIN SPORTS NEWS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1332745
-#EXTINF:-1 tvg-name="BEIN STAR MOVIES HEVC" tvg-logo="https://lo1.in/FCB/beinet.png" group-title="beIN Entertainment",BEIN STAR MOVIES HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1287693
-#EXTINF:-1 tvg-name="BFM DICI ALPES DU SUD FHD" tvg-logo="https://lo1.in/fr/bfmtv.png" group-title="FR_ GENERAL",BFM DICI ALPES DU SUD FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4261
-#EXTINF:-1 tvg-name="BFM GRAND LILLE HD" tvg-logo="https://lo1.in/fr/bmf.png" group-title="FR_ France",BFM GRAND LILLE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2123
-#EXTINF:-1 tvg-name="BFM NICE COTE D'AZURE HD" tvg-logo="https://lo1.in/fr/bfmtv.png" group-title="FR_ GENERAL",BFM NICE COTE D'AZURE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2121
-#EXTINF:-1 tvg-name="BRAVO HEVC" tvg-logo="https://lo1.in/us/brr.png" group-title="FR_ GENERAL",BRAVO HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/361
-#EXTINF:-1 tvg-name="BRAVO FHD" tvg-logo="https://lo1.in/us/brr.png" group-title="FR_ GENERAL",BRAVO FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/342
-#EXTINF:-1 tvg-name="BRAVO SD" tvg-logo="https://lo1.in/us/brr.png" group-title="FR_ GENERAL",BRAVO SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/656
-#EXTINF:-1 tvg-name="CANAL+ UHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="FR_ CANAL+",CANAL+ UHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1223128
-#EXTINF:-1 tvg-name="CANAL+ HEVC" tvg-logo="https://lo1.in/FR/cnlpp1.png" group-title="FR_ CANAL+",CANAL+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/399
-#EXTINF:-1 tvg-name="CANAL+ FHD" tvg-logo="https://lo1.in/fr/cpp.png" group-title="FR_ CANAL+",CANAL+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/382
-#EXTINF:-1 tvg-name="CANAL+ 360 FHD" tvg-logo="https://lo1.in/FR/cnlz.png" group-title="CANAL+ FR",CANAL+ 360 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228056
-#EXTINF:-1 tvg-name="CANAL+ 360 HD" tvg-logo="https://lo1.in/FR/cnlz.png" group-title="CANAL+ FR",CANAL+ 360 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228052
-#EXTINF:-1 tvg-name="CANAL+ 360 SD" tvg-logo="https://lo1.in/FR/cnlz.png" group-title="CANAL+ FR",CANAL+ 360 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228050
-#EXTINF:-1 tvg-name="CANAL ALPHA JU HD" tvg-logo="https://lo1.in/fr/calphaa.png" group-title="FR_ CANAL+",CANAL ALPHA JU HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/173
-#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE UHD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE UHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1223129
-#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE FHD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/9318
-#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE HD" tvg-logo="https://lo1.in/fr/boxoffice.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/3494
-#EXTINF:-1 tvg-name="CANAL+ CINEMA HEVC" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="FR_ CANAL+",CANAL+ CINEMA HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/400
-#EXTINF:-1 tvg-name="CANAL+ CINEMA FHD" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="FR_ CANAL+",CANAL+ CINEMA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/383
-#EXTINF:-1 tvg-name="CANAL+ CINEMA HD" tvg-logo="https://lo1.in/fr/cnlpcc.png" group-title="FR_ CANAL+",CANAL+ CINEMA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/416
-#EXTINF:-1 tvg-name="CANAL+ DOCS FHD" tvg-logo="https://lo1.in/FR/cndocs.png" group-title="CANAL+ FR",CANAL+ DOCS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/155635
-#EXTINF:-1 tvg-name="CANAL+ FOOT FHD" tvg-logo="https://lo1.in/FR/foot24.png" group-title="CANAL+ FR",CANAL+ FOOT FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228057
-#EXTINF:-1 tvg-name="CANAL+ FOOT HD" tvg-logo="https://lo1.in/FR/foot24.png" group-title="CANAL+ FR",CANAL+ FOOT HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/228053
-#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN HEVC" tvg-logo="https://lo1.in/fr/unehdd.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/664
-#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="https://lo1.in/fr/unehdd.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/665
-#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://lo1.in/fr/frohdd.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/197
-#EXTINF:-1 tvg-name="CANAL+ KIDS HEVC" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="FR_ CANAL+",CANAL+ KIDS HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/401
-#EXTINF:-1 tvg-name="CANAL+ KIDS FHD" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="FR_ CANAL+",CANAL+ KIDS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/384
-#EXTINF:-1 tvg-name="CANAL+ KIDS HD" tvg-logo="https://lo1.in/fr/cnlpff.png" group-title="FR_ CANAL+",CANAL+ KIDS HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/417
-#EXTINF:-1 tvg-name="CANAL+ LIVE 1 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947868
-#EXTINF:-1 tvg-name="CANAL+ LIVE 1 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887062
-#EXTINF:-1 tvg-name="CANAL+ LIVE 2 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947867
-#EXTINF:-1 tvg-name="CANAL+ LIVE 2 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 2 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887061
-#EXTINF:-1 tvg-name="CANAL+ LIVE 3 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947866
-#EXTINF:-1 tvg-name="CANAL+ LIVE 3 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887060
-#EXTINF:-1 tvg-name="CANAL+ LIVE 4 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947865
-#EXTINF:-1 tvg-name="CANAL+ LIVE 4 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 4 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887059
-#EXTINF:-1 tvg-name="CANAL+ LIVE 5 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947864
-#EXTINF:-1 tvg-name="CANAL+ LIVE 5 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 5 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887058
-#EXTINF:-1 tvg-name="CANAL+ LIVE 6 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 6 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947863
-#EXTINF:-1 tvg-name="CANAL+ LIVE 6 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 6 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887057
-#EXTINF:-1 tvg-name="CANAL+ LIVE 7 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 7 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947862
-#EXTINF:-1 tvg-name="CANAL+ LIVE 7 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 7 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887056
-#EXTINF:-1 tvg-name="CANAL+ LIVE 8 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 8 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947861
-#EXTINF:-1 tvg-name="CANAL+ LIVE 8 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 8 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887055
-#EXTINF:-1 tvg-name="CANAL+ LIVE 9 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947860
-#EXTINF:-1 tvg-name="CANAL+ LIVE 10 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 10 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947859
-#EXTINF:-1 tvg-name="CANAL+ LIVE 10 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 10 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887051
-#EXTINF:-1 tvg-name="CANAL+ LIVE 11 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 11 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947858
-#EXTINF:-1 tvg-name="CANAL+ LIVE 11 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 11 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887046
-#EXTINF:-1 tvg-name="CANAL+ LIVE 13 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 13 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947856
-#EXTINF:-1 tvg-name="CANAL+ LIVE 15 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 15 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887039
-#EXTINF:-1 tvg-name="CANAL+ LIVE 16 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 16 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947853
-#EXTINF:-1 tvg-name="CANAL+ LIVE 17 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 17 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947852
-#EXTINF:-1 tvg-name="CANAL+ LIVE 18 FHD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 18 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/947851
-#EXTINF:-1 tvg-name="CANAL+ LIVE 18 HD" tvg-logo="https://lo1.in/fr/cnlppp.png" group-title="CANAL+ LIVE",CANAL+ LIVE 18 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/887036
-#EXTINF:-1 tvg-name="CANAL PLAY 1 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165911
-#EXTINF:-1 tvg-name="CANAL PLAY 2 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165910
-#EXTINF:-1 tvg-name="CANAL PLAY 3 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165909
-#EXTINF:-1 tvg-name="CANAL PLAY 4 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165908
-#EXTINF:-1 tvg-name="CANAL PLAY 5 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165907
-#EXTINF:-1 tvg-name="CANAL PLAY 6 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 6 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165906
-#EXTINF:-1 tvg-name="CANAL PLAY 7 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 7 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165905
-#EXTINF:-1 tvg-name="CANAL PLAY 8 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 8 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165904
-#EXTINF:-1 tvg-name="CANAL PLAY 9 FHD" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/165903
-#EXTINF:-1 tvg-name="CANAL PLAY 11" tvg-logo="https://lo1.in/fr/cnlply.png" group-title="FR_ CANAL+",CANAL PLAY 11
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29248
-#EXTINF:-1 tvg-name="CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://lo1.in/FR/cnlpp.png" group-title="CANAL+ FR",CANAL+ PREMIERE LEAGUE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/218
-#EXTINF:-1 tvg-name="CANAL+ PREMIERE LEAGUE HD" tvg-logo="https://lo1.in/FR/cnlpp.png" group-title="CANAL+ FR",CANAL+ PREMIERE LEAGUE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/259
-#EXTINF:-1 tvg-name="CANAL+ SPORT FHD" tvg-logo="https://lo1.in/FR/cnlpsp.png" group-title="CANAL+ FR",CANAL+ SPORT FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/219
-#EXTINF:-1 tvg-name="CANAL+ SPORT FHD BK1" tvg-logo="https://lo1.in/FR/cnlpsp.png" group-title="CANAL+ FR",CANAL+ SPORT FHD BK1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1373170
-#EXTINF:-1 tvg-name="CARAC 3" tvg-logo="https://lo1.in/fr/carac.png" group-title="FR_ CARAC",CARAC 3
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1031121
-#EXTINF:-1 tvg-name="CHASSE ET PÊCHE FHD" tvg-logo="https://lo1.in/fr/chph.png" group-title="FR_ Documentary",CHASSE ET PÊCHE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/451
-#EXTINF:-1 tvg-name="CHASSE ET PECHE HD" tvg-logo="https://lo1.in/fr/chph.png" group-title="FR_ Documentary",CHASSE ET PECHE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/497
-#EXTINF:-1 tvg-name="CINE+ CLASSIC FHD" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="FR_ Cine+",CINE+ CLASSIC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/390
-#EXTINF:-1 tvg-name="CINE+ CLASSIC HD" tvg-logo="https://lo1.in/fr/cnpccc.png" group-title="FR_ Cine+",CINE+ CLASSIC HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/426
-#EXTINF:-1 tvg-name="CINE+ CLUB HEVC" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="FR_ Cine+",CINE+ CLUB HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/408
-#EXTINF:-1 tvg-name="CINE+ CLUB FHD" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="FR_ Cine+",CINE+ CLUB FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/391
-#EXTINF:-1 tvg-name="CINE+ CLUB HD" tvg-logo="https://lo1.in/fr/cnpcll.png" group-title="FR_ Cine+",CINE+ CLUB HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/427
-#EXTINF:-1 tvg-name="CINE+ EMOTION HEVC" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="FR_ Cine+",CINE+ EMOTION HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/404
-#EXTINF:-1 tvg-name="CINE+ EMOTION FHD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="FR_ Cine+",CINE+ EMOTION FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/387
-#EXTINF:-1 tvg-name="CINE+ EMOTION HD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="FR_ Cine+",CINE+ EMOTION HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/423
-#EXTINF:-1 tvg-name="CINE+ EMOTION SD" tvg-logo="https://lo1.in/fr/cnpmm.png" group-title="FR_ Cine+",CINE+ EMOTION SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4315
-#EXTINF:-1 tvg-name="CINE+ FAMIZ HEVC" tvg-logo="https://lo1.in/fr/cnpfff.png" group-title="FR_ Cine+",CINE+ FAMIZ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/405
-#EXTINF:-1 tvg-name="CINE+ FAMIZ FHD" tvg-logo="https://lo1.in/fr/cfamzz.png" group-title="FR_ Cine+",CINE+ FAMIZ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/388
-#EXTINF:-1 tvg-name="CINE+ FAMIZ HD" tvg-logo="https://lo1.in/fr/cnpfff.png" group-title="FR_ Cine+",CINE+ FAMIZ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/424
-#EXTINF:-1 tvg-name="CINE+ FAMIZ SD" tvg-logo="https://lo1.in/fr/cfamzz.png" group-title="FR_ Cine+",CINE+ FAMIZ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4314
-#EXTINF:-1 tvg-name="CINE+ FRISSON FHD" tvg-logo="https://lo1.in/fr/cfrii.png" group-title="FR_ Cine+",CINE+ FRISSON FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/389
-#EXTINF:-1 tvg-name="CINE+ FRISSON HD" tvg-logo="https://lo1.in/fr/cnpfrr.png" group-title="FR_ Cine+",CINE+ FRISSON HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/425
-#EXTINF:-1 tvg-name="CINE+ OCS FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Cine+",CINE+ OCS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050935
-#EXTINF:-1 tvg-name="CINE+ PREMIER HEVC" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="FR_ Cine+",CINE+ PREMIER HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/403
-#EXTINF:-1 tvg-name="CINE+ PREMIER FHD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="FR_ Cine+",CINE+ PREMIER FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/386
-#EXTINF:-1 tvg-name="CINE+ PREMIER HD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="FR_ Cine+",CINE+ PREMIER HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/422
-#EXTINF:-1 tvg-name="CINE+ PREMIER SD" tvg-logo="https://lo1.in/fr/cnpprr.png" group-title="FR_ Cine+",CINE+ PREMIER SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4316
-#EXTINF:-1 tvg-name="CINE+ WESTERN FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Cine+",CINE+ WESTERN FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1443203
-#EXTINF:-1 tvg-name="✦●✦ CINEMA HEVC ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ CINEMA HEVC ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/398
-#EXTINF:-1 tvg-name="✦●✦ CINEMA FHD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ CINEMA FHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/381
-#EXTINF:-1 tvg-name="✦●✦ CINEMA HD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ CINEMA HD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/414
-#EXTINF:-1 tvg-name="COMEDIE+ HEVC" tvg-logo="https://lo1.in/fr/comedie1.png" group-title="FR_ France",COMEDIE+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/359
-#EXTINF:-1 tvg-name="COMEDIE+ HD" tvg-logo="https://lo1.in/fr/comedie1.png" group-title="FR_ France",COMEDIE+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/376
-#EXTINF:-1 tvg-name="COMEDIE+ SD" tvg-logo="https://lo1.in/fr/comedie1.png" group-title="FR_ France",COMEDIE+ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4347
-#EXTINF:-1 tvg-name="COMEDY CENTRAL HEVC" tvg-logo="https://lo1.in/fr/comcenn.png" group-title="FR_ France",COMEDY CENTRAL HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358
-#EXTINF:-1 tvg-name="COMEDY CENTRAL SD" tvg-logo="https://lo1.in/fr/comcenn.png" group-title="FR_ France",COMEDY CENTRAL SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4348
-#EXTINF:-1 tvg-name="CRIME DISTRICT HD" tvg-logo="https://lo1.in/fr/crdes.png" group-title="FR_ Documentary",CRIME DISTRICT HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/489
-#EXTINF:-1 tvg-name="CRIME DISTRICT SD" tvg-logo="https://lo1.in/fr/crdes.png" group-title="FR_ Documentary",CRIME DISTRICT SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2196
-#EXTINF:-1 tvg-name="DAZN 01 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN Sport",DAZN 01 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464288
-#EXTINF:-1 tvg-name="DAZN 01 HD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN Sport",DAZN 01 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464289
-#EXTINF:-1 tvg-name="DAZN 01 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 01 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464276
-#EXTINF:-1 tvg-name="DAZN 02 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN Sport",DAZN 02 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464290
-#EXTINF:-1 tvg-name="DAZN 02 HD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN Sport",DAZN 02 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464291
-#EXTINF:-1 tvg-name="DAZN 02 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 02 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464277
-#EXTINF:-1 tvg-name="DAZN 03 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 03 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464278
-#EXTINF:-1 tvg-name="DAZN 05 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 05 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464280
-#EXTINF:-1 tvg-name="DAZN 06 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 06 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464281
-#EXTINF:-1 tvg-name="DAZN 07 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 07 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464282
-#EXTINF:-1 tvg-name="DAZN 08 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 08 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464283
-#EXTINF:-1 tvg-name="DAZN 09 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 09 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464284
-#EXTINF:-1 tvg-name="DAZN 10 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 10 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464285
-#EXTINF:-1 tvg-name="DAZN 11 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 11 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464286
-#EXTINF:-1 tvg-name="DAZN 12 EVENT ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN EVENT Only",DAZN 12 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1464287
-#EXTINF:-1 tvg-name="DAZN NBA PRIME 5 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN PRIME",DAZN NBA PRIME 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1267700
-#EXTINF:-1 tvg-name="DAZN NBA PRIME 8 FHD" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="DAZN PRIME",DAZN NBA PRIME 8 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1267697
-#EXTINF:-1 tvg-name="DESTINATION NATURE FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",DESTINATION NATURE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1397520
-#EXTINF:-1 tvg-name="DIGITAL BLACK MUSIC FHD" tvg-logo="https://lo1.in/fr/DBM.png" group-title="FR_ GENERAL",DIGITAL BLACK MUSIC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/8111
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HEVC" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="FR_ Documentary",DISCOVERY CHANNEL HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/464
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="FR_ Documentary",DISCOVERY CHANNEL FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/440
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/fr/dischnn.png" group-title="FR_ Documentary",DISCOVERY CHANNEL HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/486
-#EXTINF:-1 tvg-name="DISCOVERY ID FHD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="FR_ Documentary",DISCOVERY ID FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/442
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="FR_ Documentary",DISCOVERY ID HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/488
-#EXTINF:-1 tvg-name="DISCOVERY ID SD" tvg-logo="https://lo1.in/fr/dicydd.png" group-title="FR_ Documentary",DISCOVERY ID SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2198
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HEVC" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="FR_ Documentary",DISCOVERY SCIENCE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/463
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="FR_ Documentary",DISCOVERY SCIENCE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/441
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/fr/DISCOVERY SCIENCE FHD.png" group-title="FR_ Documentary",DISCOVERY SCIENCE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/487
-#EXTINF:-1 tvg-name="✦●✦ DIVERTISSEMENT HD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ DIVERTISSEMENT HD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/364
-#EXTINF:-1 tvg-name="✦●✦ DOCUMENTAIRES FHD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",✦●✦ DOCUMENTAIRES FHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/439
-#EXTINF:-1 tvg-name="✦●✦ DOCUMENTAIRES HD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",✦●✦ DOCUMENTAIRES HD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/485
-#EXTINF:-1 tvg-name="ELFARES SPORTS 2 4K" tvg-logo="https://lo1.in/FCB/beinet1.png" group-title="AR_ Sports",ELFARES SPORTS 2 4K
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1386019
-#EXTINF:-1 tvg-name="EMOTION'L HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",EMOTION'L HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1206990
-#EXTINF:-1 tvg-name="EQUIDIA LIVE FHD" tvg-logo="https://lo1.in/fr/eqpd.png" group-title="FR_ EQUIDIA",EQUIDIA LIVE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2242
-#EXTINF:-1 tvg-name="EUROCHANNEL FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",EUROCHANNEL FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050934
-#EXTINF:-1 tvg-name="EUROPE 2 POP TV FHD" tvg-logo="https://lo1.in/fr/e2p.png" group-title="FR_ GENERAL",EUROPE 2 POP TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/577
-#EXTINF:-1 tvg-name="EUROPE 2 POP TV HD" tvg-logo="https://lo1.in/fr/e2p.png" group-title="FR_ GENERAL",EUROPE 2 POP TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/602
-#EXTINF:-1 tvg-name="EUROPE 2 POP TV SD" tvg-logo="https://lo1.in/fr/e2p.png" group-title="FR_ GENERAL",EUROPE 2 POP TV SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4395
-#EXTINF:-1 tvg-name="EUROSPORT360 1 HD" tvg-logo="https://lo1.in/FR/ersp36.png" group-title="Sports_ Mix",EUROSPORT360 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/925
-#EXTINF:-1 tvg-name="F3 ALSACE FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 ALSACE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050499
-#EXTINF:-1 tvg-name="F3 BRETAGNE FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 BRETAGNE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050504
-#EXTINF:-1 tvg-name="F3 CENTRE FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 CENTRE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050505
-#EXTINF:-1 tvg-name="F3 CHAMP ARDENNE HD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 CHAMP ARDENNE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/972939
-#EXTINF:-1 tvg-name="F3 FRANCHE COMTÉ FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 FRANCHE COMTÉ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050507
-#EXTINF:-1 tvg-name="F3 HAUTE NORMANDIE FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 HAUTE NORMANDIE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050508
-#EXTINF:-1 tvg-name="F3 LORRAINE FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 LORRAINE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050511
-#EXTINF:-1 tvg-name="F3 POITOU CHARENTES FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 POITOU CHARENTES FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050517
-#EXTINF:-1 tvg-name="F3 PROVENCE ALPES FHD" tvg-logo="https://lo1.in/fr/fr3h.png" group-title="FR_ GENERAL",F3 PROVENCE ALPES FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050518
-#EXTINF:-1 tvg-name="FRANCE 2 FHD" tvg-logo="https://lo1.in/fr/fr2hd.png" group-title="FR_ France",FRANCE 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/156
-#EXTINF:-1 tvg-name="FRANCE 2 HD" tvg-logo="https://lo1.in/fr/fr2hd.png" group-title="FR_ France",FRANCE 2 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/193
-#EXTINF:-1 tvg-name="FRANCE 3 FHD" tvg-logo="https://lo1.in/fr/fr3hd.png" group-title="FR_ France",FRANCE 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/157
-#EXTINF:-1 tvg-name="FRANCE 3 SD" tvg-logo="https://lo1.in/fr/fr3hd.png" group-title="FR_ France",FRANCE 3 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4330
-#EXTINF:-1 tvg-name="FRANCE 3 NOA HEVC" tvg-logo="https://lo1.in/fr/france 3.png" group-title="FR_ France",FRANCE 3 NOA HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29284
-#EXTINF:-1 tvg-name="FRANCE 3 NOA FHD" tvg-logo="https://lo1.in/fr/france 3.png" group-title="FR_ France",FRANCE 3 NOA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29285
-#EXTINF:-1 tvg-name="FRANCE 4 FHD" tvg-logo="https://lo1.in/fr/fr4hd.png" group-title="FR_ France",FRANCE 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/158
-#EXTINF:-1 tvg-name="FRANCE 5 HEVC" tvg-logo="https://lo1.in/fr/5h.png" group-title="FR_ France",FRANCE 5 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/180
-#EXTINF:-1 tvg-name="FRANCE 5 FHD" tvg-logo="https://lo1.in/fr/5h.png" group-title="FR_ France",FRANCE 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/159
-#EXTINF:-1 tvg-name="FRANCE TV SERIES FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",FRANCE TV SERIES FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6932
-#EXTINF:-1 tvg-name="✦●✦ GENERAL FHD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ GENERAL FHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/153
-#EXTINF:-1 tvg-name="✦●✦ GENERAL SD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ GENERAL SD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4332
-#EXTINF:-1 tvg-name="GOLF+ FHD" tvg-logo="https://lo1.in/FR/glfp.png" group-title="Sports_ Mix",GOLF+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/236
-#EXTINF:-1 tvg-name="GOLF+ HD" tvg-logo="https://lo1.in/FR/glfp.png" group-title="Sports_ Mix",GOLF+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/278
-#EXTINF:-1 tvg-name="GOLF+ SD" tvg-logo="https://lo1.in/FR/glfp.png" group-title="Sports_ Mix",GOLF+ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4335
-#EXTINF:-1 tvg-name="GOLF CHANNEL FHD" tvg-logo="https://lo1.in/FR/glfch.png" group-title="Sports_ Mix",GOLF CHANNEL FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/237
-#EXTINF:-1 tvg-name="GOURMAND FHD" tvg-logo="https://lo1.in/fr/gourmandd.png" group-title="FR_ Documentary",GOURMAND FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/918
-#EXTINF:-1 tvg-name="HISTOIRE HEVC" tvg-logo="https://lo1.in/fr/histvv.png" group-title="FR_ Documentary",HISTOIRE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/479
-#EXTINF:-1 tvg-name="HISTOIRE FHD" tvg-logo="https://lo1.in/fr/histvv.png" group-title="FR_ Documentary",HISTOIRE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/456
-#EXTINF:-1 tvg-name="HISTOIRE SD" tvg-logo="https://lo1.in/fr/histvv.png" group-title="FR_ Documentary",HISTOIRE SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4364
-#EXTINF:-1 tvg-name="IDF 1 FHD" tvg-logo="https://lo1.in/fr/idf10.png" group-title="FR_ GENERAL",IDF 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/680
-#EXTINF:-1 tvg-name="IDF 1 HD" tvg-logo="https://lo1.in/fr/idf10.png" group-title="FR_ GENERAL",IDF 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/681
-#EXTINF:-1 tvg-name="INFOSPORT+ HEVC" tvg-logo="https://lo1.in/FR/infsp.png" group-title="Sports_ Mix",INFOSPORT+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/251
-#EXTINF:-1 tvg-name="INFOSPORT+ SD" tvg-logo="https://lo1.in/FR/infsp.png" group-title="Sports_ Mix",INFOSPORT+ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4337
-#EXTINF:-1 tvg-name="KTO HD" tvg-logo="https://lo1.in/fr/ktooo.png" group-title="FR_ France",KTO HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/212
-#EXTINF:-1 tvg-name="L'EQUIPE HD" tvg-logo="https://lo1.in/FR/leq.png" group-title="FR_ L'EQUIPE",L'EQUIPE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/277
-#EXTINF:-1 tvg-name="L'EQUIPE LIVE FOOT FHD" tvg-logo="https://lo1.in/FR/leq.png" group-title="FR_ L'EQUIPE",L'EQUIPE LIVE FOOT FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1043675
-#EXTINF:-1 tvg-name="LES SIMPSONS 3 FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",LES SIMPSONS 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1322154
-#EXTINF:-1 tvg-name="LES SIMPSONS 4 FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",LES SIMPSONS 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1322153
-#EXTINF:-1 tvg-name="LFM TV FHD" tvg-logo="https://lo1.in/fr/LFM TV SD.png" group-title="FR_ GENERAL",LFM TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/668
-#EXTINF:-1 tvg-name="M6 UHD" tvg-logo="https://lo1.in/fr/m6hd.png" group-title="FR_ France",M6 UHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1223126
-#EXTINF:-1 tvg-name="M6 FHD" tvg-logo="https://lo1.in/fr/m6hd.png" group-title="FR_ France",M6 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/161
-#EXTINF:-1 tvg-name="M6 INTERNATIONAL FHD" tvg-logo="https://lo1.in/fr/m6hd.png" group-title="FR_ France",M6 INTERNATIONAL FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/162
-#EXTINF:-1 tvg-name="M6 MUSIC FHD" tvg-logo="https://lo1.in/fr/m6mMM.png" group-title="FR_ France",M6 MUSIC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/576
-#EXTINF:-1 tvg-name="M6 MUSIC HD" tvg-logo="https://lo1.in/fr/m6mMM.png" group-title="FR_ France",M6 MUSIC HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/600
-#EXTINF:-1 tvg-name="MANDARIN TV FHD" tvg-logo="https://lo1.in/fr/MANDARIN TV.png" group-title="FR_ GENERAL",MANDARIN TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29234
-#EXTINF:-1 tvg-name="✦●✦ MAX EVENTS ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ MAX SPORTS",✦●✦ MAX EVENTS ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461882
-#EXTINF:-1 tvg-name="MAX FR 01 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 01 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461812
-#EXTINF:-1 tvg-name="MAX FR 03 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 03 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461814
-#EXTINF:-1 tvg-name="MAX FR 04 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 04 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461815
-#EXTINF:-1 tvg-name="MAX FR 06 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 06 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461817
-#EXTINF:-1 tvg-name="MAX FR 07 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 07 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461818
-#EXTINF:-1 tvg-name="MAX FR 08 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 08 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461819
-#EXTINF:-1 tvg-name="MAX FR 10 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 10 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461821
-#EXTINF:-1 tvg-name="MAX FR 12 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 12 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461823
-#EXTINF:-1 tvg-name="MAX FR 16 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 16 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461827
-#EXTINF:-1 tvg-name="MAX FR 20 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 20 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461831
-#EXTINF:-1 tvg-name="MAX FR 22 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 22 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461833
-#EXTINF:-1 tvg-name="MAX FR 23 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 23 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461834
-#EXTINF:-1 tvg-name="MAX FR 26 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 26 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461837
-#EXTINF:-1 tvg-name="MAX FR 32 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 32 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461843
-#EXTINF:-1 tvg-name="MAX FR 39 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 39 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461850
-#EXTINF:-1 tvg-name="MAX FR 45 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 45 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461856
-#EXTINF:-1 tvg-name="MAX FR 48 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 48 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461859
-#EXTINF:-1 tvg-name="MAX FR 49 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 49 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461860
-#EXTINF:-1 tvg-name="MAX FR 53 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 53 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461864
-#EXTINF:-1 tvg-name="MAX FR 58 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 58 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461869
-#EXTINF:-1 tvg-name="MAX FR 62 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 62 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461873
-#EXTINF:-1 tvg-name="MAX FR 63 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 63 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461874
-#EXTINF:-1 tvg-name="MAX FR 70 EVENT ONLY" tvg-logo="https://lo1.in/us/maxltt.png" group-title="FR_ MAX SPORTS",MAX FR 70 EVENT ONLY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1461881
-#EXTINF:-1 tvg-name="MBC 1 HD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",MBC 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22793
-#EXTINF:-1 tvg-name="MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="AR_ OSN MBC",MBC 2 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22794
-#EXTINF:-1 tvg-name="MBC 3 HD" tvg-logo="https://lo1.in/MBC/mbcc3.png" group-title="AR_ OSN MBC",MBC 3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22795
-#EXTINF:-1 tvg-name="MBC 4 HD" tvg-logo="https://lo1.in/FCB/Mbc4.png" group-title="AR_ OSN MBC",MBC 4 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22796
-#EXTINF:-1 tvg-name="MBC 5 HD" tvg-logo="https://lo1.in/FCB/mbc5.png" group-title="AR_ OSN MBC",MBC 5 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4269
-#EXTINF:-1 tvg-name="MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="AR_ OSN MBC",MBC ACTION HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22799
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://lo1.in/FCB/mbcbolly.png" group-title="AR_ OSN MBC",MBC BOLLYWOOD HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2697
-#EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC DRAMA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22797
-#EXTINF:-1 tvg-name="MBC DRAMA+ HD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC DRAMA+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22798
-#EXTINF:-1 tvg-name="MBC FIGHT BOX FHD" tvg-logo="https://lo1.in/FCB/fightbxhd1.png" group-title="AR_ OSN MBC",MBC FIGHT BOX FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22803
-#EXTINF:-1 tvg-name="MBC IRAQ HD" tvg-logo="https://lo1.in/FCB/mbciraq.png" group-title="AR_ OSN MBC",MBC IRAQ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2696
-#EXTINF:-1 tvg-name="MBC MASR HD" tvg-logo="https://lo1.in/FCB/mbcmas.png" group-title="AR_ OSN MBC",MBC MASR HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2690
-#EXTINF:-1 tvg-name="MBC MASR 2 HD" tvg-logo="https://lo1.in/FCB/mbcmas2.png" group-title="AR_ OSN MBC",MBC MASR 2 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33798
-#EXTINF:-1 tvg-name="MBC MAX HD" tvg-logo="https://lo1.in/FCB/mbcmax.png" group-title="AR_ OSN MBC",MBC MAX HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22802
-#EXTINF:-1 tvg-name="MBC MBC 1 HEVC" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",MBC MBC 1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1128
-#EXTINF:-1 tvg-name="MBC MBC 1 FHD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",MBC MBC 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31088
-#EXTINF:-1 tvg-name="MBC MBC 1 SD" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",MBC MBC 1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2704
-#EXTINF:-1 tvg-name="MBC MBC 2 FHD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="AR_ OSN MBC",MBC MBC 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31089
-#EXTINF:-1 tvg-name="MBC MBC 2 SD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="AR_ OSN MBC",MBC MBC 2 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2703
-#EXTINF:-1 tvg-name="MBC MBC 3 FHD" tvg-logo="https://lo1.in/MBC/mbcc3.png" group-title="AR_ OSN MBC",MBC MBC 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31090
-#EXTINF:-1 tvg-name="MBC MBC 3 SD" tvg-logo="https://lo1.in/MBC/mbcc3.png" group-title="AR_ OSN MBC",MBC MBC 3 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2702
-#EXTINF:-1 tvg-name="MBC MBC 4 FHD" tvg-logo="https://lo1.in/FCB/Mbc4.png" group-title="AR_ OSN MBC",MBC MBC 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31091
-#EXTINF:-1 tvg-name="MBC MBC 4 SD" tvg-logo="https://lo1.in/MBC/Mbc4.png" group-title="AR_ OSN MBC",MBC MBC 4 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2701
-#EXTINF:-1 tvg-name="MBC MBC 5 FHD" tvg-logo="https://lo1.in/FCB/mbc5.png" group-title="AR_ OSN MBC",MBC MBC 5 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33695
-#EXTINF:-1 tvg-name="MBC MBC 5 SD" tvg-logo="https://lo1.in/FCB/mbc5.png" group-title="AR_ OSN MBC",MBC MBC 5 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31045
-#EXTINF:-1 tvg-name="MBC MBC ACTION FHD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="AR_ OSN MBC",MBC MBC ACTION FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33697
-#EXTINF:-1 tvg-name="MBC MBC ACTION" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="AR_ OSN MBC",MBC MBC ACTION
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2700
-#EXTINF:-1 tvg-name="MBC MBC BOLLYWOOD FHD" tvg-logo="https://lo1.in/FCB/mbcbolly.png" group-title="AR_ OSN MBC",MBC MBC BOLLYWOOD FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31093
-#EXTINF:-1 tvg-name="MBC MBC BOLLYWOOD SD" tvg-logo="https://lo1.in/FCB/mbcbolly.png" group-title="AR_ OSN MBC",MBC MBC BOLLYWOOD SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22800
-#EXTINF:-1 tvg-name="MBC MBC DRAMA FHD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC MBC DRAMA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1127
-#EXTINF:-1 tvg-name="MBC MBC DRAMA+ FHD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC MBC DRAMA+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33700
-#EXTINF:-1 tvg-name="MBC MBC DRAMA SD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC MBC DRAMA SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2698
-#EXTINF:-1 tvg-name="MBC MBC DRAMA+ SD" tvg-logo="https://lo1.in/FCB/mbcdr.png" group-title="AR_ OSN MBC",MBC MBC DRAMA+ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33800
-#EXTINF:-1 tvg-name="MBC MBC FM FHD" tvg-logo="https://lo1.in/FCB/mbcfm.png" group-title="AR_ OSN MBC",MBC MBC FM FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33698
-#EXTINF:-1 tvg-name="✦●✦ MBC MBC GROUP ✦●✦" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",✦●✦ MBC MBC GROUP ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/21983
-#EXTINF:-1 tvg-name="MBC MBC IRAQ FHD" tvg-logo="https://lo1.in/FCB/mbciraq.png" group-title="AR_ OSN MBC",MBC MBC IRAQ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33696
-#EXTINF:-1 tvg-name="MBC MBC IRAQ SD" tvg-logo="https://lo1.in/FCB/mbciraq.png" group-title="AR_ OSN MBC",MBC MBC IRAQ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33799
-#EXTINF:-1 tvg-name="MBC MBC MASR FHD" tvg-logo="https://lo1.in/FCB/mbcmas.png" group-title="AR_ OSN MBC",MBC MBC MASR FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31094
-#EXTINF:-1 tvg-name="MBC MBC MASR 2 FHD" tvg-logo="https://lo1.in/FCB/mbcmas2.png" group-title="AR_ OSN MBC",MBC MBC MASR 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1126
-#EXTINF:-1 tvg-name="MBC MBC MAX SD" tvg-logo="https://lo1.in/FCB/mbcmax.png" group-title="AR_ OSN MBC",MBC MBC MAX SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2699
-#EXTINF:-1 tvg-name="MBC MBC VARIETY HEVC" tvg-logo="https://lo1.in/MBC/mbc+v.png" group-title="AR_ OSN MBC",MBC MBC VARIETY HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5739
-#EXTINF:-1 tvg-name="MBC MBC VARIETY FHD" tvg-logo="https://lo1.in/FCB/mbcvari1.png" group-title="AR_ OSN MBC",MBC MBC VARIETY FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22801
-#EXTINF:-1 tvg-name="MBC MBC WANASAH TV SD" tvg-logo="https://lo1.in/FCB/wanasah.png" group-title="AR_ OSN MBC",MBC MBC WANASAH TV SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2679
-#EXTINF:-1 tvg-name="✦●✦ MBC MYHEVC ✦●✦" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",✦●✦ MBC MYHEVC ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5743
-#EXTINF:-1 tvg-name="MBC PERSIA HD" tvg-logo="https://lo1.in/FCB/mbcpersia.png" group-title="AR_ OSN MBC",MBC PERSIA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33802
-#EXTINF:-1 tvg-name="MBC VARIETY HD" tvg-logo="https://lo1.in/FCB/mbcvari1.png" group-title="AR_ OSN MBC",MBC VARIETY HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1143240
-#EXTINF:-1 tvg-name="MBC WANASAH TV HD" tvg-logo="https://lo1.in/FCB/wanasah.png" group-title="AR_ OSN MBC",MBC WANASAH TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/33806
-#EXTINF:-1 tvg-name="MBC ZEE AFLAM SD" tvg-logo="https://lo1.in/FCB/zeeaflam.png" group-title="AR_ OSN MBC",MBC ZEE AFLAM SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/192211
-#EXTINF:-1 tvg-name="MCM HEVC" tvg-logo="https://lo1.in/fr/mcmhd.png" group-title="FR_ France",MCM HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/583
-#EXTINF:-1 tvg-name="MCM FHD" tvg-logo="https://lo1.in/fr/mcmhd.png" group-title="FR_ France",MCM FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/572
-#EXTINF:-1 tvg-name="MCM HD" tvg-logo="https://lo1.in/fr/mcmhd.png" group-title="FR_ France",MCM HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/592
-#EXTINF:-1 tvg-name="MCM TOP FHD" tvg-logo="https://lo1.in/fr/mcmtop.png" group-title="FR_ France",MCM TOP FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/573
-#EXTINF:-1 tvg-name="MCM TOP HD" tvg-logo="https://lo1.in/fr/mcmtop.png" group-title="FR_ France",MCM TOP HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/593
-#EXTINF:-1 tvg-name="MELODY HEVC" tvg-logo="https://lo1.in/fr/melody.png" group-title="FR_ France",MELODY HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/587
-#EXTINF:-1 tvg-name="MELODY FHD" tvg-logo="https://lo1.in/fr/melody.png" group-title="FR_ France",MELODY FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/579
-#EXTINF:-1 tvg-name="MELODY HD" tvg-logo="https://lo1.in/fr/melody.png" group-title="FR_ France",MELODY HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/604
-#EXTINF:-1 tvg-name="MTV FRANCE HEVC" tvg-logo="https://lo1.in/fr/mtvhdd.png" group-title="FR_ France",MTV FRANCE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/581
-#EXTINF:-1 tvg-name="MTV FRANCE FHD" tvg-logo="https://lo1.in/fr/mtvhdd.png" group-title="FR_ France",MTV FRANCE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/570
-#EXTINF:-1 tvg-name="MTV FRANCE HD" tvg-logo="https://lo1.in/fr/mtvhdd.png" group-title="FR_ France",MTV FRANCE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/590
-#EXTINF:-1 tvg-name="MTV FRANCE SD" tvg-logo="https://lo1.in/fr/mtvhdd.png" group-title="FR_ France",MTV FRANCE SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4398
-#EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="https://lo1.in/fr/MTV LIVE HD.png" group-title="FR_ France",MTV LIVE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1191
-#EXTINF:-1 tvg-name="MUSEUM HEVC" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="FR_ Documentary",MUSEUM HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/481
-#EXTINF:-1 tvg-name="MUSEUM HD" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="FR_ Documentary",MUSEUM HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/504
-#EXTINF:-1 tvg-name="MUSEUM SD" tvg-logo=" https://lo1.in/fr/MUSEUM FHD.png" group-title="FR_ Documentary",MUSEUM SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4363
-#EXTINF:-1 tvg-name="✦●✦ MUSIC HEVC ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ MUSIC HEVC ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/580
-#EXTINF:-1 tvg-name="✦●✦ MUSIC FHD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ MUSIC FHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/569
-#EXTINF:-1 tvg-name="✦●✦ MUSIC HD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",✦●✦ MUSIC HD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/589
-#EXTINF:-1 tvg-name="MY ZEN NATURE FHD" tvg-logo="https://lo1.in/fr/myzen0.png" group-title="FR_ Documentary",MY ZEN NATURE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29278
-#EXTINF:-1 tvg-name="MY ZEN TV UHD" tvg-logo="https://lo1.in/fr/myzentv.png" group-title="FR_ Documentary",MY ZEN TV UHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1223124
-#EXTINF:-1 tvg-name="NATIONAL GEO FHD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="FR_ Documentary",NATIONAL GEO FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/444
-#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="FR_ Documentary",NATIONAL GEO HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/490
-#EXTINF:-1 tvg-name="NATIONAL GEO SD" tvg-logo="https://lo1.in/fr/natt1.png" group-title="FR_ Documentary",NATIONAL GEO SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4375
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD FHD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="FR_ Documentary",NATIONAL GEO WILD FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/445
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD HD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="FR_ Documentary",NATIONAL GEO WILD HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/491
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD SD" tvg-logo="https://lo1.in/fr/natwildd.png" group-title="FR_ Documentary",NATIONAL GEO WILD SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4374
-#EXTINF:-1 tvg-name="NATURE TIME FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",NATURE TIME FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1397519
-#EXTINF:-1 tvg-name="NAUTICAL CH FHD" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="FR_ Documentary",NAUTICAL CH FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/662
-#EXTINF:-1 tvg-name="NAUTICAL CH HD" tvg-logo="https://lo1.in/fr/naucalch.png" group-title="FR_ Documentary",NAUTICAL CH HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/736
-#EXTINF:-1 tvg-name="NOLLYWOOD HD" tvg-logo="https://lo1.in/fr/nlwdhd.png" group-title="FR_ GENERAL",NOLLYWOOD HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/667
-#EXTINF:-1 tvg-name="NONA NOVELAS SD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",NONA NOVELAS SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1397521
-#EXTINF:-1 tvg-name="NOVELAS TV HEVC" tvg-logo="https://lo1.in/fr/novelass.png" group-title="FR_ France",NOVELAS TV HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/362
-#EXTINF:-1 tvg-name="NOVELAS TV FHD" tvg-logo="https://lo1.in/fr/novelass.png" group-title="FR_ France",NOVELAS TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/343
-#EXTINF:-1 tvg-name="NOVELAS TV HD" tvg-logo="https://lo1.in/fr/novelass.png" group-title="FR_ France",NOVELAS TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/379
-#EXTINF:-1 tvg-name="NOVELAS TV SD" tvg-logo="https://lo1.in/fr/novelass.png" group-title="FR_ France",NOVELAS TV SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4346
-#EXTINF:-1 tvg-name="NRG 91 TV HD" tvg-logo="https://lo1.in/fr/nrj910.png" group-title="FR_ GENERAL",NRG 91 TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/609
-#EXTINF:-1 tvg-name="NRJ12 FHD" tvg-logo="https://lo1.in/fr/nj12.png" group-title="FR_ GENERAL",NRJ12 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/170
-#EXTINF:-1 tvg-name="NRJ12 HD" tvg-logo="https://lo1.in/fr/nj12.png" group-title="FR_ GENERAL",NRJ12 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/208
-#EXTINF:-1 tvg-name="NRJ HITS HEVC" tvg-logo="https://lo1.in/fr/nrkK1.png" group-title="FR_ France",NRJ HITS HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/586
-#EXTINF:-1 tvg-name="NRJ HITS FHD" tvg-logo="https://lo1.in/fr/nrkK.png" group-title="FR_ France",NRJ HITS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/578
-#EXTINF:-1 tvg-name="NRJ HITS HD" tvg-logo="https://lo1.in/fr/nrkK1.png" group-title="FR_ France",NRJ HITS HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/603
-#EXTINF:-1 tvg-name="NRJ HITS SD" tvg-logo="https://lo1.in/fr/nrkK1.png" group-title="FR_ France",NRJ HITS SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4394
-#EXTINF:-1 tvg-name="OL TV FHD" tvg-logo="https://lo1.in/FR/oltv.png" group-title="Sports_ Mix",OL TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/676
-#EXTINF:-1 tvg-name="OSN ALFA MUSALSALAT 1" tvg-logo="https://lo1.in/FCB/alfase.png" group-title="AR_ OSN MBC",OSN ALFA MUSALSALAT 1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6464
-#EXTINF:-1 tvg-name="OSN ALFA MUSALSALAT 2" tvg-logo="https://lo1.in/FCB/alfase.png" group-title="AR_ OSN MBC",OSN ALFA MUSALSALAT 2
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6463
-#EXTINF:-1 tvg-name="OSN Asharq Discovery HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN Asharq Discovery HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5117
-#EXTINF:-1 tvg-name="OSN Asharq Documentary HD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN Asharq Documentary HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5115
-#EXTINF:-1 tvg-name="OSN AWE" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN AWE
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/210520
-#EXTINF:-1 tvg-name="OSN FOX ACTION MOVIES" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN FOX ACTION MOVIES
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1148
-#EXTINF:-1 tvg-name="OSN FOX MOVIES" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN FOX MOVIES
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6467
-#EXTINF:-1 tvg-name="OSN Kid Zone TV" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN Kid Zone TV
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358750
-#EXTINF:-1 tvg-name="OSN Movies Action" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN Movies Action
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358777
-#EXTINF:-1 tvg-name="OSN MOVIES HOLLYWOOD" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN MOVIES HOLLYWOOD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6466
-#EXTINF:-1 tvg-name="OSN MUNNBEBG" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN MUNNBEBG
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6457
-#EXTINF:-1 tvg-name="OSN Myx" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN Myx
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358746
-#EXTINF:-1 tvg-name="OSN NEWS LIVE" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN NEWS LIVE
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358751
-#EXTINF:-1 tvg-name="OSN OSN ACTION" tvg-logo="https://lo1.in/fwc/osnat.png" group-title="AR_ OSN MBC",OSN OSN ACTION
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22818
-#EXTINF:-1 tvg-name="OSN OSN ALFA CINEMA 1" tvg-logo="https://lo1.in/qatar/cin1.png" group-title="AR_ OSN MBC",OSN OSN ALFA CINEMA 1
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22821
-#EXTINF:-1 tvg-name="OSN OSN ALFA FANN" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN OSN ALFA FANN
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6462
-#EXTINF:-1 tvg-name="OSN OSN COMEDY" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN OSN COMEDY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6458
-#EXTINF:-1 tvg-name="OSN OSN COMEDY MOVIES" tvg-logo="https://lo1.in/fwc/Cmm.png" group-title="AR_ OSN MBC",OSN OSN COMEDY MOVIES
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/97551
-#EXTINF:-1 tvg-name="OSN OSN DISCOVERY" tvg-logo="https://lo1.in/FCB/disc.png" group-title="AR_ OSN MBC",OSN OSN DISCOVERY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4228
-#EXTINF:-1 tvg-name="OSN OSN HISTORY" tvg-logo="https://lo1.in/FCB/h11.png" group-title="AR_ OSN MBC",OSN OSN HISTORY
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/31302
-#EXTINF:-1 tvg-name="OSN OSN LIVING" tvg-logo="https://lo1.in/fwc/osnl.png" group-title="AR_ OSN MBC",OSN OSN LIVING
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22816
-#EXTINF:-1 tvg-name="OSN OSN MOVIES" tvg-logo="https://lo1.in/fwc/osmmovfhd10.png" group-title="AR_ OSN MBC",OSN OSN MOVIES
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22817
-#EXTINF:-1 tvg-name="OSN OSN MOVIES FIRST" tvg-logo="https://lo1.in/fwc/osnmovf0.png" group-title="AR_ OSN MBC",OSN OSN MOVIES FIRST
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22819
-#EXTINF:-1 tvg-name="OSN OSN NAT GEO" tvg-logo="https://lo1.in/FCB/natgeo.png" group-title="AR_ OSN MBC",OSN OSN NAT GEO
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22810
-#EXTINF:-1 tvg-name="OSN OSN NICK JUNIOR" tvg-logo="https://lo1.in/fwc/osnjr.png" group-title="AR_ OSN MBC",OSN OSN NICK JUNIOR
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/154805
-#EXTINF:-1 tvg-name="OSN OSN SERIES FIRST" tvg-logo="https://lo1.in/fwc/osnsi.png" group-title="AR_ OSN MBC",OSN OSN SERIES FIRST
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22820
-#EXTINF:-1 tvg-name="OSN OSN YAHALA" tvg-logo="https://lo1.in/FCB/hla.png" group-title="AR_ OSN MBC",OSN OSN YAHALA
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/210531
-#EXTINF:-1 tvg-name="OSN OSN Yahala AFLAM" tvg-logo="https://lo1.in/FCB/hla.png" group-title="AR_ OSN MBC",OSN OSN Yahala AFLAM
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2265
-#EXTINF:-1 tvg-name="OSN Series Comedy" tvg-logo="https://lo1.in/fwc/osnsi.png" group-title="AR_ OSN MBC",OSN Series Comedy
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358780
-#EXTINF:-1 tvg-name="OSN SHOWCASE" tvg-logo="https://lo1.in/fwc/flg.png" group-title="AR_ OSN MBC",OSN SHOWCASE
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6465
-#EXTINF:-1 tvg-name="OSN Star World" tvg-logo="https://lo1.in/fwc/osnsw.png" group-title="AR_ OSN MBC",OSN Star World
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358745
-#EXTINF:-1 tvg-name="OSN Ya Hala Al Oula" tvg-logo="https://lo1.in/FCB/hla.png" group-title="AR_ OSN MBC",OSN Ya Hala Al Oula
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/358779
-#EXTINF:-1 tvg-name="PARIS PREMIERE FHD" tvg-logo="https://lo1.in/fr/parispr.png" group-title="FR_ France",PARIS PREMIERE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/167
-#EXTINF:-1 tvg-name="PARIS PREMIERE HD" tvg-logo="https://lo1.in/fr/parispr.png" group-title="FR_ France",PARIS PREMIERE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/205
-#EXTINF:-1 tvg-name="PLANETE+ HEVC" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="FR_ Documentary",PLANETE+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/469
-#EXTINF:-1 tvg-name="PLANETE+ FHD" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="FR_ Documentary",PLANETE+ FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/446
-#EXTINF:-1 tvg-name="PLANETE+ HD" tvg-logo="https://lo1.in/fr/pltphdd.png" group-title="FR_ Documentary",PLANETE+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/492
-#EXTINF:-1 tvg-name="PLANETE+ A&E HD" tvg-logo="https://lo1.in/fr/Planete aventure HD.png" group-title="FR_ Documentary",PLANETE+ A&E HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/494
-#EXTINF:-1 tvg-name="PLANETE+ CI FHD" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="FR_ Documentary",PLANETE+ CI FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/447
-#EXTINF:-1 tvg-name="PLANETE+ CI HD" tvg-logo="https://lo1.in/fr/pltpp.png" group-title="FR_ Documentary",PLANETE+ CI HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/493
-#EXTINF:-1 tvg-name="POLAR+ HEVC" tvg-logo="https://lo1.in/fr/plpp.png" group-title="FR_ France",POLAR+ HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/353
-#EXTINF:-1 tvg-name="POLAR+ HD" tvg-logo="https://lo1.in/fr/plpp.png" group-title="FR_ France",POLAR+ HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/370
-#EXTINF:-1 tvg-name="POLAR+ SD" tvg-logo="https://lo1.in/fr/plpp.png" group-title="FR_ France",POLAR+ SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4352
-#EXTINF:-1 tvg-name="RFM TV HD" tvg-logo="https://lo1.in/fr/Rfmtv HD.png" group-title="FR_ France",RFM TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/601
-#EXTINF:-1 tvg-name="RFM TV SD" tvg-logo="https://lo1.in/fr/Rfmtv HD.png" group-title="FR_ France",RFM TV SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4396
-#EXTINF:-1 tvg-name="RMC DECOUVERTE HEVC" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="FR_ Documentary",RMC DECOUVERTE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/476
-#EXTINF:-1 tvg-name="RMC DÉCOUVERTE FHD" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="FR_ Documentary",RMC DÉCOUVERTE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/453
-#EXTINF:-1 tvg-name="RMC DECOUVERTE HD" tvg-logo="https://lo1.in/fr/rmcdecc.png" group-title="FR_ Documentary",RMC DECOUVERTE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/499
-#EXTINF:-1 tvg-name="RMC LIFE HEVC" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC LIFE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/484
-#EXTINF:-1 tvg-name="RMC LIFE FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC LIFE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/461
-#EXTINF:-1 tvg-name="RMC MECANIC FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC MECANIC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6935
-#EXTINF:-1 tvg-name="RMC MECANIC HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC MECANIC HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6936
-#EXTINF:-1 tvg-name="RMC MYSTÈRE FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC MYSTÈRE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6939
-#EXTINF:-1 tvg-name="RMC MYSTÈRE HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC MYSTÈRE HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6940
-#EXTINF:-1 tvg-name="RMC SPORTS 1 FHD" tvg-logo="https://lo1.in/FR/rmcs.png" group-title="FR_ RMC",RMC SPORTS 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/220
-#EXTINF:-1 tvg-name="RMC SPORTS 1 ACCESS FHD" tvg-logo="https://lo1.in/FR/rmcp1.png" group-title="FR_ RMC",RMC SPORTS 1 ACCESS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/670
-#EXTINF:-1 tvg-name="RMC SPORTS 2 HEVC" tvg-logo="https://lo1.in/FR/rmc2.png" group-title="FR_ RMC",RMC SPORTS 2 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/245
-#EXTINF:-1 tvg-name="RMC SPORTS 2 FHD" tvg-logo="https://lo1.in/FR/rmc2.png" group-title="FR_ RMC",RMC SPORTS 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/221
-#EXTINF:-1 tvg-name="RMC SPORTS 3 FHD" tvg-logo="https://lo1.in/FR/rmc3.png" group-title="FR_ RMC",RMC SPORTS 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/222
-#EXTINF:-1 tvg-name="RMC SPORTS 3 HD" tvg-logo="https://lo1.in/FR/rmc3.png" group-title="FR_ RMC",RMC SPORTS 3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/263
-#EXTINF:-1 tvg-name="RMC SPORTS 4 FHD" tvg-logo="https://lo1.in/FR/rmcs4.png" group-title="FR_ RMC",RMC SPORTS 4 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/223
-#EXTINF:-1 tvg-name="RMC STORY HEVC" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="FR_ Documentary",RMC STORY HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/477
-#EXTINF:-1 tvg-name="RMC STORY FHD" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="FR_ Documentary",RMC STORY FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/454
-#EXTINF:-1 tvg-name="RMC STORY HD" tvg-logo="https://lo1.in/fr/mrcsttt.png" group-title="FR_ Documentary",RMC STORY HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/500
-#EXTINF:-1 tvg-name="RMC TALK SPORT FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ RMC",RMC TALK SPORT FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6933
-#EXTINF:-1 tvg-name="RMC TALK SPORT HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ RMC",RMC TALK SPORT HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6934
-#EXTINF:-1 tvg-name="RMC WOW FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",RMC WOW FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/6937
-#EXTINF:-1 tvg-name="ROUGE TV HEVC" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="FR_ GENERAL",ROUGE TV HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/679
-#EXTINF:-1 tvg-name="ROUGE TV FHD" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="FR_ GENERAL",ROUGE TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/397
-#EXTINF:-1 tvg-name="ROUGE TV HD" tvg-logo="https://lo1.in/fr/rogtvvv.png" group-title="FR_ GENERAL",ROUGE TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/433
-#EXTINF:-1 tvg-name="RTL9 HEVC" tvg-logo="https://lo1.in/fr/rtl9hdd.png" group-title="FR_ GENERAL",RTL9 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/355
-#EXTINF:-1 tvg-name="RTL9 FHD" tvg-logo="https://lo1.in/fr/rtl9hdd.png" group-title="FR_ GENERAL",RTL9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/336
-#EXTINF:-1 tvg-name="RTL9 SD" tvg-logo="https://lo1.in/fr/rtl9hdd.png" group-title="FR_ GENERAL",RTL9 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4350
-#EXTINF:-1 tvg-name="RTS DEUX FHD" tvg-logo="https://lo1.in/fr/rts2.png" group-title="FR_ France",RTS DEUX FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/164
-#EXTINF:-1 tvg-name="RTS UN HD" tvg-logo="https://lo1.in/fr/sts.png" group-title="FR_ France",RTS UN HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/201
-#EXTINF:-1 tvg-name="SCI FI HEVC" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",SCI FI HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/352
-#EXTINF:-1 tvg-name="SCI FI FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",SCI FI FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/333
-#EXTINF:-1 tvg-name="SCI FI HD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",SCI FI HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/369
-#EXTINF:-1 tvg-name="SCI FI SD" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ Documentary",SCI FI SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/653
-#EXTINF:-1 tvg-name="SCIENCE ET VIE FHD" tvg-logo="https://lo1.in/fr/sciencee.png" group-title="FR_ Documentary",SCIENCE ET VIE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/455
-#EXTINF:-1 tvg-name="SEASONS HEVC" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="FR_ Documentary",SEASONS HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/475
-#EXTINF:-1 tvg-name="SEASONS FHD" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="FR_ Documentary",SEASONS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/452
-#EXTINF:-1 tvg-name="SEASONS SD" tvg-logo="https://lo1.in/fr/sznhd.png" group-title="FR_ Documentary",SEASONS SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4368
-#EXTINF:-1 tvg-name="SECRET STORY HD" tvg-logo="https://lo1.in/fr/SecretStory.png" group-title="FR_ GENERAL",SECRET STORY HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1436956
-#EXTINF:-1 tvg-name="SERIE CLUB HEVC" tvg-logo="https://lo1.in/fr/srclbhdd.png" group-title="FR_ France",SERIE CLUB HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/354
-#EXTINF:-1 tvg-name="SERIE CLUB SD" tvg-logo="https://lo1.in/fr/srclbhdd.png" group-title="FR_ France",SERIE CLUB SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4351
-#EXTINF:-1 tvg-name="✦●✦ SPORTS FHD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="Sports_ Mix",✦●✦ SPORTS FHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/217
-#EXTINF:-1 tvg-name="✦●✦ SPORTS HD ✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="Sports_ Mix",✦●✦ SPORTS HD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/258
-#EXTINF:-1 tvg-name="STARZPLAY SPORT 3 FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT 3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5898
-#EXTINF:-1 tvg-name="STARZPLAY SPORT 3 HD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT 3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5897
-#EXTINF:-1 tvg-name="STARZPLAY SPORT 3 SD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORT 3 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5896
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1155
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 1 FHD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5904
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 1 HD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5903
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 1 SD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="STARZPLAY",STARZPLAY SPORTS 1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5902
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 2 HEVC" tvg-logo="https://lo1.in/FCB/flg.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1154
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 2 FHD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5901
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 2 HD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5900
-#EXTINF:-1 tvg-name="STARZPLAY SPORTS 2 SD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="STARZPLAY",STARZPLAY SPORTS 2 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5899
-#EXTINF:-1 tvg-name="SUD 1ERE" tvg-logo="https://lo1.in/fr/fr.png" group-title="FR_ GENERAL",SUD 1ERE
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1050937
-#EXTINF:-1 tvg-name="TCM CINÉMA FHD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="FR_ France",TCM CINÉMA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/393
-#EXTINF:-1 tvg-name="TCM CINÉMA HD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="FR_ France",TCM CINÉMA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/429
-#EXTINF:-1 tvg-name="TECH AND CO HD" tvg-logo="https://lo1.in/fr/tech.png" group-title="FR_ France",TECH AND CO HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/19151
-#EXTINF:-1 tvg-name="TEVA HEVC" tvg-logo="https://lo1.in/fr/tvhdd.png" group-title="FR_ France",TEVA HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/360
-#EXTINF:-1 tvg-name="TEVA HD" tvg-logo="https://lo1.in/fr/tvhdd.png" group-title="FR_ France",TEVA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/377
-#EXTINF:-1 tvg-name="TEVA SD" tvg-logo="https://lo1.in/fr/tvhdd.png" group-title="FR_ France",TEVA SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/122517
-#EXTINF:-1 tvg-name="TF1 UHD" tvg-logo="https://lo1.in/fr/tf1hd.png" group-title="FR_ France",TF1 UHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1223125
-#EXTINF:-1 tvg-name="TF1 FHD" tvg-logo="https://lo1.in/fr/tf1hd.png" group-title="FR_ France",TF1 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/154
-#EXTINF:-1 tvg-name="TF1 SD" tvg-logo="https://lo1.in/fr/tf1hd.png" group-title="FR_ France",TF1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/122516
-#EXTINF:-1 tvg-name="TF1 SERIES FILM SD" tvg-logo="https://lo1.in/fr/tf1s.png" group-title="FR_ France",TF1 SERIES FILM SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/122515
-#EXTINF:-1 tvg-name="TF1 SERIES FILMS HEVC" tvg-logo="https://lo1.in/fr/tf1s.png" group-title="FR_ France",TF1 SERIES FILMS HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/348
-#EXTINF:-1 tvg-name="TF1 SERIES FILMS FHD" tvg-logo="https://lo1.in/fr/tf1s.png" group-title="FR_ France",TF1 SERIES FILMS FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/329
-#EXTINF:-1 tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://lo1.in/fr/tf1s.png" group-title="FR_ France",TF1 SERIES FILMS HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/365
-#EXTINF:-1 tvg-name="TFX FHD" tvg-logo="https://lo1.in/fr/tfxhd.png" group-title="FR_ France",TFX FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/330
-#EXTINF:-1 tvg-name="TFX HD" tvg-logo="https://lo1.in/fr/tfxhd.png" group-title="FR_ France",TFX HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/366
-#EXTINF:-1 tvg-name="TFX SD" tvg-logo="https://lo1.in/fr/tfx.png" group-title="FR_ France",TFX SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/122514
-#EXTINF:-1 tvg-name="TL7 HD" tvg-logo="https://lo1.in/fr/tl7.png" group-title="FR_ GENERAL",TL7 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29283
-#EXTINF:-1 tvg-name="TLC FHD" tvg-logo="https://lo1.in/fr/tllc.png" group-title="FR_ Documentary",TLC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29236
-#EXTINF:-1 tvg-name="TMC HEVC" tvg-logo="https://lo1.in/fr/tmc.png" group-title="FR_ France",TMC HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/350
-#EXTINF:-1 tvg-name="TMC FHD" tvg-logo="https://lo1.in/fr/tmc.png" group-title="FR_ France",TMC FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/331
-#EXTINF:-1 tvg-name="TMC HD" tvg-logo="https://lo1.in/fr/tmc.png" group-title="FR_ France",TMC HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/367
-#EXTINF:-1 tvg-name="TMC +1 HD" tvg-logo="https://lo1.in/fr/tmc.png" group-title="FR_ France",TMC +1 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/19099
-#EXTINF:-1 tvg-name="TMC +1 SD" tvg-logo="https://lo1.in/fr/tmc.png" group-title="FR_ France",TMC +1 SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/652
-#EXTINF:-1 tvg-name="TOUTE L HISTOIRE HEVC" tvg-logo="https://lo1.in/fr/tthistt.png" group-title="FR_ Documentary",TOUTE L HISTOIRE HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/480
-#EXTINF:-1 tvg-name="TOUTE L HISTOIRE FHD" tvg-logo="https://lo1.in/fr/tthisttt.png" group-title="FR_ Documentary",TOUTE L HISTOIRE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/457
-#EXTINF:-1 tvg-name="TRACE CARIBBEAN HEVC" tvg-logo="https://lo1.in/fr/TRACE CA.png" group-title="FR_ France",TRACE CARIBBEAN HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/19097
-#EXTINF:-1 tvg-name="TRACE CARIBBEAN FHD" tvg-logo="https://lo1.in/fr/TRACE CA.png" group-title="FR_ France",TRACE CARIBBEAN FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/19098
-#EXTINF:-1 tvg-name="TRACE CARIBBEAN SD" tvg-logo="https://lo1.in/fr/TRACE CA.png" group-title="FR_ France",TRACE CARIBBEAN SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/2182
-#EXTINF:-1 tvg-name="TRACE GOSPEL HD" tvg-logo="https://lo1.in/fr/trcg.png" group-title="FR_ France",TRACE GOSPEL HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/596
-#EXTINF:-1 tvg-name="TRACE URBAN FHD" tvg-logo="https://lo1.in/fr/trcu.png" group-title="FR_ France",TRACE URBAN FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/574
-#EXTINF:-1 tvg-name="TREK HD" tvg-logo="https://lo1.in/fr/trk.png" group-title="FR_ Documentary",TREK HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/505
-#EXTINF:-1 tvg-name="TREK SD" tvg-logo="https://lo1.in/fr/trk.png" group-title="FR_ Documentary",TREK SD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/655
-#EXTINF:-1 tvg-name="TV5 MONDE STYLE FHD" tvg-logo="https://lo1.in/fr/tv5m.png" group-title="FR_ Documentary",TV5 MONDE STYLE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/316
-#EXTINF:-1 tvg-name="TV BREIZH FHD" tvg-logo="https://lo1.in/fr/tvbhdd.png" group-title="FR_ France",TV BREIZH FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/168
-#EXTINF:-1 tvg-name="TV Monaco HD" tvg-logo="https://lo1.in/fr/TV Monaco SD.png" group-title="FR_ France",TV Monaco HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/19150
-#EXTINF:-1 tvg-name="TVM3 HEVC" tvg-logo="https://lo1.in/fr/tvm3.png" group-title="FR_ France",TVM3 HEVC
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/661
-#EXTINF:-1 tvg-name="TVM3 FHD" tvg-logo="https://lo1.in/fr/tvm3.png" group-title="FR_ France",TVM3 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/734
-#EXTINF:-1 tvg-name="TVM3 HD" tvg-logo="https://lo1.in/fr/tvm3.png" group-title="FR_ France",TVM3 HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/214
-#EXTINF:-1 tvg-name="USHUAIA FHD" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="FR_ Documentary",USHUAIA FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/449
-#EXTINF:-1 tvg-name="USHUAIA HD" tvg-logo="https://lo1.in/fr/ushhs.png" group-title="FR_ Documentary",USHUAIA HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/495
-#EXTINF:-1 tvg-name="VIA MATELE FHD" tvg-logo="https://lo1.in/fr/viamate.png" group-title="FR_ GENERAL",VIA MATELE FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/29244
-#EXTINF:-1 tvg-name="W9 FHD" tvg-logo="https://lo1.in/fr/www9.png" group-title="FR_ France",W9 FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/166
-#EXTINF:-1 tvg-name="WARNER TV FHD" tvg-logo="https://lo1.in/fr/wartv.png" group-title="FR_ France",WARNER TV FHD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/396
-#EXTINF:-1 tvg-name="WARNER TV HD" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="FR_ France",WARNER TV HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/432
-#EXTINF:-1 tvg-name="WARNER TV NEXT HD" tvg-logo="https://lo1.in/fr/wartv0.png" group-title="FR_ France",WARNER TV NEXT HD
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1091640
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 FHD BK" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5020
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 ENGLISH 4K BK" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 ENGLISH 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4998
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 ENGLISH FHD BK" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 ENGLISH FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5009
-#EXTINF:-1 tvg-name="BEIN SPORTS 01 XTRA 4K BK" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="beIN Sport_ BK",BEIN SPORTS 01 XTRA 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4996
-#EXTINF:-1 tvg-name="BEIN SPORTS 02 4K BK" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="beIN Sport_ BK",BEIN SPORTS 02 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/4007
-#EXTINF:-1 tvg-name="BEIN SPORTS 03 4K BK" tvg-logo="https://lo1.in/bss/bs3.png" group-title="beIN Sport_ BK",BEIN SPORTS 03 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5007
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 4K BK" tvg-logo="https://lo1.in/bss/bs4.png" group-title="beIN Sport_ BK",BEIN SPORTS 04 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5006
-#EXTINF:-1 tvg-name="BEIN SPORTS 04 FHD BK" tvg-logo="https://lo1.in/bss/bs4.png" group-title="beIN Sport_ BK",BEIN SPORTS 04 FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5017
-#EXTINF:-1 tvg-name="BEIN SPORTS 06 4K BK" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="beIN Sport_ BK",BEIN SPORTS 06 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5004
-#EXTINF:-1 tvg-name="BEIN SPORTS 08 4K BK" tvg-logo="https://lo1.in/bss/bss8.png" group-title="beIN Sport_ BK",BEIN SPORTS 08 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5002
-#EXTINF:-1 tvg-name="BEIN SPORTS 09 4K BK" tvg-logo="https://lo1.in/bss/bs9.png" group-title="beIN Sport_ BK",BEIN SPORTS 09 4K BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/5001
-#EXTINF:-1 tvg-name="CANAL+ FHD BK" tvg-logo="https://lo1.in/fr/cpp.png" group-title="FR_ CANAL+",CANAL+ FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1373171
-#EXTINF:-1 tvg-name="CANAL+ FOOT FHD BK" tvg-logo="https://lo1.in/FR/foot24.png" group-title="CANAL+ FR",CANAL+ FOOT FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1373043
-#EXTINF:-1 tvg-name="CANAL+ FOOT HD BK" tvg-logo="https://lo1.in/fr/CANAL FOOT.png" group-title="CANAL+ FR",CANAL+ FOOT HD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/751413
-#EXTINF:-1 tvg-name="CANAL+ SPORT FHD BK" tvg-logo="https://lo1.in/FR/cnlpsp.png" group-title="CANAL+ FR",CANAL+ SPORT FHD BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1359407
-#EXTINF:-1 tvg-name="✦●✦ MBC MYHD ✦●✦" tvg-logo="https://lo1.in/FCB/mbc.png" group-title="AR_ OSN MBC",✦●✦ MBC MYHD ✦●✦
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/22792
-#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 1 (Tod) BK" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="beIN Sport_ BK",BEIN SPORTS ENGLISH 1 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420544
-#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 2 (Tod) BK" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="beIN Sport_ BK",BEIN SPORTS ENGLISH 2 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420545
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 1 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 1 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420535
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 2 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 2 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420536
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 3 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ TOD",BEIN SPORTS EXTRA 3 (Tod)
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1057666
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 3 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 3 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420537
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 4 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 4 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420538
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 5 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 5 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420539
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 7 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 7 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420541
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 8 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 8 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420542
-#EXTINF:-1 tvg-name="BEIN SPORTS EXTRA 9 (Tod) BK" tvg-logo="https://lo1.in/bss/xtra.png" group-title="beIN Sport_ BK",BEIN SPORTS EXTRA 9 (Tod) BK
-http://hrjbcbba.mosstvip.com:80/6CXX8V4U/1JYUP926/1420543
+#EXTINF:-1 tvg-name="ALWAN SPORT 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 1 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/402389
+#EXTINF:-1 tvg-name="ALWAN SPORT 1 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 1 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/402388
+#EXTINF:-1 tvg-name="ALWAN SPORT 2 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 2 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/402386
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS 1 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/14160
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS 2 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14169
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS 3 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14163
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax4_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 4 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/151958
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax6_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 6 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/151964
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 7 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax7_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 7 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/151967
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 7 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax7_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 7 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/1113
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 8 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax8_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 8 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/1468
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 9 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax9_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 9 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/1469
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 10 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsportsmax10_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 10 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/151976
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 2 SD
+http://premium2.ottpro2.org:80/alexandre/5939369/13615
+#EXTINF:-1 tvg-name="4K BEIN SPORTS 4" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",4K BEIN SPORTS 4
+http://premium2.ottpro2.org:80/alexandre/5939369/78381
+#EXTINF:-1 tvg-name="4K BEIN SPORTS 5" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",4K BEIN SPORTS 5
+http://premium2.ottpro2.org:80/alexandre/5939369/78382
+#EXTINF:-1 tvg-name="4K BEIN SPORTS 6" tvg-logo="https://logoipro2.com/LOGO/bein%20logo/SPORTS_6-1.png" group-title="beIN Sports",4K BEIN SPORTS 6
+http://premium2.ottpro2.org:80/alexandre/5939369/78383
+#EXTINF:-1 tvg-name="CANAL+ FOOT FHD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="CANAL+ FR",CANAL+ FOOT FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/180946
+#EXTINF:-1 tvg-name="CANAL+ FOOT HD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="CANAL+ FR",CANAL+ FOOT HD
+http://premium2.ottpro2.org:80/alexandre/5939369/181485
+#EXTINF:-1 tvg-name="CANAL+ FOOT SD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="CANAL+ FR",CANAL+ FOOT SD
+http://premium2.ottpro2.org:80/alexandre/5939369/84801
+#EXTINF:-1 tvg-name="CANAL+ LIVE 1 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 1 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327340
+#EXTINF:-1 tvg-name="CANAL+ LIVE 1" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 1
+http://premium2.ottpro2.org:80/alexandre/5939369/327312
+#EXTINF:-1 tvg-name="CANAL+ LIVE 2 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 2 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327339
+#EXTINF:-1 tvg-name="CANAL+ LIVE 2" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 2
+http://premium2.ottpro2.org:80/alexandre/5939369/327311
+#EXTINF:-1 tvg-name="CANAL+ LIVE 3 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 3 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327338
+#EXTINF:-1 tvg-name="CANAL+ LIVE 3" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 3
+http://premium2.ottpro2.org:80/alexandre/5939369/327310
+#EXTINF:-1 tvg-name="CANAL+ LIVE 4 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 4 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327337
+#EXTINF:-1 tvg-name="CANAL+ LIVE 4" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 4
+http://premium2.ottpro2.org:80/alexandre/5939369/327383
+#EXTINF:-1 tvg-name="CANAL+ LIVE 5 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 5 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327336
+#EXTINF:-1 tvg-name="CANAL+ LIVE 5" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 5
+http://premium2.ottpro2.org:80/alexandre/5939369/327309
+#EXTINF:-1 tvg-name="CANAL+ LIVE 6 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 6 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327335
+#EXTINF:-1 tvg-name="CANAL+ LIVE 6" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 6
+http://premium2.ottpro2.org:80/alexandre/5939369/327308
+#EXTINF:-1 tvg-name="CANAL+ LIVE 7 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 7 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327334
+#EXTINF:-1 tvg-name="CANAL+ LIVE 7" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 7
+http://premium2.ottpro2.org:80/alexandre/5939369/327307
+#EXTINF:-1 tvg-name="CANAL+ LIVE 8 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 8 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327333
+#EXTINF:-1 tvg-name="CANAL+ LIVE 8" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 8
+http://premium2.ottpro2.org:80/alexandre/5939369/327306
+#EXTINF:-1 tvg-name="CANAL+ LIVE 9" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 9
+http://premium2.ottpro2.org:80/alexandre/5939369/327305
+#EXTINF:-1 tvg-name="CANAL+ LIVE 10 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 10 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327331
+#EXTINF:-1 tvg-name="CANAL+ LIVE 10" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 10
+http://premium2.ottpro2.org:80/alexandre/5939369/327304
+#EXTINF:-1 tvg-name="CANAL+ LIVE 11 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 11 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327330
+#EXTINF:-1 tvg-name="CANAL+ LIVE 11" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 11
+http://premium2.ottpro2.org:80/alexandre/5939369/327303
+#EXTINF:-1 tvg-name="CANAL+ LIVE 12 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 12 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327329
+#EXTINF:-1 tvg-name="CANAL+ LIVE 13 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 13 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327328
+#EXTINF:-1 tvg-name="CANAL+ LIVE 14 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 14 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327327
+#EXTINF:-1 tvg-name="CANAL+ LIVE 14" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 14
+http://premium2.ottpro2.org:80/alexandre/5939369/327300
+#EXTINF:-1 tvg-name="CANAL+ LIVE 15 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 15 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327326
+#EXTINF:-1 tvg-name="CANAL+ LIVE 15" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 15
+http://premium2.ottpro2.org:80/alexandre/5939369/327299
+#EXTINF:-1 tvg-name="CANAL+ LIVE 16 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 16 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327325
+#EXTINF:-1 tvg-name="CANAL+ LIVE 16" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 16
+http://premium2.ottpro2.org:80/alexandre/5939369/327298
+#EXTINF:-1 tvg-name="CANAL+ LIVE 17 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 17 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327324
+#EXTINF:-1 tvg-name="CANAL+ LIVE 17" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 17
+http://premium2.ottpro2.org:80/alexandre/5939369/327297
+#EXTINF:-1 tvg-name="CANAL+ LIVE 18" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 18
+http://premium2.ottpro2.org:80/alexandre/5939369/327296
+#EXTINF:-1 tvg-name="CANAL+ LIVE 19 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 19 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/327322
+#EXTINF:-1 tvg-name="CANAL+ LIVE 19" tvg-logo="https://logoipro2.com/LOGO/CANAL+%20LIVE.webp" group-title="CANAL+ FR",CANAL+ LIVE 19
+http://premium2.ottpro2.org:80/alexandre/5939369/327295
+#EXTINF:-1 tvg-name="CANAL+ SPORT FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalplussport.png" group-title="CANAL+ FR",CANAL+ SPORT FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/14156
+#EXTINF:-1 tvg-name="CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/180947
+#EXTINF:-1 tvg-name="CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/181486
+#EXTINF:-1 tvg-name="CANALPLAY 1 ACTION" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 1 ACTION
+http://premium2.ottpro2.org:80/alexandre/5939369/13970
+#EXTINF:-1 tvg-name="CANALPLAY 2 DRAMA" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 2 DRAMA
+http://premium2.ottpro2.org:80/alexandre/5939369/13962
+#EXTINF:-1 tvg-name="CANALPLAY 3 ANIMATION" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 3 ANIMATION
+http://premium2.ottpro2.org:80/alexandre/5939369/13961
+#EXTINF:-1 tvg-name="CANALPLAY 4 COMEDY" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 4 COMEDY
+http://premium2.ottpro2.org:80/alexandre/5939369/13960
+#EXTINF:-1 tvg-name="CANALPLAY 5 THRILLER" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 5 THRILLER
+http://premium2.ottpro2.org:80/alexandre/5939369/13959
+#EXTINF:-1 tvg-name="CANALPLAY 6 ADVENTURE" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 6 ADVENTURE
+http://premium2.ottpro2.org:80/alexandre/5939369/13958
+#EXTINF:-1 tvg-name="CANALPLAY 7 HORROR" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 7 HORROR
+http://premium2.ottpro2.org:80/alexandre/5939369/13957
+#EXTINF:-1 tvg-name="CANALPLAY 8 SCIENCE FICTION" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 8 SCIENCE FICTION
+http://premium2.ottpro2.org:80/alexandre/5939369/13956
+#EXTINF:-1 tvg-name="CANALPLAY 9 DOCUMENTAIRE" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 9 DOCUMENTAIRE
+http://premium2.ottpro2.org:80/alexandre/5939369/13955
+#EXTINF:-1 tvg-name="CANALPLAY 10 MANGA" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 10 MANGA
+http://premium2.ottpro2.org:80/alexandre/5939369/13969
+#EXTINF:-1 tvg-name="CANALPLAY 11 CRIME/POLICIER" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 11 CRIME/POLICIER
+http://premium2.ottpro2.org:80/alexandre/5939369/13968
+#EXTINF:-1 tvg-name="CANAL+ HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/canalplus.png" group-title="FR_ CANAL+",CANAL+ HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216688
+#EXTINF:-1 tvg-name="CANAL+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalplus.png" group-title="FR_ CANAL+",CANAL+ FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/14151
+#EXTINF:-1 tvg-name="CANAL+ HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalplus.png" group-title="FR_ CANAL+",CANAL+ HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14167
+#EXTINF:-1 tvg-name="CANAL ALPHA JU FHD" group-title="FR_ CANAL+",CANAL ALPHA JU FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13812
+#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE 4K UHD" tvg-logo="https://i.ibb.co/hBkwn5m/Whats-App-Image-2023-09-02-at-17-56-23.jpg" group-title="FR_ CANAL+",CANAL+ BOX OFFICE 4K UHD
+http://premium2.ottpro2.org:80/alexandre/5939369/436433
+#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE FHD" tvg-logo="https://i.ibb.co/hBkwn5m/Whats-App-Image-2023-09-02-at-17-56-23.jpg" group-title="FR_ CANAL+",CANAL+ BOX OFFICE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/265758
+#EXTINF:-1 tvg-name="CANAL+ CINEMA HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47506
+#EXTINF:-1 tvg-name="CANAL+ CINEMA FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13769
+#EXTINF:-1 tvg-name="CANAL+ CINEMA SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28347
+#EXTINF:-1 tvg-name="CANAL+ DOCS HEVC" tvg-logo="https://logoipro2.com/logo/49100.png" group-title="FR_ CANAL+",CANAL+ DOCS HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216661
+#EXTINF:-1 tvg-name="CANAL+ DOCS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="FR_ CANAL+",CANAL+ DOCS FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/142059
+#EXTINF:-1 tvg-name="CANAL+ DOCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="FR_ CANAL+",CANAL+ DOCS HD
+http://premium2.ottpro2.org:80/alexandre/5939369/142063
+#EXTINF:-1 tvg-name="CANAL+ FOOT HEVC" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216660
+#EXTINF:-1 tvg-name="CANAL+ GRAND ÉCRAN HEVC" tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216663
+#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/156272
+#EXTINF:-1 tvg-name="CANAL+ SPORT 360 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="FR_ CANAL+",CANAL+ SPORT 360 SD
+http://premium2.ottpro2.org:80/alexandre/5939369/84802
+#EXTINF:-1 tvg-name="CANAL+ GRAND ÉCRAN HD (C+)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-grand-ecran-fr.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HD (C+)
+http://premium2.ottpro2.org:80/alexandre/5939369/461479
+#EXTINF:-1 tvg-name="CINE+ CLASSIC HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47533
+#EXTINF:-1 tvg-name="CINE+ CLASSIC FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13758
+#EXTINF:-1 tvg-name="CINE+ CLASSIC HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14026
+#EXTINF:-1 tvg-name="CINE+ CLASSIC SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28327
+#EXTINF:-1 tvg-name="CINE+ EMOTION HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47519
+#EXTINF:-1 tvg-name="CINE+ EMOTION FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13756
+#EXTINF:-1 tvg-name="CINE+ EMOTION HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14024
+#EXTINF:-1 tvg-name="CINE+ FAMILY SD" tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28329
+#EXTINF:-1 tvg-name="CINE+ FAMIZ HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusfamiz.png" group-title="FR_ Cine+",CINE+ FAMIZ HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47532
+#EXTINF:-1 tvg-name="CINE+ FESTIVAL FHD" tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/47556
+#EXTINF:-1 tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14025
+#EXTINF:-1 tvg-name="CINE+ FRISSON FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13754
+#EXTINF:-1 tvg-name="CINE+ FRISSON HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14023
+#EXTINF:-1 tvg-name="CINE+ FRISSON SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28331
+#EXTINF:-1 tvg-name="CINE+ PREMIER FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13759
+#EXTINF:-1 tvg-name="CINE+ PREMIER HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14021
+#EXTINF:-1 tvg-name="CINE+ PREMIER SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28332
+#EXTINF:-1 tvg-name="ANIMAUX HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/animaux.png" group-title="FR_ Documentary",ANIMAUX HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14044
+#EXTINF:-1 tvg-name="ARTE 4K" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE 4K
+http://premium2.ottpro2.org:80/alexandre/5939369/451702
+#EXTINF:-1 tvg-name="ARTE HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/arte.png" group-title="FR_ Documentary",ARTE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47480
+#EXTINF:-1 tvg-name="ARTE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13788
+#EXTINF:-1 tvg-name="ARTE SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE SD
+http://premium2.ottpro2.org:80/alexandre/5939369/426
+#EXTINF:-1 tvg-name="CHASSE & PECHE HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/chasseetpeche.png" group-title="FR_ Documentary",CHASSE & PECHE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47543
+#EXTINF:-1 tvg-name="CHASSE&PECHE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/chasseetpeche.png" group-title="FR_ Documentary",CHASSE&PECHE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13837
+#EXTINF:-1 tvg-name="CRIME DISTRICT HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/crimedistrict.png" group-title="FR_ Documentary",CRIME DISTRICT HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216771
+#EXTINF:-1 tvg-name="CRIME DISTRICT FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/crimedistrict.png" group-title="FR_ Documentary",CRIME DISTRICT FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13750
+#EXTINF:-1 tvg-name="DISCOVERY FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/discovery.png" group-title="FR_ Documentary",DISCOVERY FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13748
+#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/discovery.png" group-title="FR_ Documentary",DISCOVERY HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14017
+#EXTINF:-1 tvg-name="DISCOVERY INVES HEVC" tvg-logo="https://asiagrandiptv.us/logo/discoveryidx.png" group-title="FR_ Documentary",DISCOVERY INVES HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47538
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/discoveryinvestigation.png" group-title="FR_ Documentary",DISCOVERY INVESTIGATION FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13836
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/discoveryinvestigation.png" group-title="FR_ Documentary",DISCOVERY INVESTIGATION HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13828
+#EXTINF:-1 tvg-name="HISTOIRE HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/histoire.png" group-title="FR_ Documentary",HISTOIRE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216728
+#EXTINF:-1 tvg-name="HISTOIRE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/histoire.png" group-title="FR_ Documentary",HISTOIRE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13731
+#EXTINF:-1 tvg-name="HISTOIRE HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/histoire.png" group-title="FR_ Documentary",HISTOIRE HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14007
+#EXTINF:-1 tvg-name="HISTOIRE SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/histoire.png" group-title="FR_ Documentary",HISTOIRE SD
+http://premium2.ottpro2.org:80/alexandre/5939369/1056
+#EXTINF:-1 tvg-name="NAT GEO WILD HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeowild.png" group-title="FR_ Documentary",NAT GEO WILD HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47511
+#EXTINF:-1 tvg-name="NATIONAL GEO FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nationalgeo.png" group-title="FR_ Documentary",NATIONAL GEO FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13718
+#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nationalgeo.png" group-title="FR_ Documentary",NATIONAL GEO HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13999
+#EXTINF:-1 tvg-name="NATIONAL GEO CHANNEL HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeographic.png" group-title="FR_ Documentary",NATIONAL GEO CHANNEL HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47523
+#EXTINF:-1 tvg-name="PLANETE+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE+ FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13712
+#EXTINF:-1 tvg-name="PLANETE+ AVENTURE HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE+ AVENTURE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47541
+#EXTINF:-1 tvg-name="PLANETE+ AVENTURE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplusaande.png" group-title="FR_ Documentary",PLANETE+ AVENTURE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13711
+#EXTINF:-1 tvg-name="PLANETE+ CRIME FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplusci.png" group-title="FR_ Documentary",PLANETE+ CRIME FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13710
+#EXTINF:-1 tvg-name="USHUAIA HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/UshuaiaTV_new2020.png" group-title="FR_ Documentary",USHUAIA HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13974
+#M3U_EXTRACT: premium2.ottpro2.org
+#EXTINF:-1 tvg-name="6TER FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13793
+#EXTINF:-1 tvg-name="6TER HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14046
+#EXTINF:-1 tvg-name="13EME RUE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/13emerue.png" group-title="FR_ France",13EME RUE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13794
+#EXTINF:-1 tvg-name="13EME RUE HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/13emerue.png" group-title="FR_ France",13EME RUE HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14048
+#EXTINF:-1 tvg-name="AB1 HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/ab1.png" group-title="FR_ France",AB1 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216773
+#EXTINF:-1 tvg-name="AB1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/ab1.png" group-title="FR_ France",AB1 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13792
+#EXTINF:-1 tvg-name="ACTION HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/action.png" group-title="FR_ France",ACTION HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47518
+#EXTINF:-1 tvg-name="ACTION HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/action.png" group-title="FR_ France",ACTION HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14045
+#EXTINF:-1 tvg-name="ACTION SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/action.png" group-title="FR_ France",ACTION SD
+http://premium2.ottpro2.org:80/alexandre/5939369/28334
+#EXTINF:-1 tvg-name="CARTOON NETWORK HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/cartoonnetwork.png" group-title="FR_ France",CARTOON NETWORK HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47513
+#EXTINF:-1 tvg-name="COMEDIE+ HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/comedieplus.png" group-title="FR_ France",COMEDIE+ HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216782
+#EXTINF:-1 tvg-name="COMEDIE+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/crimedistrict.png" group-title="FR_ France",COMEDIE+ FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13751
+#EXTINF:-1 tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/comedy_central_m.png" group-title="FR_ France",COMEDY CENTRAL FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/297046
+#EXTINF:-1 tvg-name="COMEDY CENTRAL FRANCE HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/comedy_central_m.png" group-title="FR_ France",COMEDY CENTRAL FRANCE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216783
+#EXTINF:-1 tvg-name="CSTAR HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/cstar.png" group-title="FR_ France",CSTAR HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47484
+#EXTINF:-1 tvg-name="CSTAR FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13749
+#EXTINF:-1 tvg-name="CSTAR HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13940
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="FR_ France",E! ENTERTAINMENT HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216777
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="FR_ France",E! ENTERTAINMENT FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13746
+#EXTINF:-1 tvg-name="EQUIDIA HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/equidialive.png" group-title="FR_ France",EQUIDIA HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47527
+#EXTINF:-1 tvg-name="EUROSPORT 1 HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/eurosport1.png" group-title="FR_ France",EUROSPORT 1 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47548
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Eurosport1_blanc.png" group-title="FR_ France",EUROSPORT 1 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14011
+#EXTINF:-1 tvg-name="EUROSPORT 2 HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/eurosport2.png" group-title="FR_ France",EUROSPORT 2 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47549
+#EXTINF:-1 tvg-name="FRANCE 2 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france2.png" group-title="FR_ France",FRANCE 2 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13739
+#EXTINF:-1 tvg-name="FRANCE 3 HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france3.png" group-title="FR_ France",FRANCE 3 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47476
+#EXTINF:-1 tvg-name="FRANCE 3 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france3.png" group-title="FR_ France",FRANCE 3 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13738
+#EXTINF:-1 tvg-name="FRANCE 3 HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france3.png" group-title="FR_ France",FRANCE 3 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13915
+#EXTINF:-1 tvg-name="FRANCE 3 ALPES FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 ALPES FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195822
+#EXTINF:-1 tvg-name="FRANCE 3 ALSACE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 ALSACE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195823
+#EXTINF:-1 tvg-name="FRANCE 3 AQUITAINE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 AQUITAINE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195824
+#EXTINF:-1 tvg-name="FRANCE 3 AUVERGNE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 AUVERGNE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195825
+#EXTINF:-1 tvg-name="FRANCE 3 BOURGOGNE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 BOURGOGNE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195827
+#EXTINF:-1 tvg-name="FRANCE 3 CHAMPAGNE ARDENNES FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 CHAMPAGNE ARDENNES FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195830
+#EXTINF:-1 tvg-name="FRANCE 3 LIMOUSIN FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 LIMOUSIN FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195836
+#EXTINF:-1 tvg-name="FRANCE 3 LORRAINE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 LORRAINE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195837
+#EXTINF:-1 tvg-name="FRANCE 3 MIDI PYRÉNÉES FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 MIDI PYRÉNÉES FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195838
+#EXTINF:-1 tvg-name="FRANCE 3 POITOU CHARENTES FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/France3.png" group-title="FR_ France",FRANCE 3 POITOU CHARENTES FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/195843
+#EXTINF:-1 tvg-name="FRANCE 4 HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france4.png" group-title="FR_ France",FRANCE 4 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13914
+#EXTINF:-1 tvg-name="FRANCE 5 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france5.png" group-title="FR_ France",FRANCE 5 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13736
+#EXTINF:-1 tvg-name="FRANCE 5 SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france5.png" group-title="FR_ France",FRANCE 5 SD
+http://premium2.ottpro2.org:80/alexandre/5939369/1013
+#EXTINF:-1 tvg-name="FRANCE INFO HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/franceinfo.png" group-title="FR_ France",FRANCE INFO HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216739
+#EXTINF:-1 tvg-name="GOLF+ HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/golfplus.png" group-title="FR_ France",GOLF+ HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216724
+#EXTINF:-1 tvg-name="GOLF CHANNEL HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/golfchannel.png" group-title="FR_ France",GOLF CHANNEL HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216723
+#EXTINF:-1 tvg-name="I24 NEWS HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/i24news.png" group-title="FR_ France",I24 NEWS HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216741
+#EXTINF:-1 tvg-name="LA CHAINE METEO HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/lachainemeteo.png" group-title="FR_ France",LA CHAINE METEO HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216742
+#EXTINF:-1 tvg-name="M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/m6.png" group-title="FR_ France",M6 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13726
+#EXTINF:-1 tvg-name="M6 MUSIC HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/m6music.png" group-title="FR_ France",M6 MUSIC HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47512
+#EXTINF:-1 tvg-name="M6 MUSIC FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/m6music.png" group-title="FR_ France",M6 MUSIC FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13826
+#EXTINF:-1 tvg-name="M6 MUSIC HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/m6music.png" group-title="FR_ France",M6 MUSIC HD
+http://premium2.ottpro2.org:80/alexandre/5939369/44692
+#EXTINF:-1 tvg-name="MANGAS HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/mangas.png" group-title="FR_ France",MANGAS HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216730
+#EXTINF:-1 tvg-name="MCM HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mcm.png" group-title="FR_ France",MCM HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14002
+#EXTINF:-1 tvg-name="MCM TOP HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/mcmtop.png" group-title="FR_ France",MCM TOP HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47526
+#EXTINF:-1 tvg-name="MCM TOP HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mcmtop.png" group-title="FR_ France",MCM TOP HD
+http://premium2.ottpro2.org:80/alexandre/5939369/1037
+#EXTINF:-1 tvg-name="MELODY TV FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/melody.png" group-title="FR_ France",MELODY TV FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13808
+#EXTINF:-1 tvg-name="MEZZO HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mezzo.png" group-title="FR_ France",MEZZO HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14001
+#EXTINF:-1 tvg-name="MEZZO LIVE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mezzolive.png" group-title="FR_ France",MEZZO LIVE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13723
+#EXTINF:-1 tvg-name="MTV FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtv.png" group-title="FR_ France",MTV FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13932
+#EXTINF:-1 tvg-name="MTV HITS FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtvhits.png" group-title="FR_ France",MTV HITS FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13845
+#EXTINF:-1 tvg-name="MTV HITS HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtvhits.png" group-title="FR_ France",MTV HITS HD
+http://premium2.ottpro2.org:80/alexandre/5939369/8050
+#EXTINF:-1 tvg-name="NETFLIX ACTION" tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ France",NETFLIX ACTION
+http://premium2.ottpro2.org:80/alexandre/5939369/87976
+#EXTINF:-1 tvg-name="NICKELODEON 4TEEN HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeon4teen.png" group-title="FR_ France",NICKELODEON 4TEEN HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47551
+#EXTINF:-1 tvg-name="NRJ HITS HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nrjhits.png" group-title="FR_ France",NRJ HITS HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13927
+#EXTINF:-1 tvg-name="PARIS PREMIERE HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216784
+#EXTINF:-1 tvg-name="PARIS PREMIERE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13824
+#EXTINF:-1 tvg-name="PARIS PREMIERE HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13993
+#EXTINF:-1 tvg-name="PARIS PREMIERE SD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE SD
+http://premium2.ottpro2.org:80/alexandre/5939369/1030
+#EXTINF:-1 tvg-name="POLAR+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13763
+#EXTINF:-1 tvg-name="POLAR+ HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ HD
+http://premium2.ottpro2.org:80/alexandre/5939369/25041
+#EXTINF:-1 tvg-name="TMC HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/tmc.png" group-title="FR_ France",TMC HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47494
+#EXTINF:-1 tvg-name="TMC FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13696
+#EXTINF:-1 tvg-name="TMC HD" tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13979
+#EXTINF:-1 tvg-name="TRACE URBAN HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/traceurban.png" group-title="FR_ France",TRACE URBAN HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216711
+#EXTINF:-1 tvg-name="W9 HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/w9.png" group-title="FR_ France",W9 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47481
+#EXTINF:-1 tvg-name="W9 SD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/w9.png" group-title="FR_ France",W9 SD
+http://premium2.ottpro2.org:80/alexandre/5939369/421
+#EXTINF:-1 tvg-name="WARNER TV HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216733
+#EXTINF:-1 tvg-name="WARNER TV NEXT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="FR_ France",WARNER TV NEXT FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/373827
+#EXTINF:-1 tvg-name="AUTOMOTO HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/automotorsporthd.png" group-title="FR_ GENERAL",AUTOMOTO HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216725
+#EXTINF:-1 tvg-name="BBC DRAMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg/revision/latest?cb=20190108220843" group-title="FR_ GENERAL",BBC DRAMA HD
+http://premium2.ottpro2.org:80/alexandre/5939369/402287
+#EXTINF:-1 tvg-name="BBC TOP GEAR FHD" tvg-logo="https://bbcnews.bbcstudios.com/media/6227/top-gear-logoapril_03_2023.png" group-title="FR_ GENERAL",BBC TOP GEAR FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/402277
+#EXTINF:-1 tvg-name="BBLACK ! HD" tvg-logo="https://i.ibb.co/THrXY3Z/output-onlinepngtools-10.png" group-title="FR_ GENERAL",BBLACK ! HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13840
+#EXTINF:-1 tvg-name="BBLACK AFRICA" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/bblackafricatv.png" group-title="FR_ GENERAL",BBLACK AFRICA
+http://premium2.ottpro2.org:80/alexandre/5939369/8051
+#EXTINF:-1 tvg-name="BFMTV HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/bfmtv.png" group-title="FR_ GENERAL",BFMTV HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47486
+#EXTINF:-1 tvg-name="BIP TV FHD" tvg-logo="https://www.biptv.tv/images/logo.png" group-title="FR_ GENERAL",BIP TV FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/216608
+#EXTINF:-1 tvg-name="BOING HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/boing.png" group-title="FR_ GENERAL",BOING HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216761
+#EXTINF:-1 tvg-name="CGTN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/225px-CGTN_-_fran%C3%A7ais.png" group-title="FR_ GENERAL",CGTN FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/297052
+#EXTINF:-1 tvg-name="DISNEY CHANNEL +1 HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/disneychannel.png" group-title="FR_ GENERAL",DISNEY CHANNEL +1 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216743
+#EXTINF:-1 tvg-name="E! ENTERTAINEMENT HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="FR_ GENERAL",E! ENTERTAINEMENT HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14015
+#EXTINF:-1 tvg-name="FASHION TV FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/fashion.png" group-title="FR_ GENERAL",FASHION TV FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/1064
+#EXTINF:-1 tvg-name="FIGARO TV IDF FHD" tvg-logo="https://i.ibb.co/XXCfm0J/53117.png" group-title="FR_ GENERAL",FIGARO TV IDF FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/206181
+#EXTINF:-1 tvg-name="FRANCE 24 HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/france24.png" group-title="FR_ GENERAL",FRANCE 24 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216740
+#EXTINF:-1 tvg-name="FRANCE TV DOCS FHD" tvg-logo="https://c.clc2l.com/t/f/r/france-tv-UGP6_J.png" group-title="FR_ GENERAL",FRANCE TV DOCS FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/308900
+#EXTINF:-1 tvg-name="FRANCE TV DOCS HD" tvg-logo="https://c.clc2l.com/t/f/r/france-tv-UGP6_J.png" group-title="FR_ GENERAL",FRANCE TV DOCS HD
+http://premium2.ottpro2.org:80/alexandre/5939369/308901
+#EXTINF:-1 tvg-name="FRANCE TV SÉRIES Full HD" tvg-logo="https://c.clc2l.com/t/f/r/france-tv-UGP6_J.png" group-title="FR_ GENERAL",FRANCE TV SÉRIES Full HD
+http://premium2.ottpro2.org:80/alexandre/5939369/308902
+#EXTINF:-1 tvg-name="FRANCE TV SÉRIES HD" tvg-logo="https://c.clc2l.com/t/f/r/france-tv-UGP6_J.png" group-title="FR_ GENERAL",FRANCE TV SÉRIES HD
+http://premium2.ottpro2.org:80/alexandre/5939369/308903
+#EXTINF:-1 tvg-name="INFOSPORT+ HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/infosportplus.png" group-title="FR_ GENERAL",INFOSPORT+ HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216758
+#EXTINF:-1 tvg-name="JUSTE POUR RIRE HD" tvg-logo="https://images.seeklogo.com/logo-png/61/2/just-for-laughs-comedy-festival-logo-png_seeklogo-611921.png" group-title="FR_ GENERAL",JUSTE POUR RIRE HD
+http://premium2.ottpro2.org:80/alexandre/5939369/402289
+#EXTINF:-1 tvg-name="MAISON & TRAVAUX TV HD" tvg-logo="https://logoipro2.com/logo/49932.png" group-title="FR_ GENERAL",MAISON & TRAVAUX TV HD
+http://premium2.ottpro2.org:80/alexandre/5939369/154864
+#EXTINF:-1 tvg-name="MOTUS TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Motus-Logo.jpg" group-title="FR_ GENERAL",MOTUS TV FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/402291
+#EXTINF:-1 tvg-name="MUSEUM CHANNEL FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/museum.png" group-title="FR_ GENERAL",MUSEUM CHANNEL FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13714
+#EXTINF:-1 tvg-name="NAUTICAL HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/nauticalhd.png" group-title="FR_ GENERAL",NAUTICAL HD
+http://premium2.ottpro2.org:80/alexandre/5939369/89595
+#EXTINF:-1 tvg-name="NETFLIX COMEDY" tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX COMEDY
+http://premium2.ottpro2.org:80/alexandre/5939369/87975
+#EXTINF:-1 tvg-name="NETFLIX DOC" tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DOC
+http://premium2.ottpro2.org:80/alexandre/5939369/87979
+#EXTINF:-1 tvg-name="NETFLIX DRAME" tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DRAME
+http://premium2.ottpro2.org:80/alexandre/5939369/87977
+#EXTINF:-1 tvg-name="NICK JUNIOR HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeonjunior.png" group-title="FR_ GENERAL",NICK JUNIOR HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47550
+#EXTINF:-1 tvg-name="NOLLYWOOD HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nollywoodtv.png" group-title="FR_ GENERAL",NOLLYWOOD HD
+http://premium2.ottpro2.org:80/alexandre/5939369/13800
+#EXTINF:-1 tvg-name="NOVELAS FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/novelastv.png" group-title="FR_ GENERAL",NOVELAS FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13799
+#EXTINF:-1 tvg-name="NOVELAS HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/novelastv.png" group-title="FR_ GENERAL",NOVELAS HD
+http://premium2.ottpro2.org:80/alexandre/5939369/154188
+#EXTINF:-1 tvg-name="NOVO 19 FHD" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Logo_NOVO_19_2025_07dcef2c34.png" group-title="FR_ GENERAL",NOVO 19 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/469339
+#EXTINF:-1 tvg-name="NRJ12 HEVC" tvg-logo="https://logoipro2.com/LOGO/FRANCE/nrj12hd.png" group-title="FR_ GENERAL",NRJ12 HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47491
+#EXTINF:-1 tvg-name="PITCHOUN TV HEVC" tvg-logo="https://i.ibb.co/GPRhvLg/PITCHONTV.png" group-title="FR_ GENERAL",PITCHOUN TV HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/216648
+#EXTINF:-1 tvg-name="POPCORN FHD" tvg-logo="https://i.imgur.com/BaavYoc.png" group-title="FR_ GENERAL",POPCORN FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/439238
+#EXTINF:-1 tvg-name="POPCORN HD" tvg-logo="https://i.imgur.com/BaavYoc.png" group-title="FR_ GENERAL",POPCORN HD
+http://premium2.ottpro2.org:80/alexandre/5939369/439239
+#EXTINF:-1 tvg-name="TRAVEL XP FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127" group-title="FR_ GENERAL",TRAVEL XP FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/402284
+#EXTINF:-1 tvg-name="L'EQUIPE HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="FR_ L'EQUIPE",L'EQUIPE HEVC
+http://premium2.ottpro2.org:80/alexandre/5939369/47489
+#EXTINF:-1 tvg-name="LEQUIPE 21 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="FR_ L'EQUIPE",LEQUIPE 21 FHD
+http://premium2.ottpro2.org:80/alexandre/5939369/13728
+#EXTINF:-1 tvg-name="LEQUIPE 21 HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="FR_ L'EQUIPE",LEQUIPE 21 HD
+http://premium2.ottpro2.org:80/alexandre/5939369/14005
