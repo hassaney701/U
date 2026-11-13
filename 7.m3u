@@ -1,876 +1,474 @@
 #EXTM3U
-#M3U_EXTRACT: utrecht.euro24.vip
-#EXTINF:-1 tvg-id="957293" tvg-name="AD SPORTS 1 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS 1 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957293
-#EXTINF:-1 tvg-id="957292" tvg-name="AD SPORTS 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957292
-#EXTINF:-1 tvg-id="957291" tvg-name="AD SPORTS 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957291
-#EXTINF:-1 tvg-id="957300" tvg-name="AD SPORTS  1 ASIA HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS  1 ASIA HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957300
-#EXTINF:-1 tvg-id="231223" tvg-name="AD SPORTS 1 PREMIUM FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS 1 PREMIUM FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/231223
-#EXTINF:-1 tvg-id="231225" tvg-name="AD SPORTS 1 PREMIUM HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS 1 PREMIUM HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/231225
-#EXTINF:-1 tvg-id="957296" tvg-name="AD SPORTS 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport2.jpg" group-title="STARZPLAY", AD SPORTS 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957296
-#EXTINF:-1 tvg-id="957295" tvg-name="AD SPORTS 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport2.jpg" group-title="STARZPLAY", AD SPORTS 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957295
-#EXTINF:-1 tvg-id="957304" tvg-name="AD SPORTS  2 ASIA HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport1.jpg" group-title="STARZPLAY", AD SPORTS  2 ASIA HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957304
-#EXTINF:-1 tvg-id="231226" tvg-name="AD SPORTS 2 PREMIUM HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/adsport2.jpg" group-title="STARZPLAY", AD SPORTS 2 PREMIUM HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/231226
-#EXTINF:-1 tvg-id="937932" tvg-name="AR- AL FAJR 1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alfadjr.jpg" group-title="AR_ Sports", AR- AL FAJR 1
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937932
-#EXTINF:-1 tvg-id="937933" tvg-name="AR- AL FAJR 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alfadjr.jpg" group-title="AR_ Sports", AR- AL FAJR 2
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937933
-#EXTINF:-1 tvg-id="937936" tvg-name="AR- AL FAJR 3" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alfadjr.jpg" group-title="AR_ Sports", AR- AL FAJR 3
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937936
-#EXTINF:-1 tvg-id="937937" tvg-name="AR- AL FAJR 4" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alfadjr.jpg" group-title="AR_ Sports", AR- AL FAJR 4
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937937
-#EXTINF:-1 tvg-id="937938" tvg-name="AR- AL FAJR 5" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alfadjr.jpg" group-title="AR_ Sports", AR- AL FAJR 5
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937938
-#EXTINF:-1 tvg-id="1936504" tvg-name="AR- Alwan Aflam 1 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Aflam 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936504
-#EXTINF:-1 tvg-id="1936503" tvg-name="AR- Alwan Aflam 2 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Aflam 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936503
-#EXTINF:-1 tvg-id="1936502" tvg-name="AR- Alwan Alwathaeqye FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Alwathaeqye FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936502
-#EXTINF:-1 tvg-id="1936501" tvg-name="AR- Alwan Atfal FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Atfal FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936501
-#EXTINF:-1 tvg-id="1936500" tvg-name="AR- Alwan Mosalsalat FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Mosalsalat FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936500
-#EXTINF:-1 tvg-id="1936522" tvg-name="AR- Alwan Sport 1 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936522
-#EXTINF:-1 tvg-id="1936521" tvg-name="AR- Alwan Sport 1 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936521
-#EXTINF:-1 tvg-id="1936520" tvg-name="AR- Alwan Sport 1 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936520
-#EXTINF:-1 tvg-id="1936519" tvg-name="AR- Alwan Sport 2 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936519
-#EXTINF:-1 tvg-id="1936518" tvg-name="AR- Alwan Sport 2 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936518
-#EXTINF:-1 tvg-id="1936517" tvg-name="AR- Alwan Sport 2 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 2 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936517
-#EXTINF:-1 tvg-id="1936516" tvg-name="AR- Alwan Sport 3 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936516
-#EXTINF:-1 tvg-id="1936515" tvg-name="AR- Alwan Sport 3 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 3 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936515
-#EXTINF:-1 tvg-id="1936514" tvg-name="AR- Alwan Sport 3 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 3 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936514
-#EXTINF:-1 tvg-id="1936513" tvg-name="AR- Alwan Sport 4 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936513
-#EXTINF:-1 tvg-id="1936512" tvg-name="AR- Alwan Sport 4 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 4 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936512
-#EXTINF:-1 tvg-id="1936511" tvg-name="AR- Alwan Sport 4 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 4 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936511
-#EXTINF:-1 tvg-id="1936510" tvg-name="AR- Alwan Sport 5 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 5 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936510
-#EXTINF:-1 tvg-id="1936509" tvg-name="AR- Alwan Sport 5 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 5 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936509
-#EXTINF:-1 tvg-id="1936508" tvg-name="AR- Alwan Sport 5 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 5 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936508
-#EXTINF:-1 tvg-id="1936507" tvg-name="AR- Alwan Sport 6 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 6 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936507
-#EXTINF:-1 tvg-id="1936506" tvg-name="AR- Alwan Sport 6 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 6 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936506
-#EXTINF:-1 tvg-id="1936505" tvg-name="AR- Alwan Sport 6 SD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Sport 6 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936505
-#EXTINF:-1 tvg-id="1936499" tvg-name="AR- Alwan Turkey FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="AR_ Sports", AR- Alwan Turkey FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936499
-#EXTINF:-1 tvg-id="192818" tvg-name="BEIN  SPORTS 1 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 1 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/192818
-#EXTINF:-1 tvg-id="83616" tvg-name="BEIN  SPORTS 1 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 1 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83616
-#EXTINF:-1 tvg-id="83628" tvg-name="BEIN  SPORTS 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83628
-#EXTINF:-1 tvg-id="193636" tvg-name="BEIN  SPORTS 2 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 2 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193636
-#EXTINF:-1 tvg-id="83615" tvg-name="BEIN  SPORTS 2 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 2 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83615
-#EXTINF:-1 tvg-id="83627" tvg-name="BEIN  SPORTS 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83627
-#EXTINF:-1 tvg-id="193637" tvg-name="BEIN  SPORTS 3 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 3 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193637
-#EXTINF:-1 tvg-id="83614" tvg-name="BEIN  SPORTS 3 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 3 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83614
-#EXTINF:-1 tvg-id="83626" tvg-name="BEIN  SPORTS 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83626
-#EXTINF:-1 tvg-id="193638" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS 4 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193638
-#EXTINF:-1 tvg-id="83613" tvg-name="BEIN  SPORTS 4 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 4 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83613
-#EXTINF:-1 tvg-id="83625" tvg-name="BEIN  SPORTS 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83625
-#EXTINF:-1 tvg-id="193639" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS 5 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193639
-#EXTINF:-1 tvg-id="83612" tvg-name="BEIN  SPORTS 5 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 5 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83612
-#EXTINF:-1 tvg-id="83624" tvg-name="BEIN  SPORTS 5 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 5 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83624
-#EXTINF:-1 tvg-id="193640" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS 6 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193640
-#EXTINF:-1 tvg-id="83611" tvg-name="BEIN  SPORTS 6 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 6 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83611
-#EXTINF:-1 tvg-id="83623" tvg-name="BEIN  SPORTS 6 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 6 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83623
-#EXTINF:-1 tvg-id="193641" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS 7 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193641
-#EXTINF:-1 tvg-id="83610" tvg-name="BEIN  SPORTS 7 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 7 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83610
-#EXTINF:-1 tvg-id="83622" tvg-name="BEIN  SPORTS 7 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 7 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83622
-#EXTINF:-1 tvg-id="193642" tvg-name="BEIN  SPORTS 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 8 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193642
-#EXTINF:-1 tvg-id="121347" tvg-name="BEIN  SPORTS 8 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 8 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121347
-#EXTINF:-1 tvg-id="97378" tvg-name="BEIN  SPORTS 8 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 8 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/97378
-#EXTINF:-1 tvg-id="193643" tvg-name="BEIN  SPORTS 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 9 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193643
-#EXTINF:-1 tvg-id="83608" tvg-name="BEIN  SPORTS 9 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 9 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83608
-#EXTINF:-1 tvg-id="83621" tvg-name="BEIN  SPORTS 9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 9 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83621
-#EXTINF:-1 tvg-id="936492" tvg-name="BEIN SPORTS EVENT 1 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K", BEIN SPORTS EVENT 1 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936492
-#EXTINF:-1 tvg-id="936493" tvg-name="BEIN SPORTS EVENT 2 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS EVENT 2 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936493
-#EXTINF:-1 tvg-id="936483" tvg-name="BEIN SPORTS GLOBAL 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS GLOBAL 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936483
-#EXTINF:-1 tvg-id="936502" tvg-name="BEIN  SPORTS GLOBAL HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS GLOBAL HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936502
-#EXTINF:-1 tvg-id="936496" tvg-name="BEIN  SPORTS GLOBAL FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS GLOBAL FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936496
-#EXTINF:-1 tvg-id="936494" tvg-name="BEIN  SPORTS NBA 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K", BEIN  SPORTS NBA 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936494
-#EXTINF:-1 tvg-id="936512" tvg-name="BEIN  SPORTS NBA HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS NBA HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936512
-#EXTINF:-1 tvg-id="936501" tvg-name="BEIN  SPORTS NBA FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS NBA FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936501
-#EXTINF:-1 tvg-id="936482" tvg-name="BEIN  SPORTS NEWS 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS NEWS 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936482
-#EXTINF:-1 tvg-id="936503" tvg-name="BEIN  SPORTS NEWS HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS NEWS HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936503
-#EXTINF:-1 tvg-id="936495" tvg-name="BEIN  SPORTS NEWS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS NEWS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936495
-#EXTINF:-1 tvg-id="936490" tvg-name="BEIN SPORTS XTRA 1 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS XTRA 1 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936490
-#EXTINF:-1 tvg-id="936510" tvg-name="BEIN SPORTS XTRA 1 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS XTRA 1 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936510
-#EXTINF:-1 tvg-id="216544" tvg-name="BEIN SPORTS XTRA 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS XTRA 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/216544
-#EXTINF:-1 tvg-id="936491" tvg-name="BEIN SPORTS XTRA 2 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS XTRA 2 4k
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936491
-#EXTINF:-1 tvg-id="936511" tvg-name="BEIN SPORTS XTRA 2 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS XTRA 2 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936511
-#EXTINF:-1 tvg-id="216546" tvg-name="BEIN SPORTS XTRA 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS XTRA 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/216546
-#EXTINF:-1 tvg-id="193644" tvg-name="BEIN  SPORTS Xtra 3 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS Xtra 3 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/193644
-#EXTINF:-1 tvg-id="83607" tvg-name="BEIN  SPORTS Xtra 3 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS Xtra 3 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83607
-#EXTINF:-1 tvg-id="83620" tvg-name="BEIN  SPORTS Xtra 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS Xtra 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83620
-#EXTINF:-1 tvg-id="1763628" tvg-name="BEIN SPORTS Xtra 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 4 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763628
-#EXTINF:-1 tvg-id="1763635" tvg-name="BEIN SPORTS Xtra 4 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 4 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763635
-#EXTINF:-1 tvg-id="1763621" tvg-name="BEIN SPORTS Xtra 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763621
-#EXTINF:-1 tvg-id="1763627" tvg-name="BEIN SPORTS Xtra 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 5 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763627
-#EXTINF:-1 tvg-id="1763634" tvg-name="BEIN SPORTS Xtra 5 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 5 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763634
-#EXTINF:-1 tvg-id="1763620" tvg-name="BEIN SPORTS Xtra 5 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 5 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763620
-#EXTINF:-1 tvg-id="1763626" tvg-name="BEIN SPORTS Xtra 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 6 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763626
-#EXTINF:-1 tvg-id="1763633" tvg-name="BEIN SPORTS Xtra 6 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 6 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763633
-#EXTINF:-1 tvg-id="1763619" tvg-name="BEIN SPORTS Xtra 6 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 6 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763619
-#EXTINF:-1 tvg-id="1763625" tvg-name="BEIN SPORTS Xtra 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 7 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763625
-#EXTINF:-1 tvg-id="1763632" tvg-name="BEIN SPORTS Xtra 7 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 7 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763632
-#EXTINF:-1 tvg-id="1763618" tvg-name="BEIN SPORTS Xtra 7 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 7 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763618
-#EXTINF:-1 tvg-id="1763624" tvg-name="BEIN SPORTS Xtra 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 8 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763624
-#EXTINF:-1 tvg-id="1763631" tvg-name="BEIN SPORTS Xtra 8 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 8 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763631
-#EXTINF:-1 tvg-id="1763617" tvg-name="BEIN SPORTS Xtra 8 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 8 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763617
-#EXTINF:-1 tvg-id="1763623" tvg-name="BEIN SPORTS Xtra 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 9 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763623
-#EXTINF:-1 tvg-id="1763630" tvg-name="BEIN SPORTS Xtra 9 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 9 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763630
-#EXTINF:-1 tvg-id="1763616" tvg-name="BEIN SPORTS Xtra 9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 9 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763616
-#EXTINF:-1 tvg-id="1763622" tvg-name="BEIN SPORTS Xtra 10 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS Xtra 10 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763622
-#EXTINF:-1 tvg-id="1763629" tvg-name="BEIN SPORTS Xtra 10 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS Xtra 10 HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763629
-#EXTINF:-1 tvg-id="1763615" tvg-name="BEIN SPORTS Xtra 10 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN SPORTS Xtra 10 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1763615
-#EXTINF:-1 tvg-id="963572" tvg-name="FR- 6TER FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/6TER.png" group-title="FR_ GENERAL", FR- 6TER FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963572
-#EXTINF:-1 tvg-id="963571" tvg-name="FR- 6TER HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/6TER.png" group-title="FR_ GENERAL", FR- 6TER HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963571
-#EXTINF:-1 tvg-id="963570" tvg-name="FR- 6TER SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/6TER.png" group-title="FR_ GENERAL", FR- 6TER SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963570
-#EXTINF:-1 tvg-id="968992" tvg-name="FR- 13EME RUE  FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/13-EME-RUE.png" group-title="FR_ GENERAL", FR- 13EME RUE  FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/968992
-#EXTINF:-1 tvg-id="968993" tvg-name="FR- 13EME RUE  HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/13-EME-RUE.png" group-title="FR_ GENERAL", FR- 13EME RUE  HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/968993
-#EXTINF:-1 tvg-id="968994" tvg-name="FR- 13EME RUE  SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/13-EME-RUE.png" group-title="FR_ GENERAL", FR- 13EME RUE  SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/968994
-#EXTINF:-1 tvg-id="963662" tvg-name="FR- A+ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbLhDx_OhgjxwRyXCWCLrAJfNwyudn6xWOg&s" group-title="FR_ GENERAL", FR- A+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963662
-#EXTINF:-1 tvg-id="963661" tvg-name="FR- A+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbLhDx_OhgjxwRyXCWCLrAJfNwyudn6xWOg&s" group-title="FR_ GENERAL", FR- A+ HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963661
-#EXTINF:-1 tvg-id="963660" tvg-name="FR- A+ SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbLhDx_OhgjxwRyXCWCLrAJfNwyudn6xWOg&s" group-title="FR_ GENERAL", FR- A+ SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963660
-#EXTINF:-1 tvg-id="963590" tvg-name="FR- AB1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AB1.png" group-title="FR_ GENERAL", FR- AB1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963590
-#EXTINF:-1 tvg-id="963589" tvg-name="FR- AB1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AB1.png" group-title="FR_ GENERAL", FR- AB1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963589
-#EXTINF:-1 tvg-id="963588" tvg-name="FR- AB1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AB1.png" group-title="FR_ GENERAL", FR- AB1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963588
-#EXTINF:-1 tvg-id="963893" tvg-name="FR- ACTION FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/ACTIONHD-1.png" group-title="FR_ CINEMA", FR- ACTION FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963893
-#EXTINF:-1 tvg-id="963892" tvg-name="FR- ACTION HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/ACTIONHD-1.png" group-title="FR_ CINEMA", FR- ACTION HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963892
-#EXTINF:-1 tvg-id="963891" tvg-name="FR- ACTION SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/ACTIONHD-1.png" group-title="FR_ CINEMA", FR- ACTION SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963891
-#EXTINF:-1 tvg-id="963665" tvg-name="FR- ARTE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ARTE.png" group-title="FR_ GENERAL", FR- ARTE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963665
-#EXTINF:-1 tvg-id="963664" tvg-name="FR- ARTE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/ARTEHD.png" group-title="FR_ GENERAL", FR- ARTE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963664
-#EXTINF:-1 tvg-id="963663" tvg-name="FR- ARTE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/ARTEHD.png" group-title="FR_ GENERAL", FR- ARTE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963663
-#EXTINF:-1 tvg-id="963941" tvg-name="FR- AUTO MOTO LA CHAINE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AUTOMOTO.png" group-title="FR_ SPORTS", FR- AUTO MOTO LA CHAINE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963941
-#EXTINF:-1 tvg-id="963940" tvg-name="FR- AUTO MOTO LA CHAINE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AUTOMOTO.png" group-title="FR_ SPORTS", FR- AUTO MOTO LA CHAINE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963940
-#EXTINF:-1 tvg-id="963939" tvg-name="FR- AUTO MOTO LA CHAINE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/AUTOMOTO.png" group-title="FR_ SPORTS", FR- AUTO MOTO LA CHAINE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963939
-#EXTINF:-1 tvg-id="121403" tvg-name="FR- BEIN SPORT 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORT 1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121403
-#EXTINF:-1 tvg-id="121404" tvg-name="FR- BEIN SPORT 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORT 2 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121404
-#EXTINF:-1 tvg-id="121405" tvg-name="FR- BEIN SPORT 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORT 3 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121405
-#EXTINF:-1 tvg-id="962495" tvg-name="FR- BEIN  SPORTS 1 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 1 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962495
-#EXTINF:-1 tvg-id="52862" tvg-name="FR- BEIN  SPORTS 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52862
-#EXTINF:-1 tvg-id="65653" tvg-name="FR- BEIN  SPORTS 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65653
-#EXTINF:-1 tvg-id="962496" tvg-name="FR- BEIN  SPORTS 2 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 2 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962496
-#EXTINF:-1 tvg-id="52861" tvg-name="FR- BEIN  SPORTS 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52861
-#EXTINF:-1 tvg-id="65652" tvg-name="FR- BEIN  SPORTS 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65652
-#EXTINF:-1 tvg-id="52860" tvg-name="FR- BEIN  SPORTS 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52860
-#EXTINF:-1 tvg-id="65651" tvg-name="FR- BEIN  SPORTS 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 3 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65651
-#EXTINF:-1 tvg-id="962498" tvg-name="FR- BEIN  SPORTS MAX 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 4 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962498
-#EXTINF:-1 tvg-id="936417" tvg-name="FR- BEIN  SPORTS MAX 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936417
-#EXTINF:-1 tvg-id="65650" tvg-name="FR- BEIN  SPORTS MAX 4 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 4 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65650
-#EXTINF:-1 tvg-id="936424" tvg-name="FR- BEIN  SPORTS MAX 4 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 4 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936424
-#EXTINF:-1 tvg-id="962499" tvg-name="FR- BEIN  SPORTS MAX 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 5 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962499
-#EXTINF:-1 tvg-id="936421" tvg-name="FR- BEIN  SPORTS MAX 5 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 5 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936421
-#EXTINF:-1 tvg-id="65649" tvg-name="FR- BEIN  SPORTS MAX 5 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 5 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65649
-#EXTINF:-1 tvg-id="936428" tvg-name="FR- BEIN  SPORTS MAX 5 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 5 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936428
-#EXTINF:-1 tvg-id="962500" tvg-name="FR- BEIN  SPORTS MAX 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 6 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962500
-#EXTINF:-1 tvg-id="936420" tvg-name="FR- BEIN  SPORTS MAX 6 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 6 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936420
-#EXTINF:-1 tvg-id="65648" tvg-name="FR- BEIN  SPORTS MAX 6 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 6 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65648
-#EXTINF:-1 tvg-id="936427" tvg-name="FR- BEIN  SPORTS MAX 6 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 6 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936427
-#EXTINF:-1 tvg-id="962501" tvg-name="FR- BEIN  SPORTS MAX 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 7 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962501
-#EXTINF:-1 tvg-id="936419" tvg-name="FR- BEIN  SPORTS MAX 7 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 7 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936419
-#EXTINF:-1 tvg-id="65647" tvg-name="FR- BEIN  SPORTS MAX 7 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 7 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65647
-#EXTINF:-1 tvg-id="936426" tvg-name="FR- BEIN  SPORTS MAX 7 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 7 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936426
-#EXTINF:-1 tvg-id="962502" tvg-name="FR- BEIN  SPORTS MAX 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 8 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962502
-#EXTINF:-1 tvg-id="936418" tvg-name="FR- BEIN  SPORTS MAX 8 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 8 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936418
-#EXTINF:-1 tvg-id="65646" tvg-name="FR- BEIN  SPORTS MAX 8 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 8 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65646
-#EXTINF:-1 tvg-id="936425" tvg-name="FR- BEIN  SPORTS MAX 8 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 8 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936425
-#EXTINF:-1 tvg-id="962503" tvg-name="FR- BEIN SPORTS MAX 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORTS MAX 9 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962503
-#EXTINF:-1 tvg-id="936422" tvg-name="FR- BEIN SPORTS MAX 9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORTS MAX 9 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936422
-#EXTINF:-1 tvg-id="402311" tvg-name="FR- BEIN SPORTS MAX 9 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORTS MAX 9 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/402311
-#EXTINF:-1 tvg-id="936429" tvg-name="FR- BEIN SPORTS MAX 9 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN SPORTS MAX 9 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936429
-#EXTINF:-1 tvg-id="962504" tvg-name="FR- BEIN  SPORTS MAX 10 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 10 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962504
-#EXTINF:-1 tvg-id="936423" tvg-name="FR- BEIN  SPORTS MAX 10 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 10 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936423
-#EXTINF:-1 tvg-id="402312" tvg-name="FR- BEIN  SPORTS MAX 10 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 10 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/402312
-#EXTINF:-1 tvg-id="936430" tvg-name="FR- BEIN  SPORTS MAX 10 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS MAX 10 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936430
-#EXTINF:-1 tvg-id="963641" tvg-name="FR- BET FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/BET.png" group-title="FR_ GENERAL", FR- BET FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963641
-#EXTINF:-1 tvg-id="963640" tvg-name="FR- BET HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/BET.png" group-title="FR_ GENERAL", FR- BET HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963640
-#EXTINF:-1 tvg-id="963639" tvg-name="FR- BET SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/BET.png" group-title="FR_ GENERAL", FR- BET SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963639
-#EXTINF:-1 tvg-id="963599" tvg-name="FR- C8 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/C8.jpg" group-title="FR_ GENERAL", FR- C8 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963599
-#EXTINF:-1 tvg-id="963598" tvg-name="FR- C8 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/C8.jpg" group-title="FR_ GENERAL", FR- C8 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963598
-#EXTINF:-1 tvg-id="963597" tvg-name="FR- C8 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/C8.jpg" group-title="FR_ GENERAL", FR- C8 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963597
-#EXTINF:-1 tvg-id="963839" tvg-name="FR- CANAL+ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+.png" group-title="FR_ CINEMA", FR- CANAL+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963839
-#EXTINF:-1 tvg-id="963838" tvg-name="FR- CANAL+ HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+.png" group-title="FR_ CINEMA", FR- CANAL+ HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963838
-#EXTINF:-1 tvg-id="963837" tvg-name="FR- CANAL+ SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+.png" group-title="FR_ CINEMA", FR- CANAL+ SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963837
-#EXTINF:-1 tvg-id="963848" tvg-name="FR- CANAL+ BOX OFFICE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="FR_ CINEMA", FR- CANAL+ BOX OFFICE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963848
-#EXTINF:-1 tvg-id="963847" tvg-name="FR- CANAL+ BOX OFFICE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="FR_ CINEMA", FR- CANAL+ BOX OFFICE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963847
-#EXTINF:-1 tvg-id="963846" tvg-name="FR- CANAL+ BOX OFFICE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-BOX-OFFICE-FHD.png" group-title="FR_ CINEMA", FR- CANAL+ BOX OFFICE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963846
-#EXTINF:-1 tvg-id="963851" tvg-name="FR- CANAL+ CINEMA FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_cinema.png" group-title="FR_ CINEMA", FR- CANAL+ CINEMA FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963851
-#EXTINF:-1 tvg-id="963850" tvg-name="FR- CANAL+ CINEMA HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_cinema.png" group-title="FR_ CINEMA", FR- CANAL+ CINEMA HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963850
-#EXTINF:-1 tvg-id="963849" tvg-name="FR- CANAL+ CINEMA SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_cinema.png" group-title="FR_ CINEMA", FR- CANAL+ CINEMA SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963849
-#EXTINF:-1 tvg-id="963902" tvg-name="FR- CANAL+ FOOT FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-FOOT.png" group-title="FR_ SPORTS", FR- CANAL+ FOOT FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963902
-#EXTINF:-1 tvg-id="963901" tvg-name="FR- CANAL+ FOOT HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-FOOT.png" group-title="FR_ SPORTS", FR- CANAL+ FOOT HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963901
-#EXTINF:-1 tvg-id="963900" tvg-name="FR- CANAL+ FOOT SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-FOOT.png" group-title="FR_ SPORTS", FR- CANAL+ FOOT SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963900
-#EXTINF:-1 tvg-id="963845" tvg-name="FR- CANAL+ GRAND ECRAN FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/LCanal+Grand-%C3%89cran.png" group-title="FR_ CINEMA", FR- CANAL+ GRAND ECRAN FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963845
-#EXTINF:-1 tvg-id="963844" tvg-name="FR- CANAL+ GRAND ECRAN HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/LCanal+Grand-%C3%89cran.png" group-title="FR_ CINEMA", FR- CANAL+ GRAND ECRAN HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963844
-#EXTINF:-1 tvg-id="963843" tvg-name="FR- CANAL+ GRAND ECRAN SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/LCanal+Grand-%C3%89cran.png" group-title="FR_ CINEMA", FR- CANAL+ GRAND ECRAN SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963843
-#EXTINF:-1 tvg-id="963854" tvg-name="FR- CANAL + KIDS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_Kids.png" group-title="FR_ CINEMA", FR- CANAL + KIDS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963854
-#EXTINF:-1 tvg-id="963853" tvg-name="FR- CANAL + KIDS HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_Kids.png" group-title="FR_ CINEMA", FR- CANAL + KIDS HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963853
-#EXTINF:-1 tvg-id="963852" tvg-name="FR- CANAL + KIDS  SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Canal+_Kids.png" group-title="FR_ CINEMA", FR- CANAL + KIDS  SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963852
-#EXTINF:-1 tvg-id="1551388" tvg-name="FR- CANAL+ LIVE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 1
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551388
-#EXTINF:-1 tvg-id="1865769" tvg-name="FR- CANAL+ LIVE 1 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 1 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865769
-#EXTINF:-1 tvg-id="1551387" tvg-name="FR- CANAL+ LIVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 2
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551387
-#EXTINF:-1 tvg-id="1865768" tvg-name="FR- CANAL+ LIVE 2 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 2 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865768
-#EXTINF:-1 tvg-id="1551386" tvg-name="FR- CANAL+ LIVE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 3
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551386
-#EXTINF:-1 tvg-id="1865767" tvg-name="FR- CANAL+ LIVE 3 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 3 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865767
-#EXTINF:-1 tvg-id="1551369" tvg-name="FR- CANAL+ LIVE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 4
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551369
-#EXTINF:-1 tvg-id="1865766" tvg-name="FR- CANAL+ LIVE 4 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 4 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865766
-#EXTINF:-1 tvg-id="1551385" tvg-name="FR- CANAL+ LIVE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 5
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551385
-#EXTINF:-1 tvg-id="1865765" tvg-name="FR- CANAL+ LIVE 5 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 5 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865765
-#EXTINF:-1 tvg-id="1551384" tvg-name="FR- CANAL+ LIVE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 6
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551384
-#EXTINF:-1 tvg-id="1865764" tvg-name="FR- CANAL+ LIVE 6 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 6 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865764
-#EXTINF:-1 tvg-id="1551383" tvg-name="FR- CANAL+ LIVE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 7
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551383
-#EXTINF:-1 tvg-id="1865763" tvg-name="FR- CANAL+ LIVE 7 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 7 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865763
-#EXTINF:-1 tvg-id="1551381" tvg-name="FR- CANAL+ LIVE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 8
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551381
-#EXTINF:-1 tvg-id="1865762" tvg-name="FR- CANAL+ LIVE 8 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 8 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865762
-#EXTINF:-1 tvg-id="1551380" tvg-name="FR- CANAL+ LIVE 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 9
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551380
-#EXTINF:-1 tvg-id="1865761" tvg-name="FR- CANAL+ LIVE 9 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 9 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865761
-#EXTINF:-1 tvg-id="1551379" tvg-name="FR- CANAL+ LIVE 10" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="EU- FR CANAL+ LIVE", FR- CANAL+ LIVE 10
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551379
-#EXTINF:-1 tvg-id="1865760" tvg-name="FR- CANAL+ LIVE 10 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 10 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865760
-#EXTINF:-1 tvg-id="1551378" tvg-name="FR- CANAL+ LIVE 11" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="EU- FR CANAL+ LIVE", FR- CANAL+ LIVE 11
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551378
-#EXTINF:-1 tvg-id="1865759" tvg-name="FR- CANAL+ LIVE 11 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 11 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865759
-#EXTINF:-1 tvg-id="1551377" tvg-name="FR- CANAL+ LIVE 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 12
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551377
-#EXTINF:-1 tvg-id="1865758" tvg-name="FR- CANAL+ LIVE 12 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 12 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865758
-#EXTINF:-1 tvg-id="1551376" tvg-name="FR- CANAL+ LIVE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 13
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551376
-#EXTINF:-1 tvg-id="1865757" tvg-name="FR- CANAL+ LIVE 13 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 13 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865757
-#EXTINF:-1 tvg-id="1551375" tvg-name="FR- CANAL+ LIVE 14" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 14
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551375
-#EXTINF:-1 tvg-id="1865756" tvg-name="FR- CANAL+ LIVE 14 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 14 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865756
-#EXTINF:-1 tvg-id="1551374" tvg-name="FR- CANAL+ LIVE 15" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 15
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551374
-#EXTINF:-1 tvg-id="1865755" tvg-name="FR- CANAL+ LIVE 15 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 15 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865755
-#EXTINF:-1 tvg-id="1551373" tvg-name="FR- CANAL+ LIVE 16" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 16
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551373
-#EXTINF:-1 tvg-id="1865754" tvg-name="FR- CANAL+ LIVE 16 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 16 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865754
-#EXTINF:-1 tvg-id="1551372" tvg-name="FR- CANAL+ LIVE 17" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 17
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551372
-#EXTINF:-1 tvg-id="1865753" tvg-name="FR- CANAL+ LIVE 17 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 17 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865753
-#EXTINF:-1 tvg-id="1551371" tvg-name="FR- CANAL+ LIVE 18" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 18
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551371
-#EXTINF:-1 tvg-id="1865752" tvg-name="FR- CANAL+ LIVE 18 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 18 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865752
-#EXTINF:-1 tvg-id="1551370" tvg-name="FR- CANAL+ LIVE 19" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 19
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1551370
-#EXTINF:-1 tvg-id="1865751" tvg-name="FR- CANAL+ LIVE 19 (backup 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Canal_Plus_Sport_2009.svg/308px-Canal_Plus_Sport_2009.svg.png?20101231190900" group-title="FR_ CANAL+ LIVE", FR- CANAL+ LIVE 19 (backup 1)
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1865751
-#EXTINF:-1 tvg-id="963908" tvg-name="FR- CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/canalpluspremierleague.png" group-title="FR_ SPORTS", FR- CANAL+ PREMIER LEAGUE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963908
-#EXTINF:-1 tvg-id="963907" tvg-name="FR- CANAL+ PREMIER LEAGUE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/canalpluspremierleague.png" group-title="FR_ SPORTS", FR- CANAL+ PREMIER LEAGUE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963907
-#EXTINF:-1 tvg-id="963906" tvg-name="FR- CANAL+ PREMIER LEAGUE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/canalpluspremierleague.png" group-title="EU- FR SPORTS", FR- CANAL+ PREMIER LEAGUE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963906
-#EXTINF:-1 tvg-id="963842" tvg-name="FR- CANAL+ SERIE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-SERIES.png" group-title="FR_ CINEMA", FR- CANAL+ SERIE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963842
-#EXTINF:-1 tvg-id="963841" tvg-name="FR- CANAL+ SERIES HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-SERIES.png" group-title="FR_ CINEMA", FR- CANAL+ SERIES HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963841
-#EXTINF:-1 tvg-id="963840" tvg-name="FR- CANAL+ SERIES SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL+-SERIES.png" group-title="FR_ CINEMA", FR- CANAL+ SERIES SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963840
-#EXTINF:-1 tvg-id="963899" tvg-name="FR- CANAL+ SPORT FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANALHD.png" group-title="FR_ SPORTS", FR- CANAL+ SPORT FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963899
-#EXTINF:-1 tvg-id="963898" tvg-name="FR- CANAL+ SPORT HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANALHD.png" group-title="FR_ SPORTS", FR- CANAL+ SPORT HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963898
-#EXTINF:-1 tvg-id="963897" tvg-name="FR- CANAL+ SPORT SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANALHD.png" group-title="FR_ SPORTS", FR- CANAL+ SPORT SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963897
-#EXTINF:-1 tvg-id="963905" tvg-name="FR-  CANAL+ SPORT 360 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-360.png" group-title="FR_ SPORTS", FR-  CANAL+ SPORT 360 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963905
-#EXTINF:-1 tvg-id="963904" tvg-name="FR- CANAL+ SPORT 360 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-360.png" group-title="FR_ SPORTS", FR- CANAL+ SPORT 360 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963904
-#EXTINF:-1 tvg-id="963903" tvg-name="FR- CANAL+ SPORT 360 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CANAL-360.png" group-title="FR_ SPORTS", FR- CANAL+ SPORT 360 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963903
-#EXTINF:-1 tvg-id="963632" tvg-name="FR- CHERIE 25 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CH%C3%89RIE-25.png" group-title="FR_ GENERAL", FR- CHERIE 25 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963632
-#EXTINF:-1 tvg-id="963631" tvg-name="FR- CHERIE 25 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CH%C3%89RIE-25.png" group-title="FR_ GENERAL", FR- CHERIE 25 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963631
-#EXTINF:-1 tvg-id="963630" tvg-name="FR- CHERIE 25 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CH%C3%89RIE-25.png" group-title="FR_ GENERAL", FR- CHERIE 25 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963630
-#EXTINF:-1 tvg-id="963869" tvg-name="FR- CINE+ CLASSIC FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLASSIC.png" group-title="FR_ CINEMA", FR- CINE+ CLASSIC FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963869
-#EXTINF:-1 tvg-id="963868" tvg-name="FR- CINE+ CLASSIC HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLASSIC.png" group-title="FR_ CINEMA", FR- CINE+ CLASSIC HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963868
-#EXTINF:-1 tvg-id="963867" tvg-name="FR- CINE+ CLASSIC SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLASSIC.png" group-title="FR_ CINEMA", FR- CINE+ CLASSIC SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963867
-#EXTINF:-1 tvg-id="963872" tvg-name="FR- CINE+ CLUB FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLUB.png" group-title="FR_ CINEMA", FR- CINE+ CLUB FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963872
-#EXTINF:-1 tvg-id="963871" tvg-name="FR- CINE+ CLUB HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLUB.png" group-title="FR_ CINEMA", FR- CINE+ CLUB HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963871
-#EXTINF:-1 tvg-id="963870" tvg-name="FR- CINE+ CLUB SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINECLUB.png" group-title="FR_ CINEMA", FR- CINE+ CLUB SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963870
-#EXTINF:-1 tvg-id="963863" tvg-name="FR- CINE+ EMOTION FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEEMOTION.png" group-title="FR_ CINEMA", FR- CINE+ EMOTION FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963863
-#EXTINF:-1 tvg-id="963862" tvg-name="FR- CINE+ EMOTION HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEEMOTION.png" group-title="FR_ CINEMA", FR- CINE+ EMOTION HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963862
-#EXTINF:-1 tvg-id="963861" tvg-name="FR- CINE+ EMOTION SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEEMOTION.png" group-title="FR_ CINEMA", FR- CINE+ EMOTION SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963861
-#EXTINF:-1 tvg-id="963866" tvg-name="FR- CINE+ FAMIZ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEFAMIZ.png" group-title="FR_ CINEMA", FR- CINE+ FAMIZ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963866
-#EXTINF:-1 tvg-id="963865" tvg-name="FR- CINE+ FAMIZ HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEFAMIZ.png" group-title="FR_ CINEMA", FR- CINE+ FAMIZ HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963865
-#EXTINF:-1 tvg-id="963864" tvg-name="FR- CINE+ FAMIZ SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cineplusfamiz.png" group-title="FR_ CINEMA", FR- CINE+ FAMIZ SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963864
-#EXTINF:-1 tvg-id="963860" tvg-name="FR- CINE+ FRISSON FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cineplusfrisson.png" group-title="FR_ CINEMA", FR- CINE+ FRISSON FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963860
-#EXTINF:-1 tvg-id="963859" tvg-name="FR- CINE+ FRISSON HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEFRISSON.png" group-title="FR_ CINEMA", FR- CINE+ FRISSON HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963859
-#EXTINF:-1 tvg-id="963858" tvg-name="FR- CINE+ FRISSON SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEFRISSON.png" group-title="FR_ CINEMA", FR- CINE+ FRISSON SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963858
-#EXTINF:-1 tvg-id="963857" tvg-name="FR- CINE+ PREMIER FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEPREMIER.png" group-title="FR_ CINEMA", FR- CINE+ PREMIER FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963857
-#EXTINF:-1 tvg-id="963856" tvg-name="FR- CINE+ PREMIER HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEPREMIER.png" group-title="FR_ CINEMA", FR- CINE+ PREMIER HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963856
-#EXTINF:-1 tvg-id="963855" tvg-name="FR- CINE+ PREMIER SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CINEPREMIER.png" group-title="FR_ CINEMA", FR- CINE+ PREMIER SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963855
-#EXTINF:-1 tvg-id="963626" tvg-name="FR- COMEDIE+ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/COMEDIE+.png" group-title="FR_ GENERAL", FR- COMEDIE+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963626
-#EXTINF:-1 tvg-id="963625" tvg-name="FR- COMEDIE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/COMEDIE+.png" group-title="FR_ GENERAL", FR- COMEDIE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963625
-#EXTINF:-1 tvg-id="963624" tvg-name="FR- COMEDIE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/COMEDIE+.png" group-title="FR_ GENERAL", FR- COMEDIE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963624
-#EXTINF:-1 tvg-id="2017593" tvg-name="FR- Comedy Central FHD" tvg-logo="" group-title="FR_ CINEMA", FR- Comedy Central FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/2017593
-#EXTINF:-1 tvg-id="2017592" tvg-name="FR- Comedy Central HD" tvg-logo="" group-title="FR_ CINEMA", FR- Comedy Central HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/2017592
-#EXTINF:-1 tvg-id="2017591" tvg-name="FR- Comedy Central SD" tvg-logo="" group-title="FR_ CINEMA", FR- Comedy Central SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/2017591
-#EXTINF:-1 tvg-id="963602" tvg-name="FR- CSTAR FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CSTAR.png" group-title="FR_ GENERAL", FR- CSTAR FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963602
-#EXTINF:-1 tvg-id="963601" tvg-name="FR- CSTAR HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CSTAR.png" group-title="FR_ GENERAL", FR- CSTAR HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963601
-#EXTINF:-1 tvg-id="963600" tvg-name="FR- CSTAR SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/CSTAR.png" group-title="FR_ GENERAL", FR- CSTAR SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963600
-#EXTINF:-1 tvg-id="963947" tvg-name="FR- EQUIDIA LIVE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR_ SPORTS", FR- EQUIDIA LIVE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963947
-#EXTINF:-1 tvg-id="963946" tvg-name="FR- EQUIDIA LIVE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR_ SPORTS", FR- EQUIDIA LIVE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963946
-#EXTINF:-1 tvg-id="963945" tvg-name="FR- EQUIDIA LIVE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EQUIDIALIVEFHD.png" group-title="FR_ SPORTS", FR- EQUIDIA LIVE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963945
-#EXTINF:-1 tvg-id="963923" tvg-name="FR- EUROSPORT 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT1HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963923
-#EXTINF:-1 tvg-id="963922" tvg-name="FR- EUROSPORT 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT1HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963922
-#EXTINF:-1 tvg-id="963921" tvg-name="FR- EUROSPORT 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT1HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963921
-#EXTINF:-1 tvg-id="963926" tvg-name="FR- EUROSPORT 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT2HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963926
-#EXTINF:-1 tvg-id="963925" tvg-name="FR- EUROSPORT 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT2HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963925
-#EXTINF:-1 tvg-id="963924" tvg-name="FR- EUROSPORT 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/EUROSPORT2HD.png" group-title="FR_ SPORTS", FR- EUROSPORT 2 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963924
-#EXTINF:-1 tvg-id="963557" tvg-name="FR- FRANCE 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE2FHD.png" group-title="FR_ GENERAL", FR- FRANCE 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963557
-#EXTINF:-1 tvg-id="963556" tvg-name="FR- FRANCE 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE2FHD.png" group-title="FR_ GENERAL", FR- FRANCE 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963556
-#EXTINF:-1 tvg-id="963555" tvg-name="FR- FRANCE 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE2FHD.png" group-title="FR_ GENERAL", FR- FRANCE 2 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963555
-#EXTINF:-1 tvg-id="963560" tvg-name="FR- FRANCE 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE3FHD.png" group-title="FR_ GENERAL", FR- FRANCE 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963560
-#EXTINF:-1 tvg-id="963559" tvg-name="FR- FRANCE 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE3FHD.png" group-title="FR_ GENERAL", FR- FRANCE 3 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963559
-#EXTINF:-1 tvg-id="963558" tvg-name="FR- FRANCE 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE3FHD.png" group-title="FR_ GENERAL", FR- FRANCE 3 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963558
-#EXTINF:-1 tvg-id="963563" tvg-name="FR- FRANCE 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE4FHD.png" group-title="FR_ GENERAL", FR- FRANCE 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963563
-#EXTINF:-1 tvg-id="963562" tvg-name="FR- FRANCE 4 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE4FHD.png" group-title="FR_ GENERAL", FR- FRANCE 4 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963562
-#EXTINF:-1 tvg-id="963561" tvg-name="FR- FRANCE 4 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE4FHD.png" group-title="FR_ GENERAL", FR- FRANCE 4 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963561
-#EXTINF:-1 tvg-id="963566" tvg-name="FR- FRANCE 5 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE5FHD.png" group-title="FR_ GENERAL", FR- FRANCE 5 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963566
-#EXTINF:-1 tvg-id="963565" tvg-name="FR- FRANCE 5 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE5FHD.png" group-title="FR_ GENERAL", FR- FRANCE 5 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963565
-#EXTINF:-1 tvg-id="963564" tvg-name="FR- FRANCE 5 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/FRANCE5FHD.png" group-title="FR_ GENERAL", FR- FRANCE 5 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963564
-#EXTINF:-1 tvg-id="963935" tvg-name="FR- GOLF+ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/GOLF+.png" group-title="FR_ SPORTS", FR- GOLF+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963935
-#EXTINF:-1 tvg-id="963934" tvg-name="FR- GOLF + HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/GOLF+.png" group-title="FR_ SPORTS", FR- GOLF + HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963934
-#EXTINF:-1 tvg-id="963933" tvg-name="FR- GOLF + SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/GOLF+.png" group-title="FR_ SPORTS", FR- GOLF + SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963933
-#EXTINF:-1 tvg-id="963932" tvg-name="FR- GOLF CHANNEL FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Golf_Channel_Logo.png" group-title="FR_ SPORTS", FR- GOLF CHANNEL FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963932
-#EXTINF:-1 tvg-id="963931" tvg-name="FR- GOLF CHANNEL HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Golf_Channel_Logo.png" group-title="FR_ SPORTS", FR- GOLF CHANNEL HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963931
-#EXTINF:-1 tvg-id="963930" tvg-name="FR- GOLF CHANNEL SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/Golf_Channel_Logo.png" group-title="FR_ SPORTS", FR- GOLF CHANNEL SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963930
-#EXTINF:-1 tvg-id="964409" tvg-name="FR-  INFOSPORT+ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/INFOSPORT+.png" group-title="FR_ SPORTS", FR-  INFOSPORT+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/964409
-#EXTINF:-1 tvg-id="964408" tvg-name="FR- INFOSPORT+ HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/INFOSPORT+.png" group-title="FR_ SPORTS", FR- INFOSPORT+ HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/964408
-#EXTINF:-1 tvg-id="964407" tvg-name="FR- INFOSPORT+ SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/INFOSPORT+.png" group-title="FR_ SPORTS", FR- INFOSPORT+ SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/964407
-#EXTINF:-1 tvg-id="963929" tvg-name="FR- L'EQUIPE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/L_EQUIPE.png" group-title="FR_ SPORTS", FR- L'EQUIPE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963929
-#EXTINF:-1 tvg-id="963928" tvg-name="FR- L'EQUIPE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/L_EQUIPE.png" group-title="FR_ SPORTS", FR- L'EQUIPE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963928
-#EXTINF:-1 tvg-id="963927" tvg-name="FR- L'EQUIPE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/L_EQUIPE.png" group-title="FR_ SPORTS", FR- L'EQUIPE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963927
-#EXTINF:-1 tvg-id="1661086" tvg-name="FR- L' EQUIPE LIVE 1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/L_EQUIPE.png" group-title="FR_ SPORTS", FR- L' EQUIPE LIVE 1
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1661086
-#EXTINF:-1 tvg-id="1661087" tvg-name="FR- L' EQUIPE LIVE 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/L_EQUIPE.png" group-title="FR_ SPORTS", FR- L' EQUIPE LIVE 2
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1661087
-#EXTINF:-1 tvg-id="963569" tvg-name="FR- M6 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/M6.png" group-title="FR_ GENERAL", FR- M6 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963569
-#EXTINF:-1 tvg-id="963568" tvg-name="FR- M6 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/M6.png" group-title="FR_ GENERAL", FR- M6 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963568
-#EXTINF:-1 tvg-id="963567" tvg-name="FR- M6 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/M6.png" group-title="FR_ GENERAL", FR- M6 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963567
-#EXTINF:-1 tvg-id="963659" tvg-name="FR- NOLLYWOOD FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nollywood.png" group-title="FR_ GENERAL", FR- NOLLYWOOD FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963659
-#EXTINF:-1 tvg-id="963658" tvg-name="FR- NOLLYWOOD HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nollywood.png" group-title="FR_ GENERAL", FR- NOLLYWOOD HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963658
-#EXTINF:-1 tvg-id="963657" tvg-name="FR- NOLLYWOOD SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nollywood.png" group-title="FR_ GENERAL", FR- NOLLYWOOD SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963657
-#EXTINF:-1 tvg-id="963674" tvg-name="FR- NOVELAS TV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NOVELASTV.png" group-title="FR_ GENERAL", FR- NOVELAS TV FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963674
-#EXTINF:-1 tvg-id="963673" tvg-name="FR- NOVELAS TV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NOVELASTV.png" group-title="FR_ GENERAL", FR- NOVELAS TV HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963673
-#EXTINF:-1 tvg-id="963672" tvg-name="FR- NOVELAS TV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NOVELASTV.png" group-title="FR_ GENERAL", FR- NOVELAS TV SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963672
-#EXTINF:-1 tvg-id="963635" tvg-name="FR- NRJ 12 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NRJ-12.png" group-title="FR_ GENERAL", FR- NRJ 12 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963635
-#EXTINF:-1 tvg-id="963634" tvg-name="FR- NRJ 12 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NRJ-12.png" group-title="FR_ GENERAL", FR- NRJ 12 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963634
-#EXTINF:-1 tvg-id="963633" tvg-name="FR- NRJ 12 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/NRJ-12.png" group-title="FR_ GENERAL", FR- NRJ 12 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963633
-#EXTINF:-1 tvg-id="1843834" tvg-name="FR- OL TV" tvg-logo="data:image/jpeg;base64,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" group-title="FR_ SPORTS", FR- OL TV
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1843834
-#EXTINF:-1 tvg-id="963668" tvg-name="FR- OLYMPIA TV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/OLYMPIA.png" group-title="FR_ GENERAL", FR- OLYMPIA TV FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963668
-#EXTINF:-1 tvg-id="963667" tvg-name="FR- OLYMPIA TV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/OLYMPIA.png" group-title="FR_ GENERAL", FR- OLYMPIA TV HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963667
-#EXTINF:-1 tvg-id="963666" tvg-name="FR- OLYMPIA TV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/OLYMPIA.png" group-title="FR_ GENERAL", FR- OLYMPIA TV SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963666
-#EXTINF:-1 tvg-id="963887" tvg-name="FR- PARAMOUNT CHANNEL FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="FR_ CINEMA", FR- PARAMOUNT CHANNEL FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963887
-#EXTINF:-1 tvg-id="963886" tvg-name="FR- PARAMOUNT CHANNEL HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="FR_ CINEMA", FR- PARAMOUNT CHANNEL HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963886
-#EXTINF:-1 tvg-id="963885" tvg-name="FR- PARAMOUNT CHANNEL SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="FR_ CINEMA", FR- PARAMOUNT CHANNEL SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963885
-#EXTINF:-1 tvg-id="963890" tvg-name="FR- PARAMOUNT DECALE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="FR_ CINEMA", FR- PARAMOUNT DECALE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963890
-#EXTINF:-1 tvg-id="963889" tvg-name="FR- PARAMOUNT DECALE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARAMOUNT-D%C3%89CAL%C3%89.png" group-title="FR_ CINEMA", FR- PARAMOUNT DECALE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963889
-#EXTINF:-1 tvg-id="963888" tvg-name="FR- PARAMOUNT DECALE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/paramount.png" group-title="FR_ CINEMA", FR- PARAMOUNT DECALE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963888
-#EXTINF:-1 tvg-id="963623" tvg-name="FR- PARIS PREMIERE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARISPREMIERE.png" group-title="FR_ GENERAL", FR- PARIS PREMIERE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963623
-#EXTINF:-1 tvg-id="963622" tvg-name="FR- PARIS PREMIERE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARISPREMIERE.png" group-title="FR_ GENERAL", FR- PARIS PREMIERE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963622
-#EXTINF:-1 tvg-id="963621" tvg-name="FR- PARIS PREMIERE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/PARISPREMIERE.png" group-title="FR_ GENERAL", FR- PARIS PREMIERE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963621
-#EXTINF:-1 tvg-id="963620" tvg-name="FR- POLAR+ FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/POLAR.png" group-title="FR_ GENERAL", FR- POLAR+ FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963620
-#EXTINF:-1 tvg-id="963619" tvg-name="FR- POLAR+ HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/POLAR.png" group-title="FR_ GENERAL", FR- POLAR+ HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963619
-#EXTINF:-1 tvg-id="963618" tvg-name="FR- POLAR+ SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/POLAR.png" group-title="FR_ GENERAL", FR- POLAR+ SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963618
-#EXTINF:-1 tvg-id="1992203" tvg-name="FR- RMC ALERTE SECOURS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC ALERTE SECOURS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992203
-#EXTINF:-1 tvg-id="1992202" tvg-name="FR- RMC ALERTE SECOURS HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC ALERTE SECOURS HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992202
-#EXTINF:-1 tvg-id="1992205" tvg-name="FR- RMC J'IRAI DORMIR CHEZ VOUS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC J'IRAI DORMIR CHEZ VOUS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992205
-#EXTINF:-1 tvg-id="1992204" tvg-name="FR- RMC J'IRAI DORMIR CHEZ VOUS HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC J'IRAI DORMIR CHEZ VOUS HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992204
-#EXTINF:-1 tvg-id="1992211" tvg-name="FR- RMC MECANIC FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC MECANIC FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992211
-#EXTINF:-1 tvg-id="1992210" tvg-name="FR- RMC MECANIC HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC MECANIC HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992210
-#EXTINF:-1 tvg-id="1992207" tvg-name="FR- RMC MYSTÈRE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC MYSTÈRE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992207
-#EXTINF:-1 tvg-id="1992206" tvg-name="FR- RMC MYSTÈRE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC MYSTÈRE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992206
-#EXTINF:-1 tvg-id="962618" tvg-name="FR- RMC SPORT 1 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 1 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962618
-#EXTINF:-1 tvg-id="52863" tvg-name="FR- RMC SPORT 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52863
-#EXTINF:-1 tvg-id="65639" tvg-name="FR- RMC SPORT 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65639
-#EXTINF:-1 tvg-id="121406" tvg-name="FR- RMC SPORT 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121406
-#EXTINF:-1 tvg-id="962619" tvg-name="FR- RMC SPORT 2 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 2 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962619
-#EXTINF:-1 tvg-id="52864" tvg-name="FR- RMC SPORT 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52864
-#EXTINF:-1 tvg-id="65638" tvg-name="FR- RMC SPORT 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65638
-#EXTINF:-1 tvg-id="121407" tvg-name="FR- RMC SPORT 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 2 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121407
-#EXTINF:-1 tvg-id="962620" tvg-name="FR- RMC SPORT 3 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 3 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962620
-#EXTINF:-1 tvg-id="52865" tvg-name="FR- RMC SPORT 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52865
-#EXTINF:-1 tvg-id="65637" tvg-name="FR- RMC SPORT 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 3 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65637
-#EXTINF:-1 tvg-id="121408" tvg-name="FR- RMC SPORT 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 3 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121408
-#EXTINF:-1 tvg-id="962621" tvg-name="FR- RMC SPORT 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 4 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962621
-#EXTINF:-1 tvg-id="52866" tvg-name="FR- RMC SPORT 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 4 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/52866
-#EXTINF:-1 tvg-id="65636" tvg-name="FR- RMC SPORT  4 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT  4 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65636
-#EXTINF:-1 tvg-id="121409" tvg-name="FR- RMC SPORT 4 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT 4 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/121409
-#EXTINF:-1 tvg-id="962622" tvg-name="FR- RMC SPORT ACCESS 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT ACCESS 4K
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962622
-#EXTINF:-1 tvg-id="936342" tvg-name="FR- RMC SPORT ACCESS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT ACCESS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936342
-#EXTINF:-1 tvg-id="936354" tvg-name="FR- RMC SPORT ACCESS SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT ACCESS SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936354
-#EXTINF:-1 tvg-id="65635" tvg-name="FR- RMC SPORT ACCESSS HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC SPORT ACCESSS HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/65635
-#EXTINF:-1 tvg-id="963629" tvg-name="FR- RMC STORY FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMCSTORYFHD.png" group-title="FR_ GENERAL", FR- RMC STORY FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963629
-#EXTINF:-1 tvg-id="963628" tvg-name="FR- RMC STORY HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMCSTORYFHD.png" group-title="FR_ GENERAL", FR- RMC STORY HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963628
-#EXTINF:-1 tvg-id="963627" tvg-name="FR- RMC STORY SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMCSTORYFHD.png" group-title="FR_ GENERAL", FR- RMC STORY SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963627
-#EXTINF:-1 tvg-id="1992213" tvg-name="FR- RMC TALK SPORT FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC TALK SPORT FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992213
-#EXTINF:-1 tvg-id="1992212" tvg-name="FR- RMC TALK SPORT HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC TALK SPORT HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992212
-#EXTINF:-1 tvg-id="1992209" tvg-name="FR- RMC WOW FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC WOW FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992209
-#EXTINF:-1 tvg-id="1992208" tvg-name="FR- RMC WOW HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RMC-SPORT-LIVE.png" group-title="FR_ RMC SPORTS", FR- RMC WOW HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1992208
-#EXTINF:-1 tvg-id="963593" tvg-name="FR- RTL9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RTL9.png" group-title="FR_ GENERAL", FR- RTL9 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963593
-#EXTINF:-1 tvg-id="963592" tvg-name="FR- RTL9 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RTL9.png" group-title="FR_ GENERAL", FR- RTL9 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963592
-#EXTINF:-1 tvg-id="963591" tvg-name="FR- RTL9 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/RTL9.png" group-title="FR_ GENERAL", FR- RTL9 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963591
-#EXTINF:-1 tvg-id="963605" tvg-name="FR- SERIE CLUB FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SERIECLUBTV.png" group-title="FR_ GENERAL", FR- SERIE CLUB FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963605
-#EXTINF:-1 tvg-id="963604" tvg-name="FR- SERIE CLUB HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SERIECLUBTV.png" group-title="FR_ GENERAL", FR- SERIE CLUB HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963604
-#EXTINF:-1 tvg-id="963603" tvg-name="FR- SERIE CLUB SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SERIECLUBTV.png" group-title="FR_ GENERAL", FR- SERIE CLUB SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963603
-#EXTINF:-1 tvg-id="963614" tvg-name="FR- SYFY FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SYFYHD.png" group-title="FR_ GENERAL", FR- SYFY FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963614
-#EXTINF:-1 tvg-id="963613" tvg-name="FR- SYFY HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SYFYHD.png" group-title="FR_ GENERAL", FR- SYFY HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963613
-#EXTINF:-1 tvg-id="963612" tvg-name="FR- SYFY SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/SYFYHD.png" group-title="FR_ GENERAL", FR- SYFY SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963612
-#EXTINF:-1 tvg-id="963884" tvg-name="FR- TCM CINEMA FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TCMCINEMATV.png" group-title="FR_ CINEMA", FR- TCM CINEMA FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963884
-#EXTINF:-1 tvg-id="963883" tvg-name="FR- TCM CINEMA HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TCMCINEMATV.png" group-title="FR_ CINEMA", FR- TCM CINEMA HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963883
-#EXTINF:-1 tvg-id="963882" tvg-name="FR- TCM CINEMA SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TCMCINEMATV.png" group-title="FR_ CINEMA", FR- TCM CINEMA SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963882
-#EXTINF:-1 tvg-id="963587" tvg-name="FR- TEVA FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TEVAHD.png" group-title="FR_ GENERAL", FR- TEVA FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963587
-#EXTINF:-1 tvg-id="963586" tvg-name="FR- TEVA HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TEVAHD.png" group-title="FR_ GENERAL", FR- TEVA HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963586
-#EXTINF:-1 tvg-id="963585" tvg-name="FR- TEVA SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TEVAHD.png" group-title="FR_ GENERAL", FR- TEVA SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963585
-#EXTINF:-1 tvg-id="963551" tvg-name="FR- TF1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1.png" group-title="FR_ GENERAL", FR- TF1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963551
-#EXTINF:-1 tvg-id="963550" tvg-name="FR- TF1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1.png" group-title="FR_ GENERAL", FR- TF1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963550
-#EXTINF:-1 tvg-id="963549" tvg-name="FR- TF1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1.png" group-title="FR_ GENERAL", FR- TF1 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963549
-#EXTINF:-1 tvg-id="963584" tvg-name="FR- TF1 SERIES / FILMS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1_SERIE.png" group-title="FR_ GENERAL", FR- TF1 SERIES / FILMS FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963584
-#EXTINF:-1 tvg-id="963583" tvg-name="FR- TF1 SERIES FILMS HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1_SERIE.png" group-title="FR_ GENERAL", FR- TF1 SERIES FILMS HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963583
-#EXTINF:-1 tvg-id="963582" tvg-name="FR- TF1 SERIES FILMS SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TF1_SERIE.png" group-title="FR_ GENERAL", FR- TF1 SERIES FILMS SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963582
-#EXTINF:-1 tvg-id="963581" tvg-name="FR- TFX FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TFX.png" group-title="FR_ GENERAL", FR- TFX FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963581
-#EXTINF:-1 tvg-id="963580" tvg-name="FR- TFX HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TFX.png" group-title="FR_ GENERAL", FR- TFX HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963580
-#EXTINF:-1 tvg-id="963579" tvg-name="FR- TFX SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TFX.png" group-title="FR_ GENERAL", FR- TFX SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963579
-#EXTINF:-1 tvg-id="1849279" tvg-name="FR- TLC FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tlcnorge.png" group-title="FR_ GENERAL", FR- TLC FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1849279
-#EXTINF:-1 tvg-id="1849277" tvg-name="FR- TLC HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tlcnorge.png" group-title="FR_ GENERAL", FR- TLC HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1849277
-#EXTINF:-1 tvg-id="1849278" tvg-name="FR- TLC SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tlcnorge.png" group-title="FR_ GENERAL", FR- TLC SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1849278
-#EXTINF:-1 tvg-id="963575" tvg-name="FR- TMC FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TMC.png" group-title="FR_ GENERAL", FR- TMC FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963575
-#EXTINF:-1 tvg-id="963574" tvg-name="FR- TMC HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TMC.png" group-title="FR_ GENERAL", FR- TMC HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963574
-#EXTINF:-1 tvg-id="963573" tvg-name="FR- TMC SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TMC.png" group-title="FR_ GENERAL", FR- TMC SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963573
-#EXTINF:-1 tvg-id="1061449" tvg-name="FR- TV5 MONDE FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TV5MONDE.png" group-title="FR_ GENERAL", FR- TV5 MONDE FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1061449
-#EXTINF:-1 tvg-id="1061448" tvg-name="FR- TV5 MONDE HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TV5MONDE.png" group-title="FR_ GENERAL", FR- TV5 MONDE HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1061448
-#EXTINF:-1 tvg-id="1061447" tvg-name="FR- TV5 MONDE SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TV5MONDE.png" group-title="FR_ GENERAL", FR- TV5 MONDE SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1061447
-#EXTINF:-1 tvg-id="963608" tvg-name="FR- TV BREIZH FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TVBREIZH.png" group-title="FR_ GENERAL", FR- TV BREIZH FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963608
-#EXTINF:-1 tvg-id="963607" tvg-name="FR- TV BREIZH HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TVBREIZH.png" group-title="FR_ GENERAL", FR- TV BREIZH HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963607
-#EXTINF:-1 tvg-id="963606" tvg-name="FR- TV BREIZH SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/TVBREIZH.png" group-title="FR_ GENERAL", FR- TV BREIZH SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963606
-#EXTINF:-1 tvg-id="963596" tvg-name="FR- W9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/W9.png" group-title="FR_ GENERAL", FR- W9 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963596
-#EXTINF:-1 tvg-id="963595" tvg-name="FR- W9 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/W9.png" group-title="FR_ GENERAL", FR- W9 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963595
-#EXTINF:-1 tvg-id="963594" tvg-name="FR- W9 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/W9.png" group-title="FR_ GENERAL", FR- W9 SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963594
-#EXTINF:-1 tvg-id="963617" tvg-name="FR- WARNER TV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/WARNER.png" group-title="FR_ GENERAL", FR- WARNER TV FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963617
-#EXTINF:-1 tvg-id="963616" tvg-name="FR- WARNER TV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/WARNER.png" group-title="FR_ GENERAL", FR- WARNER TV HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963616
-#EXTINF:-1 tvg-id="963615" tvg-name="FR- WARNER TV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/france/WARNER.png" group-title="FR_ GENERAL", FR- WARNER TV SD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/963615
-#EXTINF:-1 tvg-id="942799" tvg-name="SPORTS GOLF 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", SPORTS GOLF 3 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942799
-#EXTINF:-1 tvg-id="942797" tvg-name="SPORTS VIP|CRICLIFE 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", SPORTS VIP|CRICLIFE 1 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942797
-#EXTINF:-1 tvg-id="942800" tvg-name="SPORTS VIP|CRICLIFE 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", SPORTS VIP|CRICLIFE 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942800
-#EXTINF:-1 tvg-id="942798" tvg-name="SPORTS VIP|CRICLIFE 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", SPORTS VIP|CRICLIFE 2 FHD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942798
-#EXTINF:-1 tvg-id="942811" tvg-name="STARZPLAY SPORTS HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", STARZPLAY SPORTS HEVC
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942811
-#EXTINF:-1 tvg-id="942796" tvg-name="STARZPLAY SPORTS 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", STARZPLAY SPORTS 1 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942796
-#EXTINF:-1 tvg-id="942803" tvg-name="STARZPLAY SPORTS 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STARZPLAY.png" group-title="STARZPLAY", STARZPLAY SPORTS 2 HD
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/942803
-#EXTINF:-1 tvg-id="936487" tvg-name="BEIN  SPORTS 1 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 1 4k EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936487
-#EXTINF:-1 tvg-id="936507" tvg-name="BEIN  SPORTS 1 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 1 HEVC EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936507
-#EXTINF:-1 tvg-id="83619" tvg-name="BEIN  SPORTS 1 FHD EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 1 FHD EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83619
-#EXTINF:-1 tvg-id="936488" tvg-name="BEIN  SPORTS 2 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 2 4k EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936488
-#EXTINF:-1 tvg-id="936508" tvg-name="BEIN  SPORTS 2 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 2 HEVC EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936508
-#EXTINF:-1 tvg-id="83618" tvg-name="BEIN  SPORTS 2 FHD EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 2 FHD EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/83618
-#EXTINF:-1 tvg-id="936489" tvg-name="BEIN SPORTS  3 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN SPORTS  3 4k EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936489
-#EXTINF:-1 tvg-id="936509" tvg-name="BEIN SPORTS  3 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN SPORTS  3 HEVC EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936509
-#EXTINF:-1 tvg-id="936500" tvg-name="BEIN SPORTS  3 FHD EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD", BEIN SPORTS  3 FHD EN
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936500
-#EXTINF:-1 tvg-id="936484" tvg-name="BEIN  SPORTS 1 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K", BEIN  SPORTS 1 4k FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936484
-#EXTINF:-1 tvg-id="936504" tvg-name="BEIN  SPORTS 1 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC", BEIN  SPORTS 1 HEVC FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936504
-#EXTINF:-1 tvg-id="936497" tvg-name="BEIN  SPORTS 1 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 1 FHD FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936497
-#EXTINF:-1 tvg-id="936485" tvg-name="BEIN  SPORTS 2 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 2 4k FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936485
-#EXTINF:-1 tvg-id="936505" tvg-name="BEIN  SPORTS 2 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ HEVC", BEIN  SPORTS 2 HEVC FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936505
-#EXTINF:-1 tvg-id="936498" tvg-name="BEIN  SPORTS 2 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 2 FHD FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936498
-#EXTINF:-1 tvg-id="936486" tvg-name="BEIN  SPORTS 3 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ 4k", BEIN  SPORTS 3 4k FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936486
-#EXTINF:-1 tvg-id="936506" tvg-name="BEIN  SPORTS 3 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC", BEIN  SPORTS 3 HEVC FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936506
-#EXTINF:-1 tvg-id="936499" tvg-name="BEIN  SPORTS 3 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FHD", BEIN  SPORTS 3 FHD FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/936499
-#EXTINF:-1 tvg-id="962497" tvg-name="FR- BEIN  SPORTS 3 4K FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="beIN Sport_ FR", FR- BEIN  SPORTS 3 4K FR
-http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/962497
+#EXTINF:-1 tvg-name="Tring Sport 1 HD AL" group-title="AL_ Tring Sport",Tring Sport 1 HD AL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31563/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 2 HD AL" group-title="AL_ Tring Sport",Tring Sport 2 HD AL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31564/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 3 HD AL" group-title="AL_ Tring Sport",Tring Sport 3 HD AL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31565/index.m3u8
+#EXTINF:-1 tvg-name="Arena Premium 1 HD RS" group-title="ARENA Premium",Arena Premium 1 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31599/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 FHD HR" group-title="ARENA Sport HR",Arena Sport 2 FHD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7264/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 HD HR" group-title="ARENA Sport HR",Arena Sport 2 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7330/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 FHD HR" group-title="ARENA Sport HR",Arena Sport 3 FHD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7265/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 HD HR" group-title="ARENA Sport HR",Arena Sport 3 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7331/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 FHD HR" group-title="ARENA Sport HR",Arena Sport 4 FHD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7266/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 HD HR" group-title="ARENA Sport HR",Arena Sport 4 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7332/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 FHD HR" group-title="ARENA Sport HR",Arena Sport 5 FHD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7267/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 HD HR" group-title="ARENA Sport HR",Arena Sport 5 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7333/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 FHD HR" group-title="ARENA Sport HR",Arena Sport 6 FHD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7268/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 HD HR" group-title="ARENA Sport HR",Arena Sport 6 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7334/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 FHD RS" group-title="ARENA Sport SR",Arena Sport 1 FHD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2550/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 HD RS" group-title="ARENA Sport SR",Arena Sport 1 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31602/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1x2 HD RS" group-title="ARENA Sport SR",Arena Sport 1x2 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31611/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 HD RS" group-title="ARENA Sport SR",Arena Sport 4 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31605/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 HD RS" group-title="ARENA Sport SR",Arena Sport 5 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31606/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 HD RS" group-title="ARENA Sport SR",Arena Sport 6 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31607/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 8 HD RS" group-title="ARENA Sport SR",Arena Sport 8 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31609/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31610/index.m3u8
+#EXTINF:-1 tvg-name="SportsNet New York HD US" group-title="CA_ Sportsnet",SportsNet New York HD US
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/11107/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet 360 HD CA" group-title="CA_ Sportsnet",Sportsnet 360 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6462/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet East HD CA" group-title="CA_ Sportsnet",Sportsnet East HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6477/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet ONE HD CA" group-title="CA_ Sportsnet",Sportsnet ONE HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6438/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet Ontario HD CA" group-title="CA_ Sportsnet",Sportsnet Ontario HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6439/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet Pacific HD CA" group-title="CA_ Sportsnet",Sportsnet Pacific HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6479/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet West HD CA" group-title="CA_ Sportsnet",Sportsnet West HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6478/index.m3u8
+#EXTINF:-1 tvg-name="TSN 1 HD CA" group-title="CA_ TSN Sport",TSN 1 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6521/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2 HD CA" group-title="CA_ TSN Sport",TSN 2 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6492/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3 HD CA" group-title="CA_ TSN Sport",TSN 3 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6522/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4 HD CA" group-title="CA_ TSN Sport",TSN 4 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6445/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5 HD CA" group-title="CA_ TSN Sport",TSN 5 HD CA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6517/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ HD FR" group-title="CANAL+ FR",Canal+ HD FR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6007/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ FR" group-title="CANAL+ FR",Canal+ FR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6005/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Cinema HD FR" group-title="CANAL+ FR",Canal+ Cinema HD FR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6004/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Kids HD FR" group-title="CANAL+ FR",Canal+ Kids HD FR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6006/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport HD FR" group-title="CANAL+ FR",Canal+ Sport HD FR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2502/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ 360 HD PL" group-title="CANAL+ PL",Canal+ 360 HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6105/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Film HD PL" group-title="CANAL+ PL",Canal+ Film HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6101/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Kuchnia PL" group-title="CANAL+ PL",Canal+ Kuchnia PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7302/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Seriale HD PL" group-title="CANAL+ PL",Canal+ Seriale HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6104/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport HD PL" group-title="CANAL+ PL",Canal+ Sport HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6098/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 2 HD PL" group-title="CANAL+ PL",Canal+ Sport 2 HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6099/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 5 HD PL" group-title="CANAL+ PL",Canal+ Sport 5 HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2519/index.m3u8
+#EXTINF:-1 tvg-name="DAZN F1 HD ES" group-title="DAZN ES",DAZN F1 HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31834/index.m3u8
+#EXTINF:-1 tvg-name="DAZN F1 ES" group-title="DAZN ES",DAZN F1 ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6071/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Bar HD ES" group-title="DAZN LALIGA",DAZN 1 Bar HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31831/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 Bar HD ES" group-title="DAZN LALIGA",DAZN 2 Bar HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31832/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 Bar HD ES" group-title="DAZN LALIGA",DAZN 3 Bar HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31861/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" group-title="DAZN LALIGA",DAZN 4 Bar HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31862/index.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga HD ES" group-title="DAZN LALIGA",DAZN LaLiga HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31856/index.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD ES" group-title="DAZN LALIGA",DAZN LaLiga 2 HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31855/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 FHD PT" group-title="DAZN PT",DAZN 1 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19158/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 HD PT" group-title="DAZN PT",DAZN 1 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2531/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 PT" group-title="DAZN PT",DAZN 1 PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31954/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 HD PT" group-title="DAZN PT",DAZN 2 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31955/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 FHD PT" group-title="DAZN PT",DAZN 3 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7062/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 HD PT" group-title="DAZN PT",DAZN 3 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31956/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 FHD PT" group-title="DAZN PT",DAZN 4 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2534/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 HD PT" group-title="DAZN PT",DAZN 4 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31957/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 5 FHD PT" group-title="DAZN PT",DAZN 5 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2535/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 5 HD PT" group-title="DAZN PT",DAZN 5 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31958/index.m3u8
+#EXTINF:-1 tvg-name="MS Sport HD DE" group-title="DE_ MS Sport",MS Sport HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31343/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE_ Sky Sport",Sky Sport 1 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19028/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE_ Sky Sport",Sky Sport 2 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2479/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE_ Sky Sport",Sky Sport 5 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19032/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 2 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7234/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 3 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7235/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 5 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7237/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 6 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7238/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 7 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7239/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 8 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7240/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE_ Sky Sport",Sky Sport F1 FHD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/10079/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE_ Sky Sport",Sky Sport F1 HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19022/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE_ Sky Sport",Sky Sport Golf HD DE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/5043/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes HD ES" group-title="ES_ M+ Deportes",M+ Deportes HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31830/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 3 HD ES" group-title="ES_ M+ Deportes",M+ Deportes 3 HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31849/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 4 HD ES" group-title="ES_ M+ Deportes",M+ Deportes 4 HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31850/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 6 HD ES" group-title="ES_ M+ Deportes",M+ Deportes 6 HD ES
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31874/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports HD AR" group-title="FOX Sport_ AR",Fox Sports HD AR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19138/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 501 Cricket HD AU" group-title="FOX Sport_ AU",Fox Sports 501 Cricket HD AU
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19146/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 506 HD AU" group-title="FOX Sport_ AU",Fox Sports 506 HD AU
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19143/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports Racing US" group-title="FOX Sport_ US",Fox Sports Racing US
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19144/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 7 GR" group-title="GR_ Cytavision",Cytavision Sports 7 GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31577/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 1 HD HR" group-title="HR_ Sport Klub",Sport Klub 1 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7269/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 2 HD HR" group-title="HR_ Sport Klub",Sport Klub 2 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7270/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 3 HD HR" group-title="HR_ Sport Klub",Sport Klub 3 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7271/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 4 HD HR" group-title="HR_ Sport Klub",Sport Klub 4 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7272/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 5 HD HR" group-title="HR_ Sport Klub",Sport Klub 5 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7273/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 6 HD HR" group-title="HR_ Sport Klub",Sport Klub 6 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7274/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 7 HD HR" group-title="HR_ Sport Klub",Sport Klub 7 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7275/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub 8 HD HR" group-title="HR_ Sport Klub",Sport Klub 8 HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7276/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub Fight HD HR" group-title="HR_ Sport Klub",Sport Klub Fight HD HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7278/index.m3u8
+#EXTINF:-1 tvg-name="Sport Klub Golf HR" group-title="HR_ Sport Klub",Sport Klub Golf HR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7277/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 IN" group-title="IN_ Star Sport",Star Sports 1 IN
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2508/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 IN" group-title="IN_ Star Sport",Star Sports 2 IN
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2507/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24 FHD IT" group-title="IT_ Sky Sport",Sky Sport 24 FHD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19107/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19127/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Calcio HD IT" group-title="IT_ Sky Sport",Sky Sport Calcio HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19113/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD IT" group-title="IT_ Sky Sport",Sky Sport F1 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19105/index.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic HD IT" group-title="IT_ Sky",Sky Atlantic HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19102/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Comedy HD IT" group-title="IT_ Sky",Sky Cinema Comedy HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19097/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Due HD IT" group-title="IT_ Sky",Sky Cinema Due HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19096/index.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Suspense HD IT" group-title="IT_ Sky",Sky Cinema Suspense HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19100/index.m3u8
+#EXTINF:-1 tvg-name="Sky Primafila 2 HD IT" group-title="IT_ Sky",Sky Primafila 2 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19119/index.m3u8
+#EXTINF:-1 tvg-name="Sky Primafila 3 HD IT" group-title="IT_ Sky",Sky Primafila 3 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19120/index.m3u8
+#EXTINF:-1 tvg-name="Sky Primafila 5 HD IT" group-title="IT_ Sky",Sky Primafila 5 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19122/index.m3u8
+#EXTINF:-1 tvg-name="Sky Primafila 6 HD IT" group-title="IT_ Sky",Sky Primafila 6 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19123/index.m3u8
+#EXTINF:-1 tvg-name="Sky Primafila 9 HD IT" group-title="IT_ Sky",Sky Primafila 9 HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19126/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Arena HD IT" group-title="IT_ Sky",Sky Sport Arena HD IT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19128/index.m3u8
+#EXTINF:-1 tvg-name="Best4Sport HD LV" group-title="LV_ Best4Sport",Best4Sport HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18016/index.m3u8
+#EXTINF:-1 tvg-name="Best4Sport 2 HD LV" group-title="LV_ Best4Sport",Best4Sport 2 HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18015/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 1 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 1 HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18011/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 2 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 2 HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18012/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 3 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 3 HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6408/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport Open HD LV" group-title="LV_ Go3 Sport",Go3 Sport Open HD LV
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18025/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 1 HD EE" group-title="LV_ Go3 Sport",Go3 Sport 1 HD EE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18000/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 2 HD EE" group-title="LV_ Go3 Sport",Go3 Sport 2 HD EE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/18001/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 1 HD GR" group-title="Magenta Sport",Magenta Sport 1 HD GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31578/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 2 HD GR" group-title="Magenta Sport",Magenta Sport 2 HD GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31579/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 3 HD GR" group-title="Magenta Sport",Magenta Sport 3 HD GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31581/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 4 HD GR" group-title="Magenta Sport",Magenta Sport 4 HD GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31582/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 5 HD GR" group-title="Magenta Sport",Magenta Sport 5 HD GR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31583/index.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 2 HD NL" group-title="NL_ Ziggo",Ziggo Sport 2 HD NL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2561/index.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 3 HD NL" group-title="NL_ Ziggo",Ziggo Sport 3 HD NL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2559/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV+ FHD PT" group-title="PT_ SportTV",Sport TV+ FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31941/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV+ HD PT" group-title="PT_ SportTV",Sport TV+ HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31590/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 FHD PT" group-title="PT_ SportTV",Sport TV 1 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31942/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 HD PT" group-title="PT_ SportTV",Sport TV 1 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2525/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2 FHD PT" group-title="PT_ SportTV",Sport TV 2 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31943/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2 HD PT" group-title="PT_ SportTV",Sport TV 2 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2526/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3 FHD PT" group-title="PT_ SportTV",Sport TV 3 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31944/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3 HD PT" group-title="PT_ SportTV",Sport TV 3 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2527/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4 FHD PT" group-title="PT_ SportTV",Sport TV 4 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31945/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4 HD PT" group-title="PT_ SportTV",Sport TV 4 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2528/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 5 FHD PT" group-title="PT_ SportTV",Sport TV 5 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31946/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 5 HD PT" group-title="PT_ SportTV",Sport TV 5 HD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2529/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 6 FHD PT" group-title="PT_ SportTV",Sport TV 6 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31947/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 7 FHD PT" group-title="PT_ SportTV",Sport TV 7 FHD PT
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31948/index.m3u8
+#EXTINF:-1 tvg-name="DIGI Sport 1 HD RO" group-title="RO_ DIGI Sport",DIGI Sport 1 HD RO
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2523/index.m3u8
+#EXTINF:-1 tvg-name="Sport Extra HD RO" group-title="RO_ Sport EXTRA",Sport Extra HD RO
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31595/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast HD" group-title="RU_ SportCast",BOX SportCast HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31650/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 1 HD" group-title="RU_ SportCast",BOX SportCast Live 1 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20166/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 2 HD" group-title="RU_ SportCast",BOX SportCast Live 2 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20167/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 3 HD" group-title="RU_ SportCast",BOX SportCast Live 3 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20168/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 4 HD" group-title="RU_ SportCast",BOX SportCast Live 4 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20169/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 5 HD" group-title="RU_ SportCast",BOX SportCast Live 5 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20170/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 6 HD" group-title="RU_ SportCast",BOX SportCast Live 6 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31648/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 7 HD" group-title="RU_ SportCast",BOX SportCast Live 7 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31649/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 FHD" group-title="RU_ Матч",Матч! Футбол 1 FHD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2407/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="RU_ Матч",Матч! Футбол 1 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/222/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="RU_ Матч",Матч! Футбол 1
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/124/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50" group-title="RU_ Матч",Матч! Футбол 1 HD 50
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/10015/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 1 HD 50 orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/5072/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 FHD" group-title="RU_ Матч",Матч! Футбол 2 FHD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2420/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="RU_ Матч",Матч! Футбол 2 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/211/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="RU_ Матч",Матч! Футбол 2
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/530/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD 50" group-title="RU_ Матч",Матч! Футбол 2 HD 50
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/10027/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 FHD" group-title="RU_ Матч",Матч! Футбол 3 FHD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2408/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="RU_ Матч",Матч! Футбол 3
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/522/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50" group-title="RU_ Матч",Матч! Футбол 3 HD 50
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/10016/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 3 HD 50 orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/5071/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD orig" group-title="RU_ Матч",Матч! Футбол 2 HD orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/290/index.m3u8
+#EXTINF:-1 tvg-name="Окко Спорт HD" group-title="RU_ Окко",Окко Спорт HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20138/index.m3u8
+#EXTINF:-1 tvg-name="Megogo Спорт HD" group-title="RU_ Спорт",Megogo Спорт HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31612/index.m3u8
+#EXTINF:-1 tvg-name="TV3 Sport SE" group-title="SE_ Sport",TV3 Sport SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12100/index.m3u8
+#EXTINF:-1 tvg-name="TV4 Sport Live 1 HD SE" group-title="SE_ Sport",TV4 Sport Live 1 HD SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12036/index.m3u8
+#EXTINF:-1 tvg-name="TV4 Sport Live 2 HD SE" group-title="SE_ Sport",TV4 Sport Live 2 HD SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12037/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Extra SE" group-title="SE_ V Sport",V Sport Extra SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12074/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Football SE" group-title="SE_ V Sport",V Sport Football SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/11110/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Golf SE" group-title="SE_ V Sport",V Sport Golf SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12077/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Motor SE" group-title="SE_ V Sport",V Sport Motor SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12104/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Premium SE" group-title="SE_ V Sport",V Sport Premium SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12079/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Vinter SE" group-title="SE_ V Sport",V Sport Vinter SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/11111/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Football HD SE" group-title="SE_ V Sport",V Sport Football HD SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12032/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Motor HD SE" group-title="SE_ V Sport",V Sport Motor HD SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12033/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Vinter HD SE" group-title="SE_ V Sport",V Sport Vinter HD SE
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/12078/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="SETANTA",Setanta Sports 1 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/271/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="SETANTA",Setanta Sports 1
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6543/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="SETANTA",Setanta Sports 2 HD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/270/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" group-title="SETANTA",Setanta Sports 2
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6544/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD orig" group-title="SETANTA",Setanta Sports 1 HD orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6541/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD orig" group-title="SETANTA",Setanta Sports 2 HD orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6542/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 FHD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 FHD KZ
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20065/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ UA" group-title="SETANTA_ UA",Setanta Sports+ UA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31756/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports FHD UA" group-title="SETANTA_ UA",Setanta Sports FHD UA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/272/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ FHD UA" group-title="SETANTA_ UA",Setanta Sports+ FHD UA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/5068/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD UA" group-title="SETANTA_ UA",Setanta Sports HD UA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31755/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ HD UA" group-title="SETANTA_ UA",Setanta Sports+ HD UA
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31757/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD UA orig" group-title="SETANTA_ UA",Setanta Sports HD UA orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/15183/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ HD UA orig" group-title="SETANTA_ UA",Setanta Sports+ HD UA orig
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/15184/index.m3u8
+#M3U_EXTRACT: mlax7sqv.zyntras.top
+#EXTINF:-1 tvg-name="Altitude Sports HD US" group-title="Sports_ Mix",Altitude Sports HD US
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31000/index.m3u8
+#EXTINF:-1 tvg-name="CBS Sports Network HD US" group-title="Sports_ Mix",CBS Sports Network HD US
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7324/index.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Network HD US" group-title="Sports_ Mix",NBC Sports Network HD US
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7327/index.m3u8
+#EXTINF:-1 tvg-name="Band Sports HD BR" group-title="Sports_ Mix",Band Sports HD BR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6157/index.m3u8
+#EXTINF:-1 tvg-name="TVP Sport HD PL" group-title="Sports_ Mix",TVP Sport HD PL
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2520/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV HD AZ" group-title="Sports_ Mix",Sport TV HD AZ
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31926/index.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport 2 HD NO" group-title="Sports_ Mix",TV 2 Sport 2 HD NO
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2540/index.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport HD DK" group-title="Sports_ Mix",TV 2 Sport HD DK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7355/index.m3u8
+#EXTINF:-1 tvg-name="We Sport TV HD MD" group-title="Sports_ Mix",We Sport TV HD MD
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31904/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart HD TR" group-title="TR_ Spor Smart",Spor Smart HD TR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20060/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart 2 HD TR" group-title="TR_ Spor Smart",Spor Smart 2 HD TR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19073/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor FHD TR" group-title="TR_ TRT Spor",TRT Spor FHD TR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19068/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor HD TR" group-title="TR_ TRT Spor",TRT Spor HD TR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19072/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor TR" group-title="TR_ TRT Spor",TRT Spor TR
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19067/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football HD 50 UK" group-title="UK_ Sky",Sky Sports Football HD 50 UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/9289/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix HD 50 UK" group-title="UK_ Sky",Sky Sports Mix HD 50 UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/9310/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD 50 UK" group-title="UK_ Sky",Sky Sports Premier League HD 50 UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/9334/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Racing HD 50 UK" group-title="UK_ Sky",Sky Sports Racing HD 50 UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/9335/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 HD UK" group-title="UK_ Sky",Sky Sports F1 HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7342/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event HD UK" group-title="UK_ Sky",Sky Sports Main Event HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7337/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix HD UK" group-title="UK_ Sky",Sky Sports Mix HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7339/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD UK" group-title="UK_ Sky",Sky Sports Premier League HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7335/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Racing HD UK" group-title="UK_ Sky",Sky Sports Racing HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/7341/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1 FHD UK" group-title="UK_ TNT Sport",TNT Sports 1 FHD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/2505/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1 HD UK" group-title="UK_ TNT Sport",TNT Sports 1 HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6566/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3 HD UK" group-title="UK_ TNT Sport",TNT Sports 3 HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/6564/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4 HD UK" group-title="UK_ TNT Sport",TNT Sports 4 HD UK
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/19054/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20099/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20103/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20104/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20105/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20106/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20108/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20109/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20110/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20100/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20101/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/20102/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31674/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31675/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31676/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31677/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
+http://mlax7sqv.zyntras.top/iptv/THY6ARA8XRM5Y87SE97B5DSA/31678/index.m3u8
