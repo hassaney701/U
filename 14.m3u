@@ -1,1752 +1,290 @@
 #EXTM3U
-#M3U_EXTRACT: hydratv.cc
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- OSN FHD",5 Movies FHD
-http://hydratv.cc/live/Shaya10/733151581/748794.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/sixTER-HEVC.png" group-title="FR_ France",6TER HEVC
-http://hydratv.cc/live/Shaya10/733151581/565248.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AB1.png" group-title="FR_ France",AB1 HD
-http://hydratv.cc/live/Shaya10/733151581/565159.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ACTION-HEVC.png" group-title="FR_ France",ACTION HEVC
-http://hydratv.cc/live/Shaya10/733151581/565247.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Aflam 1 4K
-http://hydratv.cc/live/Shaya10/733151581/591298.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Aflam 2 4K
-http://hydratv.cc/live/Shaya10/733151581/591297.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Aflam 3 4K
-http://hydratv.cc/live/Shaya10/733151581/591296.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Aghani 4K
-http://hydratv.cc/live/Shaya10/733151581/591290.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Alwathaeqye 4K
-http://hydratv.cc/live/Shaya10/733151581/591293.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Alwathaeqye FHD
-http://hydratv.cc/live/Shaya10/733151581/575336.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Anime 4K
-http://hydratv.cc/live/Shaya10/733151581/591286.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Atfal 4K
-http://hydratv.cc/live/Shaya10/733151581/591292.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Bollywood 4K
-http://hydratv.cc/live/Shaya10/733151581/591289.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan F1 4K
-http://hydratv.cc/live/Shaya10/733151581/591300.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Korea 4K
-http://hydratv.cc/live/Shaya10/733151581/591288.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Mosalsalat 4K
-http://hydratv.cc/live/Shaya10/733151581/591291.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ OSN MBC",Alwan Mosalsalat+ 4K
-http://hydratv.cc/live/Shaya10/733151581/591287.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Mosalsalat FHD
-http://hydratv.cc/live/Shaya10/733151581/575335.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 1 4K
-http://hydratv.cc/live/Shaya10/733151581/591311.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 1 HD
-http://hydratv.cc/live/Shaya10/733151581/575350.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 1 SD
-http://hydratv.cc/live/Shaya10/733151581/575344.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 2 4K
-http://hydratv.cc/live/Shaya10/733151581/591310.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 2 HD
-http://hydratv.cc/live/Shaya10/733151581/575349.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 2 SD
-http://hydratv.cc/live/Shaya10/733151581/575343.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 3 4K
-http://hydratv.cc/live/Shaya10/733151581/591309.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 3 FHD
-http://hydratv.cc/live/Shaya10/733151581/575354.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 3 HD
-http://hydratv.cc/live/Shaya10/733151581/575348.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 3 SD
-http://hydratv.cc/live/Shaya10/733151581/575342.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 4 4K
-http://hydratv.cc/live/Shaya10/733151581/591308.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 4 HD
-http://hydratv.cc/live/Shaya10/733151581/575347.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 4 SD
-http://hydratv.cc/live/Shaya10/733151581/575341.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 5 4K
-http://hydratv.cc/live/Shaya10/733151581/591307.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 5 HD
-http://hydratv.cc/live/Shaya10/733151581/575346.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 5 SD
-http://hydratv.cc/live/Shaya10/733151581/575340.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 6 4K
-http://hydratv.cc/live/Shaya10/733151581/591306.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 6 HD
-http://hydratv.cc/live/Shaya10/733151581/575345.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="AR_ Sports",Alwan Sport 6 SD
-http://hydratv.cc/live/Shaya10/733151581/575339.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 7 4K
-http://hydratv.cc/live/Shaya10/733151581/591305.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 8 4K
-http://hydratv.cc/live/Shaya10/733151581/591304.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Sport 9 4K
-http://hydratv.cc/live/Shaya10/733151581/591303.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan Sport 10 4K
-http://hydratv.cc/live/Shaya10/733151581/591302.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Turkey 4K
-http://hydratv.cc/live/Shaya10/733151581/591294.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175309386946191.png" group-title="[LIVE]- Alwan Sport - ألوان سبورت",Alwan Turkey FHD
-http://hydratv.cc/live/Shaya10/733151581/575334.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan UFC 4K
-http://hydratv.cc/live/Shaya10/733151581/591301.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175562126265511.png" group-title="AR_ Sports",Alwan WWE 4K
-http://hydratv.cc/live/Shaya10/733151581/591299.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR 2 شيف بالبيت
-http://hydratv.cc/live/Shaya10/733151581/733051.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XuWWny.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| AFLAM
-http://hydratv.cc/live/Shaya10/733151581/292865.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPNInsC.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Al ASOUF
-http://hydratv.cc/live/Shaya10/733151581/292823.ts
-#EXTINF:-1 tvg-logo="https://www3.0zz0.com/2023/10/18/00/322681861.jpg" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Al Leaba
-http://hydratv.cc/live/Shaya10/733151581/292852.ts
-#EXTINF:-1 tvg-logo="https://www8.0zz0.com/2023/10/30/11/429986185.jpg" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Al souria
-http://hydratv.cc/live/Shaya10/733151581/292818.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UoRoso5.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| BAB AL HARA
-http://hydratv.cc/live/Shaya10/733151581/292847.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: BEIN GOURMET 4K
-http://hydratv.cc/live/Shaya10/733151581/733062.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: CBC SOFRA HD
-http://hydratv.cc/live/Shaya10/733151581/733058.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: FATAFET 4K
-http://hydratv.cc/live/Shaya10/733151581/733065.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: FATAFET HD
-http://hydratv.cc/live/Shaya10/733151581/733064.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ckLBLla.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| MASRAH Masr
-http://hydratv.cc/live/Shaya10/733151581/292858.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text-thumbnail.png" group-title="[LIVE]- MBC - أم بي سي",AR: MBC 5 USA
-http://hydratv.cc/live/Shaya10/733151581/413337.ts
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wq/20947/png/mbc-action-01.png" group-title="[LIVE]- MBC - أم بي سي",AR: MBC ACTION USA
-http://hydratv.cc/live/Shaya10/733151581/413329.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="[LIVE]- MBC - أم بي سي",AR: MBC DRAMA PLUS USA
-http://hydratv.cc/live/Shaya10/733151581/413330.ts
-#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/858/409/73/tv-cartoon-mbc-drama-mbc-plus-drama-television-mbc-3-mbc2-television-channel-streaming-media-mbc-max-png-clipart.jpg" group-title="[LIVE]- MBC - أم بي سي",AR: MBC DRAMA USA
-http://hydratv.cc/live/Shaya10/733151581/413331.ts
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/640/1012/981/5bedd14f45afe.jpg" group-title="[LIVE]- MBC - أم بي سي",AR: MBC MASR USA
-http://hydratv.cc/live/Shaya10/733151581/413336.ts
-#EXTINF:-1 tvg-logo="https://www12.0zz0.com/2023/10/01/11/618558990.png" group-title="[LIVE]- MBC - أم بي سي",AR: MBC PLUS 4K
-http://hydratv.cc/live/Shaya10/733151581/326304.ts
-#EXTINF:-1 tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png?fit=1000%2C1000&ssl=1" group-title="[LIVE]- MBC - أم بي سي",AR: MBC VARIETY USA
-http://hydratv.cc/live/Shaya10/733151581/413328.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kPK2zub.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Movies Action
-http://hydratv.cc/live/Shaya10/733151581/292861.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jcfy1R2.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Movies Thriller
-http://hydratv.cc/live/Shaya10/733151581/292860.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOkdsaA.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Mraya
-http://hydratv.cc/live/Shaya10/733151581/292825.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dsUlJJn.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| NASER Al QASSABY
-http://hydratv.cc/live/Shaya10/733151581/292833.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: PANREAMA FOOD HD
-http://hydratv.cc/live/Shaya10/733151581/733057.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: ROYA KITCHEN HD
-http://hydratv.cc/live/Shaya10/733151581/733061.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: ROYA KITCHEN 2 4K
-http://hydratv.cc/live/Shaya10/733151581/733060.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",AR: ROYA SIT ALNKHAT 4K
-http://hydratv.cc/live/Shaya10/733151581/733059.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| Tarab
-http://hydratv.cc/live/Shaya10/733151581/292831.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1liQAHa.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",|AR| TASH
-http://hydratv.cc/live/Shaya10/733151581/292839.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  المطبخ الدمشقي
-http://hydratv.cc/live/Shaya10/733151581/733056.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف بالبيت 1
-http://hydratv.cc/live/Shaya10/733151581/733052.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 1
-http://hydratv.cc/live/Shaya10/733151581/733045.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 2
-http://hydratv.cc/live/Shaya10/733151581/733044.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 3
-http://hydratv.cc/live/Shaya10/733151581/733043.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 4
-http://hydratv.cc/live/Shaya10/733151581/733042.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 5
-http://hydratv.cc/live/Shaya10/733151581/733041.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 6
-http://hydratv.cc/live/Shaya10/733151581/733040.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 7
-http://hydratv.cc/live/Shaya10/733151581/733039.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 8
-http://hydratv.cc/live/Shaya10/733151581/733038.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 9
-http://hydratv.cc/live/Shaya10/733151581/733037.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  شيف عمر 10
-http://hydratv.cc/live/Shaya10/733151581/733036.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  عجين وطحين
-http://hydratv.cc/live/Shaya10/733151581/733053.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  عل اللبناني
-http://hydratv.cc/live/Shaya10/733151581/733055.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  ملح وسكر
-http://hydratv.cc/live/Shaya10/733151581/733054.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  منال العالم 1
-http://hydratv.cc/live/Shaya10/733151581/733050.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  منال العالم 2
-http://hydratv.cc/live/Shaya10/733151581/733049.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  منال العالم 3
-http://hydratv.cc/live/Shaya10/733151581/733048.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  منال العالم 4
-http://hydratv.cc/live/Shaya10/733151581/733047.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Kitchen - مطبخ",AR  منال العالم 5
-http://hydratv.cc/live/Shaya10/733151581/733046.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ARTE.png" group-title="FR_ Documentary",ARTE 4K
-http://hydratv.cc/live/Shaya10/733151581/565219.ts
-#EXTINF:-1 tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="[LIVE]- beIN Entertainment - بين الترفيهية",BBC Earth
-http://hydratv.cc/live/Shaya10/733151581/632613.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MTV.png" group-title="[LIVE]- France | TV ",BE: MTV HD
-http://hydratv.cc/live/Shaya10/733151581/565158.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS963VdHQIoS48f2Vp0weJjWmvy1lT-vAfkMg&s" group-title="beIN Entertainment",BEIN ANIMAL PLANET
-http://hydratv.cc/live/Shaya10/733151581/247720.ts
-#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/Bara3em-1.png" group-title="beIN Entertainment",BEIN BARAEEM
-http://hydratv.cc/live/Shaya10/733151581/247731.ts
-#EXTINF:-1 tvg-logo="http://logo.123sat.net/skylogo/bein_boxoffice1.png" group-title="beIN Entertainment",BEIN BOXOFFICE 1
-http://hydratv.cc/live/Shaya10/733151581/247743.ts
-#EXTINF:-1 tvg-logo="http://logo.123sat.net/skylogo/bein_boxoffice2.png" group-title="beIN Entertainment",BEIN BOXOFFICE 2
-http://hydratv.cc/live/Shaya10/733151581/247742.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD4W6KUdYB7WHmX1jGndLtKDOkL5gFRBqKQ&s" group-title="beIN Entertainment",BEIN DISCOVERY FAMILY
-http://hydratv.cc/live/Shaya10/733151581/247732.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN DRAMA 1
-http://hydratv.cc/live/Shaya10/733151581/247740.ts
-#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/FATAFEAT-1.png" group-title="beIN Entertainment",BEIN FATAFEAT
-http://hydratv.cc/live/Shaya10/733151581/247733.ts
-#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/food-network-logo-2018-1.png" group-title="beIN Entertainment",BEIN FOOD
-http://hydratv.cc/live/Shaya10/733151581/247722.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Bein_gurme.png" group-title="beIN Entertainment",BEIN Gourmet
-http://hydratv.cc/live/Shaya10/733151581/437225.ts
-#EXTINF:-1 tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HGTV.png" group-title="beIN Entertainment",BEIN HGTV
-http://hydratv.cc/live/Shaya10/733151581/247725.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/Jeem-HD-1-01.png" group-title="Kids",BEIN JEEM
-http://hydratv.cc/live/Shaya10/733151581/247729.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN MOVIES ACTION
-http://hydratv.cc/live/Shaya10/733151581/247746.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN MOVIES DRAMA
-http://hydratv.cc/live/Shaya10/733151581/247745.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN MOVIES FAMILY
-http://hydratv.cc/live/Shaya10/733151581/247744.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN MOVIES PREMIERE
-http://hydratv.cc/live/Shaya10/733151581/247747.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="beIN Entertainment",BEIN NAT WILD
-http://hydratv.cc/live/Shaya10/733151581/247726.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN SERIES 1
-http://hydratv.cc/live/Shaya10/733151581/247739.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="beIN Entertainment",BEIN SERIES 2
-http://hydratv.cc/live/Shaya10/733151581/247738.ts
-#EXTINF:-1 tvg-logo="https://www12.0zz0.com/2023/10/07/17/420581433.png" group-title="beIN Sport_ EN",beIN Sport English FHD 2
-http://hydratv.cc/live/Shaya10/733151581/336426.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="beIN Sport_ EN",Bein Sports English 1 FHD
-http://hydratv.cc/live/Shaya10/733151581/34070.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="beIN Sport_ EN",Bein Sports English 1 HD
-http://hydratv.cc/live/Shaya10/733151581/34069.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="[LIVE]- BeIN SPORTS [ Fra - Eng ]",Bein Sports French 1 FHD
-http://hydratv.cc/live/Shaya10/733151581/131597.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="beIN Sport_ FR",Bein Sports French 1 HD
-http://hydratv.cc/live/Shaya10/733151581/34073.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="beIN Sport_ FR",Bein Sports French 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/131598.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="beIN Sport_ FR",Bein Sports French 2 HD
-http://hydratv.cc/live/Shaya10/733151581/34072.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/0010_FAM-logo.png" group-title="beIN Entertainment",BEIN Star ACTION
-http://hydratv.cc/live/Shaya10/733151581/247735.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/0007_Fox-logo.png" group-title="beIN Entertainment",BEIN Star MOVIES
-http://hydratv.cc/live/Shaya10/733151581/247728.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/fox-life-10-2022.png" group-title="beIN Entertainment",BEIN Star World
-http://hydratv.cc/live/Shaya10/733151581/247736.ts
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/13/1/tcm-logo-png_seeklogo-136143.png" group-title="beIN Entertainment",BEIN TCM
-http://hydratv.cc/live/Shaya10/733151581/247721.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BFM.png" group-title="FR_ GENERAL",BFM HD
-http://hydratv.cc/live/Shaya10/733151581/565161.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BOOMERANG.png" group-title="FR_ France",BOOMERANG HD
-http://hydratv.cc/live/Shaya10/733151581/565119.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="FR_ CANAL+",CANAL+ HD
-http://hydratv.cc/live/Shaya10/733151581/565148.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="FR_ CANAL+",CANAL+ CINEMA HEVC
-http://hydratv.cc/live/Shaya10/733151581/565270.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="FR_ CANAL+",CANAL+ CINEMA HD
-http://hydratv.cc/live/Shaya10/733151581/565146.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-DOCS.png" group-title="FR_ CANAL+",CANAL+ DOCS HEVC
-http://hydratv.cc/live/Shaya10/733151581/565269.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-FOOT.png" group-title="FR_ CANAL+",CANAL+ FOOT HEVC
-http://hydratv.cc/live/Shaya10/733151581/565268.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-GRAND-ECRAN.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN HEVC
-http://hydratv.cc/live/Shaya10/733151581/565266.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-KIDS.png" group-title="FR_ CANAL+",CANAL+ KIDS HEVC
-http://hydratv.cc/live/Shaya10/733151581/565264.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="FR_ Cine+",CINE+ CLASSIC 4K
-http://hydratv.cc/live/Shaya10/733151581/565133.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="FR_ Cine+",CINE+ CLUB HEVC
-http://hydratv.cc/live/Shaya10/733151581/565256.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-plus-FRISSON.png" group-title="FR_ Cine+",CINE+ FRISSION HD
-http://hydratv.cc/live/Shaya10/733151581/565138.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-plus-FRISSON.png" group-title="FR_ Cine+",CINE+ FRISSON 4K
-http://hydratv.cc/live/Shaya10/733151581/565139.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR_ Cine+",CINE+ PREMIER 4K
-http://hydratv.cc/live/Shaya10/733151581/565141.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR_ Cine+",CINE+ PREMIER HEVC
-http://hydratv.cc/live/Shaya10/733151581/565253.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR_ Cine+",CINE+ PRIMER HD
-http://hydratv.cc/live/Shaya10/733151581/565140.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CNEWS.png" group-title="FR_ France",CNEWS HD
-http://hydratv.cc/live/Shaya10/733151581/565208.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2022/10/16667411461661.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Comedy
-http://hydratv.cc/live/Shaya10/733151581/207186.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CRIME-DISTRICT-HEVC.PNG" group-title="FR_ Documentary",CRIME DISTRICT HD
-http://hydratv.cc/live/Shaya10/733151581/565164.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CSTAR.PNG" group-title="FR_ France",CSTAR HEVC
-http://hydratv.cc/live/Shaya10/733151581/565243.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRc1IolmFXngG2ci79hdPnBirATW0Xf5E0w&s" group-title="DAZN Sport",DAZN F1
-http://hydratv.cc/live/Shaya10/733151581/255667.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY.png" group-title="FR_ Documentary",DISCOVERY CHANNEL HD
-http://hydratv.cc/live/Shaya10/733151581/565116.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISNEY.png" group-title="FR_ GENERAL",DISNEY CHANNEL HD
-http://hydratv.cc/live/Shaya10/733151581/565127.ts
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_24990chgu3.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Documentary 1
-http://hydratv.cc/live/Shaya10/733151581/208329.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_2499xj0ug1.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Documentary 2
-http://hydratv.cc/live/Shaya10/733151581/208330.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/KITCHEN.png" group-title="[LIVE]- Kitchen - مطبخ",EN: FOOD NETWORK 4K
-http://hydratv.cc/live/Shaya10/733151581/733063.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EURO-NEWS.png" group-title="FR_ GENERAL",EURO NEWS HD
-http://hydratv.cc/live/Shaya10/733151581/565167.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/6TER.png" group-title="[LIVE]- France | TV ",FR: 6TER 4K
-http://hydratv.cc/live/Shaya10/733151581/565215.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/6TER.png" group-title="[LIVE]- France | TV ",FR: 6TER HD
-http://hydratv.cc/live/Shaya10/733151581/565214.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/13EME-RUE.png" group-title="[LIVE]- France | TV ",FR: 13 EME RUE HD
-http://hydratv.cc/live/Shaya10/733151581/565162.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF%20CANAL-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: AF CANAL+ SPORT 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565305.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: AF CANAL+ SPORT 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565304.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-SPORT-3.png" group-title="[LIVE]- France | Sports",FR: AF CANAL+ SPORT 3 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565303.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-plus-SPORT-4.png" group-title="[LIVE]- France | Sports",FR: AF CANAL+ SPORT 4 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565302.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-plus-SPORT%205.png" group-title="[LIVE]- France | Sports",FR: AF CANAL+ SPORT 5 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565301.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ALTICE-STUDIO-HEVC.PNG" group-title="[LIVE]- France | TV ",FR: ALTICE STUDIO HEVC
-http://hydratv.cc/live/Shaya10/733151581/565246.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- France | TV ",FR | AMAZON LIGUE DEUX 5 FHD ( EVENEMENTS )
-http://hydratv.cc/live/Shaya10/733151581/32625.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ARTE.png" group-title="[LIVE]- France | TV ",FR: ARTE HEVC
-http://hydratv.cc/live/Shaya10/733151581/565245.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ARTE.png" group-title="[LIVE]- France | TV ",FR: ARTE HD
-http://hydratv.cc/live/Shaya10/733151581/565218.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AUTOMOTO.png" group-title="[LIVE]- France | Sports",FR: AUTOMOTO HEVC
-http://hydratv.cc/live/Shaya10/733151581/565287.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AUTOMOTO.png" group-title="[LIVE]- France | Sports",FR: AUTOMOTO HD
-http://hydratv.cc/live/Shaya10/733151581/565422.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565368.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 5 HD
-http://hydratv.cc/live/Shaya10/733151581/565367.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 6 HD
-http://hydratv.cc/live/Shaya10/733151581/565366.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 7 HD
-http://hydratv.cc/live/Shaya10/733151581/565365.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 8 HD
-http://hydratv.cc/live/Shaya10/733151581/565364.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 9 HD
-http://hydratv.cc/live/Shaya10/733151581/565363.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="[LIVE]- France | Sports",FR: BEIN MAX 10 HD
-http://hydratv.cc/live/Shaya10/733151581/565362.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565300.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-2.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565299.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS 3 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565298.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 4K
-http://hydratv.cc/live/Shaya10/733151581/565410.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 UHD
-http://hydratv.cc/live/Shaya10/733151581/565407.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 FHD
-http://hydratv.cc/live/Shaya10/733151581/565409.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 HD
-http://hydratv.cc/live/Shaya10/733151581/565408.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 HD.
-http://hydratv.cc/live/Shaya10/733151581/565373.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 SD
-http://hydratv.cc/live/Shaya10/733151581/565406.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 1 LDC HD
-http://hydratv.cc/live/Shaya10/733151581/565374.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 4K
-http://hydratv.cc/live/Shaya10/733151581/565405.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 UHD
-http://hydratv.cc/live/Shaya10/733151581/565402.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/565404.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-2.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 HD.
-http://hydratv.cc/live/Shaya10/733151581/565372.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 HD
-http://hydratv.cc/live/Shaya10/733151581/565403.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 2 SD
-http://hydratv.cc/live/Shaya10/733151581/565401.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 4K
-http://hydratv.cc/live/Shaya10/733151581/565400.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 UHD
-http://hydratv.cc/live/Shaya10/733151581/565397.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 FHD
-http://hydratv.cc/live/Shaya10/733151581/565399.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 HD
-http://hydratv.cc/live/Shaya10/733151581/565398.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 HD.
-http://hydratv.cc/live/Shaya10/733151581/565371.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS FR 3 SD
-http://hydratv.cc/live/Shaya10/733151581/565396.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 4 4K
-http://hydratv.cc/live/Shaya10/733151581/565395.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565370.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 4 SD
-http://hydratv.cc/live/Shaya10/733151581/565394.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 5 4K
-http://hydratv.cc/live/Shaya10/733151581/565393.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 5 HD
-http://hydratv.cc/live/Shaya10/733151581/565392.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 5 HD.
-http://hydratv.cc/live/Shaya10/733151581/565369.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 5 SD
-http://hydratv.cc/live/Shaya10/733151581/565391.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 6 4K
-http://hydratv.cc/live/Shaya10/733151581/565390.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 6 HD
-http://hydratv.cc/live/Shaya10/733151581/565389.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 6 SD
-http://hydratv.cc/live/Shaya10/733151581/565388.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 6
-http://hydratv.cc/live/Shaya10/733151581/565387.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 7 4K
-http://hydratv.cc/live/Shaya10/733151581/565386.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 7 HD
-http://hydratv.cc/live/Shaya10/733151581/565385.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 7 SD
-http://hydratv.cc/live/Shaya10/733151581/565384.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 8 4K
-http://hydratv.cc/live/Shaya10/733151581/565383.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 8 HD
-http://hydratv.cc/live/Shaya10/733151581/565382.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 8 SD
-http://hydratv.cc/live/Shaya10/733151581/565381.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 9 4K
-http://hydratv.cc/live/Shaya10/733151581/565380.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 9 HD
-http://hydratv.cc/live/Shaya10/733151581/565379.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 9 SD
-http://hydratv.cc/live/Shaya10/733151581/565378.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 10 4K
-http://hydratv.cc/live/Shaya10/733151581/565377.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 10 HD
-http://hydratv.cc/live/Shaya10/733151581/565376.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="[LIVE]- France | Sports",FR: BEIN SPORTS MAX 10 SD
-http://hydratv.cc/live/Shaya10/733151581/565375.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BOING.png" group-title="[LIVE]- France | TV ",FR: BOING HD
-http://hydratv.cc/live/Shaya10/733151581/565123.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/C8.png" group-title="[LIVE]- France | TV ",FR: C8 HD
-http://hydratv.cc/live/Shaya10/733151581/565166.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="[LIVE]- France | TV ",FR: CANAL+ 4K
-http://hydratv.cc/live/Shaya10/733151581/565149.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="[LIVE]- France | TV ",FR: CANAL+ HEVC
-http://hydratv.cc/live/Shaya10/733151581/565265.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT-360-HEVC.png" group-title="[LIVE]- France | Sports",FR: CANAL+ 360 HD
-http://hydratv.cc/live/Shaya10/733151581/565430.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="[LIVE]- France | Sports",FR: CANAL+ CHAMPIONS LEAGUE HD
-http://hydratv.cc/live/Shaya10/733151581/565429.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="[LIVE]- France | TV ",FR: CANAL+ CINEMA 4K
-http://hydratv.cc/live/Shaya10/733151581/565147.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus-FAMILY.png" group-title="[LIVE]- France | TV ",FR: CANAL+ FAMILY 4K
-http://hydratv.cc/live/Shaya10/733151581/565143.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus-FAMILY.png" group-title="[LIVE]- France | TV ",FR: CANAL+ FAMILY HD
-http://hydratv.cc/live/Shaya10/733151581/565142.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-FOOT.png" group-title="[LIVE]- France | Sports",FR: CANAL+ FOOT HD
-http://hydratv.cc/live/Shaya10/733151581/565431.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 1 HD
-http://hydratv.cc/live/Shaya10/733151581/586707.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 2 HD
-http://hydratv.cc/live/Shaya10/733151581/586706.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 3 HD
-http://hydratv.cc/live/Shaya10/733151581/586705.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 4 HD
-http://hydratv.cc/live/Shaya10/733151581/586704.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 5 HD
-http://hydratv.cc/live/Shaya10/733151581/586703.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 6 HD
-http://hydratv.cc/live/Shaya10/733151581/586702.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1000px-Logo_Canal%2B_1995.svg.png" group-title="[LIVE]- France | Sports",FR | Canal+ LIVE 7 HD
-http://hydratv.cc/live/Shaya10/733151581/586701.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-PREMIER%20LEAGUE.png" group-title="[LIVE]- France | TV ",FR: CANAL+ PREMIER LEAGUE HEVC
-http://hydratv.cc/live/Shaya10/733151581/565262.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="[LIVE]- France | TV ",FR: CANAL+ SERIES 4K
-http://hydratv.cc/live/Shaya10/733151581/565145.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="[LIVE]- France | TV ",FR: CANAL+ SERIES HEVC
-http://hydratv.cc/live/Shaya10/733151581/565261.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="[LIVE]- France | TV ",FR: CANAL+ SERIES HD
-http://hydratv.cc/live/Shaya10/733151581/565144.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT.png" group-title="[LIVE]- France | TV ",FR: CANAL+ SPORT HEVC
-http://hydratv.cc/live/Shaya10/733151581/565259.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT.png" group-title="[LIVE]- France | Sports",FR: CANAL+ SPORT HD
-http://hydratv.cc/live/Shaya10/733151581/565432.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT-360-HEVC.png" group-title="[LIVE]- France | TV ",FR: CANAL+ SPORT 360 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565260.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CARTOON-NETWORK.png" group-title="[LIVE]- France | TV ",FR: CARTOON NETWORK HD
-http://hydratv.cc/live/Shaya10/733151581/565124.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CHASSE-PECHE.png" group-title="[LIVE]- France | TV ",FR: CHASSE PECHE HD
-http://hydratv.cc/live/Shaya10/733151581/565150.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CHERIE%2025.png" group-title="[LIVE]- France | TV ",FR: CHERIE 25 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565249.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CHERIE%2025.png" group-title="[LIVE]- France | TV ",FR: CHERIE 25 HD
-http://hydratv.cc/live/Shaya10/733151581/565151.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="[LIVE]- France | TV ",FR: CINE+ CLASSIC HEVC
-http://hydratv.cc/live/Shaya10/733151581/565257.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="[LIVE]- France | TV ",FR: CINE+ CLASSIC HD
-http://hydratv.cc/live/Shaya10/733151581/565132.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="[LIVE]- France | TV ",FR: CINE+ CLUB 4K
-http://hydratv.cc/live/Shaya10/733151581/565135.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="[LIVE]- France | TV ",FR: CINE+ CLUB HD
-http://hydratv.cc/live/Shaya10/733151581/565134.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="[LIVE]- France | TV ",FR: CINE+ EMOTION 4K
-http://hydratv.cc/live/Shaya10/733151581/565131.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="[LIVE]- France | TV ",FR: CINE+ EMOTION HEVC
-http://hydratv.cc/live/Shaya10/733151581/565255.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="[LIVE]- France | TV ",FR: CINE+ EMOTION HD
-http://hydratv.cc/live/Shaya10/733151581/565130.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="[LIVE]- France | TV ",FR: CINE+ FAMIZ 4K
-http://hydratv.cc/live/Shaya10/733151581/565137.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="[LIVE]- France | TV ",FR: CINE+ FAMIZ HEVC
-http://hydratv.cc/live/Shaya10/733151581/565254.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="[LIVE]- France | TV ",FR: CINE+ FAMIZ HD
-http://hydratv.cc/live/Shaya10/733151581/565136.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/COMEDIE-plus.png" group-title="[LIVE]- France | TV ",FR: COMEDIE+ HD
-http://hydratv.cc/live/Shaya10/733151581/565165.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CRIME-DISTRICT-HEVC.PNG" group-title="[LIVE]- France | TV ",FR: CRIME DISTRICT HEVC
-http://hydratv.cc/live/Shaya10/733151581/565244.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CSTAR.PNG" group-title="[LIVE]- France | TV ",FR: CSTAR HD
-http://hydratv.cc/live/Shaya10/733151581/565152.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY-INVESTIGATION.png" group-title="[LIVE]- France | TV ",FR: DISCOVERY INVESTIGATION HD
-http://hydratv.cc/live/Shaya10/733151581/565115.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY-SCIENCE.png" group-title="[LIVE]- France | TV ",FR: DISCOVERY SCIENCE HD
-http://hydratv.cc/live/Shaya10/733151581/565114.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISNEY-JUNIOR.png" group-title="[LIVE]- France | TV ",FR: DISNEY JUNIOR HD
-http://hydratv.cc/live/Shaya10/733151581/565126.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DJAZZ.png" group-title="[LIVE]- France | TV ",FR: DJAZZ
-http://hydratv.cc/live/Shaya10/733151581/565168.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/E-ENTERTAINMENT.png" group-title="[LIVE]- France | TV ",FR: E! ENTERTAINMENT HD
-http://hydratv.cc/live/Shaya10/733151581/565153.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EQUIDIA%20LIVE.png" group-title="[LIVE]- France | Sports",FR: EQUIDIA LIVE HEVC
-http://hydratv.cc/live/Shaya10/733151581/565286.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EQUIDIA%20LIVE.png" group-title="[LIVE]- France | TV ",FR: EQUIDIA LIVE HD
-http://hydratv.cc/live/Shaya10/733151581/565183.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT%201.png" group-title="[LIVE]- France | Sports",FR: EUROSPORT 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565294.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-2.png" group-title="[LIVE]- France | Sports",FR: EUROSPORT 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565293.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-360-1.png" group-title="[LIVE]- France | Sports",FR: EUROSPORT 360 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565292.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-360-1.png" group-title="[LIVE]- France | Sports",FR: EUROSPORT 360 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565291.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FOOT-plus.png" group-title="[LIVE]- France | Sports",FR: FOOT UHD
-http://hydratv.cc/live/Shaya10/733151581/565426.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FOOT-plus.png" group-title="[LIVE]- France | Sports",FR: FOOT+ 24/24 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565285.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%202.png" group-title="[LIVE]- France | TV ",FR: FRANCE 2 HD
-http://hydratv.cc/live/Shaya10/733151581/565230.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%204.png" group-title="[LIVE]- France | TV ",FR: FRANCE 4 4K
-http://hydratv.cc/live/Shaya10/733151581/565227.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE-5.png" group-title="[LIVE]- France | TV ",FR: FRANCE 5 HD
-http://hydratv.cc/live/Shaya10/733151581/565224.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/france24_fr.png" group-title="[LIVE]- France | TV ",FR: FRANCE 24 4K
-http://hydratv.cc/live/Shaya10/733151581/565223.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE-INFO.png" group-title="[LIVE]- France | TV ",FR: FRANCE INFO HD
-http://hydratv.cc/live/Shaya10/733151581/565202.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GAME-ONE.png" group-title="[LIVE]- France | TV ",FR: GAME ONE HD
-http://hydratv.cc/live/Shaya10/733151581/565203.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-plus-HEVC.png" group-title="[LIVE]- France | Sports",FR: GOLF+ HEVC
-http://hydratv.cc/live/Shaya10/733151581/565283.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-plus-HEVC.png" group-title="[LIVE]- France | Sports",FR: GOLF+ HD
-http://hydratv.cc/live/Shaya10/733151581/565424.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-CHANNEL.png" group-title="[LIVE]- France | Sports",FR: GOLF CHANNEL HEVC
-http://hydratv.cc/live/Shaya10/733151581/565284.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-CHANNEL.png" group-title="[LIVE]- France | Sports",FR: GOLF CHANNEL HD
-http://hydratv.cc/live/Shaya10/733151581/565425.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GULLI.png" group-title="[LIVE]- France | TV ",FR: GULLI HD
-http://hydratv.cc/live/Shaya10/733151581/565154.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/INFOSPORT-plus.png" group-title="[LIVE]- France | Sports",FR: INFOSPORT+ HEVC
-http://hydratv.cc/live/Shaya10/733151581/565282.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/INFOSPORT-plus.png" group-title="[LIVE]- France | Sports",FR: INFOSPORT+ HD
-http://hydratv.cc/live/Shaya10/733151581/565423.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/J-One.png" group-title="[LIVE]- France | TV ",FR: J-One HD
-http://hydratv.cc/live/Shaya10/733151581/565155.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L%E2%80%B2EQUIPE-21.png" group-title="[LIVE]- France | TV ",FR: L′EQUIPE 21 HD
-http://hydratv.cc/live/Shaya10/733151581/565163.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L'%C3%89QUIPE-LIVE%20DU-SOIR.png" group-title="[LIVE]- France | Sports",FR: L'ÉQUIPE LIVE DU SOIR
-http://hydratv.cc/live/Shaya10/733151581/565420.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L'%C3%89QUIPE-LIVE-FOOT.png" group-title="[LIVE]- France | Sports",FR: L'ÉQUIPE LIVE FOOT
-http://hydratv.cc/live/Shaya10/733151581/565421.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L'%C3%89QUIPE-SPORT.png" group-title="[LIVE]- France | Sports",FR: L'ÉQUIPE SPORT 1
-http://hydratv.cc/live/Shaya10/733151581/565419.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L'%C3%89QUIPE-SPORT.png" group-title="[LIVE]- France | Sports",FR: L'ÉQUIPE SPORT 2
-http://hydratv.cc/live/Shaya10/733151581/565418.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/L'%C3%89QUIPE-SPORT.png" group-title="[LIVE]- France | Sports",FR: L'ÉQUIPE SPORT 3
-http://hydratv.cc/live/Shaya10/733151581/565417.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/LCP.png" group-title="[LIVE]- France | TV ",FR: LCP HD
-http://hydratv.cc/live/Shaya10/733151581/565207.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpjksnU.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 1 HD
-http://hydratv.cc/live/Shaya10/733151581/590250.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66aFANn.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 2 HD
-http://hydratv.cc/live/Shaya10/733151581/590249.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XiQkGET.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 3 HD
-http://hydratv.cc/live/Shaya10/733151581/590248.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xmz4w8v.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 4 HD
-http://hydratv.cc/live/Shaya10/733151581/590247.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7CCThjO.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 5 HD
-http://hydratv.cc/live/Shaya10/733151581/590246.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4LC6qP.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 6 HD
-http://hydratv.cc/live/Shaya10/733151581/590245.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFx4xsC.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 7 HD
-http://hydratv.cc/live/Shaya10/733151581/590244.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGUamLB.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 8 HD
-http://hydratv.cc/live/Shaya10/733151581/590243.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qF7E2pM.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 9 HD
-http://hydratv.cc/live/Shaya10/733151581/590242.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/91PNlOH.png" group-title="[LIVE]- France | Sports",FR| Ligue 1+ 10 HD
-http://hydratv.cc/live/Shaya10/733151581/590241.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6.png" group-title="[LIVE]- France | TV ",FR: M6 HD
-http://hydratv.cc/live/Shaya10/733151581/565216.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6-MUSIC.png" group-title="[LIVE]- France | TV ",FR: M6 MUSIC HD
-http://hydratv.cc/live/Shaya10/733151581/565179.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MANGAS.png" group-title="[LIVE]- France | TV ",FR: MANGAS HD
-http://hydratv.cc/live/Shaya10/733151581/565121.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MCM.png" group-title="[LIVE]- France | TV ",FR: MCM HD
-http://hydratv.cc/live/Shaya10/733151581/565180.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MEZZO.png" group-title="[LIVE]- France | TV ",FR: MEZZO HD
-http://hydratv.cc/live/Shaya10/733151581/565157.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MTV-HITS.png" group-title="[LIVE]- France | TV ",FR: MTV HITS HD
-http://hydratv.cc/live/Shaya10/733151581/565169.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MTV-LIVE.png" group-title="[LIVE]- France | TV ",FR: MTV LIVE HD
-http://hydratv.cc/live/Shaya10/733151581/565170.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-1.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565290.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-1.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 1 HD
-http://hydratv.cc/live/Shaya10/733151581/565416.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-2.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565289.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-2.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 2 HD
-http://hydratv.cc/live/Shaya10/733151581/565415.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-3.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 3 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565288.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-3.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 3 HD
-http://hydratv.cc/live/Shaya10/733151581/565414.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-4.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565413.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-5.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 5 HD
-http://hydratv.cc/live/Shaya10/733151581/565412.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-6.png" group-title="[LIVE]- France | Sports",FR: MULTISPORTS 6 HD
-http://hydratv.cc/live/Shaya10/733151581/565411.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NAT-GEO.png" group-title="[LIVE]- France | TV ",FR: NAT GEO HD
-http://hydratv.cc/live/Shaya10/733151581/565117.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NICKELODEON-JUNIOR.png" group-title="[LIVE]- France | TV ",FR: NICKELODEON JUNIOR HD
-http://hydratv.cc/live/Shaya10/733151581/565125.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NOVELAS.png" group-title="[LIVE]- France | TV ",FR: NOVELAS HD
-http://hydratv.cc/live/Shaya10/733151581/565178.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NOVELAS-TV-HEVC.png" group-title="[LIVE]- France | TV ",FR: NOVELAS TV HEVC
-http://hydratv.cc/live/Shaya10/733151581/565240.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NRJ12.png" group-title="[LIVE]- France | TV ",FR: NRJ12 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565239.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NRJ-12.png" group-title="[LIVE]- France | TV ",FR: NRJ 12 HD
-http://hydratv.cc/live/Shaya10/733151581/565196.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-CHOC.png" group-title="[LIVE]- France | TV ",FR: OCS CHOC HEVC
-http://hydratv.cc/live/Shaya10/733151581/565252.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-CITY-HEVC.png" group-title="[LIVE]- France | TV ",FR: OCS CITY HEVC
-http://hydratv.cc/live/Shaya10/733151581/565251.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-CITY.png" group-title="[LIVE]- France | TV ",FR: OCS CITY HD
-http://hydratv.cc/live/Shaya10/733151581/565194.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS%20GEANT.png" group-title="[LIVE]- France | TV ",FR: OCS GEANT HEVC
-http://hydratv.cc/live/Shaya10/733151581/565250.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-GEANTS.png" group-title="[LIVE]- France | TV ",FR: OCS GEANTS HD
-http://hydratv.cc/live/Shaya10/733151581/565193.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-PULP.png" group-title="[LIVE]- France | TV ",FR: OCS PULP HD
-http://hydratv.cc/live/Shaya10/733151581/565195.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARAMOUNT-DECALE-HEVC.png" group-title="[LIVE]- France | TV ",FR: PARAMOUNT CHANNEL HEVC
-http://hydratv.cc/live/Shaya10/733151581/565238.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARAMOUNT.png" group-title="[LIVE]- France | TV ",FR: PARAMOUNT CHANNEL HD
-http://hydratv.cc/live/Shaya10/733151581/565191.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARAMOUNT-DECALE-HEVC.png" group-title="[LIVE]- France | TV ",FR: PARAMOUNT DECALE HEVC
-http://hydratv.cc/live/Shaya10/733151581/565237.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus-CI.png" group-title="[LIVE]- France | TV ",FR: PLANETE+ CI HD
-http://hydratv.cc/live/Shaya10/733151581/565187.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR.png" group-title="[LIVE]- France | TV ",FR: POLAR+ HEVC
-http://hydratv.cc/live/Shaya10/733151581/565236.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR-plus.png" group-title="[LIVE]- France | TV ",FR: POLAR+ HD
-http://hydratv.cc/live/Shaya10/733151581/565128.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RFM.png" group-title="[LIVE]- France | TV ",FR: RFM TV HD
-http://hydratv.cc/live/Shaya10/733151581/565197.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 4K
-http://hydratv.cc/live/Shaya10/733151581/565359.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565297.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 HD
-http://hydratv.cc/live/Shaya10/733151581/565358.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 HD+
-http://hydratv.cc/live/Shaya10/733151581/565360.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 SD
-http://hydratv.cc/live/Shaya10/733151581/565357.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 1 FHD ACCESS
-http://hydratv.cc/live/Shaya10/733151581/565344.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 4K
-http://hydratv.cc/live/Shaya10/733151581/565356.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565296.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/565351.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 HD
-http://hydratv.cc/live/Shaya10/733151581/565353.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 HD+
-http://hydratv.cc/live/Shaya10/733151581/565354.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 2 SD
-http://hydratv.cc/live/Shaya10/733151581/565352.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 3 4K
-http://hydratv.cc/live/Shaya10/733151581/565349.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 3 HD
-http://hydratv.cc/live/Shaya10/733151581/565348.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 3 SD
-http://hydratv.cc/live/Shaya10/733151581/565347.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 4 4K
-http://hydratv.cc/live/Shaya10/733151581/565345.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565343.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT 4 SD
-http://hydratv.cc/live/Shaya10/733151581/565342.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 1 HD
-http://hydratv.cc/live/Shaya10/733151581/565361.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 2 HD
-http://hydratv.cc/live/Shaya10/733151581/565355.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 3 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565295.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 3 HD
-http://hydratv.cc/live/Shaya10/733151581/565350.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565346.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-5.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 5 4K
-http://hydratv.cc/live/Shaya10/733151581/565341.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-6.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 6 4K
-http://hydratv.cc/live/Shaya10/733151581/565340.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-7.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 7 4K
-http://hydratv.cc/live/Shaya10/733151581/565339.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-8.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 8 4K
-http://hydratv.cc/live/Shaya10/733151581/565338.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-9.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 9 4K
-http://hydratv.cc/live/Shaya10/733151581/565337.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-10.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 10 4K
-http://hydratv.cc/live/Shaya10/733151581/565336.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-11.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 11 4K
-http://hydratv.cc/live/Shaya10/733151581/565335.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-12.png" group-title="[LIVE]- France | Sports",FR: RMC SPORT LIVE 12 4K
-http://hydratv.cc/live/Shaya10/733151581/565334.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-STORY.png" group-title="[LIVE]- France | TV ",FR: RMC STORY HD
-http://hydratv.cc/live/Shaya10/733151581/565182.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RTL9.png" group-title="[LIVE]- France | TV ",FR: RTL9 HD
-http://hydratv.cc/live/Shaya10/733151581/565160.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SCIENCES-and-VIE.png" group-title="[LIVE]- France | TV ",FR: SCIENCES & VIE HD
-http://hydratv.cc/live/Shaya10/733151581/565175.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SERIE-CLUB.png" group-title="[LIVE]- France | TV ",FR: SERIE CLUB HD
-http://hydratv.cc/live/Shaya10/733151581/565206.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SPORT-EN-FRANCE.png" group-title="[LIVE]- France | Sports",FR: SPORT EN FRANCE
-http://hydratv.cc/live/Shaya10/733151581/565427.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TCM-CINEMA.png" group-title="[LIVE]- France | TV ",FR: TCM CINEMA HEVC
-http://hydratv.cc/live/Shaya10/733151581/565235.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TELETOON.png" group-title="[LIVE]- France | TV ",FR: TELETOON HD
-http://hydratv.cc/live/Shaya10/733151581/565122.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TEVA.png" group-title="[LIVE]- France | TV ",FR: TEVA HD
-http://hydratv.cc/live/Shaya10/733151581/565200.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1-plus-one.png" group-title="[LIVE]- France | TV ",FR: TF1 +1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565279.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1-SERIES-FILMS.png" group-title="[LIVE]- France | TV ",FR: TF1 SERIES FILMS HD
-http://hydratv.cc/live/Shaya10/733151581/565199.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TFX.png" group-title="[LIVE]- France | TV ",FR: TFX HD
-http://hydratv.cc/live/Shaya10/733151581/565198.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TIJI.png" group-title="[LIVE]- France | TV ",FR: TIJI HD
-http://hydratv.cc/live/Shaya10/733151581/565120.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TMC-PLUS-ONE.PNG" group-title="[LIVE]- France | TV ",FR: TMC +1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565234.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TOONAMI.png" group-title="[LIVE]- France | TV ",FR: TOONAMI HD
-http://hydratv.cc/live/Shaya10/733151581/565186.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TRACE-SPORT-STARS.png" group-title="[LIVE]- France | Sports",FR: TRACE SPORT STARS SD
-http://hydratv.cc/live/Shaya10/733151581/565428.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BREIZH.png" group-title="[LIVE]- France | TV ",FR: TV BREIZH HD
-http://hydratv.cc/live/Shaya10/733151581/565185.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/W9.png" group-title="[LIVE]- France | TV ",FR: W9 4K
-http://hydratv.cc/live/Shaya10/733151581/565213.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/W9.png" group-title="[LIVE]- France | TV ",FR: W9 HD
-http://hydratv.cc/live/Shaya10/733151581/565212.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/WARNER%20TV.png" group-title="[LIVE]- France | TV ",FR: WARNER TV HEVC
-http://hydratv.cc/live/Shaya10/733151581/565232.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%202.png" group-title="FR_ France",FRANCE 2 4K
-http://hydratv.cc/live/Shaya10/733151581/565231.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%202.png" group-title="FR_ France",FRANCE 2 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565274.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%203.png" group-title="FR_ France",FRANCE 3 4K
-http://hydratv.cc/live/Shaya10/733151581/565229.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%203.png" group-title="FR_ France",FRANCE 3 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565273.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%203.png" group-title="FR_ France",FRANCE 3 HD
-http://hydratv.cc/live/Shaya10/733151581/565228.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%204.png" group-title="FR_ France",FRANCE 4 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565272.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%204.png" group-title="FR_ France",FRANCE 4 HD
-http://hydratv.cc/live/Shaya10/733151581/565226.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE-5.png" group-title="FR_ France",FRANCE 5 4K
-http://hydratv.cc/live/Shaya10/733151581/565225.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE-5.png" group-title="FR_ France",FRANCE 5 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565271.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/france24_fr.png" group-title="FR_ GENERAL",FRANCE 24 HD
-http://hydratv.cc/live/Shaya10/733151581/565222.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",HBO Action 2 Hydra Tv
-http://hydratv.cc/live/Shaya10/733151581/493978.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/HISTOIRE.png" group-title="FR_ Documentary",HISTOIRE HD
-http://hydratv.cc/live/Shaya10/733151581/565204.ts
-#EXTINF:-1 tvg-logo="https://d.top4top.io/p_24915zqyk1.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Horror 1
-http://hydratv.cc/live/Shaya10/733151581/207184.ts
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_2491x6qob2.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Horror 2
-http://hydratv.cc/live/Shaya10/733151581/207185.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra 2023 Movies 1
-http://hydratv.cc/live/Shaya10/733151581/393212.ts
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_2473pp8k81.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Action  1
-http://hydratv.cc/live/Shaya10/733151581/206954.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Adventure 1
-http://hydratv.cc/live/Shaya10/733151581/756164.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Adventure 2
-http://hydratv.cc/live/Shaya10/733151581/756163.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Adventure 3
-http://hydratv.cc/live/Shaya10/733151581/756162.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Animation 1
-http://hydratv.cc/live/Shaya10/733151581/756161.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Animation 2
-http://hydratv.cc/live/Shaya10/733151581/756160.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Animation 3
-http://hydratv.cc/live/Shaya10/733151581/756159.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Arabic Classic 1
-http://hydratv.cc/live/Shaya10/733151581/756110.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Arabic Classic 2
-http://hydratv.cc/live/Shaya10/733151581/756109.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Arabic Classic 3
-http://hydratv.cc/live/Shaya10/733151581/756108.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Biography 1
-http://hydratv.cc/live/Shaya10/733151581/756158.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Biography 2
-http://hydratv.cc/live/Shaya10/733151581/756157.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Biography 3
-http://hydratv.cc/live/Shaya10/733151581/756156.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box Office 1
-http://hydratv.cc/live/Shaya10/733151581/393206.ts
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_24891bhov1.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box office  1
-http://hydratv.cc/live/Shaya10/733151581/206947.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box Office 2
-http://hydratv.cc/live/Shaya10/733151581/393207.ts
-#EXTINF:-1 tvg-logo="https://f.top4top.io/p_24896uzyi2.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box office  2
-http://hydratv.cc/live/Shaya10/733151581/206946.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box Office 3
-http://hydratv.cc/live/Shaya10/733151581/393208.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Box Office 4
-http://hydratv.cc/live/Shaya10/733151581/393209.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Comedy 1
-http://hydratv.cc/live/Shaya10/733151581/756152.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Comedy 2
-http://hydratv.cc/live/Shaya10/733151581/756151.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Comedy 3
-http://hydratv.cc/live/Shaya10/733151581/756150.ts
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_24898eqxf7.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Crime
-http://hydratv.cc/live/Shaya10/733151581/206943.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Crime 1
-http://hydratv.cc/live/Shaya10/733151581/756149.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Crime 2
-http://hydratv.cc/live/Shaya10/733151581/756148.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Crime 3
-http://hydratv.cc/live/Shaya10/733151581/756147.ts
-#EXTINF:-1 tvg-logo="https://f.top4top.io/p_2489pch8n9.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Egypt
-http://hydratv.cc/live/Shaya10/733151581/206948.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Family 1
-http://hydratv.cc/live/Shaya10/733151581/756146.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Family 2
-http://hydratv.cc/live/Shaya10/733151581/756145.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Family 3
-http://hydratv.cc/live/Shaya10/733151581/756144.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Fantasy 1
-http://hydratv.cc/live/Shaya10/733151581/756143.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Fantasy 2
-http://hydratv.cc/live/Shaya10/733151581/756142.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Fantasy 3
-http://hydratv.cc/live/Shaya10/733151581/756141.ts
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_248910kp15.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Hindi 1
-http://hydratv.cc/live/Shaya10/733151581/206952.ts
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_2489fr8ux6.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Hindi 2
-http://hydratv.cc/live/Shaya10/733151581/206951.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Historical 1
-http://hydratv.cc/live/Shaya10/733151581/756116.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Historical 2
-http://hydratv.cc/live/Shaya10/733151581/756115.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Historical 3
-http://hydratv.cc/live/Shaya10/733151581/756114.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Horror 1
-http://hydratv.cc/live/Shaya10/733151581/756140.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Horror 2
-http://hydratv.cc/live/Shaya10/733151581/756139.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Horror 3
-http://hydratv.cc/live/Shaya10/733151581/756138.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Musical 1
-http://hydratv.cc/live/Shaya10/733151581/756119.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Musical 2
-http://hydratv.cc/live/Shaya10/733151581/756118.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Musical 3
-http://hydratv.cc/live/Shaya10/733151581/756117.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Mystery 1
-http://hydratv.cc/live/Shaya10/733151581/756134.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Mystery 2
-http://hydratv.cc/live/Shaya10/733151581/756133.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Mystery 3
-http://hydratv.cc/live/Shaya10/733151581/756132.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Romance 1
-http://hydratv.cc/live/Shaya10/733151581/756137.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Romance 2
-http://hydratv.cc/live/Shaya10/733151581/756136.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Romance 3
-http://hydratv.cc/live/Shaya10/733151581/756135.ts
-#EXTINF:-1 tvg-logo="https://j.top4top.io/p_2489afihv4.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Sci-FI  2
-http://hydratv.cc/live/Shaya10/733151581/206944.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Sport 1
-http://hydratv.cc/live/Shaya10/733151581/756128.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Sport 2
-http://hydratv.cc/live/Shaya10/733151581/756127.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Sport 3
-http://hydratv.cc/live/Shaya10/733151581/756126.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Thriller 1
-http://hydratv.cc/live/Shaya10/733151581/756125.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Thriller 2
-http://hydratv.cc/live/Shaya10/733151581/756124.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Thriller 3
-http://hydratv.cc/live/Shaya10/733151581/756123.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra War 1
-http://hydratv.cc/live/Shaya10/733151581/756131.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra War 2
-http://hydratv.cc/live/Shaya10/733151581/756130.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra War 3
-http://hydratv.cc/live/Shaya10/733151581/756129.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Western 1
-http://hydratv.cc/live/Shaya10/733151581/756122.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Western 2
-http://hydratv.cc/live/Shaya10/733151581/756121.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178802982003631.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Hydra Western 3
-http://hydratv.cc/live/Shaya10/733151581/756120.ts
-#EXTINF:-1 tvg-logo="https://www.pngarts.com/files/5/Sports-Activities-PNG-Image-Transparent-Background.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",IL: YES Sport 4 HD
-http://hydratv.cc/live/Shaya10/733151581/255562.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/LCI.png" group-title="FR_ France",LCI HD
-http://hydratv.cc/live/Shaya10/733151581/565156.ts
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220425/ourmid/pngtree-play-button-and-live-stream-logo-icon-event-isolated-news-vector-png-image_45384630.jpg" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",Live Events [ Arsenal VS bolton ]
-http://hydratv.cc/live/Shaya10/733151581/207421.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6.png" group-title="FR_ France",M6 4K
-http://hydratv.cc/live/Shaya10/733151581/565217.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6.png" group-title="FR_ France",M6 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565242.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6-INTERNATIONAL.png" group-title="FR_ France",M6 INTERNATIONAL HEVC
-http://hydratv.cc/live/Shaya10/733151581/565241.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PlyVTytVDaU/XZY8mMYvLNI/AAAAAAAAC1o/ilL8jUmikscCNEF8Z1ne_5hN91NE55_OQCLcBGAsYHQ/w1200-h630-p-k-no-nu/mbc%2B1.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC 1  4K
-http://hydratv.cc/live/Shaya10/733151581/34220.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PlyVTytVDaU/XZY8mMYvLNI/AAAAAAAAC1o/ilL8jUmikscCNEF8Z1ne_5hN91NE55_OQCLcBGAsYHQ/w1200-h630-p-k-no-nu/mbc%2B1.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC 1
-http://hydratv.cc/live/Shaya10/733151581/34246.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text-thumbnail.png" group-title="AR_ OSN MBC",MBC 1 USA
-http://hydratv.cc/live/Shaya10/733151581/413341.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/370/86/png-clipart-mbc2-logo-film-cuevana-others-television-text.png" group-title="[LIVE]- MBC - أم بي سي",MBC 2 4K
-http://hydratv.cc/live/Shaya10/733151581/34219.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0QcNdIHZMrYvBF3eBGDDVYTblbWUyoWe4w&s" group-title="[LIVE]- MBC - أم بي سي",MBC 2
-http://hydratv.cc/live/Shaya10/733151581/34245.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text-thumbnail.png" group-title="AR_ OSN MBC",MBC 2 USA
-http://hydratv.cc/live/Shaya10/733151581/413340.ts
-#EXTINF:-1 tvg-logo="https://www4.0zz0.com/2023/10/01/12/448276969.png" group-title="[LIVE]- MBC - أم بي سي",MBC 3 4K
-http://hydratv.cc/live/Shaya10/733151581/34218.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="[LIVE]- MBC - أم بي سي",MBC  3
-http://hydratv.cc/live/Shaya10/733151581/34244.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text-thumbnail.png" group-title="AR_ OSN MBC",MBC 3 USA
-http://hydratv.cc/live/Shaya10/733151581/413339.ts
-#EXTINF:-1 tvg-logo="https://www3.0zz0.com/2023/10/01/12/681490094.png" group-title="[LIVE]- MBC - أم بي سي",MBC 4  4K
-http://hydratv.cc/live/Shaya10/733151581/34217.ts
-#EXTINF:-1 tvg-logo="https://www3.0zz0.com/2023/10/01/12/681490094.png" group-title="[LIVE]- MBC - أم بي سي",MBC  4
-http://hydratv.cc/live/Shaya10/733151581/34243.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/215/378/png-clipart-mbc1-%D8%A7%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A7%D8%AA%D8%B4-%D8%AF%D9%8A-mbc2-mbc-action-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-television-text-thumbnail.png" group-title="AR_ OSN MBC",MBC 4 USA
-http://hydratv.cc/live/Shaya10/733151581/413338.ts
-#EXTINF:-1 tvg-logo="https://www9.0zz0.com/2023/10/01/12/305418612.png" group-title="[LIVE]- MBC - أم بي سي",MBC 5 4K
-http://hydratv.cc/live/Shaya10/733151581/34216.ts
-#EXTINF:-1 tvg-logo="https://www9.0zz0.com/2023/10/01/12/305418612.png" group-title="[LIVE]- MBC - أم بي سي",MBC  5
-http://hydratv.cc/live/Shaya10/733151581/34242.ts
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wq/20947/png/mbc-action-01.png" group-title="[LIVE]- MBC - أم بي سي",MBC Action 4K
-http://hydratv.cc/live/Shaya10/733151581/34211.ts
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wq/20947/png/mbc-action-01.png" group-title="[LIVE]- MBC - أم بي سي",MBC Action
-http://hydratv.cc/live/Shaya10/733151581/34241.ts
-#EXTINF:-1 tvg-logo="https://www12.0zz0.com/2023/10/01/12/803275670.png" group-title="[LIVE]- MBC - أم بي سي",MBC bollywood 4K
-http://hydratv.cc/live/Shaya10/733151581/34206.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qNofT6kPtz98Dl9RnR8GRnuBmPoZ6a-xUg&s" group-title="AR_ OSN MBC",MBC BOLLYWOOD USA
-http://hydratv.cc/live/Shaya10/733151581/413327.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="[LIVE]- MBC - أم بي سي",MBC DRAMA  4K
-http://hydratv.cc/live/Shaya10/733151581/34213.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="[LIVE]- MBC - أم بي سي",MBC Drama
-http://hydratv.cc/live/Shaya10/733151581/34239.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyk7TCsN__tthOvZ3nMOZ6qbeYTO0dyEn0VA&s" group-title="AR_ OSN MBC",MBC ELIFE USA
-http://hydratv.cc/live/Shaya10/733151581/413334.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHH_XzgD3FtHjUddyK6NhIcCRhbpFNBz0BA&s" group-title="AR_ OSN MBC",MBC FAMILY 4K
-http://hydratv.cc/live/Shaya10/733151581/326300.ts
-#EXTINF:-1 tvg-logo="https://archive.org/download/logoschannels/MBC/mbc-fm.png" group-title="[LIVE]- MBC - أم بي سي",MBC FM 4K
-http://hydratv.cc/live/Shaya10/733151581/34202.ts
-#EXTINF:-1 group-title="AR_ OSN MBC",MBC GEO 1 4K
-http://hydratv.cc/live/Shaya10/733151581/326303.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckWXZA3TqCGs304RRil_HGWkMQxQs8_IY0w&s" group-title="AR_ OSN MBC",MBC GEO 2 4K
-http://hydratv.cc/live/Shaya10/733151581/326302.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB22A-nOQ83cKeWrGBcarxNyWGPN4L0TsKA&s" group-title="[LIVE]- MBC - أم بي سي",Mbc Iraq 4K
-http://hydratv.cc/live/Shaya10/733151581/34214.ts
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/693-6931595_mbc-iraq-logo-official-mbc-iraq-logo-hd.png" group-title="[LIVE]- MBC - أم بي سي",MBC Iraq
-http://hydratv.cc/live/Shaya10/733151581/34238.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrk7UBsF6SB8SPj9Hl92dlO3t_wXoQRW6ObQ&s" group-title="AR_ OSN MBC",MBC IRAQ USA
-http://hydratv.cc/live/Shaya10/733151581/413333.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="[LIVE]- MBC - أم بي سي",MBC Masr 1 4K
-http://hydratv.cc/live/Shaya10/733151581/34209.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="[LIVE]- MBC - أم بي سي",MBC Masr 1 HD
-http://hydratv.cc/live/Shaya10/733151581/34237.ts
-#EXTINF:-1 tvg-logo="https://www7.0zz0.com/2023/10/01/12/908242840.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC Masr 2 4K
-http://hydratv.cc/live/Shaya10/733151581/34207.ts
-#EXTINF:-1 tvg-logo="https://www7.0zz0.com/2023/10/01/12/908242840.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC Masr 2
-http://hydratv.cc/live/Shaya10/733151581/34236.ts
-#EXTINF:-1 tvg-logo="https://media.almashhad-alyemeni.com/img/25/10/12/347335.webp" group-title="AR_ OSN MBC",MBC MASR 2 USA
-http://hydratv.cc/live/Shaya10/733151581/413335.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MBC_Masr_Drama.jpg/1200px-MBC_Masr_Drama.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC MASR DRAMA 4K
-http://hydratv.cc/live/Shaya10/733151581/539520.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MBC_Masr_Drama.jpg/1200px-MBC_Masr_Drama.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC MASR DRAMA HD
-http://hydratv.cc/live/Shaya10/733151581/539521.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="[LIVE]- MBC - أم بي سي",MBC MAX 4K
-http://hydratv.cc/live/Shaya10/733151581/34201.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="[LIVE]- MBC - أم بي سي",MBC Max
-http://hydratv.cc/live/Shaya10/733151581/34235.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtMmivBSG_Cw9x9yr_F8r7I9VlBEWTrQctw&s" group-title="AR_ OSN MBC",MBC MAX USA
-http://hydratv.cc/live/Shaya10/733151581/413332.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3vRkuIe.png" group-title="[LIVE]- Shahid VIP Live - شاهد لايف",MBC Mood
-http://hydratv.cc/live/Shaya10/733151581/292822.ts
-#EXTINF:-1 tvg-logo="https://assets.mbcmood.com/channels/16439607661635521293panorama.png" group-title="[LIVE]- MBC - أم بي سي",MBC PANORAMA FM
-http://hydratv.cc/live/Shaya10/733151581/387770.ts
-#EXTINF:-1 tvg-logo="https://www.roy2a.com/wp-content/uploads/2021/06/mbc-plus-drama.png" group-title="[LIVE]- MBC - أم بي سي",MBC Plus Drama 4K
-http://hydratv.cc/live/Shaya10/733151581/34212.ts
-#EXTINF:-1 tvg-logo="https://www.roy2a.com/wp-content/uploads/2021/06/mbc-plus-drama.png" group-title="[LIVE]- MBC - أم بي سي",MBC Plus Drama
-http://hydratv.cc/live/Shaya10/733151581/34234.ts
-#EXTINF:-1 tvg-logo="https://www3.0zz0.com/2023/10/01/12/680539720.jpg" group-title="AR_ OSN MBC",MBC POWER 4K
-http://hydratv.cc/live/Shaya10/733151581/326299.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckWXZA3TqCGs304RRil_HGWkMQxQs8_IY0w&s" group-title="AR_ OSN MBC",MBC PREMIUM 4K
-http://hydratv.cc/live/Shaya10/733151581/326305.ts
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2AtWpbW_Mmt-Myl0k-v_d8lKauBY10rKUOlpqGc9YmA=s900-c-k-c0x00ffffff-no-rj" group-title="AR_ OSN MBC",MBC TOON
-http://hydratv.cc/live/Shaya10/733151581/326301.ts
-#EXTINF:-1 tvg-logo="https://www3.0zz0.com/2023/10/01/12/669843081.jpg" group-title="[LIVE]- MBC - أم بي سي",MBC Variety 4K
-http://hydratv.cc/live/Shaya10/733151581/34210.ts
-#EXTINF:-1 tvg-logo="https://arabitec.com/wp-content/uploads/2016/01/%D9%82%D9%86%D8%A7%D8%A9-%D8%B2%D9%8A-%D8%A7%D9%81%D9%84%D8%A7%D9%85.jpeg" group-title="[LIVE]- MBC - أم بي سي",MBC Zee Aflam
-http://hydratv.cc/live/Shaya10/733151581/34205.ts
-#EXTINF:-1 tvg-logo="https://www12.0zz0.com/2023/10/01/12/389289730.png" group-title="[LIVE]- MBC - أم بي سي",MBC Zee Alwan
-http://hydratv.cc/live/Shaya10/733151581/34203.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NAT-GEO-WILD.png" group-title="FR_ Documentary",NAT GEO WILD HD
-http://hydratv.cc/live/Shaya10/733151581/565118.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",NBA TV
-http://hydratv.cc/live/Shaya10/733151581/198048.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/action1.PNG" group-title="NETFLIX",Netflix Action +1
-http://hydratv.cc/live/Shaya10/733151581/395465.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/action1.PNG" group-title="NETFLIX",Netflix Action 1
-http://hydratv.cc/live/Shaya10/733151581/283934.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/action1.PNG" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Action +2
-http://hydratv.cc/live/Shaya10/733151581/395466.ts
-#EXTINF:-1 tvg-logo="https://www4.0zz0.com/2023/05/13/09/915963131.png" group-title="NETFLIX",Netflix Action 2
-http://hydratv.cc/live/Shaya10/733151581/283933.ts
-#EXTINF:-1 group-title="NETFLIX",Netflix Adventure +1
-http://hydratv.cc/live/Shaya10/733151581/395467.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Adventure1.png" group-title="NETFLIX",Netflix Adventure 1
-http://hydratv.cc/live/Shaya10/733151581/283909.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Adventure +2
-http://hydratv.cc/live/Shaya10/733151581/395468.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Adventure2.png" group-title="NETFLIX",Netflix Adventure 2
-http://hydratv.cc/live/Shaya10/733151581/283908.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Anime1.png" group-title="NETFLIX",Netflix Animation +1
-http://hydratv.cc/live/Shaya10/733151581/395471.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Anime1.png" group-title="NETFLIX",Netflix Animation +2
-http://hydratv.cc/live/Shaya10/733151581/395472.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Anime1.png" group-title="NETFLIX",Netflix Anime 1
-http://hydratv.cc/live/Shaya10/733151581/283932.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/anime2.png" group-title="NETFLIX",Netflix Anime 2
-http://hydratv.cc/live/Shaya10/733151581/283931.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Awards.png" group-title="NETFLIX",Netflix Awards
-http://hydratv.cc/live/Shaya10/733151581/283930.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Awards2.png" group-title="NETFLIX",Netflix Awards 2
-http://hydratv.cc/live/Shaya10/733151581/283929.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Classic.png" group-title="NETFLIX",Netflix Classic
-http://hydratv.cc/live/Shaya10/733151581/283907.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Classic2.png" group-title="NETFLIX",Netflix Classic 2
-http://hydratv.cc/live/Shaya10/733151581/283906.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Comedy.png" group-title="NETFLIX",Netflix Comedy 1
-http://hydratv.cc/live/Shaya10/733151581/283926.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Comedy.png" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Comedy +1
-http://hydratv.cc/live/Shaya10/733151581/395473.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Comedy +2
-http://hydratv.cc/live/Shaya10/733151581/397223.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Comedy2.png" group-title="NETFLIX",Netflix Comedy 2
-http://hydratv.cc/live/Shaya10/733151581/283925.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Crime +1
-http://hydratv.cc/live/Shaya10/733151581/397225.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/crime.png" group-title="NETFLIX",Netflix Crime 1
-http://hydratv.cc/live/Shaya10/733151581/283924.ts
-#EXTINF:-1 group-title="NETFLIX",Netflix Crime +2
-http://hydratv.cc/live/Shaya10/733151581/397222.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/crime2.png" group-title="NETFLIX",Netflix Crime 2
-http://hydratv.cc/live/Shaya10/733151581/283923.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Documentary +1
-http://hydratv.cc/live/Shaya10/733151581/397257.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Documentary.png" group-title="NETFLIX",Netflix Documentary 1
-http://hydratv.cc/live/Shaya10/733151581/283905.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Documentary +2
-http://hydratv.cc/live/Shaya10/733151581/397258.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Documentary2.png" group-title="NETFLIX",Netflix Documentary 2
-http://hydratv.cc/live/Shaya10/733151581/283904.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Drama +1
-http://hydratv.cc/live/Shaya10/733151581/397259.ts
-#EXTINF:-1 tvg-logo="https://www4.0zz0.com/2023/05/13/10/871058009.png" group-title="NETFLIX",Netflix Drama 1
-http://hydratv.cc/live/Shaya10/733151581/283903.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Drama +2
-http://hydratv.cc/live/Shaya10/733151581/397260.ts
-#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2023/05/13/10/939939466.png" group-title="NETFLIX",Netflix Drama 2
-http://hydratv.cc/live/Shaya10/733151581/283902.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Egypt +1
-http://hydratv.cc/live/Shaya10/733151581/397261.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/egypt.png" group-title="NETFLIX",Netflix Egypt 1
-http://hydratv.cc/live/Shaya10/733151581/283938.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Egypt +2
-http://hydratv.cc/live/Shaya10/733151581/397262.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/egypt2.png" group-title="NETFLIX",Netflix Egypt 2
-http://hydratv.cc/live/Shaya10/733151581/283937.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Family.png" group-title="NETFLIX",Netflix Family
-http://hydratv.cc/live/Shaya10/733151581/283928.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Family +1
-http://hydratv.cc/live/Shaya10/733151581/397270.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Family +2
-http://hydratv.cc/live/Shaya10/733151581/397271.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Family2.png" group-title="NETFLIX",Netflix Family 2
-http://hydratv.cc/live/Shaya10/733151581/283927.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Fantasy +1
-http://hydratv.cc/live/Shaya10/733151581/397272.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/fantasy.png" group-title="NETFLIX",Netflix Fantasy 1
-http://hydratv.cc/live/Shaya10/733151581/283922.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Fantasy +2
-http://hydratv.cc/live/Shaya10/733151581/397273.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/fantasy2.png" group-title="NETFLIX",Netflix Fantasy 2
-http://hydratv.cc/live/Shaya10/733151581/283921.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/gulf.png" group-title="NETFLIX",Netflix Gulf
-http://hydratv.cc/live/Shaya10/733151581/283936.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/gulf2.png" group-title="NETFLIX",Netflix Gulf 2
-http://hydratv.cc/live/Shaya10/733151581/283935.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Hollywood.png" group-title="NETFLIX",Netflix Hollywood 1
-http://hydratv.cc/live/Shaya10/733151581/283920.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Hollywood2.png" group-title="NETFLIX",Netflix Hollywood 2
-http://hydratv.cc/live/Shaya10/733151581/283919.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Horror.png" group-title="NETFLIX",Netflix Horror
-http://hydratv.cc/live/Shaya10/733151581/283918.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Horror +1
-http://hydratv.cc/live/Shaya10/733151581/397299.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Horror +2
-http://hydratv.cc/live/Shaya10/733151581/397300.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Horror2.png" group-title="NETFLIX",Netflix Horror 2
-http://hydratv.cc/live/Shaya10/733151581/283917.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Music.png" group-title="NETFLIX",Netflix Music
-http://hydratv.cc/live/Shaya10/733151581/283916.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Mystery +1
-http://hydratv.cc/live/Shaya10/733151581/397301.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Mystery +2
-http://hydratv.cc/live/Shaya10/733151581/397302.ts
-#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2023/05/13/10/939939466.png" group-title="NETFLIX",Netflix Romance 1
-http://hydratv.cc/live/Shaya10/733151581/283915.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Romance +2
-http://hydratv.cc/live/Shaya10/733151581/397330.ts
-#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2023/05/13/10/939939466.png" group-title="NETFLIX",Netflix Romance 2
-http://hydratv.cc/live/Shaya10/733151581/283914.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/sci.png" group-title="NETFLIX",Netflix SCi 1
-http://hydratv.cc/live/Shaya10/733151581/283913.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/cha/net/Sci2.png" group-title="NETFLIX",Netflix SCi 2
-http://hydratv.cc/live/Shaya10/733151581/283912.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Thriller +1
-http://hydratv.cc/live/Shaya10/733151581/397331.ts
-#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2023/05/13/10/939939466.png" group-title="NETFLIX",Netflix Thriller 1
-http://hydratv.cc/live/Shaya10/733151581/283911.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- NetFlix Hydra - نتفليكس هيدرا",Netflix Thriller +2
-http://hydratv.cc/live/Shaya10/733151581/397431.ts
-#EXTINF:-1 tvg-logo="https://www13.0zz0.com/2023/05/13/10/939939466.png" group-title="NETFLIX",Netflix Thriller 2
-http://hydratv.cc/live/Shaya10/733151581/283910.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NICKELODEON.png" group-title="FR_ France",NICKELODEON HD
-http://hydratv.cc/live/Shaya10/733151581/565210.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NICKELODEON-TEEN.png" group-title="FR_ France",NICKELODEON TEEN HD
-http://hydratv.cc/live/Shaya10/733151581/565211.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",|NL| ESPN  1 HD
-http://hydratv.cc/live/Shaya10/733151581/255585.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",|NL| ESPN  2 HD
-http://hydratv.cc/live/Shaya10/733151581/255584.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",|NL| ESPN 3 HD
-http://hydratv.cc/live/Shaya10/733151581/255583.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",|NL| ESPN  4 HD
-http://hydratv.cc/live/Shaya10/733151581/255582.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/41/171/png-clipart-logo-sport1-germany-television-channel-sports-sports-logo-television-text.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",|NL| SPORT 1 VOETBAL HD
-http://hydratv.cc/live/Shaya10/733151581/255551.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NRJ-hits.png" group-title="FR_ France",NRJ HITS HD
-http://hydratv.cc/live/Shaya10/733151581/565171.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-MAX.png" group-title="FR_ France",OCS MAX HD
-http://hydratv.cc/live/Shaya10/733151581/565192.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/OrMsWlt0.png" group-title="AR_ OSN MBC",OSN ALFA AL FANN
-http://hydratv.cc/live/Shaya10/733151581/236645.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/S9ToRemm.jpeg" group-title="AR_ OSN MBC",OSN ALFA AL SAFWA
-http://hydratv.cc/live/Shaya10/733151581/236641.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/gOR2wGMJylX.jpeg" group-title="AR_ OSN MBC",OSN ALFA ALYOUM
-http://hydratv.cc/live/Shaya10/733151581/236644.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/VT1BzYMB.png" group-title="AR_ OSN MBC",OSN ALFA CINEMA 1
-http://hydratv.cc/live/Shaya10/733151581/236643.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/bzeJDDDfoeXH.png" group-title="AR_ OSN MBC",OSN ALFA CINEMA 2
-http://hydratv.cc/live/Shaya10/733151581/236642.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="AR_ OSN MBC",OSN Alfa Musalsalat FHD
-http://hydratv.cc/live/Shaya10/733151581/236640.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/gOR2wGMJylX.jpeg" group-title="AR_ OSN MBC",OSN Alyawm FHD
-http://hydratv.cc/live/Shaya10/733151581/327370.ts
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo-768x432.png" group-title="AR_ OSN MBC",OSN Animal Planet FHD
-http://hydratv.cc/live/Shaya10/733151581/377137.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/BTV.png" group-title="AR_ OSN MBC",OSN Bloomberg FHD
-http://hydratv.cc/live/Shaya10/733151581/327336.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/VT1BzYMB.png" group-title="AR_ OSN MBC",OSN Cinema 1 FHD
-http://hydratv.cc/live/Shaya10/733151581/327374.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HXoLBzF.png" group-title="AR_ OSN MBC",OSN Cinema 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/327373.ts
-#EXTINF:-1 tvg-logo="https://media0026.elcinema.com/tvguide/1257_1.png" group-title="AR_ OSN MBC",OSN Comedy 4k
-http://hydratv.cc/live/Shaya10/733151581/695537.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="AR_ OSN MBC",OSN Crime 4k
-http://hydratv.cc/live/Shaya10/733151581/327360.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/CAI.png" group-title="AR_ OSN MBC",OSN CRIME INVESTIGATION FHD
-http://hydratv.cc/live/Shaya10/733151581/327338.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="AR_ OSN MBC",OSN Discovery FHD
-http://hydratv.cc/live/Shaya10/733151581/327333.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/RKjO0Yfee1.png" group-title="AR_ OSN MBC",OSN DISCOVERY ID
-http://hydratv.cc/live/Shaya10/733151581/236631.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="AR_ OSN MBC",OSN Discovery IDX 4K
-http://hydratv.cc/live/Shaya10/733151581/327335.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdUxCQBTDKDqeyEsjHrJ7O7ny71PiOrPT-Q&s" group-title="AR_ OSN MBC",OSN Discovery IDX FHD
-http://hydratv.cc/live/Shaya10/733151581/236630.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/Lx74aGjf.png" group-title="AR_ OSN MBC",OSN DISCOVERY SCIENCE
-http://hydratv.cc/live/Shaya10/733151581/236629.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/ETV.png" group-title="AR_ OSN MBC",OSN E! Entertainment FHD
-http://hydratv.cc/live/Shaya10/733151581/327343.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/OrMsWlt0.png" group-title="AR_ OSN MBC",OSN FANN FHD
-http://hydratv.cc/live/Shaya10/733151581/327368.ts
-#EXTINF:-1 tvg-logo="https://www.ra2ya.com/wp-content/uploads/2021/01/Fatafeat_Logo_Final-1-640x415.jpg" group-title="AR_ OSN MBC",OSN FATAFET FHD
-http://hydratv.cc/live/Shaya10/733151581/377138.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/225px-Fox_News_Channel_logo.svg.png" group-title="AR_ OSN MBC",OSN FOX NEWS FHD
-http://hydratv.cc/live/Shaya10/733151581/327347.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="AR_ OSN MBC",OSN History FHD
-http://hydratv.cc/live/Shaya10/733151581/327346.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/MRknwtQk.png" group-title="AR_ OSN MBC",OSN HISTORY
-http://hydratv.cc/live/Shaya10/733151581/236627.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/HI2.png" group-title="AR_ OSN MBC",OSN History 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/327345.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/HI2.png" group-title="AR_ OSN MBC",OSN History 2
-http://hydratv.cc/live/Shaya10/733151581/236626.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="[LIVE]- OSN FHD",OSN Kid Zone TV FHD
-http://hydratv.cc/live/Shaya10/733151581/327353.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="AR_ OSN MBC",OSN KIDS FHD
-http://hydratv.cc/live/Shaya10/733151581/327357.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="AR_ OSN MBC",OSN Mezze FHD
-http://hydratv.cc/live/Shaya10/733151581/327358.ts
-#EXTINF:-1 tvg-logo="https://www12.0zz0.com/2023/10/07/14/324790136.png" group-title="AR_ OSN MBC",OSN Moonbug Kids FHD
-http://hydratv.cc/live/Shaya10/733151581/327356.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/Wg4lGYtU8bk.jpeg" group-title="AR_ OSN MBC",OSN MOVIES ACTION FHD
-http://hydratv.cc/live/Shaya10/733151581/327367.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/Wg4lGYtU8bk.jpeg" group-title="AR_ OSN MBC",OSN MOVIES ACTION
-http://hydratv.cc/live/Shaya10/733151581/236637.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="AR_ OSN MBC",OSN Movies Family FHD
-http://hydratv.cc/live/Shaya10/733151581/327364.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/BMy9Xo0r3YZ.jpeg" group-title="AR_ OSN MBC",OSN MOVIES Family
-http://hydratv.cc/live/Shaya10/733151581/236635.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/SRzdHiXt3.jpeg" group-title="AR_ OSN MBC",OSN MOVIES Hollywood FHD
-http://hydratv.cc/live/Shaya10/733151581/327365.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/SRzdHiXt3.jpeg" group-title="AR_ OSN MBC",OSN MOVIES Hollywood
-http://hydratv.cc/live/Shaya10/733151581/236624.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/OSN.png" group-title="AR_ OSN MBC",OSN MOVIES HORROR 4K
-http://hydratv.cc/live/Shaya10/733151581/236617.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/OM1.jpg" group-title="AR_ OSN MBC",OSN MOVIES Premiere FHD
-http://hydratv.cc/live/Shaya10/733151581/327366.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/T0Romopa.png" group-title="AR_ OSN MBC",OSN Movies Premiere
-http://hydratv.cc/live/Shaya10/733151581/236623.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="AR_ OSN MBC",OSN Musalsalat 1 FHD
-http://hydratv.cc/live/Shaya10/733151581/327372.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="AR_ OSN MBC",OSN Musalsalat 2 FHD
-http://hydratv.cc/live/Shaya10/733151581/327371.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="AR_ OSN MBC",OSN Musalsalat 2 HD
-http://hydratv.cc/live/Shaya10/733151581/236639.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/ONS.png" group-title="AR_ OSN MBC",OSN NEWS 4k
-http://hydratv.cc/live/Shaya10/733151581/327337.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="AR_ OSN MBC",OSN Nick Jr FHD
-http://hydratv.cc/live/Shaya10/733151581/327351.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="AR_ OSN MBC",OSN Nicklodeon FHD
-http://hydratv.cc/live/Shaya10/733151581/327355.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="AR_ OSN MBC",OSN Nicktoons 4K
-http://hydratv.cc/live/Shaya10/733151581/327352.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/330px-Nicktoons_2023_Outlined_Logo.png" group-title="AR_ OSN MBC",OSN Nicktoons FHD
-http://hydratv.cc/live/Shaya10/733151581/236622.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="AR_ OSN MBC",OSN NOW FHD
-http://hydratv.cc/live/Shaya10/733151581/327339.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/894/497/png-clipart-osn-mena-netflix-orbit-showtime-entertainment-let-s-go-miscellaneous-text.png" group-title="AR_ OSN MBC",OSN NOW
-http://hydratv.cc/live/Shaya10/733151581/327341.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/3OlFJRLF67n9.png" group-title="AR_ OSN MBC",OSN NOW 2
-http://hydratv.cc/live/Shaya10/733151581/236638.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="AR_ OSN MBC",OSN ONE 4k
-http://hydratv.cc/live/Shaya10/733151581/327359.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/S9ToRemm.jpeg" group-title="AR_ OSN MBC",OSN Safwah FHD
-http://hydratv.cc/live/Shaya10/733151581/327369.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="AR_ OSN MBC",OSN Showcase 4k
-http://hydratv.cc/live/Shaya10/733151581/327361.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/bob/745x419/OFH.jpg" group-title="AR_ OSN MBC",OSN Showcase
-http://hydratv.cc/live/Shaya10/733151581/236621.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png" group-title="AR_ OSN MBC",OSN Showcase Classics 4k
-http://hydratv.cc/live/Shaya10/733151581/327362.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="AR_ OSN MBC",OSN Star World 4K
-http://hydratv.cc/live/Shaya10/733151581/327342.ts
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/TLC.png" group-title="AR_ OSN MBC",OSN TLC FHD
-http://hydratv.cc/live/Shaya10/733151581/327344.ts
-#EXTINF:-1 tvg-logo="http://media-s3-us-east-1.ceros.com/cre8/images/2015/04/15/abedbc00003549fbc74aea75a32de871/osn-wrestling-logo.png" group-title="AR_ OSN MBC",OSN WWE FHD
-http://hydratv.cc/live/Shaya10/733151581/236613.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/l310DXa.jpeg" group-title="AR_ OSN MBC",OSN Yahala FHD
-http://hydratv.cc/live/Shaya10/733151581/327377.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/l310DXa.jpeg" group-title="AR_ OSN MBC",OSN YAHALA
-http://hydratv.cc/live/Shaya10/733151581/236648.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/9gSsZvuVTd.jpeg" group-title="AR_ OSN MBC",OSN Yahala Aflam FHD
-http://hydratv.cc/live/Shaya10/733151581/327375.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/9gSsZvuVTd.jpeg" group-title="AR_ OSN MBC",OSN YAHALA Aflam
-http://hydratv.cc/live/Shaya10/733151581/236646.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/L1NDW71rI.jpeg" group-title="AR_ OSN MBC",OSN YAHALA Bel Arabi
-http://hydratv.cc/live/Shaya10/733151581/236647.ts
-#EXTINF:-1 tvg-logo="http://bl3rbe.net/up/L1NDW71rI.jpeg" group-title="AR_ OSN MBC",OSN Yahala Bil Arabi FHD
-http://hydratv.cc/live/Shaya10/733151581/327376.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARIS-PREMIERE.png" group-title="FR_ France",PARIS PREMIERE HD
-http://hydratv.cc/live/Shaya10/733151581/565172.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PIWI-plus.png" group-title="FR_ France",PIWI+ HD
-http://hydratv.cc/live/Shaya10/733151581/565190.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus.png" group-title="FR_ Documentary",PLANETE+ HD
-http://hydratv.cc/live/Shaya10/733151581/565174.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus-a-e.png" group-title="FR_ Documentary",PLANETE+ A&E HD
-http://hydratv.cc/live/Shaya10/733151581/565188.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR-plus.png" group-title="FR_ France",POLAR+ 4K
-http://hydratv.cc/live/Shaya10/733151581/565129.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-DECOUVERTE.png" group-title="FR_ Documentary",RMC DECOUVERTE HD
-http://hydratv.cc/live/Shaya10/733151581/565181.ts
-#EXTINF:-1 tvg-logo="https://b.top4top.io/p_249997ust2.png" group-title="[LIVE]- Hydra - قنوات هيدرا",Romance 1
-http://hydratv.cc/live/Shaya10/733151581/208331.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SEASONS.png" group-title="FR_ Documentary",SEASONS
-http://hydratv.cc/live/Shaya10/733151581/565189.ts
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=330a623c-d950-4d9c-8fb4-bec8ebc27a59&quality=70" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",Six Kings Slam
-http://hydratv.cc/live/Shaya10/733151581/255636.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63gABByRMdGgWY4HC7eDLorUO3N5gpdXmLg&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Diema Sport 1
-http://hydratv.cc/live/Shaya10/733151581/255673.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63gABByRMdGgWY4HC7eDLorUO3N5gpdXmLg&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Diema Sport Backup
-http://hydratv.cc/live/Shaya10/733151581/255672.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="TV mix",SPO ESPN Extra
-http://hydratv.cc/live/Shaya10/733151581/255661.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAyPr0bpubFhcRGtzAB4GiPKI32iWwnhPKg&s" group-title="TV mix",SPO ESPN News *
-http://hydratv.cc/live/Shaya10/733151581/255660.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-bBgfSLlZOfNHi2o2ionLuymSKyGIyo4xw&s" group-title="TV mix",SPO ESPN U
-http://hydratv.cc/live/Shaya10/733151581/255659.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_1.png" group-title="TV mix",SPO Eurosport 1
-http://hydratv.cc/live/Shaya10/733151581/255658.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/773/870/png-transparent-eurosport-1-eurosport-2-high-definition-television-chotta-bheem-television-text-sport.png" group-title="TV mix",SPO Eurosport 2
-http://hydratv.cc/live/Shaya10/733151581/255657.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESYnRjwJlR2NjdfttPfJ1cpKPEtDhCXi1YQ&s" group-title="Sports_ Mix",SPO EXtreme Sports
-http://hydratv.cc/live/Shaya10/733151581/255656.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2SkHMKEPlFyS31U_bpflGGJnoXj4tsKG-Q&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] FOX Deportes
-http://hydratv.cc/live/Shaya10/733151581/255655.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="TV mix",SPO LFC TV
-http://hydratv.cc/live/Shaya10/733151581/255646.ts
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Max Sport 1
-http://hydratv.cc/live/Shaya10/733151581/255642.ts
-#EXTINF:-1 tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Max Sport 2
-http://hydratv.cc/live/Shaya10/733151581/255641.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu2yMaCgNtDqjWeMBq8wEIumvcPWn1eHvcA&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Max Sport 3
-http://hydratv.cc/live/Shaya10/733151581/255640.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwa8JJa_xLg41NSLhmczRsB6oePAff6SNrLQ&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Max Sport 4
-http://hydratv.cc/live/Shaya10/733151581/255639.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ry0orwIlZGr6zugk_yT9L98zECs1AS0bAw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Motorsport TV
-http://hydratv.cc/live/Shaya10/733151581/255638.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPy2QLxhpVHIJrhW5AeuE9_kS8KAUu_lgBLQ&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] MUTV
-http://hydratv.cc/live/Shaya10/733151581/255637.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7XmPUSsxT4u2aFVRfr8XfK0MVs1ow28mLg&s" group-title="TV mix",SPO NFL Network
-http://hydratv.cc/live/Shaya10/733151581/255635.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat_sport.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Polsat Sport HD
-http://hydratv.cc/live/Shaya10/733151581/255631.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaazBQjRiUECuH07F5ynHfbBby94OBmeOPw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Polsat Sport Premium 1
-http://hydratv.cc/live/Shaya10/733151581/255630.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHdgEcqbUEX2UFZolOvE1GnPNrs9IYr9j6Q&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Polsat Sport Premium 2
-http://hydratv.cc/live/Shaya10/733151581/255629.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/real_madrid_tv_es.png" group-title="TV mix",SPO Real Madrid TV
-http://hydratv.cc/live/Shaya10/733151581/255696.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png" group-title="Sports_ Mix",SPO Red Bull Sports
-http://hydratv.cc/live/Shaya10/733151581/255695.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="Sports_ Mix",SPO SETANTA SPORTS
-http://hydratv.cc/live/Shaya10/733151581/255632.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Sky Sport Premier league
-http://hydratv.cc/live/Shaya10/733151581/255715.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Sky-sports-main-action.jpg" group-title="Sports_ Mix",SPO Sky Sports Action
-http://hydratv.cc/live/Shaya10/733151581/255714.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="ARENA Sport SR",SPO Sky Sports Arena
-http://hydratv.cc/live/Shaya10/733151581/255713.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-TqAUw3oGFFeZTD5TlW5ubeMDFsaA7vfUw&s" group-title="Sports_ Mix",SPO Sky Sports Cricket
-http://hydratv.cc/live/Shaya10/733151581/255712.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/15/26/e315268f9d91370fc20b762d5f41c0e5.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Sky Sports Golf
-http://hydratv.cc/live/Shaya10/733151581/255711.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="Sports_ Mix",SPO Sky Sports Main Event
-http://hydratv.cc/live/Shaya10/733151581/255710.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="Sports_ Mix",SPO Sky Sports Mix
-http://hydratv.cc/live/Shaya10/733151581/255709.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="Sports_ Mix",SPO Sky Sports News
-http://hydratv.cc/live/Shaya10/733151581/255708.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="TV mix",SPO Sony Ten 1
-http://hydratv.cc/live/Shaya10/733151581/255701.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzzZf5WZkv6EQz2ZlHqRkoru6W728XGyghg&s" group-title="TV mix",SPO Sony Ten 2
-http://hydratv.cc/live/Shaya10/733151581/255700.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_N8Vhg8E02f5EUBTfPEefz1a8EtOyU7cErQ&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SportDigital Fussball
-http://hydratv.cc/live/Shaya10/733151581/255633.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwQ5alIWIgsugeL6PWxcPsq2wAcmdKUINmA&s" group-title="IN_ Star Sport",SPO Star Sports 1
-http://hydratv.cc/live/Shaya10/733151581/255608.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwQ5alIWIgsugeL6PWxcPsq2wAcmdKUINmA&s" group-title="IN_ Star Sport",SPO Star Sports 2
-http://hydratv.cc/live/Shaya10/733151581/255607.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwQ5alIWIgsugeL6PWxcPsq2wAcmdKUINmA&s" group-title="IN_ Star Sport",SPO Star Sports 3
-http://hydratv.cc/live/Shaya10/733151581/255606.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport1_hd.png" group-title="Super Sport",SPO Super Sport 1
-http://hydratv.cc/live/Shaya10/733151581/255605.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Super Sport",SPO Super Sport 2
-http://hydratv.cc/live/Shaya10/733151581/255604.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport3_hd.png" group-title="Super Sport",SPO Super Sport 3
-http://hydratv.cc/live/Shaya10/733151581/255603.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport4_hd.png" group-title="Super Sport",SPO Super Sport 4
-http://hydratv.cc/live/Shaya10/733151581/255602.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/923/185/png-clipart-2018-fifa-world-cup-supersport-unique-web-marketers-dstv-multichoice-others-television-text.png" group-title="Super Sport",SPO Super Sport 5
-http://hydratv.cc/live/Shaya10/733151581/255601.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 01 Cricket
-http://hydratv.cc/live/Shaya10/733151581/255579.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 02 PSL
-http://hydratv.cc/live/Shaya10/733151581/255578.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 03 Premier League
-http://hydratv.cc/live/Shaya10/733151581/255577.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 04 La Liga
-http://hydratv.cc/live/Shaya10/733151581/255576.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 05 Football
-http://hydratv.cc/live/Shaya10/733151581/255575.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 06 variety 1
-http://hydratv.cc/live/Shaya10/733151581/255574.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 07 variety 2
-http://hydratv.cc/live/Shaya10/733151581/255573.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 08 variety 3
-http://hydratv.cc/live/Shaya10/733151581/255572.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 09 variety 4
-http://hydratv.cc/live/Shaya10/733151581/255571.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 10 Action
-http://hydratv.cc/live/Shaya10/733151581/255570.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 11 Rugby
-http://hydratv.cc/live/Shaya10/733151581/255569.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 13 Golf
-http://hydratv.cc/live/Shaya10/733151581/255567.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 14 Tennis
-http://hydratv.cc/live/Shaya10/733151581/255566.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpUqOC_9BjDmxquv4WraDXWiAzItLq6NTvw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO*] SuperSport 15 Motorsport
-http://hydratv.cc/live/Shaya10/733151581/255565.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuhtPwAz45ex6ov_V9oDmDAk4nd0z5Y8Z3g&s" group-title="TV mix",SPO Tennis Channel 1
-http://hydratv.cc/live/Shaya10/733151581/255600.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/tt/tring_digital_al.png" group-title="AL_ Tring Sport",SPO Tring Sport 1
-http://hydratv.cc/live/Shaya10/733151581/255598.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0e/Tring_-_Logo_%28Current%29.png/revision/latest?cb=20230121064018" group-title="AL_ Tring Sport",SPO Tring Sport 2
-http://hydratv.cc/live/Shaya10/733151581/255597.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/tt/tring_digital_al.png" group-title="AL_ Tring Sport",SPO Tring Sport 3
-http://hydratv.cc/live/Shaya10/733151581/255596.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0e/Tring_-_Logo_%28Current%29.png/revision/latest?cb=20230121064018" group-title="AL_ Tring Sport",SPO Tring Sport 4
-http://hydratv.cc/live/Shaya10/733151581/255595.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png" group-title="CA_ TSN Sport",SPO TSN 1
-http://hydratv.cc/live/Shaya10/733151581/255594.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/571/png-clipart-the-sports-network-television-channel-tsn2-satellite-television-others-television-text.png" group-title="CA_ TSN Sport",SPO TSN 2
-http://hydratv.cc/live/Shaya10/733151581/255593.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/571/png-clipart-the-sports-network-television-channel-tsn2-satellite-television-others-television-text.png" group-title="CA_ TSN Sport",SPO TSN 3
-http://hydratv.cc/live/Shaya10/733151581/255592.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/571/png-clipart-the-sports-network-television-channel-tsn2-satellite-television-others-television-text.png" group-title="CA_ TSN Sport",SPO TSN 4
-http://hydratv.cc/live/Shaya10/733151581/255591.ts
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/571/png-clipart-the-sports-network-television-channel-tsn2-satellite-television-others-television-text.png" group-title="CA_ TSN Sport",SPO TSN 5
-http://hydratv.cc/live/Shaya10/733151581/255590.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] TyC Sports
-http://hydratv.cc/live/Shaya10/733151581/255588.ts
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6kuWs0cmdAWxHEXRUzBnCV/66ebe4b88d1a276ba495ac98befcd2b7/v-sport-1.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] V SPORT 1
-http://hydratv.cc/live/Shaya10/733151581/255586.ts
-#EXTINF:-1 tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2018-04/Viasat%20Sport%20Premium%20HD%20logo.png?itok=Qj5HrWk4" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Viasat sports Premium
-http://hydratv.cc/live/Shaya10/733151581/255587.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",Sport plus hd
-http://hydratv.cc/live/Shaya10/733151581/255616.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SYFY.png" group-title="FR_ France",SYFY HD
-http://hydratv.cc/live/Shaya10/733151581/565205.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TCM.png" group-title="FR_ France",TCM CINEMA HD
-http://hydratv.cc/live/Shaya10/733151581/565176.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1.png" group-title="FR_ France",TF1 4K
-http://hydratv.cc/live/Shaya10/733151581/565221.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1.png" group-title="FR_ France",TF1 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565278.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1.png" group-title="FR_ France",TF1 HD
-http://hydratv.cc/live/Shaya10/733151581/565220.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1-SERIES-FILMS.png" group-title="FR_ France",TF1 SERIES FILMS HEVC
-http://hydratv.cc/live/Shaya10/733151581/565277.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TFX-HEVC.PNG" group-title="FR_ France",TFX HEVC
-http://hydratv.cc/live/Shaya10/733151581/565276.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TMC.png" group-title="FR_ France",TMC HEVC
-http://hydratv.cc/live/Shaya10/733151581/565233.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TMC.png" group-title="FR_ France",TMC HD
-http://hydratv.cc/live/Shaya10/733151581/565209.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/174993039512081.png" group-title="UK_ TNT Sport",TNT Sport 1
-http://hydratv.cc/live/Shaya10/733151581/569327.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/174993039512081.png" group-title="UK_ TNT Sport",TNT Sport 2
-http://hydratv.cc/live/Shaya10/733151581/569326.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/174993039512081.png" group-title="UK_ TNT Sport",TNT Sport 3
-http://hydratv.cc/live/Shaya10/733151581/569325.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzOWsR1gevkkpHLmzm7_VSoksJN2ySRmp8FA&s" group-title="UK_ TNT Sport",TNT Sport 4
-http://hydratv.cc/live/Shaya10/733151581/569324.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TRACE-URBAN.png" group-title="FR_ France",TRACE URBAN HD
-http://hydratv.cc/live/Shaya10/733151581/565173.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TREK.png" group-title="FR_ France",TREK HD
-http://hydratv.cc/live/Shaya10/733151581/565177.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/Tennistv.png" group-title="[LIVE]- France | Sports",TS: SKY SPORT TENNIS 4K
-http://hydratv.cc/live/Shaya10/733151581/565280.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/mix2/Tennistv.png" group-title="[LIVE]- France | Sports",TS: ZIGGO SPORT TENNIS 4K
-http://hydratv.cc/live/Shaya10/733151581/565281.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TV5.png" group-title="FR_ Documentary",TV5 MONDE HD
-http://hydratv.cc/live/Shaya10/733151581/565201.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[UK] UFC FIGHT PASS
-http://hydratv.cc/live/Shaya10/733151581/188372.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/USHUAIA.png" group-title="FR_ Documentary",USHUAIA HD
-http://hydratv.cc/live/Shaya10/733151581/565184.ts
-#EXTINF:-1 tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/W9.png" group-title="FR_ France",W9 HEVC
-http://hydratv.cc/live/Shaya10/733151581/565275.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Ziggo_Sport_Logo.jpg" group-title="NL_ Ziggo",ZIGGO SPORT DOCU HD
-http://hydratv.cc/live/Shaya10/733151581/255552.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Ziggo_Sport_Logo.jpg" group-title="NL_ Ziggo",ZIGGO SPORT EXTRA 1 HD
-http://hydratv.cc/live/Shaya10/733151581/255556.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Ziggo_Sport_Logo.jpg" group-title="NL_ Ziggo",ZIGGO SPORT EXTRA 2 HD
-http://hydratv.cc/live/Shaya10/733151581/255555.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Ziggo_Sport_Logo.jpg" group-title="NL_ Ziggo",ZIGGO SPORT GOLF HD
-http://hydratv.cc/live/Shaya10/733151581/255554.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="PT_ Sport",SPO Sport TV+ PT
-http://hydratv.cc/live/Shaya10/733151581/255615.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="PT_ Sport",SPO Sport TV 2 PT
-http://hydratv.cc/live/Shaya10/733151581/255620.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="PT_ Sport",SPO Sport TV 3 PT
-http://hydratv.cc/live/Shaya10/733151581/255619.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="PT_ Sport",SPO Sport TV 4 PT
-http://hydratv.cc/live/Shaya10/733151581/255618.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95XKrLx1NnKYfwDOuABJlB6eq3C8t3fxRIw&s" group-title="PT_ Sport",SPO Sport TV 5 PT
-http://hydratv.cc/live/Shaya10/733151581/255617.ts
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/552/474/394/sky-sports-premier-league-sky-uk-golf-premier-league.jpg" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[UK-VIP] BT Sport 1 UK
-http://hydratv.cc/live/Shaya10/733151581/188286.ts
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/552/474/394/sky-sports-premier-league-sky-uk-golf-premier-league.jpg" group-title="UK_ BT Sport",VIP BT Sport 2 UK
-http://hydratv.cc/live/Shaya10/733151581/188284.ts
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/552/474/394/sky-sports-premier-league-sky-uk-golf-premier-league.jpg" group-title="UK_ BT Sport",VIP BT Sport 3 UK
-http://hydratv.cc/live/Shaya10/733151581/188282.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-TqAUw3oGFFeZTD5TlW5ubeMDFsaA7vfUw&s" group-title="VIP",VIP Sky Sports Cricket HD UK
-http://hydratv.cc/live/Shaya10/733151581/188300.ts
-#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/552/474/394/sky-sports-premier-league-sky-uk-golf-premier-league.jpg" group-title="VIP",VIP Sky Sports F1 UK
-http://hydratv.cc/live/Shaya10/733151581/188297.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRc1IolmFXngG2ci79hdPnBirATW0Xf5E0w&s" group-title="TV mix",SPO Dazn 2 DE
-http://hydratv.cc/live/Shaya10/733151581/255674.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/711/png-transparent-sport-klub-sports-association-television-channel-sky-sports-sk-ii-television-text-trademark.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SPORT KLUB 1 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255628.ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o1q9hw1604073761.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SPORT KLUB 2 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255627.ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SPORT KLUB 3 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255626.ts
-#EXTINF:-1 tvg-logo="http://smarters.ddns.net:2082/images/8757916e8bee779ff291ea501684b694.png" group-title="HR_ Sport Klub",SPO SPORT KLUB 4 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255625.ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w0b3jg1604073862.png" group-title="HR_ Sport Klub",SPO SPORT KLUB 5 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255624.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jpy-DwJ_xCGgItL5KGBtv4uzT_TMOqSImw&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SPORT KLUB 6 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255623.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_cIzokfCf1zi6oboMPjMwIV-XJNu9oryKA&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] SPORT KLUB 7 (RS)
-http://hydratv.cc/live/Shaya10/733151581/255622.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-eleven-sports-1-713.png" group-title="PT_ Sport",SPO ELEVEN Sports 1 FHD (PT)
-http://hydratv.cc/live/Shaya10/733151581/255707.ts
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" group-title="PT_ Sport",SPO ELEVEN Sports 2 HD (PT)
-http://hydratv.cc/live/Shaya10/733151581/255706.ts
-#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/3a3ee48c-c46b-47f5-bfeb-039390d01c01/-/preview/600x600/" group-title="PT_ Sport",SPO ELEVEN Sports 3 HD (PT)
-http://hydratv.cc/live/Shaya10/733151581/255705.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvKD8oi_T3NWE2woOarn1KECimWcraYrkYQ&s" group-title="PT_ Sport",SPO ELEVEN Sports 4 HD (PT)
-http://hydratv.cc/live/Shaya10/733151581/255704.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBp1i3dsfTbdm-28fJsza_8KqPWxMBDROXtw&s" group-title="PT_ Sport",SPO ELEVEN Sports 5 HD (PT)
-http://hydratv.cc/live/Shaya10/733151581/255703.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2SkHMKEPlFyS31U_bpflGGJnoXj4tsKG-Q&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] Fox Deportes (BK)
-http://hydratv.cc/live/Shaya10/733151581/255654.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AJkE23CSzrmTqgENBUs80DfL0-PKN_1fow&s" group-title="[LIVE]- Worldwide Sports - رياضة عالمية",[SPO] FOX Sport 2 USA (BK)
-http://hydratv.cc/live/Shaya10/733151581/255650.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1mrl2cr-f1sMeAgLr3TPavTh7h_fimSaBA&s" group-title="TV mix",SPO SPORTKLUB 0 (HR)
-http://hydratv.cc/live/Shaya10/733151581/255614.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/D.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 1 (Q) 4k
-http://hydratv.cc/live/Shaya10/733151581/327315.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/D.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 2 (Q) 4k
-http://hydratv.cc/live/Shaya10/733151581/327314.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/D.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 3 (Q) 4k
-http://hydratv.cc/live/Shaya10/733151581/327313.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/D.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 5 (Q) 4k
-http://hydratv.cc/live/Shaya10/733151581/327311.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/D.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 6 (Q) 4k
-http://hydratv.cc/live/Shaya10/733151581/327310.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 1 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327425.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 1 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406832.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 2 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327424.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 2 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406831.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 3 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327423.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 3 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406830.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 4 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327422.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 4 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406829.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 5 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327421.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 5 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406828.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 6 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327420.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 6 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406827.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 7 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327419.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 7 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406826.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 8 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327418.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 8 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406825.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 9 (S) 4K
-http://hydratv.cc/live/Shaya10/733151581/327417.ts
-#EXTINF:-1 tvg-logo="https://hydra-tv.com/b-e-in/SS.png" group-title="beIN Sport_ S",Bein Sport 9 (S) FHD
-http://hydratv.cc/live/Shaya10/733151581/406824.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 1 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415774.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 1 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415765.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 2 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415773.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 2 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415764.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 3 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415772.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 3 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415763.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 4 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415771.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 4 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415762.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 5 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415770.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 5 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415761.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 6 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415769.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 6 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/415760.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 7 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415768.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 7 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/754594.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 8 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415767.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 8 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/754593.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 9 (M) 4K
-http://hydratv.cc/live/Shaya10/733151581/415766.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749430443881.png" group-title="beIN Sport_ M",Bein Sport 9 (M) FHD
-http://hydratv.cc/live/Shaya10/733151581/754592.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 1 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406796.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 1 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406805.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 2 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406795.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 2 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406804.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 3 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406794.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 3 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406803.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 4 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406793.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 4 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406802.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 5 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406792.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 5 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406801.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 6 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406791.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport FHD",Bein Sport 6 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406800.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 7 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406790.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 7 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406799.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 8 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406789.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 8 (G) FHD
-http://hydratv.cc/live/Shaya10/733151581/406798.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/178749584555021.png" group-title="beIN Sport_ G",Bein Sport 9 (G) 4k
-http://hydratv.cc/live/Shaya10/733151581/406788.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 1 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764853.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 2 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764852.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 3 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764851.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 4 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764850.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 5 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764849.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 6 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764848.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 7 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764847.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 8 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764846.ts
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/179033927288191.png" group-title="beIN Sport_ A",Bein Sport 9 (A) 4K
-http://hydratv.cc/live/Shaya10/733151581/764845.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 1 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469074.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 1 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469083.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 2 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469073.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 2 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469082.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 3 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469072.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 3 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469081.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 4 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469071.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 4 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469080.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 5 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469070.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 5 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469079.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 6 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469069.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 6 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469078.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="[LIVE]- BeIN Sport 4K",Bein Sport 7 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469068.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 7 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469077.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 8 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469067.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 8 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469076.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 9 (Y) 4K
-http://hydratv.cc/live/Shaya10/733151581/469066.ts
-#EXTINF:-1 tvg-logo="https://up.hydra-tv.com/uploads/17251448586261.png" group-title="beIN Sport_ Y",Bein Sport 9 (Y) FHD
-http://hydratv.cc/live/Shaya10/733151581/469075.ts
+#EXTINF:-1 tvg-name="Tring Sport 1 HD AL" group-title="AL_ Tring Sport",Tring Sport 1 HD AL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31563/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 2 HD AL" group-title="AL_ Tring Sport",Tring Sport 2 HD AL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31564/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 3 HD AL" group-title="AL_ Tring Sport",Tring Sport 3 HD AL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31565/index.m3u8
+#M3U_EXTRACT: aebd0e3f.akadatel.com
+#EXTINF:-1 tvg-name="Arena Premium 1 HD RS" group-title="ARENA Premium",Arena Premium 1 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31599/index.m3u8
+#EXTINF:-1 tvg-name="Arena Premium 2 HD RS" group-title="ARENA Premium",Arena Premium 2 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31600/index.m3u8
+#EXTINF:-1 tvg-name="Arena Premium 3 HD RS" group-title="ARENA Premium",Arena Premium 3 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31601/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 HD RS" group-title="ARENA Sport SR",Arena Sport 1 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31602/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1x2 HD RS" group-title="ARENA Sport SR",Arena Sport 1x2 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31611/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 HD RS" group-title="ARENA Sport SR",Arena Sport 3 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31603/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 HD RS" group-title="ARENA Sport SR",Arena Sport 4 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31605/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 HD RS" group-title="ARENA Sport SR",Arena Sport 5 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31606/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 HD RS" group-title="ARENA Sport SR",Arena Sport 6 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31607/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 7 HD RS" group-title="ARENA Sport SR",Arena Sport 7 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31608/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 8 HD RS" group-title="ARENA Sport SR",Arena Sport 8 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31609/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31610/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Haber HD TR" group-title="beIN Sport_ TR",beIN Sports Haber HD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19064/index.m3u8
+#EXTINF:-1 tvg-name="Diema Sport 3 HD BG" group-title="BG_ Sport",Diema Sport 3 HD BG
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31917/index.m3u8
+#EXTINF:-1 tvg-name="BOX SR Sport 4K HDR" group-title="BOX",BOX SR Sport 4K HDR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31455/index.m3u8
+#EXTINF:-1 tvg-name="BOX SR Sport 1 Live 4K HDR" group-title="BOX",BOX SR Sport 1 Live 4K HDR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31550/index.m3u8
+#EXTINF:-1 tvg-name="BOX SR Sport 2 Live 4K HDR" group-title="BOX",BOX SR Sport 2 Live 4K HDR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31551/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 FHD PT" group-title="DAZN PT",DAZN 1 FHD PT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19158/index.m3u8
+#EXTINF:-1 tvg-name="MS Sport HD DE" group-title="DE_ MS Sport",MS Sport HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31343/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 FHD DE" group-title="DE_ Sky Sport",Sky Sport 1 FHD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2478/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE_ Sky Sport",Sky Sport 1 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19028/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE_ Sky Sport",Sky Sport 2 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2479/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 3 HD DE" group-title="DE_ Sky Sport",Sky Sport 3 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19030/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 4 HD DE" group-title="DE_ Sky Sport",Sky Sport 4 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19031/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE_ Sky Sport",Sky Sport 5 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19032/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 6 HD DE" group-title="DE_ Sky Sport",Sky Sport 6 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19033/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 7 HD DE" group-title="DE_ Sky Sport",Sky Sport 7 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19034/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 9 HD DE" group-title="DE_ Sky Sport",Sky Sport 9 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19036/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD DE" group-title="DE_ Sky Sport",Sky Sport Austria 1 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2492/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Austria 2 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6113/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 1 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2480/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 2 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7234/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 3 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7235/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 5 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7237/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 6 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7238/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 7 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7239/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 8 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7240/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 9 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7241/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE_ Sky Sport",Sky Sport F1 FHD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10079/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE_ Sky Sport",Sky Sport F1 HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19022/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" group-title="DE_ Sky Sport",Sky Sport F1 DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19027/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE_ Sky Sport",Sky Sport Golf HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5043/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="DE_ Sky Sport",Sky Sport Mix HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5039/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Premier League HD DE" group-title="DE_ Sky Sport",Sky Sport Premier League HD DE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5042/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 1 HD NL" group-title="ESPN_ NL",ESPN 1 HD NL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19201/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD NL" group-title="ESPN_ NL",ESPN 2 HD NL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19202/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 HD NL" group-title="ESPN_ NL",ESPN 3 HD NL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19203/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD US" group-title="ESPN_ US",ESPN HD US
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19156/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD US" group-title="ESPN_ US",ESPN 2 HD US
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19155/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 1 GR" group-title="GR_ Cytavision",Cytavision Sports 1 GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31572/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 2 GR" group-title="GR_ Cytavision",Cytavision Sports 2 GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31573/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 7 GR" group-title="GR_ Cytavision",Cytavision Sports 7 GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31577/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19127/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Arena HD IT" group-title="IT_ Sky Sport",Sky Sport Arena HD IT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19128/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Golf HD IT" group-title="IT_ Sky Sport",Sky Sport Golf HD IT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19132/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport MotoGP HD IT" group-title="IT_ Sky Sport",Sky Sport MotoGP HD IT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19133/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 1 HD GR" group-title="Magenta Sport",Magenta Sport 1 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31578/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 2 HD GR" group-title="Magenta Sport",Magenta Sport 2 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31579/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 3 HD GR" group-title="Magenta Sport",Magenta Sport 3 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31581/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 4 HD GR" group-title="Magenta Sport",Magenta Sport 4 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31582/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 5 HD GR" group-title="Magenta Sport",Magenta Sport 5 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31583/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 6 HD GR" group-title="Magenta Sport",Magenta Sport 6 HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31584/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport Highlights HD GR" group-title="Magenta Sport",Magenta Sport Highlights HD GR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31588/index.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL" group-title="PL_ Eleven Sport",Eleven Sports 1 4K PL
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20068/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV+ HD PT" group-title="PT_ SportTV",Sport TV+ HD PT
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31590/index.m3u8
+#EXTINF:-1 tvg-name="Sport Extra HD RO" group-title="RO_ Sport EXTRA",Sport Extra HD RO
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31595/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast HD" group-title="RU_ SportCast",BOX SportCast HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31650/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 1 HD" group-title="RU_ SportCast",BOX SportCast Live 1 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20166/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 2 HD" group-title="RU_ SportCast",BOX SportCast Live 2 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20167/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 3 HD" group-title="RU_ SportCast",BOX SportCast Live 3 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20168/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 4 HD" group-title="RU_ SportCast",BOX SportCast Live 4 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20169/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 5 HD" group-title="RU_ SportCast",BOX SportCast Live 5 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20170/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 6 HD" group-title="RU_ SportCast",BOX SportCast Live 6 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31648/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 7 HD" group-title="RU_ SportCast",BOX SportCast Live 7 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31649/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="RU_ Матч",Матч! Футбол 1 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/222/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="RU_ Матч",Матч! Футбол 1
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/124/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50" group-title="RU_ Матч",Матч! Футбол 1 HD 50
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10015/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 1 HD 50 orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5072/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 FHD" group-title="RU_ Матч",Матч! Футбол 2 FHD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2420/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="RU_ Матч",Матч! Футбол 2 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/211/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="RU_ Матч",Матч! Футбол 2
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/530/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD 50" group-title="RU_ Матч",Матч! Футбол 2 HD 50
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10027/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 FHD" group-title="RU_ Матч",Матч! Футбол 3 FHD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2408/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" group-title="RU_ Матч",Матч! Футбол 3 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/206/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50" group-title="RU_ Матч",Матч! Футбол 3 HD 50
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10016/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 3 HD 50 orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5071/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD orig" group-title="RU_ Матч",Матч! Футбол 2 HD orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/290/index.m3u8
+#EXTINF:-1 tvg-name="Окко Спорт HD" group-title="RU_ Окко",Окко Спорт HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20138/index.m3u8
+#EXTINF:-1 tvg-name="Megogo Спорт HD" group-title="RU_ Спорт",Megogo Спорт HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31612/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт FHD UA" group-title="RU_ Спорт",Суспільне Спорт FHD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31751/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт HD UA" group-title="RU_ Спорт",Суспільне Спорт HD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31750/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Ultra HD SE" group-title="SE_ V Sport",V Sport Ultra HD SE
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19163/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="SETANTA",Setanta Sports 1 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/271/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="SETANTA",Setanta Sports 1
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6543/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="SETANTA",Setanta Sports 2 HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/270/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" group-title="SETANTA",Setanta Sports 2
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6544/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD orig" group-title="SETANTA",Setanta Sports 1 HD orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6541/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD orig" group-title="SETANTA",Setanta Sports 2 HD orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6542/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 FHD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 FHD KZ
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20065/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 HD KZ
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/16026/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 2 HD KZ
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/16025/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports UA" group-title="SETANTA_ UA",Setanta Sports UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31754/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ UA" group-title="SETANTA_ UA",Setanta Sports+ UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31756/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports FHD UA" group-title="SETANTA_ UA",Setanta Sports FHD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/272/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ FHD UA" group-title="SETANTA_ UA",Setanta Sports+ FHD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5068/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD UA" group-title="SETANTA_ UA",Setanta Sports HD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31755/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ HD UA" group-title="SETANTA_ UA",Setanta Sports+ HD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31757/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD UA orig" group-title="SETANTA_ UA",Setanta Sports HD UA orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/15183/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ HD UA orig" group-title="SETANTA_ UA",Setanta Sports+ HD UA orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/15184/index.m3u8
+#EXTINF:-1 tvg-name="Vital Sport Drive" group-title="Sports_ Mix",Vital Sport Drive
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20160/index.m3u8
+#EXTINF:-1 tvg-name="Divi Sport HD UA" group-title="Sports_ Mix",Divi Sport HD UA
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31800/index.m3u8
+#EXTINF:-1 tvg-name="M4 Sport HD HU" group-title="Sports_ Mix",M4 Sport HD HU
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31519/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV HD AZ" group-title="Sports_ Mix",Sport TV HD AZ
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31926/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart HD TR" group-title="TR_ Spor Smart",Spor Smart HD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20060/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart 2 HD TR" group-title="TR_ Spor Smart",Spor Smart 2 HD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19073/index.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3 HD TR" group-title="TR_ Tivibu Spor",Tivibu Spor 3 HD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19076/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor FHD TR" group-title="TR_ TRT Spor",TRT Spor FHD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19068/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor HD TR" group-title="TR_ TRT Spor",TRT Spor HD TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19072/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor TR" group-title="TR_ TRT Spor",TRT Spor TR
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19067/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4 HD UK" group-title="UK_ TNT Sport",TNT Sports 4 HD UK
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19054/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport HD" group-title="Viju",Viju+ Sport HD
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2007/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport" group-title="Viju",Viju+ Sport
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/160/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport orig" group-title="Viju",Viju+ Sport orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/9249/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport HD orig" group-title="Viju",Viju+ Sport HD orig
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5065/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20099/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20103/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20104/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20105/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20106/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 6" group-title="VIP",ViP Sport 6
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20107/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20108/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20109/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20110/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20100/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20101/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20102/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31674/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31675/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31676/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31677/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31678/index.m3u8
