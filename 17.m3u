@@ -1,0 +1,1540 @@
+#EXTM3U
+#M3U_EXTRACT: line.dndnscloud.ru
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/682889.png" group-title="ES_ Spain",#0 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/682889.ts
+#EXTINF:-1 tvg-id="1178386" tvg-name="8K - BEIN SPORTS 1 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178386.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178386
+#EXTINF:-1 tvg-id="1178403" tvg-name="8K - BEIN SPORTS 1 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178403.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178403
+#EXTINF:-1 tvg-id="1178453" tvg-name="8K - BEIN SPORTS 1 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178453.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178453
+#EXTINF:-1 tvg-id="1178433" tvg-name="8K - BEIN SPORTS 1 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178433.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178433
+#EXTINF:-1 tvg-id="1178374" tvg-name="8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178374.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178374
+#EXTINF:-1 tvg-id="1178391" tvg-name="8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178391.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178391
+#EXTINF:-1 tvg-id="1178441" tvg-name="8K - BEIN SPORTS 1 ENGLISH ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178441.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ENGLISH ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178441
+#EXTINF:-1 tvg-id="1178421" tvg-name="8K - BEIN SPORTS 1 ENGLISH SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178421.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 ENGLISH SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178421
+#EXTINF:-1 tvg-id="1178372" tvg-name="8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178372.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178372
+#EXTINF:-1 tvg-id="1178439" tvg-name="8K - BEIN SPORTS 1 FRANCE ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178439.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 FRANCE ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178439
+#EXTINF:-1 tvg-id="1178416" tvg-name="8K - BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178416.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178416
+#EXTINF:-1 tvg-id="1178377" tvg-name="8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178377.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178377
+#EXTINF:-1 tvg-id="1178394" tvg-name="8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178394.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178394
+#EXTINF:-1 tvg-id="1178444" tvg-name="8K - BEIN SPORTS 1 XTRA ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178444.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 XTRA ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178444
+#EXTINF:-1 tvg-id="1178424" tvg-name="8K - BEIN SPORTS 1 XTRA SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178424.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 XTRA SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178424
+#EXTINF:-1 tvg-id="1178407" tvg-name="8K - BEIN SPORTS 1 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178407.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 1 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178407
+#EXTINF:-1 tvg-id="1178385" tvg-name="8K - BEIN SPORTS 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178385.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178385
+#EXTINF:-1 tvg-id="1178402" tvg-name="8K - BEIN SPORTS 2 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178402.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178402
+#EXTINF:-1 tvg-id="1178452" tvg-name="8K - BEIN SPORTS 2 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178452.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178452
+#EXTINF:-1 tvg-id="1178432" tvg-name="8K - BEIN SPORTS 2 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178432.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178432
+#EXTINF:-1 tvg-id="1178373" tvg-name="8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178373.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178373
+#EXTINF:-1 tvg-id="1178390" tvg-name="8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178390.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178390
+#EXTINF:-1 tvg-id="1178440" tvg-name="8K - BEIN SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178440.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ENGLISH ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178440
+#EXTINF:-1 tvg-id="1178420" tvg-name="8K - BEIN SPORTS 2 ENGLISH SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178420.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 ENGLISH SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178420
+#EXTINF:-1 tvg-id="1178371" tvg-name="8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178371.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178371
+#EXTINF:-1 tvg-id="1178438" tvg-name="8K - BEIN SPORTS 2 FRANCE ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178438.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 FRANCE ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178438
+#EXTINF:-1 tvg-id="1178415" tvg-name="8K - BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178415.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178415
+#EXTINF:-1 tvg-id="1178376" tvg-name="8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178376.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178376
+#EXTINF:-1 tvg-id="1178393" tvg-name="8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178393.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178393
+#EXTINF:-1 tvg-id="1178443" tvg-name="8K - BEIN SPORTS 2 XTRA ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178443.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 XTRA ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178443
+#EXTINF:-1 tvg-id="1178423" tvg-name="8K - BEIN SPORTS 2 XTRA SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178423.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 XTRA SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178423
+#EXTINF:-1 tvg-id="1178406" tvg-name="8K - BEIN SPORTS 2 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178406.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 2 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178406
+#EXTINF:-1 tvg-id="1178384" tvg-name="8K - BEIN SPORTS 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178384.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178384
+#EXTINF:-1 tvg-id="1178401" tvg-name="8K - BEIN SPORTS 3 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178401.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178401
+#EXTINF:-1 tvg-id="1178451" tvg-name="8K - BEIN SPORTS 3 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178451.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178451
+#EXTINF:-1 tvg-id="1178431" tvg-name="8K - BEIN SPORTS 3 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178431.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178431
+#EXTINF:-1 tvg-id="1178370" tvg-name="8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178370.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178370
+#EXTINF:-1 tvg-id="1178437" tvg-name="8K - BEIN SPORTS 3 FRANCE ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178437.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 FRANCE ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178437
+#EXTINF:-1 tvg-id="1178414" tvg-name="8K - BEIN SPORTS 3 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178414.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178414
+#EXTINF:-1 tvg-id="1178375" tvg-name="8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178375.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178375
+#EXTINF:-1 tvg-id="1178392" tvg-name="8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178392.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178392
+#EXTINF:-1 tvg-id="1178442" tvg-name="8K - BEIN SPORTS 3 XTRA ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178442.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 XTRA ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178442
+#EXTINF:-1 tvg-id="1178422" tvg-name="8K - BEIN SPORTS 3 XTRA SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178422.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 XTRA SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178422
+#EXTINF:-1 tvg-id="1178405" tvg-name="8K - BEIN SPORTS 3 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178405.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 3 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178405
+#EXTINF:-1 tvg-id="1178383" tvg-name="8K - BEIN SPORTS 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178383.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 4 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178383
+#EXTINF:-1 tvg-id="1178400" tvg-name="8K - BEIN SPORTS 4 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178400.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 4 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178400
+#EXTINF:-1 tvg-id="1178450" tvg-name="8K - BEIN SPORTS 4 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178450.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 4 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178450
+#EXTINF:-1 tvg-id="1178430" tvg-name="8K - BEIN SPORTS 4 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178430.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 4 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178430
+#EXTINF:-1 tvg-id="1178413" tvg-name="8K - BEIN SPORTS 4 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178413.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 4 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178413
+#EXTINF:-1 tvg-id="1178382" tvg-name="8K - BEIN SPORTS 5 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178382.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 5 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178382
+#EXTINF:-1 tvg-id="1178399" tvg-name="8K - BEIN SPORTS 5 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178399.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 5 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178399
+#EXTINF:-1 tvg-id="1178449" tvg-name="8K - BEIN SPORTS 5 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178449.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 5 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178449
+#EXTINF:-1 tvg-id="1178429" tvg-name="8K - BEIN SPORTS 5 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178429.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 5 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178429
+#EXTINF:-1 tvg-id="1178412" tvg-name="8K - BEIN SPORTS 5 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178412.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 5 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178412
+#EXTINF:-1 tvg-id="1178381" tvg-name="8K - BEIN SPORTS 6 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178381.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 6 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178381
+#EXTINF:-1 tvg-id="1178398" tvg-name="8K - BEIN SPORTS 6 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178398.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 6 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178398
+#EXTINF:-1 tvg-id="1178448" tvg-name="8K - BEIN SPORTS 6 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178448.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 6 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178448
+#EXTINF:-1 tvg-id="1178428" tvg-name="8K - BEIN SPORTS 6 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178428.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 6 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178428
+#EXTINF:-1 tvg-id="1178411" tvg-name="8K - BEIN SPORTS 6 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178411.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 6 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178411
+#EXTINF:-1 tvg-id="1178380" tvg-name="8K - BEIN SPORTS 7 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178380.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 7 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178380
+#EXTINF:-1 tvg-id="1178397" tvg-name="8K - BEIN SPORTS 7 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178397.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 7 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178397
+#EXTINF:-1 tvg-id="1178447" tvg-name="8K - BEIN SPORTS 7 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178447.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 7 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178447
+#EXTINF:-1 tvg-id="1178427" tvg-name="8K - BEIN SPORTS 7 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178427.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 7 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178427
+#EXTINF:-1 tvg-id="1178410" tvg-name="8K - BEIN SPORTS 7 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178410.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 7 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178410
+#EXTINF:-1 tvg-id="1178379" tvg-name="8K - BEIN SPORTS 8 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178379.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 8 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178379
+#EXTINF:-1 tvg-id="1178396" tvg-name="8K - BEIN SPORTS 8 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178396.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 8 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178396
+#EXTINF:-1 tvg-id="1178446" tvg-name="8K - BEIN SPORTS 8 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178446.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 8 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178446
+#EXTINF:-1 tvg-id="1178426" tvg-name="8K - BEIN SPORTS 8 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178426.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 8 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178426
+#EXTINF:-1 tvg-id="1178409" tvg-name="8K - BEIN SPORTS 8 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178409.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 8 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178409
+#EXTINF:-1 tvg-id="1178378" tvg-name="8K - BEIN SPORTS 9 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178378.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 9 ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178378
+#EXTINF:-1 tvg-id="1178395" tvg-name="8K - BEIN SPORTS 9 ʰᵉᵛᶜ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178395.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 9 ʰᵉᵛᶜ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178395
+#EXTINF:-1 tvg-id="1178445" tvg-name="8K - BEIN SPORTS 9 ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178445.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 9 ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178445
+#EXTINF:-1 tvg-id="1178425" tvg-name="8K - BEIN SPORTS 9 SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178425.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 9 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178425
+#EXTINF:-1 tvg-id="1178408" tvg-name="8K - BEIN SPORTS 9 LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178408.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS 9 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178408
+#EXTINF:-1 tvg-id="1178387" tvg-name="8K - BEIN SPORTS GLOBAL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/bein/1178387.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178387
+#EXTINF:-1 tvg-id="1178454" tvg-name="8K - BEIN SPORTS GLOBAL ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1178454.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS GLOBAL ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178454
+#EXTINF:-1 tvg-id="1178434" tvg-name="8K - BEIN SPORTS GLOBAL SD" tvg-logo="http://103.176.90.154/picons/logos/bein/1178434.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS GLOBAL SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178434
+#EXTINF:-1 tvg-id="1178417" tvg-name="8K - BEIN SPORTS GLOBAL LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/1178417.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS GLOBAL LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178417
+#EXTINF:-1 tvg-id="1178388" tvg-name="8K - BEIN SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178388.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS NEWS ᴿᴬᵂ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178388
+#EXTINF:-1 tvg-id="1178455" tvg-name="8K - BEIN SPORTS NEWS ᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178455.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS NEWS ᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178455
+#EXTINF:-1 tvg-id="1178435" tvg-name="8K - BEIN SPORTS NEWS SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178435.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS NEWS SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178435
+#EXTINF:-1 tvg-id="1178418" tvg-name="8K - BEIN SPORTS NEWS LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178418.png" group-title="|AR| BEIN SPORTS 8K", 8K - BEIN SPORTS NEWS LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178418
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505579.png" group-title="ES_ Spain",13 TV
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505579.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505559.png" group-title="ES_ ESPÃNA",24 HORAS
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505559.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505584.png" group-title="ES_ Spain",A3 SERIES HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505584.ts
+#EXTINF:-1 tvg-id="757138" tvg-name="##### AL FAJER #####" tvg-logo="http://103.176.90.154/picons/logos/arabic/757138.png" group-title="|AR| AL FAJER", ##### AL FAJER #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/757138
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505570.png" group-title="ES_ Spain",ALCARRIA TV
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505570.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/924941.png" group-title="ES_ Spain",ALL FLAMENGO HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/924941.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505547.png" group-title="ES_ ESPÃNA",ANTENA 3 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505547.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505548.png" group-title="ES_ ESPÃNA",ANTENA 3 INT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505548.ts
+#EXTINF:-1 tvg-id="765048" tvg-name="AR - ABU DHABI SPORT1 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765048.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ABU DHABI SPORT1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765048
+#EXTINF:-1 tvg-id="765049" tvg-name="AR - ABU DHABI SPORT1 FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765049.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ABU DHABI SPORT1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765049
+#EXTINF:-1 tvg-id="765050" tvg-name="AR - ABU DHABI SPORT1" tvg-logo="http://103.176.90.154/picons/logos/arabic/765050.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ABU DHABI SPORT1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765050
+#EXTINF:-1 tvg-id="765051" tvg-name="AR - ABU DHABI SPORT2 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765051.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ABU DHABI SPORT2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765051
+#EXTINF:-1 tvg-id="765052" tvg-name="AR - ABU DHABI SPORT2 FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765052.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ABU DHABI SPORT2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765052
+#EXTINF:-1 tvg-id="765044" tvg-name="AR - AD SPORT ASIA 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765044.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - AD SPORT ASIA 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765044
+#EXTINF:-1 tvg-id="765045" tvg-name="AR - AD SPORT ASIA 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765045.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - AD SPORT ASIA 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765045
+#EXTINF:-1 tvg-id="765046" tvg-name="AR - AD SPORT ASIA 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765046.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - AD SPORT ASIA 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765046
+#EXTINF:-1 tvg-id="765047" tvg-name="AR - AD SPORT ASIA 2 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765047.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - AD SPORT ASIA 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765047
+#EXTINF:-1 tvg-id="722810" tvg-name="AR - AJYAL TV HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/722810.png" group-title="|AR| AL FAJER", AR - AJYAL TV HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/722810
+#EXTINF:-1 tvg-id="1388723" tvg-name="AR - ALWAN AFLAM 1 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR - ALWAN AFLAM 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388723
+#EXTINF:-1 tvg-id="1388724" tvg-name="AR - ALWAN AFLAM 2 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR - ALWAN AFLAM 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388724
+#EXTINF:-1 tvg-id="1388725" tvg-name="AR - ALWAN ALWATHAEQYE 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR - ALWAN ALWATHAEQYE 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388725
+#EXTINF:-1 tvg-id="1388726" tvg-name="AR - ALWAN ATFAL 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR - ALWAN ATFAL 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388726
+#EXTINF:-1 tvg-id="1388727" tvg-name="AR -  ALWAN MOSALSALAT 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR -  ALWAN MOSALSALAT 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388727
+#EXTINF:-1 tvg-id="1341000" tvg-name="AR - ALWAN SPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1341000
+#EXTINF:-1 tvg-id="1340994" tvg-name="AR - ALWAN SPORT 1 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340994
+#EXTINF:-1 tvg-id="1340988" tvg-name="AR - ALWAN SPORT 1 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 1 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340988
+#EXTINF:-1 tvg-id="1340999" tvg-name="AR - ALWAN SPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340999
+#EXTINF:-1 tvg-id="1340993" tvg-name="AR - ALWAN SPORT 2 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340993
+#EXTINF:-1 tvg-id="1340987" tvg-name="AR - ALWAN SPORT 2 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 2 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340987
+#EXTINF:-1 tvg-id="1340998" tvg-name="AR - ALWAN SPORT 3 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 3 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340998
+#EXTINF:-1 tvg-id="1340992" tvg-name="AR - ALWAN SPORT 3 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 3 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340992
+#EXTINF:-1 tvg-id="1340986" tvg-name="AR - ALWAN SPORT 3 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 3 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340986
+#EXTINF:-1 tvg-id="1340997" tvg-name="AR - ALWAN SPORT 4 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 4 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340997
+#EXTINF:-1 tvg-id="1340991" tvg-name="AR - ALWAN SPORT 4 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 4 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340991
+#EXTINF:-1 tvg-id="1340985" tvg-name="AR - ALWAN SPORT 4 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 4 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340985
+#EXTINF:-1 tvg-id="1340996" tvg-name="AR - ALWAN SPORT 5 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 5 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340996
+#EXTINF:-1 tvg-id="1340990" tvg-name="AR - ALWAN SPORT 5 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 5 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340990
+#EXTINF:-1 tvg-id="1340984" tvg-name="AR - ALWAN SPORT 5 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 5 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340984
+#EXTINF:-1 tvg-id="1340995" tvg-name="AR - ALWAN SPORT 6 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 6 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340995
+#EXTINF:-1 tvg-id="1340989" tvg-name="AR - ALWAN SPORT 6 HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 6 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340989
+#EXTINF:-1 tvg-id="1340983" tvg-name="AR - ALWAN SPORT 6 SD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="|AR| ALWAN SPORT", AR - ALWAN SPORT 6 SD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1340983
+#EXTINF:-1 tvg-id="1388728" tvg-name="AR - ALWAN TURKEY 4K" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN", AR - ALWAN TURKEY 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1388728
+#EXTINF:-1 tvg-id="977634" tvg-name="AR - ARABIC UFC EVENT 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/977634.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ARABIC UFC EVENT 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/977634
+#EXTINF:-1 tvg-id="977635" tvg-name="AR - ARABIC UFC EVENT 2 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/977635.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ARABIC UFC EVENT 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/977635
+#EXTINF:-1 tvg-id="994802" tvg-name="AR - ARABIC UFC EVENT 3 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/994802.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - ARABIC UFC EVENT 3 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/994802
+#EXTINF:-1 tvg-id="971232" tvg-name="AR - BEIN SPORTS 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971232.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971232
+#EXTINF:-1 tvg-id="987845" tvg-name="AR - BEIN SPORTS 1 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987845.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 1 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987845
+#EXTINF:-1 tvg-id="971256" tvg-name="AR - BEIN SPORTS 1 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971256.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971256
+#EXTINF:-1 tvg-id="971237" tvg-name="AR - BEIN SPORTS 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971237.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971237
+#EXTINF:-1 tvg-id="971273" tvg-name="AR - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971273.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971273
+#EXTINF:-1 tvg-id="987832" tvg-name="AR - BEIN SPORTS 1 AFC ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987832.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 1 AFC ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987832
+#EXTINF:-1 tvg-id="971268" tvg-name="AR - BEIN SPORTS 1 ENGLISH HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971268.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 ENGLISH HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971268
+#EXTINF:-1 tvg-id="971249" tvg-name="AR - BEIN SPORTS 1 ENGLISH FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971249.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 ENGLISH FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971249
+#EXTINF:-1 tvg-id="971285" tvg-name="AR - BEIN SPORTS 1 ENGLISH HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971285.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 ENGLISH HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971285
+#EXTINF:-1 tvg-id="971251" tvg-name="AR - BEIN SPORTS 1 FRANCE FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971251.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 FRANCE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971251
+#EXTINF:-1 tvg-id="971287" tvg-name="AR - BEIN SPORTS 1 FRANCE HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971287.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 FRANCE HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971287
+#EXTINF:-1 tvg-id="971294" tvg-name="AR - BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971294.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971294
+#EXTINF:-1 tvg-id="971246" tvg-name="AR - BEIN SPORTS 1 XSTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971246.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 XSTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971246
+#EXTINF:-1 tvg-id="971265" tvg-name="AR - BEIN SPORTS 1 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971265.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971265
+#EXTINF:-1 tvg-id="971282" tvg-name="AR - BEIN SPORTS 1 XTRA HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971282.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 XTRA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971282
+#EXTINF:-1 tvg-id="971303" tvg-name="AR - BEIN SPORTS 1 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971303.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 1 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971303
+#EXTINF:-1 tvg-id="971233" tvg-name="AR - BEIN SPORTS 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971233.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971233
+#EXTINF:-1 tvg-id="987844" tvg-name="AR - BEIN SPORTS 2 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987844.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 2 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987844
+#EXTINF:-1 tvg-id="971257" tvg-name="AR - BEIN SPORTS 2 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971257.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971257
+#EXTINF:-1 tvg-id="971238" tvg-name="AR - BEIN SPORTS 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971238.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971238
+#EXTINF:-1 tvg-id="971274" tvg-name="AR - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971274.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971274
+#EXTINF:-1 tvg-id="987831" tvg-name="AR - BEIN SPORTS 2 AFC ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987831.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 2 AFC ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987831
+#EXTINF:-1 tvg-id="971269" tvg-name="AR - BEIN SPORTS 2 ENGLISH HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971269.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 ENGLISH HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971269
+#EXTINF:-1 tvg-id="971250" tvg-name="AR - BEIN SPORTS 2 ENGLISH FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971250.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 ENGLISH FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971250
+#EXTINF:-1 tvg-id="971286" tvg-name="AR - BEIN SPORTS 2 ENGLISH HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971286.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 ENGLISH HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971286
+#EXTINF:-1 tvg-id="971252" tvg-name="AR - BEIN SPORTS 2 FRANCE FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971252.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 FRANCE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971252
+#EXTINF:-1 tvg-id="971288" tvg-name="AR - BEIN SPORTS 2 FRANCE HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971288.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 FRANCE HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971288
+#EXTINF:-1 tvg-id="971295" tvg-name="AR - BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971295.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971295
+#EXTINF:-1 tvg-id="971247" tvg-name="AR - BEIN SPORTS 2 XSTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971247.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 XSTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971247
+#EXTINF:-1 tvg-id="971266" tvg-name="AR - BEIN SPORTS 2 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971266.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971266
+#EXTINF:-1 tvg-id="971283" tvg-name="AR - BEIN SPORTS 2 XTRA HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971283.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 XTRA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971283
+#EXTINF:-1 tvg-id="971304" tvg-name="AR - BEIN SPORTS 2 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971304.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 2 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971304
+#EXTINF:-1 tvg-id="971234" tvg-name="AR - BEIN SPORTS 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971234.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971234
+#EXTINF:-1 tvg-id="987843" tvg-name="AR - BEIN SPORTS 3 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987843.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 3 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987843
+#EXTINF:-1 tvg-id="971258" tvg-name="AR - BEIN SPORTS 3 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971258.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971258
+#EXTINF:-1 tvg-id="971239" tvg-name="AR - BEIN SPORTS 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971239.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971239
+#EXTINF:-1 tvg-id="971275" tvg-name="AR - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971275.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971275
+#EXTINF:-1 tvg-id="971253" tvg-name="AR - BEIN SPORTS 3 FRANCE FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971253.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 FRANCE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971253
+#EXTINF:-1 tvg-id="971289" tvg-name="AR - BEIN SPORTS 3 FRANCE HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971289.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 FRANCE HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971289
+#EXTINF:-1 tvg-id="971296" tvg-name="AR - BEIN SPORTS 3 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971296.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971296
+#EXTINF:-1 tvg-id="971248" tvg-name="AR - BEIN SPORTS 3 XSTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971248.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 XSTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971248
+#EXTINF:-1 tvg-id="971267" tvg-name="AR - BEIN SPORTS 3 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971267.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971267
+#EXTINF:-1 tvg-id="971284" tvg-name="AR - BEIN SPORTS 3 XTRA HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971284.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 XTRA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971284
+#EXTINF:-1 tvg-id="971305" tvg-name="AR - BEIN SPORTS 3 XTRA LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971305.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 3 XTRA LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971305
+#EXTINF:-1 tvg-id="987842" tvg-name="AR - BEIN SPORTS 4 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987842.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 4 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987842
+#EXTINF:-1 tvg-id="971259" tvg-name="AR - BEIN SPORTS 4 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971259.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 4 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971259
+#EXTINF:-1 tvg-id="971240" tvg-name="AR - BEIN SPORTS 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971240.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 4 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971240
+#EXTINF:-1 tvg-id="971276" tvg-name="AR - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971276.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 4 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971276
+#EXTINF:-1 tvg-id="971297" tvg-name="AR - BEIN SPORTS 4 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971297.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 4 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971297
+#EXTINF:-1 tvg-id="987841" tvg-name="AR - BEIN SPORTS 5 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987841.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 5 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987841
+#EXTINF:-1 tvg-id="971260" tvg-name="AR - BEIN SPORTS 5 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971260.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 5 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971260
+#EXTINF:-1 tvg-id="971241" tvg-name="AR - BEIN SPORTS 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971241.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 5 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971241
+#EXTINF:-1 tvg-id="971277" tvg-name="AR - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971277.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 5 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971277
+#EXTINF:-1 tvg-id="971298" tvg-name="AR - BEIN SPORTS 5 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971298.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 5 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971298
+#EXTINF:-1 tvg-id="987840" tvg-name="AR - BEIN SPORTS 6 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987840.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 6 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987840
+#EXTINF:-1 tvg-id="971261" tvg-name="AR - BEIN SPORTS 6 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971261.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 6 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971261
+#EXTINF:-1 tvg-id="971242" tvg-name="AR - BEIN SPORTS 6 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971242.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 6 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971242
+#EXTINF:-1 tvg-id="971278" tvg-name="AR - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971278.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 6 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971278
+#EXTINF:-1 tvg-id="971299" tvg-name="AR - BEIN SPORTS 6 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971299.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 6 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971299
+#EXTINF:-1 tvg-id="987839" tvg-name="AR - BEIN SPORTS 7 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987839.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 7 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987839
+#EXTINF:-1 tvg-id="971262" tvg-name="AR - BEIN SPORTS 7 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971262.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 7 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971262
+#EXTINF:-1 tvg-id="971243" tvg-name="AR -  BEIN  SPORTS 7 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971243.png" group-title="|AR| BEIN SPORTS (UK)", AR -  BEIN  SPORTS 7 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971243
+#EXTINF:-1 tvg-id="971279" tvg-name="AR - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971279.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 7 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971279
+#EXTINF:-1 tvg-id="971300" tvg-name="AR - BEIN SPORTS 7 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971300.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 7 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971300
+#EXTINF:-1 tvg-id="987838" tvg-name="AR - BEIN SPORTS 8 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987838.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 8 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987838
+#EXTINF:-1 tvg-id="971263" tvg-name="AR - BEIN SPORTS 8 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971263.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 8 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971263
+#EXTINF:-1 tvg-id="971244" tvg-name="AR -  BEIN  SPORTS 8 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971244.png" group-title="|AR| BEIN SPORTS (UK)", AR -  BEIN  SPORTS 8 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971244
+#EXTINF:-1 tvg-id="971280" tvg-name="AR - BEIN SPORTS 8 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971280.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 8 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971280
+#EXTINF:-1 tvg-id="971301" tvg-name="AR - BEIN SPORTS 8 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971301.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 8 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971301
+#EXTINF:-1 tvg-id="987837" tvg-name="AR - BEIN SPORTS 9 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987837.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS 9 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987837
+#EXTINF:-1 tvg-id="971264" tvg-name="AR - BEIN SPORTS 9 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/971264.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 9 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971264
+#EXTINF:-1 tvg-id="971245" tvg-name="AR -  BEIN  SPORTS 9 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971245.png" group-title="|AR| BEIN SPORTS (UK)", AR -  BEIN  SPORTS 9 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971245
+#EXTINF:-1 tvg-id="971281" tvg-name="AR - BEIN SPORTS 9 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971281.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 9 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971281
+#EXTINF:-1 tvg-id="971302" tvg-name="AR - BEIN SPORTS 9 LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971302.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS 9 LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971302
+#EXTINF:-1 tvg-id="987833" tvg-name="AR - BEIN SPORTS AFC ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987833.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS AFC ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987833
+#EXTINF:-1 tvg-id="971236" tvg-name="AR - BEIN SPORTS GLOBAL FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971237.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS GLOBAL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971236
+#EXTINF:-1 tvg-id="971272" tvg-name="AR - BEIN SPORTS GLOBAL HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971272.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS GLOBAL HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971272
+#EXTINF:-1 tvg-id="971293" tvg-name="AR - BEIN SPORTS GLOBAL LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971293.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS GLOBAL LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971293
+#EXTINF:-1 tvg-id="971254" tvg-name="AR - BEIN SPORTS NBA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971254.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS NBA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971254
+#EXTINF:-1 tvg-id="971290" tvg-name="AR - BEIN SPORTS NBA HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971290.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS NBA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971290
+#EXTINF:-1 tvg-id="971235" tvg-name="AR - BEIN SPORTS NEWS FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/971235.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS NEWS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971235
+#EXTINF:-1 tvg-id="971271" tvg-name="AR - BEIN SPORTS NEWS HD" tvg-logo="http://103.176.90.154/picons/logos/bein/971271.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS NEWS HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971271
+#EXTINF:-1 tvg-id="971292" tvg-name="AR - BEIN SPORTS NEWS LQ" tvg-logo="http://103.176.90.154/picons/logos/bein/971292.png" group-title="|AR| BEIN SPORTS (UK)", AR - BEIN SPORTS NEWS LQ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971292
+#EXTINF:-1 tvg-id="987836" tvg-name="AR - BEIN SPORTS XTRA 1 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987836.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 1 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987836
+#EXTINF:-1 tvg-id="987835" tvg-name="AR - BEIN SPORTS XTRA 2 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987835.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 2 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987835
+#EXTINF:-1 tvg-id="987834" tvg-name="AR - BEIN SPORTS XTRA 3 ᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/987834.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", AR - BEIN SPORTS XTRA 3 ᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987834
+#EXTINF:-1 tvg-id="722820" tvg-name="AR - HORIYAA RIYADIA HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/722820.png" group-title="|AR| AL FAJER", AR - HORIYAA RIYADIA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/722820
+#EXTINF:-1 tvg-id="722811" tvg-name="AR - SALAM TV HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/722811.png" group-title="|AR| AL FAJER", AR - SALAM TV HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/722811
+#EXTINF:-1 tvg-id="761732" tvg-name="AR - STARZPLAY / AD SPORT 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/761732.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORT 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761732
+#EXTINF:-1 tvg-id="761735" tvg-name="AR - STARZPLAY / AD SPORT 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/761735.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORT 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761735
+#EXTINF:-1 tvg-id="761733" tvg-name="AR - STARZPLAY / AD SPORT 2 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/761733.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORT 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761733
+#EXTINF:-1 tvg-id="761734" tvg-name="AR - STARZPLAY / AD SPORT 3 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/761734.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORT 3 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761734
+#EXTINF:-1 tvg-id="761736" tvg-name="AR - STARZPLAY / AD SPORT 5 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/761736.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORT 5 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761736
+#EXTINF:-1 tvg-id="765041" tvg-name="AR - STARZPLAY / AD SPORTS 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765041.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORTS 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765041
+#EXTINF:-1 tvg-id="765042" tvg-name="AR - STARZPLAY / AD SPORTS 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765042.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORTS 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765042
+#EXTINF:-1 tvg-id="765043" tvg-name="AR - STARZPLAY / AD SPORTS 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/765043.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / AD SPORTS 3 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/765043
+#EXTINF:-1 tvg-id="767232" tvg-name="AR - STARZPLAY / CRLIFE 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/767232.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / CRLIFE 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/767232
+#EXTINF:-1 tvg-id="766017" tvg-name="AR - STARZPLAY / CRLIFE 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/766017.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / CRLIFE 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/766017
+#EXTINF:-1 tvg-id="767231" tvg-name="AR - STARZPLAY / CRLIFE 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/767231.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / CRLIFE 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/767231
+#EXTINF:-1 tvg-id="766018" tvg-name="AR - STARZPLAY / CRLIFE 2 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/766018.png" group-title="|AR| STARZPLAY / AD SPORTS", AR - STARZPLAY / CRLIFE 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/766018
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505563.png" group-title="ES_ ESPÃNA",ARAGON TV INT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505563.ts
+#EXTINF:-1 tvg-id="862835" tvg-name="BEIN ANIMAL PLANET HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862835.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN ANIMAL PLANET HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862835
+#EXTINF:-1 tvg-id="862829" tvg-name="BEIN BARAEM KIDS" tvg-logo="http://103.176.90.154/picons/logos/arabic/862829.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN BARAEM KIDS
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862829
+#EXTINF:-1 tvg-id="862837" tvg-name="BEIN BBC EARTH HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862837.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN BBC EARTH HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862837
+#EXTINF:-1 tvg-id="862847" tvg-name="BEIN DRAMA HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862847.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN DRAMA HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862847
+#EXTINF:-1 tvg-id="862854" tvg-name="##### BEIN ENTERTAINMENT #####" tvg-logo="http://103.176.90.154/picons/logos/bein/862854.png" group-title="|AR| BEIN ENTERTAINMENT", ##### BEIN ENTERTAINMENT #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862854
+#EXTINF:-1 tvg-id="862844" tvg-name="BEIN FATAFEAT HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862844.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN FATAFEAT HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862844
+#EXTINF:-1 tvg-id="862846" tvg-name="BEIN FOOD NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862846.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN FOOD NETWORK HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862846
+#EXTINF:-1 tvg-id="862840" tvg-name="BEIN FOX ACTION HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862840.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN FOX ACTION HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862840
+#EXTINF:-1 tvg-id="862841" tvg-name="BEIN FOX MOVIES HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862841.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN FOX MOVIES HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862841
+#EXTINF:-1 tvg-id="862845" tvg-name="BEIN GOURMET HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862845.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN GOURMET HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862845
+#EXTINF:-1 tvg-id="862832" tvg-name="BEIN HGTV HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862832.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN HGTV HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862832
+#EXTINF:-1 tvg-id="862830" tvg-name="BEIN JEEM KIDS HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862830.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN JEEM KIDS HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862830
+#EXTINF:-1 tvg-id="862852" tvg-name="BEIN MOVIES ACTION 2 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862852.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN MOVIES ACTION 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862852
+#EXTINF:-1 tvg-id="862851" tvg-name="BEIN MOVIES DRAMA 3 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862851.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN MOVIES DRAMA 3 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862851
+#EXTINF:-1 tvg-id="862850" tvg-name="BEIN MOVIES FAMILY 4 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862850.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN MOVIES FAMILY 4 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862850
+#EXTINF:-1 tvg-id="862853" tvg-name="BEIN MOVIES PREMIERE 1 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862853.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN MOVIES PREMIERE 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862853
+#EXTINF:-1 tvg-id="862834" tvg-name="BEIN NATIONAL GEO HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862834.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN NATIONAL GEO HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862834
+#EXTINF:-1 tvg-id="862833" tvg-name="BEIN NATIONAL GEO WILD HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862833.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN NATIONAL GEO WILD HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862833
+#EXTINF:-1 tvg-id="862849" tvg-name="BEIN SERIES 1 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862849.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN SERIES 1 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862849
+#EXTINF:-1 tvg-id="862848" tvg-name="BEIN SERIES 2 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/862848.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN SERIES 2 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862848
+#EXTINF:-1 tvg-id="1178389" tvg-name="####### BEIN SPORTS ᴿᴬᵂ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178389.png" group-title="|AR| BEIN SPORTS 8K", ####### BEIN SPORTS ᴿᴬᵂ #######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178389
+#EXTINF:-1 tvg-id="653635" tvg-name="##### BEIN SPORTS 4K #####" tvg-logo="http://103.176.90.154/picons/logos/bein/653635.png" group-title="|AR| BEIN SPORTS 4K", ##### BEIN SPORTS 4K #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653635
+#EXTINF:-1 tvg-id="987846" tvg-name="##### BEIN SPORTS ᵁᴴᴰ #####" tvg-logo="http://103.176.90.154/picons/logos/bein/987846.png" group-title="|AR| BEIN SPORTS ᵁᴴᴰ", ##### BEIN SPORTS ᵁᴴᴰ #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/987846
+#EXTINF:-1 tvg-id="1178404" tvg-name="####### BEIN SPORTS ʰᵉᵛᶜ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178404.png" group-title="|AR| BEIN SPORTS 8K", ####### BEIN SPORTS ʰᵉᵛᶜ #######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178404
+#EXTINF:-1 tvg-id="594520" tvg-name="##### BEIN SPORTS HEVC #####" tvg-logo="http://103.176.90.154/picons/logos/bein/594520.png" group-title="|AR| BEIN SPORTS 4K", ##### BEIN SPORTS HEVC #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594520
+#EXTINF:-1 tvg-id="971255" tvg-name="##### BEIN SPORTS HEVC #####" tvg-logo="http://103.176.90.154/picons/logos/bein/971255.png" group-title="|AR| BEIN SPORTS (UK)", ##### BEIN SPORTS HEVC #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971255
+#EXTINF:-1 tvg-id="971231" tvg-name="##### BEIN SPORTS FHD #####" tvg-logo="http://103.176.90.154/picons/logos/bein/971231.png" group-title="|AR| BEIN SPORTS (UK)", ##### BEIN SPORTS FHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971231
+#EXTINF:-1 tvg-id="1178456" tvg-name="####### BEIN SPORTS ᴴᴰ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178456.png" group-title="|AR| BEIN SPORTS 8K", ####### BEIN SPORTS ᴴᴰ #######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178456
+#EXTINF:-1 tvg-id="971270" tvg-name="##### BEIN SPORTS HD #####" tvg-logo="http://103.176.90.154/picons/logos/bein/971270.png" group-title="|AR| BEIN SPORTS (UK)", ##### BEIN SPORTS HD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971270
+#EXTINF:-1 tvg-id="1178436" tvg-name="####### BEIN SPORTS SD #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178436.png" group-title="|AR| BEIN SPORTS 8K", ####### BEIN SPORTS SD #######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178436
+#EXTINF:-1 tvg-id="1016907" tvg-name="BEIN SPORTS1 ᵁᴴᴰ8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016907.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS1 ᵁᴴᴰ8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016907
+#EXTINF:-1 tvg-id="1016908" tvg-name="BEIN SPORTS2 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016908.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS2 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016908
+#EXTINF:-1 tvg-id="1016909" tvg-name="BEIN SPORTS3 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016909.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS3 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016909
+#EXTINF:-1 tvg-id="1016910" tvg-name="BEIN SPORTS4 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016910.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS4 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016910
+#EXTINF:-1 tvg-id="1016911" tvg-name="BEIN SPORTS5 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016911.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS5 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016911
+#EXTINF:-1 tvg-id="1016912" tvg-name="BEIN SPORTS6 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016912.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS6 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016912
+#EXTINF:-1 tvg-id="1016913" tvg-name="BEIN SPORTS7 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016913.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS7 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016913
+#EXTINF:-1 tvg-id="1016914" tvg-name="BEIN SPORTS8 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016914.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS8 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016914
+#EXTINF:-1 tvg-id="1016915" tvg-name="BEIN SPORTS9 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016915.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS9 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016915
+#EXTINF:-1 tvg-id="1016920" tvg-name="BEIN SPORTS 1 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016920.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 1 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016920
+#EXTINF:-1 tvg-id="1156631" tvg-name="BEIN SPORTS 1 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156631.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 1 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156631
+#EXTINF:-1 tvg-id="653626" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653626.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653626
+#EXTINF:-1 tvg-id="958682" tvg-name="BEIN SPORTS 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/958682.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/958682
+#EXTINF:-1 tvg-id="594516" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594516.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594516
+#EXTINF:-1 tvg-id="1156613" tvg-name="BEIN SPORTS 1 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156613.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 1 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156613
+#EXTINF:-1 tvg-id="1156649" tvg-name="BEIN SPORTS 1 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156649.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 1 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156649
+#EXTINF:-1 tvg-id="653617" tvg-name="BEIN SPORTS 1 EN 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653617.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 EN 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653617
+#EXTINF:-1 tvg-id="594509" tvg-name="BEIN SPORTS 1 EN HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594509.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 EN HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594509
+#EXTINF:-1 tvg-id="550405" tvg-name="BEIN SPORTS 1 EN ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550405.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 EN ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550405
+#EXTINF:-1 tvg-id="550403" tvg-name="BEIN SPORTS 1 FR ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550403.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 FR ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550403
+#EXTINF:-1 tvg-id="1016929" tvg-name="BEIN SPORTS 1 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016929.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 1 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016929
+#EXTINF:-1 tvg-id="550412" tvg-name="BEIN SPORTS 1 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550412.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550412
+#EXTINF:-1 tvg-id="863375" tvg-name="BEIN SPORTS 1 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/863375.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 1 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/863375
+#EXTINF:-1 tvg-id="1016921" tvg-name="BEIN SPORTS 2 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016921.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 2 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016921
+#EXTINF:-1 tvg-id="1156630" tvg-name="BEIN SPORTS 2 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156630.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 2 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156630
+#EXTINF:-1 tvg-id="653625" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653625.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653625
+#EXTINF:-1 tvg-id="958683" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/958683.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/958683
+#EXTINF:-1 tvg-id="594515" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594515.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594515
+#EXTINF:-1 tvg-id="1156612" tvg-name="BEIN SPORTS 2 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156612.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 2 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156612
+#EXTINF:-1 tvg-id="1156648" tvg-name="BEIN SPORTS 2 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156648.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 2 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156648
+#EXTINF:-1 tvg-id="653616" tvg-name="BEIN SPORTS 2 EN 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653616.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 EN 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653616
+#EXTINF:-1 tvg-id="594508" tvg-name="BEIN SPORTS 2 EN HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594508.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 EN HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594508
+#EXTINF:-1 tvg-id="550404" tvg-name="BEIN SPORTS 2 EN ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550404.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 EN ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550404
+#EXTINF:-1 tvg-id="550413" tvg-name="BEIN SPORTS 2 FR ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550413.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 FR ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550413
+#EXTINF:-1 tvg-id="1016930" tvg-name="BEIN SPORTS 2 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016930.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 2 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016930
+#EXTINF:-1 tvg-id="550411" tvg-name="BEIN SPORTS 2 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550411.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550411
+#EXTINF:-1 tvg-id="863374" tvg-name="BEIN SPORTS 2 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/863374.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 2 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/863374
+#EXTINF:-1 tvg-id="1016922" tvg-name="BEIN SPORTS 3 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016922.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 3 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016922
+#EXTINF:-1 tvg-id="1156629" tvg-name="BEIN SPORTS 3 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156629.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 3 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156629
+#EXTINF:-1 tvg-id="653624" tvg-name="BEIN SPORTS 3 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653624.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653624
+#EXTINF:-1 tvg-id="958684" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/bein/958684.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/958684
+#EXTINF:-1 tvg-id="594514" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594514.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594514
+#EXTINF:-1 tvg-id="1156611" tvg-name="BEIN SPORTS 3 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156611.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 3 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156611
+#EXTINF:-1 tvg-id="1156647" tvg-name="BEIN SPORTS 3 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156647.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 3 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156647
+#EXTINF:-1 tvg-id="956022" tvg-name="BEIN SPORTS 3 FR ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/956022.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 FR ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/956022
+#EXTINF:-1 tvg-id="1016931" tvg-name="BEIN SPORTS 3 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016931.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 3 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016931
+#EXTINF:-1 tvg-id="550410" tvg-name="BEIN SPORTS 3 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550410.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550410
+#EXTINF:-1 tvg-id="863373" tvg-name="BEIN SPORTS 3 XTRA HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/863373.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 3 XTRA HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/863373
+#EXTINF:-1 tvg-id="1016923" tvg-name="BEIN SPORTS 4 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016923.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 4 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016923
+#EXTINF:-1 tvg-id="1156628" tvg-name="BEIN SPORTS 4 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156628.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 4 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156628
+#EXTINF:-1 tvg-id="653623" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653623.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 4 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653623
+#EXTINF:-1 tvg-id="594513" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594513.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 4 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594513
+#EXTINF:-1 tvg-id="1156610" tvg-name="BEIN SPORTS 4 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156610.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 4 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156610
+#EXTINF:-1 tvg-id="1156646" tvg-name="BEIN SPORTS 4 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156646.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 4 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156646
+#EXTINF:-1 tvg-id="1016932" tvg-name="BEIN SPORTS 4 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016932.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 4 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016932
+#EXTINF:-1 tvg-id="550409" tvg-name="BEIN SPORTS 4 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550409.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 4 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550409
+#EXTINF:-1 tvg-id="1016924" tvg-name="BEIN SPORTS 5 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016924.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 5 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016924
+#EXTINF:-1 tvg-id="1156627" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156627.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 5 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156627
+#EXTINF:-1 tvg-id="653622" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653622.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 5 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653622
+#EXTINF:-1 tvg-id="594512" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594512.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 5 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594512
+#EXTINF:-1 tvg-id="1156609" tvg-name="BEIN SPORTS 5 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156609.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 5 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156609
+#EXTINF:-1 tvg-id="1156645" tvg-name="BEIN SPORTS 5 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156645.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 5 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156645
+#EXTINF:-1 tvg-id="1016933" tvg-name="BEIN SPORTS 5 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016933.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 5 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016933
+#EXTINF:-1 tvg-id="550408" tvg-name="BEIN SPORTS 5 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550408.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 5 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550408
+#EXTINF:-1 tvg-id="1016925" tvg-name="BEIN SPORTS 6 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016925.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 6 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016925
+#EXTINF:-1 tvg-id="1156626" tvg-name="BEIN SPORTS 6 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156626.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 6 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156626
+#EXTINF:-1 tvg-id="653621" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653621.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 6 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653621
+#EXTINF:-1 tvg-id="594511" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594511.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 6 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594511
+#EXTINF:-1 tvg-id="1156608" tvg-name="BEIN SPORTS 6 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156608.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 6 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156608
+#EXTINF:-1 tvg-id="1156644" tvg-name="BEIN SPORTS 6 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156644.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 6 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156644
+#EXTINF:-1 tvg-id="1016934" tvg-name="BEIN SPORTS 6 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016934.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 6 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016934
+#EXTINF:-1 tvg-id="550407" tvg-name="BEIN SPORTS 6 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550407.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 6 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550407
+#EXTINF:-1 tvg-id="1016926" tvg-name="BEIN SPORTS 7 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016926.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 7 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016926
+#EXTINF:-1 tvg-id="1156625" tvg-name="BEIN SPORTS 7 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156625.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 7 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156625
+#EXTINF:-1 tvg-id="653620" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653620.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 7 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653620
+#EXTINF:-1 tvg-id="594510" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594510.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 7 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594510
+#EXTINF:-1 tvg-id="1156607" tvg-name="BEIN SPORTS 7 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156607.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 7 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156607
+#EXTINF:-1 tvg-id="1156643" tvg-name="BEIN SPORTS 7 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156643.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 7 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156643
+#EXTINF:-1 tvg-id="1016935" tvg-name="BEIN SPORTS 7 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016935.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 7 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016935
+#EXTINF:-1 tvg-id="550406" tvg-name="BEIN SPORTS 7 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550406.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 7 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550406
+#EXTINF:-1 tvg-id="1016927" tvg-name="BEIN SPORTS 8 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016927.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 8 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016927
+#EXTINF:-1 tvg-id="1156624" tvg-name="BEIN SPORTS 8 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156624.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 8 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156624
+#EXTINF:-1 tvg-id="653629" tvg-name="BEIN SPORTS 8 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653629.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 8 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653629
+#EXTINF:-1 tvg-id="594518" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594518.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 8 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594518
+#EXTINF:-1 tvg-id="1156606" tvg-name="BEIN SPORTS 8 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156606.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 8 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156606
+#EXTINF:-1 tvg-id="1156642" tvg-name="BEIN SPORTS 8 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156642.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 8 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156642
+#EXTINF:-1 tvg-id="1016936" tvg-name="BEIN SPORTS 8 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016936.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 8 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016936
+#EXTINF:-1 tvg-id="550415" tvg-name="BEIN SPORTS 8 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550415.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 8 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550415
+#EXTINF:-1 tvg-id="1016928" tvg-name="BEIN SPORTS 9 ᵁᴴᴰ 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016928.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 9 ᵁᴴᴰ 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016928
+#EXTINF:-1 tvg-id="1156623" tvg-name="BEIN SPORTS 9 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156623.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 9 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156623
+#EXTINF:-1 tvg-id="653628" tvg-name="BEIN SPORTS 9 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653628.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 9 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653628
+#EXTINF:-1 tvg-id="594517" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="http://103.176.90.154/picons/logos/bein/594517.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 9 HEVC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/594517
+#EXTINF:-1 tvg-id="1156605" tvg-name="BEIN SPORTS 9 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156605.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 9 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156605
+#EXTINF:-1 tvg-id="1156641" tvg-name="BEIN SPORTS 9 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156641.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS 9 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156641
+#EXTINF:-1 tvg-id="1016937" tvg-name="BEIN SPORTS 9 Gᵁᴴᴰ" tvg-logo="http://103.176.90.154/picons/logos/bein/1016937.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS 9 Gᵁᴴᴰ
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016937
+#EXTINF:-1 tvg-id="550414" tvg-name="BEIN SPORTS 9 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550414.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS 9 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550414
+#EXTINF:-1 tvg-id="1156617" tvg-name="BEIN SPORTS  AFC 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156617.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS  AFC 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156617
+#EXTINF:-1 tvg-id="1156616" tvg-name="BEIN SPORTS AFC 1 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1156616.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156616
+#EXTINF:-1 tvg-id="1156634" tvg-name="BEIN SPORTS AFC 1 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156634.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 1 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156634
+#EXTINF:-1 tvg-id="1156615" tvg-name="BEIN SPORTS AFC 2 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1156615.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156615
+#EXTINF:-1 tvg-id="1156633" tvg-name="BEIN SPORTS AFC 2 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156633.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 2 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156633
+#EXTINF:-1 tvg-id="1156614" tvg-name="BEIN SPORTS AFC 3 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1156614.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 3 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156614
+#EXTINF:-1 tvg-id="1156632" tvg-name="BEIN SPORTS AFC 3 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156632.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS AFC 3 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156632
+#EXTINF:-1 tvg-id="1156602" tvg-name="BEIN SPORTS  AFC 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156602.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS  AFC 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156602
+#EXTINF:-1 tvg-id="1156635" tvg-name="BEIN SPORTS  AFC 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156635.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS  AFC 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156635
+#EXTINF:-1 tvg-id="1096850" tvg-name="BEIN SPORTS AR 4K [EVENT]" tvg-logo="http://103.176.90.154/picons/logos/bein/1096850.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS AR 4K [EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1096850
+#EXTINF:-1 tvg-id="1156622" tvg-name="BEIN SPORTS ENGLISH 1 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156622.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 1 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156622
+#EXTINF:-1 tvg-id="1156604" tvg-name="BEIN SPORTS ENGLISH 1 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156604.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 1 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156604
+#EXTINF:-1 tvg-id="1156640" tvg-name="BEIN SPORTS ENGLISH 1 720" tvg-logo="http://103.176.90.154/picons/logos/arabic/1156640.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 1 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156640
+#EXTINF:-1 tvg-id="1156621" tvg-name="BEIN SPORTS ENGLISH 2 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156621.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 2 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156621
+#EXTINF:-1 tvg-id="1156603" tvg-name="BEIN SPORTS ENGLISH 2 480" tvg-logo="http://103.176.90.154/picons/logos/bein/1156603.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 2 480
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156603
+#EXTINF:-1 tvg-id="1156639" tvg-name="BEIN SPORTS ENGLISH 2 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156639.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS ENGLISH 2 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156639
+#EXTINF:-1 tvg-id="653614" tvg-name="BEIN SPORTS FRENCH 1 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653614.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS FRENCH 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653614
+#EXTINF:-1 tvg-id="653613" tvg-name="BEIN SPORTS FRENCH 2 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653613.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS FRENCH 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653613
+#EXTINF:-1 tvg-id="653615" tvg-name="BEIN SPORTS FRENCH 3 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653615.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS FRENCH 3 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653615
+#EXTINF:-1 tvg-id="653633" tvg-name="BEIN SPORTS GLOBAL 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653633.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS GLOBAL 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653633
+#EXTINF:-1 tvg-id="1016906" tvg-name="BEIN SPORTS GLOBAL ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016906.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016906
+#EXTINF:-1 tvg-id="550401" tvg-name="BEIN SPORTS GLOBAL ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550401.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS GLOBAL ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550401
+#EXTINF:-1 tvg-id="1178419" tvg-name="####### BEIN SPORTS LQ #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/1178419.png" group-title="|AR| BEIN SPORTS 8K", ####### BEIN SPORTS LQ #######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1178419
+#EXTINF:-1 tvg-id="971291" tvg-name="##### BEIN SPORTS LQ #####" tvg-logo="http://103.176.90.154/picons/logos/bein/971291.png" group-title="|AR| BEIN SPORTS (UK)", ##### BEIN SPORTS LQ #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/971291
+#EXTINF:-1 tvg-id="653634" tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653634.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS NEWS 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653634
+#EXTINF:-1 tvg-id="1016905" tvg-name="BEIN SPORTS NEWS ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016905.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016905
+#EXTINF:-1 tvg-id="550402" tvg-name="BEIN SPORTS NEWS ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/550402.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS NEWS ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550402
+#EXTINF:-1 tvg-id="550416" tvg-name="##### BEIN SPORTS ULTRA FHD #####" tvg-logo="http://103.176.90.154/picons/logos/bein/550416.png" group-title="|AR| BEIN SPORTS 4K", ##### BEIN SPORTS ULTRA FHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/550416
+#EXTINF:-1 tvg-id="1016918" tvg-name="BEIN SPORTS XTRA1 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016918.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016918
+#EXTINF:-1 tvg-id="1156620" tvg-name="BEIN SPORTS XTRA 1 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156620.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 1 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156620
+#EXTINF:-1 tvg-id="653619" tvg-name="BEIN SPORTS XTRA 1 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653619.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 1 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653619
+#EXTINF:-1 tvg-id="1156638" tvg-name="BEIN SPORTS XTRA 1 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156638.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 1 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156638
+#EXTINF:-1 tvg-id="956025" tvg-name="BEIN SPORTS XTRA 1 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/956025.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 1 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/956025
+#EXTINF:-1 tvg-id="1156619" tvg-name="BEIN SPORTS XTRA 2 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156619.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 2 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156619
+#EXTINF:-1 tvg-id="653618" tvg-name="BEIN SPORTS XTRA 2 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653618.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 2 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653618
+#EXTINF:-1 tvg-id="1016919" tvg-name="BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K" tvg-logo="http://103.176.90.154/picons/logos/bein/1016919.png" group-title="|AR| BEIN SPORTS G", BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1016919
+#EXTINF:-1 tvg-id="1156637" tvg-name="BEIN SPORTS XTRA 2 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156637.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 2 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156637
+#EXTINF:-1 tvg-id="956026" tvg-name="BEIN SPORTS XTRA 2 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/956026.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 2 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/956026
+#EXTINF:-1 tvg-id="1156618" tvg-name="BEIN SPORTS XTRA 3 4k" tvg-logo="http://103.176.90.154/picons/logos/bein/1156618.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 3 4k
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156618
+#EXTINF:-1 tvg-id="653627" tvg-name="BEIN SPORTS XTRA 3 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/653627.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 3 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/653627
+#EXTINF:-1 tvg-id="1156636" tvg-name="BEIN SPORTS XTRA 3 720" tvg-logo="http://103.176.90.154/picons/logos/bein/1156636.png" group-title="|AR| BEIN SPORTS NX", BEIN SPORTS XTRA 3 720
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1156636
+#EXTINF:-1 tvg-id="956024" tvg-name="BEIN SPORTS XTRA 3 ULTRA FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/956024.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 3 ULTRA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/956024
+#EXTINF:-1 tvg-id="1196253" tvg-name="BEIN SPORTS XTRA 4 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196253.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 4 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196253
+#EXTINF:-1 tvg-id="1196252" tvg-name="BEIN SPORTS XTRA 5 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196252.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 5 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196252
+#EXTINF:-1 tvg-id="1196251" tvg-name="BEIN SPORTS XTRA 6 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196251.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 6 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196251
+#EXTINF:-1 tvg-id="1196250" tvg-name="BEIN SPORTS XTRA 7 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196250.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 7 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196250
+#EXTINF:-1 tvg-id="1196249" tvg-name="BEIN SPORTS XTRA 8 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196249.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 8 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196249
+#EXTINF:-1 tvg-id="1196248" tvg-name="BEIN SPORTS XTRA 9 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1196248.png" group-title="|AR| BEIN SPORTS 4K", BEIN SPORTS XTRA 9 4K
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1196248
+#EXTINF:-1 tvg-id="862838" tvg-name="BEIN STAR WORLD HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862838.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN STAR WORLD HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862838
+#EXTINF:-1 tvg-id="862836" tvg-name="BEIN TRAVEL HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/862836.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN TRAVEL HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862836
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/BETIS.png" group-title="ES_ Sport",BETIS FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/807748.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/644827.png" group-title="ES_ ESPÃNA",CANAL SUR
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/644827.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505568.png" group-title="ES_ ESPÃNA",CANAL SUR A.
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505568.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505585.png" group-title="ES_ Spain",CGTN ESPANHOL
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505585.ts
+#EXTINF:-1 tvg-id="756602" tvg-name="##### CINEMA HIGHT QUALITY UHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE CINEMA", ##### CINEMA HIGHT QUALITY UHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756602
+#EXTINF:-1 tvg-id="543588" tvg-name="##### CINEMA HIGHT QUALITY FHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE CINEMA", ##### CINEMA HIGHT QUALITY FHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543588
+#EXTINF:-1 tvg-id="627930" tvg-name="##### CINEMA LOW QUALITY SD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE CINEMA", ##### CINEMA LOW QUALITY SD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/627930
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505555.png" group-title="ES_ ESPÃNA",CLAN TVE
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505555.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505576.png" group-title="ES_ Spain",CONDAVISION HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505576.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505549.png" group-title="ES_ ESPÃNA",CUATRO HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505549.ts
+#EXTINF:-1 group-title="ES_ Spain",CUGAT RÀDIO EN DIRECTE
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769437.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505554.png" group-title="ES_ ESPÃNA",DARK HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505554.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505665.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505666.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN 3 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505667.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN 4 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505668.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN 5 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505669.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN BAR 1 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1108482.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN BAR 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1108483.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN BAR 1
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1108481.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN BAR 2 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1108485.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN BAR 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1108486.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN FORMULA1 4K
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/754448.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN FORMULA1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/554553.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg" group-title="DAZN ES",DAZN LALIGA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/760760.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg" group-title="DAZN ES",DAZN LALIGA HD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/760760.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg" group-title="DAZN ES",DAZN LALIGA SD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/760762.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto1.jpg" group-title="DAZN ES",DAZN LALIGA SD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/760762.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN LALIGA 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/800992.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN MOTOGP FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1366413.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN MOTOGP HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1366414.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="DAZN ES",DAZN MOTOGP SD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1366415.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505586.png" group-title="ES_ ESPÃNA",DKISS
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505586.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505574.png" group-title="ES_ Spain",EITB P.VASCO
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505574.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/ELTORO.png" group-title="ES_ Sport",EL TORO TV HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/721112.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505556.png" group-title="ES_ ESPÃNA",ENERGY
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505556.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/EUROSPORT1.png" group-title="ES_ Sport",EUROSPORT 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505633.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/EUROSPORT2.png" group-title="ES_ Sport",EUROSPORT 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505634.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505557.png" group-title="ES_ ESPÃNA",FDF
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505557.ts
+#EXTINF:-1 tvg-id="543501" tvg-name="FR - ACTION UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543501.png" group-title="|EU| FRANCE CINEMA", FR - ACTION UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543501
+#EXTINF:-1 tvg-id="553974" tvg-name="FR - ACTION FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553974.png" group-title="|EU| FRANCE CINEMA", FR - ACTION FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553974
+#EXTINF:-1 tvg-id="543502" tvg-name="FR - ACTION" tvg-logo="http://103.176.90.154/picons/logos/france/543502.png" group-title="|EU| FRANCE CINEMA", FR - ACTION
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543502
+#EXTINF:-1 tvg-id="543496" tvg-name="FR - ALTICE STUDIO UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543496.png" group-title="|EU| FRANCE CINEMA", FR - ALTICE STUDIO UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543496
+#EXTINF:-1 tvg-id="543568" tvg-name="FR - ANIMAUX UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543568.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - ANIMAUX UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543568
+#EXTINF:-1 tvg-id="554045" tvg-name="FR - ANIMAUX FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554045.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - ANIMAUX FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554045
+#EXTINF:-1 tvg-id="543569" tvg-name="FR - ANIMAUX" tvg-logo="http://103.176.90.154/picons/logos/france/543569.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - ANIMAUX
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543569
+#EXTINF:-1 tvg-id="543402" tvg-name="FR - AUTOMOTO UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543402.png" group-title="|EU| FRANCE SPORTS", FR - AUTOMOTO UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543402
+#EXTINF:-1 tvg-id="554020" tvg-name="FR - AUTOMOTO FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554020.png" group-title="|EU| FRANCE SPORTS", FR - AUTOMOTO FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554020
+#EXTINF:-1 tvg-id="543403" tvg-name="FR - AUTOMOTO" tvg-logo="http://103.176.90.154/picons/logos/france/543403.png" group-title="|EU| FRANCE SPORTS", FR - AUTOMOTO
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543403
+#EXTINF:-1 tvg-id="543394" tvg-name="FR - BEIN SPORTS 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543394.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543394
+#EXTINF:-1 tvg-id="554021" tvg-name="FR - BEIN SPORTS 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554021.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554021
+#EXTINF:-1 tvg-id="543395" tvg-name="FR - BEIN SPORTS 1" tvg-logo="http://103.176.90.154/picons/logos/france/543395.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543395
+#EXTINF:-1 tvg-id="543396" tvg-name="FR - BEIN SPORTS 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543396.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543396
+#EXTINF:-1 tvg-id="554022" tvg-name="FR - BEIN SPORTS 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554022.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554022
+#EXTINF:-1 tvg-id="543397" tvg-name="FR - BEIN SPORTS 2" tvg-logo="http://103.176.90.154/picons/logos/france/543397.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 2
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543397
+#EXTINF:-1 tvg-id="543398" tvg-name="FR - BEIN SPORTS 3 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543398.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 3 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543398
+#EXTINF:-1 tvg-id="554023" tvg-name="FR - BEIN SPORTS 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554023.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 3 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554023
+#EXTINF:-1 tvg-id="543399" tvg-name="FR - BEIN SPORTS 3" tvg-logo="http://103.176.90.154/picons/logos/france/543399.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS 3
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543399
+#EXTINF:-1 tvg-id="548746" tvg-name="FR - BEIN SPORTS MAX 4 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548746.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 4 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548746
+#EXTINF:-1 tvg-id="548747" tvg-name="FR - BEIN SPORTS MAX 5 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548747.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 5 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548747
+#EXTINF:-1 tvg-id="548748" tvg-name="FR - BEIN SPORTS MAX 6 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548748.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 6 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548748
+#EXTINF:-1 tvg-id="548749" tvg-name="FR - BEIN SPORTS MAX 7 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548749.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 7 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548749
+#EXTINF:-1 tvg-id="548750" tvg-name="FR - BEIN SPORTS MAX 8 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548750.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 8 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548750
+#EXTINF:-1 tvg-id="548751" tvg-name="FR - BEIN SPORTS MAX 9 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548751.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 9 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548751
+#EXTINF:-1 tvg-id="548745" tvg-name="FR - BEIN SPORTS MAX 10 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/548745.png" group-title="|EU| FRANCE SPORTS", FR - BEIN SPORTS MAX 10 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/548745
+#EXTINF:-1 tvg-id="543470" tvg-name="FR - CANAL+ UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543470.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543470
+#EXTINF:-1 tvg-id="554001" tvg-name="FR - CANAL+ FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554001.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554001
+#EXTINF:-1 tvg-id="543471" tvg-name="FR - CANAL+" tvg-logo="http://103.176.90.154/picons/logos/france/543471.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543471
+#EXTINF:-1 tvg-id="770797" tvg-name="FR - CANAL+ 360 HD" tvg-logo="http://103.176.90.154/picons/logos/france/770797.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ 360 HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/770797
+#EXTINF:-1 tvg-id="960978" tvg-name="FR - CANAL+ BOX OFFICE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/960978.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ BOX OFFICE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/960978
+#EXTINF:-1 tvg-id="960977" tvg-name="FR - CANAL+ BOX OFFICE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/960977.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ BOX OFFICE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/960977
+#EXTINF:-1 tvg-id="1338925" tvg-name="FR - CANAL+ CAN HD" tvg-logo="http://103.176.90.154/picons/logos/logos/1338925.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ CAN HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1338925
+#EXTINF:-1 tvg-id="543472" tvg-name="FR - CANAL+ CINEMA UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543472.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ CINEMA UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543472
+#EXTINF:-1 tvg-id="554002" tvg-name="FR - CANAL+ CINEMA FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554002.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ CINEMA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554002
+#EXTINF:-1 tvg-id="543473" tvg-name="FR - CANAL+ CINEMA" tvg-logo="http://103.176.90.154/picons/logos/france/543473.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ CINEMA
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543473
+#EXTINF:-1 tvg-id="609331" tvg-name="FR - CANAL+ DOCS UHD" tvg-logo="http://103.176.90.154/picons/logos/france/609331.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CANAL+ DOCS UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/609331
+#EXTINF:-1 tvg-id="629700" tvg-name="FR - CANAL+ DOCS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629700.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CANAL+ DOCS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629700
+#EXTINF:-1 tvg-id="609330" tvg-name="FR - CANAL+ DOCS" tvg-logo="http://103.176.90.154/picons/logos/france/609330.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CANAL+ DOCS
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/609330
+#EXTINF:-1 tvg-id="543476" tvg-name="FR - CANAL+ FAMILY UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543476.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ FAMILY UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543476
+#EXTINF:-1 tvg-id="554004" tvg-name="FR - CANAL+ FAMILY FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554004.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ FAMILY FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554004
+#EXTINF:-1 tvg-id="543477" tvg-name="FR - CANAL+ FAMILY" tvg-logo="http://103.176.90.154/picons/logos/france/543477.png" group-title="|EU| FRANCE CINEMA", FR - CANAL+ FAMILY
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543477
+#EXTINF:-1 tvg-id="807390" tvg-name="FR - CANAL+ FOOT UHD" tvg-logo="http://103.176.90.154/picons/logos/france/807390.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ FOOT UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/807390
+#EXTINF:-1 tvg-id="770798" tvg-name="FR - CANAL+ FOOT HD" tvg-logo="http://103.176.90.154/picons/logos/france/770798.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ FOOT HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/770798
+#EXTINF:-1 tvg-id="543384" tvg-name="FR - CANAL+ PL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543384.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ PL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543384
+#EXTINF:-1 tvg-id="554015" tvg-name="FR - CANAL+ PL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554015.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ PL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554015
+#EXTINF:-1 tvg-id="543382" tvg-name="FR - CANAL+ SPORT UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543382.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543382
+#EXTINF:-1 tvg-id="554013" tvg-name="FR - CANAL+ SPORT FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554013.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554013
+#EXTINF:-1 tvg-id="543383" tvg-name="FR - CANAL+ SPORT" tvg-logo="http://103.176.90.154/picons/logos/france/543383.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543383
+#EXTINF:-1 tvg-id="901667" tvg-name="FR - CANAL+ SPORT 1" tvg-logo="http://103.176.90.154/picons/logos/france/901667.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/901667
+#EXTINF:-1 tvg-id="901668" tvg-name="FR - CANAL+ SPORT 2" tvg-logo="http://103.176.90.154/picons/logos/france/901668.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 2
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/901668
+#EXTINF:-1 tvg-id="901669" tvg-name="FR - CANAL+ SPORT 3" tvg-logo="http://103.176.90.154/picons/logos/france/901669.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 3
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/901669
+#EXTINF:-1 tvg-id="901670" tvg-name="FR - CANAL+ SPORT 4" tvg-logo="http://103.176.90.154/picons/logos/france/901670.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 4
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/901670
+#EXTINF:-1 tvg-id="901671" tvg-name="FR - CANAL+ SPORT 5" tvg-logo="http://103.176.90.154/picons/logos/france/901671.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 5
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/901671
+#EXTINF:-1 tvg-id="807391" tvg-name="FR - CANAL+ SPORT 360 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/807391.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ SPORT 360 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/807391
+#EXTINF:-1 tvg-id="554031" tvg-name="FR - CHASSE & PECHE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554031.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CHASSE & PECHE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554031
+#EXTINF:-1 tvg-id="543584" tvg-name="FR - CHASSE & PECHE" tvg-logo="http://103.176.90.154/picons/logos/france/543584.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CHASSE & PECHE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543584
+#EXTINF:-1 tvg-id="576837" tvg-name="FR - CINE+ CLASSIC UHD" tvg-logo="http://103.176.90.154/picons/logos/france/576837.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ CLASSIC UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/576837
+#EXTINF:-1 tvg-id="629709" tvg-name="FR - CINE+ CLASSIC FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629709.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ CLASSIC FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629709
+#EXTINF:-1 tvg-id="576838" tvg-name="FR - CINE+ CLASSIC" tvg-logo="http://103.176.90.154/picons/logos/france/576838.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ CLASSIC
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/576838
+#EXTINF:-1 tvg-id="543482" tvg-name="FR - CINE+ EMOTION UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543482.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ EMOTION UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543482
+#EXTINF:-1 tvg-id="554006" tvg-name="FR - CINE+ EMOTION FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554006.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ EMOTION FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554006
+#EXTINF:-1 tvg-id="543483" tvg-name="FR - CINE+ EMOTION" tvg-logo="http://103.176.90.154/picons/logos/france/543483.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ EMOTION
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543483
+#EXTINF:-1 tvg-id="1129573" tvg-name="FR - CINE+ FAMILY UHD" tvg-logo="http://103.176.90.154/picons/logos/france/1129573.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FAMILY UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1129573
+#EXTINF:-1 tvg-id="629708" tvg-name="FR - CINE+ FAMILY FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629708.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FAMILY FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629708
+#EXTINF:-1 tvg-id="1129574" tvg-name="FR - CINE+ FAMILY" tvg-logo="http://103.176.90.154/picons/logos/france/1129574.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FAMILY
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1129574
+#EXTINF:-1 tvg-id="543486" tvg-name="FR - CINE+ FESTIVAL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543486.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FESTIVAL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543486
+#EXTINF:-1 tvg-id="554008" tvg-name="FR - CINE+ FESTIVAL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554008.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FESTIVAL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554008
+#EXTINF:-1 tvg-id="543487" tvg-name="FR - CINE+ FESTIVAL" tvg-logo="http://103.176.90.154/picons/logos/france/543487.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FESTIVAL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543487
+#EXTINF:-1 tvg-id="543484" tvg-name="FR - CINE+ FRISSON UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543484.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FRISSON UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543484
+#EXTINF:-1 tvg-id="554009" tvg-name="FR - CINE+ FRISSON FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554009.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FRISSON FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554009
+#EXTINF:-1 tvg-id="543485" tvg-name="FR - CINE+ FRISSON" tvg-logo="http://103.176.90.154/picons/logos/france/543485.png" group-title="|EU| FRANCE CINEMA", FR - CINE+ FRISSON
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543485
+#EXTINF:-1 tvg-id="543208" tvg-name="FR - COMEDIE+ UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543208.png" group-title="|EU| FRANCE CINEMA", FR - COMEDIE+ UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543208
+#EXTINF:-1 tvg-id="554041" tvg-name="FR - COMEDIE+ FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554041.png" group-title="|EU| FRANCE CINEMA", FR - COMEDIE+ FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554041
+#EXTINF:-1 tvg-id="543209" tvg-name="FR - COMEDIE" tvg-logo="http://103.176.90.154/picons/logos/france/543209.png" group-title="|EU| FRANCE CINEMA", FR - COMEDIE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543209
+#EXTINF:-1 tvg-id="543190" tvg-name="FR - COMEDY CENTRAL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543190.png" group-title="|EU| FRANCE CINEMA", FR - COMEDY CENTRAL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543190
+#EXTINF:-1 tvg-id="553972" tvg-name="FR - COMEDY CENTRAL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553972.png" group-title="|EU| FRANCE CINEMA", FR - COMEDY CENTRAL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553972
+#EXTINF:-1 tvg-id="543191" tvg-name="FR - COMEDY CENTRAL" tvg-logo="http://103.176.90.154/picons/logos/france/543191.png" group-title="|EU| FRANCE CINEMA", FR - COMEDY CENTRAL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543191
+#EXTINF:-1 tvg-id="629548" tvg-name="FR - CRIME DISTRICT UHD" tvg-logo="http://103.176.90.154/picons/logos/france/629548.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CRIME DISTRICT UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629548
+#EXTINF:-1 tvg-id="629705" tvg-name="FR - CRIME DISTRICT FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629705.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CRIME DISTRICT FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629705
+#EXTINF:-1 tvg-id="629437" tvg-name="FR - CRIME DISTRICT" tvg-logo="http://103.176.90.154/picons/logos/france/629437.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - CRIME DISTRICT
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629437
+#EXTINF:-1 tvg-id="963382" tvg-name="FR - DAZN FHD" tvg-logo="http://103.176.90.154/picons/logos/france/963382.png" group-title="|EU| FRANCE SPORTS", FR - DAZN FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/963382
+#EXTINF:-1 tvg-id="543560" tvg-name="FR - DISCOVERY CHANNEL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543560.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY CHANNEL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543560
+#EXTINF:-1 tvg-id="554034" tvg-name="FR - DISCOVERY CHANNEL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554034.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY CHANNEL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554034
+#EXTINF:-1 tvg-id="543561" tvg-name="FR - DISCOVERY CHANNEL" tvg-logo="http://103.176.90.154/picons/logos/france/543561.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY CHANNEL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543561
+#EXTINF:-1 tvg-id="554032" tvg-name="FR - DISCOVERY ID FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554032.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY ID FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554032
+#EXTINF:-1 tvg-id="543562" tvg-name="FR - DISCOVERY INVESTIGATION UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543562.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY INVESTIGATION UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543562
+#EXTINF:-1 tvg-id="543563" tvg-name="FR - DISCOVERY INVESTIGATION" tvg-logo="http://103.176.90.154/picons/logos/france/543563.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY INVESTIGATION
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543563
+#EXTINF:-1 tvg-id="543564" tvg-name="FR - DISCOVERY SCIENCE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543564.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY SCIENCE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543564
+#EXTINF:-1 tvg-id="543565" tvg-name="FR - DISCOVERY SCIENCE" tvg-logo="http://103.176.90.154/picons/logos/france/543565.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - DISCOVERY SCIENCE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543565
+#EXTINF:-1 tvg-id="543404" tvg-name="FR - EQUIDIA UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543404.png" group-title="|EU| FRANCE SPORTS", FR - EQUIDIA UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543404
+#EXTINF:-1 tvg-id="756589" tvg-name="FR - EQUIDIA FHD" tvg-logo="http://103.176.90.154/picons/logos/france/756589.png" group-title="|EU| FRANCE SPORTS", FR - EQUIDIA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756589
+#EXTINF:-1 tvg-id="543405" tvg-name="FR - EQUIDIA" tvg-logo="http://103.176.90.154/picons/logos/france/543405.png" group-title="|EU| FRANCE SPORTS", FR - EQUIDIA
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543405
+#EXTINF:-1 tvg-id="543400" tvg-name="FR - EQUIPE 21 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543400.png" group-title="|EU| FRANCE SPORTS", FR - EQUIPE 21 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543400
+#EXTINF:-1 tvg-id="543401" tvg-name="FR - EQUIPE 21" tvg-logo="http://103.176.90.154/picons/logos/france/543401.png" group-title="|EU| FRANCE SPORTS", FR - EQUIPE 21
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543401
+#EXTINF:-1 tvg-id="543413" tvg-name="FR - EUROSPORT 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543413.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543413
+#EXTINF:-1 tvg-id="554026" tvg-name="FR - EUROSPORT 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554026.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554026
+#EXTINF:-1 tvg-id="543414" tvg-name="FR - EUROSPORT 1" tvg-logo="http://103.176.90.154/picons/logos/france/543414.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543414
+#EXTINF:-1 tvg-id="543415" tvg-name="FR - EUROSPORT 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543415.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543415
+#EXTINF:-1 tvg-id="554027" tvg-name="FR - EUROSPORT 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554027.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554027
+#EXTINF:-1 tvg-id="543416" tvg-name="FR - EUROSPORT 2" tvg-logo="http://103.176.90.154/picons/logos/france/543416.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 2
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543416
+#EXTINF:-1 tvg-id="670995" tvg-name="FR - EUROSPORT 360 1" tvg-logo="http://103.176.90.154/picons/logos/france/670995.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/670995
+#EXTINF:-1 tvg-id="670996" tvg-name="FR - EUROSPORT 360 2" tvg-logo="http://103.176.90.154/picons/logos/france/670996.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 2
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/670996
+#EXTINF:-1 tvg-id="670997" tvg-name="FR - EUROSPORT 360 3" tvg-logo="http://103.176.90.154/picons/logos/france/670997.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 3
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/670997
+#EXTINF:-1 tvg-id="670998" tvg-name="FR - EUROSPORT 360 4" tvg-logo="http://103.176.90.154/picons/logos/france/670998.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 4
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/670998
+#EXTINF:-1 tvg-id="670999" tvg-name="FR - EUROSPORT 360 5" tvg-logo="http://103.176.90.154/picons/logos/france/670999.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 5
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/670999
+#EXTINF:-1 tvg-id="671000" tvg-name="FR - EUROSPORT 360 6" tvg-logo="http://103.176.90.154/picons/logos/france/671000.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 6
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/671000
+#EXTINF:-1 tvg-id="671001" tvg-name="FR - EUROSPORT 360 7" tvg-logo="http://103.176.90.154/picons/logos/france/671001.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 7
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/671001
+#EXTINF:-1 tvg-id="671002" tvg-name="FR - EUROSPORT 360 8" tvg-logo="http://103.176.90.154/picons/logos/france/671002.png" group-title="|EU| FRANCE SPORTS", FR - EUROSPORT 360 8
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/671002
+#EXTINF:-1 tvg-id="543421" tvg-name="FR - GOLF+ UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543421.png" group-title="|EU| FRANCE SPORTS", FR - GOLF+ UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543421
+#EXTINF:-1 tvg-id="756587" tvg-name="FR - GOLF+ FHD" tvg-logo="http://103.176.90.154/picons/logos/france/756587.png" group-title="|EU| FRANCE SPORTS", FR - GOLF+ FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756587
+#EXTINF:-1 tvg-id="826832" tvg-name="FR - GONG MAX" tvg-logo="http://103.176.90.154/picons/logos/france/826832.png" group-title="|EU| FRANCE CINEMA", FR - GONG MAX
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/826832
+#EXTINF:-1 tvg-id="543570" tvg-name="FR - HISTOIRE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543570.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - HISTOIRE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543570
+#EXTINF:-1 tvg-id="554037" tvg-name="FR - HISTOIRE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554037.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - HISTOIRE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554037
+#EXTINF:-1 tvg-id="543571" tvg-name="FR - HISTOIRE" tvg-logo="http://103.176.90.154/picons/logos/france/543571.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - HISTOIRE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543571
+#EXTINF:-1 tvg-id="543408" tvg-name="FR - INFOSPORT UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543408.png" group-title="|EU| FRANCE SPORTS", FR - INFOSPORT UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543408
+#EXTINF:-1 tvg-id="554018" tvg-name="FR - INFOSPORT FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554018.png" group-title="|EU| FRANCE SPORTS", FR - INFOSPORT FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554018
+#EXTINF:-1 tvg-id="543409" tvg-name="FR - INFOSPORT" tvg-logo="http://103.176.90.154/picons/logos/france/543409.png" group-title="|EU| FRANCE SPORTS", FR - INFOSPORT
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543409
+#EXTINF:-1 tvg-id="738144" tvg-name="FR - L'EQUIPE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/738144.png" group-title="|EU| FRANCE SPORTS", FR - L'EQUIPE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/738144
+#EXTINF:-1 tvg-id="1069640" tvg-name="FR - L'EQUIPE 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/1069640.png" group-title="|EU| FRANCE SPORTS", FR - L'EQUIPE 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1069640
+#EXTINF:-1 tvg-id="1069639" tvg-name="FR - L'EQUIPE 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/1069639.png" group-title="|EU| FRANCE SPORTS", FR - L'EQUIPE 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1069639
+#EXTINF:-1 tvg-id="543204" tvg-name="FR - MUSEUM UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543204.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - MUSEUM UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543204
+#EXTINF:-1 tvg-id="554046" tvg-name="FR - MUSEUM FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554046.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - MUSEUM FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554046
+#EXTINF:-1 tvg-id="543205" tvg-name="FR - MUSEUM" tvg-logo="http://103.176.90.154/picons/logos/france/543205.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - MUSEUM
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543205
+#EXTINF:-1 tvg-id="810033" tvg-name="FR - MyCANAL 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/810033.png" group-title="|EU| FRANCE CINEMA", FR - MyCANAL 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/810033
+#EXTINF:-1 tvg-id="810032" tvg-name="FR - MyCANAL 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/810032.png" group-title="|EU| FRANCE CINEMA", FR - MyCANAL 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/810032
+#EXTINF:-1 tvg-id="810031" tvg-name="FR - MyCANAL 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/810031.png" group-title="|EU| FRANCE CINEMA", FR - MyCANAL 3 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/810031
+#EXTINF:-1 tvg-id="810030" tvg-name="FR - MyCANAL 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/810030.png" group-title="|EU| FRANCE CINEMA", FR - MyCANAL 4 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/810030
+#EXTINF:-1 tvg-id="810029" tvg-name="FR - MyCANAL 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/810029.png" group-title="|EU| FRANCE CINEMA", FR - MyCANAL 5 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/810029
+#EXTINF:-1 tvg-id="543558" tvg-name="FR - NAT GEO WILD UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543558.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NAT GEO WILD UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543558
+#EXTINF:-1 tvg-id="629706" tvg-name="FR - NAT GEO WILD FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629706.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NAT GEO WILD FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629706
+#EXTINF:-1 tvg-id="543556" tvg-name="FR - NATIONAL GEO UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543556.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NATIONAL GEO UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543556
+#EXTINF:-1 tvg-id="554029" tvg-name="FR - NATIONAL GEO FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554029.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NATIONAL GEO FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554029
+#EXTINF:-1 tvg-id="543557" tvg-name="FR - NATIONAL GEO" tvg-logo="http://103.176.90.154/picons/logos/france/543557.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NATIONAL GEO
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543557
+#EXTINF:-1 tvg-id="543576" tvg-name="FR - NAUTICAL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543576.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NAUTICAL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543576
+#EXTINF:-1 tvg-id="543577" tvg-name="FR - NAUTICAL" tvg-logo="http://103.176.90.154/picons/logos/france/543577.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NAUTICAL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543577
+#EXTINF:-1 tvg-id="629858" tvg-name="FR - NAUTICAL CHANNEL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629858.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - NAUTICAL CHANNEL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629858
+#EXTINF:-1 tvg-id="543480" tvg-name="FR - OCS UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543480.png" group-title="|EU| FRANCE CINEMA", FR - OCS UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543480
+#EXTINF:-1 tvg-id="1126681" tvg-name="FR - OCS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/1126681.png" group-title="|EU| FRANCE CINEMA", FR - OCS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1126681
+#EXTINF:-1 tvg-id="554007" tvg-name="FR - OCS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554007.png" group-title="|EU| FRANCE CINEMA", FR - OCS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554007
+#EXTINF:-1 tvg-id="1126682" tvg-name="FR - OCS HD" tvg-logo="http://103.176.90.154/picons/logos/france/1126682.png" group-title="|EU| FRANCE CINEMA", FR - OCS HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1126682
+#EXTINF:-1 tvg-id="543481" tvg-name="FR - OCS" tvg-logo="http://103.176.90.154/picons/logos/france/543481.png" group-title="|EU| FRANCE CINEMA", FR - OCS
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543481
+#EXTINF:-1 tvg-id="543494" tvg-name="FR - OCS GEANTS UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543494.png" group-title="|EU| FRANCE CINEMA", FR - OCS GEANTS UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543494
+#EXTINF:-1 tvg-id="629710" tvg-name="FR - OCS GEANTS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629710.png" group-title="|EU| FRANCE CINEMA", FR - OCS GEANTS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629710
+#EXTINF:-1 tvg-id="543495" tvg-name="FR - OCS GEANTS" tvg-logo="http://103.176.90.154/picons/logos/france/543495.png" group-title="|EU| FRANCE CINEMA", FR - OCS GEANTS
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543495
+#EXTINF:-1 tvg-id="543488" tvg-name="FR - OCS MAX UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543488.png" group-title="|EU| FRANCE CINEMA", FR - OCS MAX UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543488
+#EXTINF:-1 tvg-id="554011" tvg-name="FR - OCS MAX FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554011.png" group-title="|EU| FRANCE CINEMA", FR - OCS MAX FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554011
+#EXTINF:-1 tvg-id="543489" tvg-name="FR - OCS MAX" tvg-logo="http://103.176.90.154/picons/logos/france/543489.png" group-title="|EU| FRANCE CINEMA", FR - OCS MAX
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543489
+#EXTINF:-1 tvg-id="543410" tvg-name="FR - OL TV UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543410.png" group-title="|EU| FRANCE SPORTS", FR - OL TV UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543410
+#EXTINF:-1 tvg-id="543411" tvg-name="FR - OL TV" tvg-logo="http://103.176.90.154/picons/logos/france/543411.png" group-title="|EU| FRANCE SPORTS", FR - OL TV
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543411
+#EXTINF:-1 tvg-id="543497" tvg-name="FR - PARAMOUNT CHANNEL UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543497.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT CHANNEL UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543497
+#EXTINF:-1 tvg-id="553998" tvg-name="FR - PARAMOUNT CHANNEL FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553998.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT CHANNEL FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553998
+#EXTINF:-1 tvg-id="543498" tvg-name="FR - PARAMOUNT CHANNEL" tvg-logo="http://103.176.90.154/picons/logos/france/543498.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT CHANNEL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543498
+#EXTINF:-1 tvg-id="543499" tvg-name="FR - PARAMOUNT DECALE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543499.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT DECALE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543499
+#EXTINF:-1 tvg-id="553997" tvg-name="FR - PARAMOUNT DECALE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553997.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT DECALE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553997
+#EXTINF:-1 tvg-id="543500" tvg-name="FR - PARAMOUNT DECALE" tvg-logo="http://103.176.90.154/picons/logos/france/543500.png" group-title="|EU| FRANCE CINEMA", FR - PARAMOUNT DECALE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543500
+#EXTINF:-1 tvg-id="543546" tvg-name="FR - PLANETE+ UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543546.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE+ UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543546
+#EXTINF:-1 tvg-id="554044" tvg-name="FR - PLANETE + FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554044.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE + FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554044
+#EXTINF:-1 tvg-id="543547" tvg-name="FR - PLANETE+" tvg-logo="http://103.176.90.154/picons/logos/france/543547.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE+
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543547
+#EXTINF:-1 tvg-id="554042" tvg-name="FR - PLANETE AE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554042.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE AE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554042
+#EXTINF:-1 tvg-id="543549" tvg-name="FR - PLANETE AE" tvg-logo="http://103.176.90.154/picons/logos/france/543549.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE AE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543549
+#EXTINF:-1 tvg-id="554043" tvg-name="FR - PLANETE CI FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554043.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE CI FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554043
+#EXTINF:-1 tvg-id="543551" tvg-name="FR - PLANETE CI" tvg-logo="http://103.176.90.154/picons/logos/france/543551.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - PLANETE CI
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543551
+#EXTINF:-1 tvg-id="543200" tvg-name="FR - POLAR+ UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543200.png" group-title="|EU| FRANCE CINEMA", FR - POLAR+ UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543200
+#EXTINF:-1 tvg-id="553991" tvg-name="FR - POLAR+ FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553991.png" group-title="|EU| FRANCE CINEMA", FR - POLAR+ FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553991
+#EXTINF:-1 tvg-id="543201" tvg-name="FR - POLAR+" tvg-logo="http://103.176.90.154/picons/logos/france/543201.png" group-title="|EU| FRANCE CINEMA", FR - POLAR+
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543201
+#EXTINF:-1 tvg-id="543585" tvg-name="FR - RMC DECOUVERTE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543585.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC DECOUVERTE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543585
+#EXTINF:-1 tvg-id="629699" tvg-name="FR - RMC DECOUVERTE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629699.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC DECOUVERTE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629699
+#EXTINF:-1 tvg-id="543586" tvg-name="FR - RMC DECOUVERTE" tvg-logo="http://103.176.90.154/picons/logos/france/543586.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC DECOUVERTE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543586
+#EXTINF:-1 tvg-id="1272907" tvg-name="FR - RMC MECANIC HD" tvg-logo="http://103.176.90.154/picons/logos/france/1272907.png" group-title="|EU| FRANCE SPORTS", FR - RMC MECANIC HD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/1272907
+#EXTINF:-1 tvg-id="756577" tvg-name="FR - RMC SPORT 1 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/756577.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 1 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756577
+#EXTINF:-1 tvg-id="543386" tvg-name="FR - RMC SPORT 1 FHD •" tvg-logo="http://103.176.90.154/picons/logos/france/543386.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 1 FHD •
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543386
+#EXTINF:-1 tvg-id="554024" tvg-name="FR - RMC SPORT 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554024.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 1 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554024
+#EXTINF:-1 tvg-id="543387" tvg-name="FR - RMC SPORT 1" tvg-logo="http://103.176.90.154/picons/logos/france/543387.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 1
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543387
+#EXTINF:-1 tvg-id="756578" tvg-name="FR - RMC SPORT 2 UHD" tvg-logo="http://103.176.90.154/picons/logos/france/756578.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 2 UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756578
+#EXTINF:-1 tvg-id="554025" tvg-name="FR - RMC SPORT 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554025.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 2 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554025
+#EXTINF:-1 tvg-id="543389" tvg-name="FR - RMC SPORT 2" tvg-logo="http://103.176.90.154/picons/logos/france/543389.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 2
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543389
+#EXTINF:-1 tvg-id="543390" tvg-name="FR - RMC SPORT 3 LIVE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/543390.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 3 LIVE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543390
+#EXTINF:-1 tvg-id="543392" tvg-name="FR - RMC SPORT 4 LIVE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/543392.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT 4 LIVE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543392
+#EXTINF:-1 tvg-id="543430" tvg-name="FR - RMC SPORT LIVE 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/RMC-SPORT-LIVE.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT LIVE 5 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543430
+#EXTINF:-1 tvg-id="543431" tvg-name="FR - RMC SPORT LIVE 6 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/543431.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT LIVE 6 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543431
+#EXTINF:-1 tvg-id="543432" tvg-name="FR - RMC SPORT LIVE 7 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/543432.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT LIVE 7 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543432
+#EXTINF:-1 tvg-id="543433" tvg-name="FR - RMC SPORT LIVE 8 FHD" tvg-logo="http://103.176.90.154/picons/logos/france/543433.png" group-title="|EU| FRANCE SPORTS", FR - RMC SPORT LIVE 8 FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543433
+#EXTINF:-1 tvg-id="543196" tvg-name="FR - RMC STORY UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543196.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC STORY UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543196
+#EXTINF:-1 tvg-id="554028" tvg-name="FR - RMC STORY FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554028.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC STORY FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554028
+#EXTINF:-1 tvg-id="543197" tvg-name="FR - RMC STORY" tvg-logo="http://103.176.90.154/picons/logos/france/543197.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - RMC STORY
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543197
+#EXTINF:-1 tvg-id="543552" tvg-name="FR - SCIENCE ET VIE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543552.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SCIENCE ET VIE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543552
+#EXTINF:-1 tvg-id="554039" tvg-name="FR - SCIENCE ET VIE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554039.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SCIENCE ET VIE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554039
+#EXTINF:-1 tvg-id="543553" tvg-name="FR - SCIENCE ET VIE" tvg-logo="http://103.176.90.154/picons/logos/france/543553.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SCIENCE ET VIE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543553
+#EXTINF:-1 tvg-id="543554" tvg-name="FR - SEASONS UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543554.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SEASONS UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543554
+#EXTINF:-1 tvg-id="554040" tvg-name="FR - SEASONS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554040.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SEASONS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554040
+#EXTINF:-1 tvg-id="543555" tvg-name="FR - SEASONS" tvg-logo="http://103.176.90.154/picons/logos/france/543555.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - SEASONS
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543555
+#EXTINF:-1 tvg-id="543216" tvg-name="FR - SERIE CLUB UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543216.png" group-title="|EU| FRANCE CINEMA", FR - SERIE CLUB UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543216
+#EXTINF:-1 tvg-id="553982" tvg-name="FR - SERIE CLUB FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553982.png" group-title="|EU| FRANCE CINEMA", FR - SERIE CLUB FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553982
+#EXTINF:-1 tvg-id="543217" tvg-name="FR - SERIE CLUB" tvg-logo="http://103.176.90.154/picons/logos/france/543217.png" group-title="|EU| FRANCE CINEMA", FR - SERIE CLUB
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543217
+#EXTINF:-1 tvg-id="800503" tvg-name="FR - SKWEEK 1 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800503.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 1 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800503
+#EXTINF:-1 tvg-id="800504" tvg-name="FR - SKWEEK 2 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800504.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 2 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800504
+#EXTINF:-1 tvg-id="800505" tvg-name="FR - SKWEEK 3 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800505.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 3 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800505
+#EXTINF:-1 tvg-id="800506" tvg-name="FR - SKWEEK 4 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800506.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 4 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800506
+#EXTINF:-1 tvg-id="800507" tvg-name="FR - SKWEEK 5 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800507.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 5 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800507
+#EXTINF:-1 tvg-id="800508" tvg-name="FR - SKWEEK 6 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800508.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 6 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800508
+#EXTINF:-1 tvg-id="800509" tvg-name="FR - SKWEEK 7 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800509.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 7 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800509
+#EXTINF:-1 tvg-id="800510" tvg-name="FR - SKWEEK 8 FHD [LIVE-EVENT]" tvg-logo="http://103.176.90.154/picons/logos/france/800510.png" group-title="|EU| FRANCE SPORTS", FR - SKWEEK 8 FHD [LIVE-EVENT]
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/800510
+#EXTINF:-1 tvg-id="756588" tvg-name="FR - SPORT EN FRANCE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/756588.png" group-title="|EU| FRANCE SPORTS", FR - SPORT EN FRANCE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756588
+#EXTINF:-1 tvg-id="756553" tvg-name="##### FR SPORTS UHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE SPORTS", ##### FR SPORTS UHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756553
+#EXTINF:-1 tvg-id="627493" tvg-name="##### FR SPORTS FHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE SPORTS", ##### FR SPORTS FHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/627493
+#EXTINF:-1 tvg-id="543379" tvg-name="##### FR SPORTS SD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE SPORTS", ##### FR SPORTS SD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543379
+#EXTINF:-1 tvg-id="543417" tvg-name="FR - SPORTS EN FRANCE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543417.png" group-title="|EU| FRANCE SPORTS", FR - SPORTS EN FRANCE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543417
+#EXTINF:-1 tvg-id="543418" tvg-name="FR - SPORTS EN FRANCE" tvg-logo="http://103.176.90.154/picons/logos/france/543418.png" group-title="|EU| FRANCE SPORTS", FR - SPORTS EN FRANCE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543418
+#EXTINF:-1 tvg-id="815892" tvg-name="FR - STAND UP FHD" tvg-logo="http://103.176.90.154/picons/logos/france/815892.png" group-title="|EU| FRANCE CINEMA", FR - STAND UP FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/815892
+#EXTINF:-1 tvg-id="543174" tvg-name="FR - SYFY UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543174.png" group-title="|EU| FRANCE CINEMA", FR - SYFY UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543174
+#EXTINF:-1 tvg-id="553971" tvg-name="FR - SYFY FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553971.png" group-title="|EU| FRANCE CINEMA", FR - SYFY FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553971
+#EXTINF:-1 tvg-id="543175" tvg-name="FR - SYFY" tvg-logo="http://103.176.90.154/picons/logos/france/543175.png" group-title="|EU| FRANCE CINEMA", FR - SYFY
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543175
+#EXTINF:-1 tvg-id="543503" tvg-name="FR - TCM CINEMA UHD" tvg-logo="http://103.176.90.118/picons/logos/france/TCMCINEMATV.png" group-title="|EU| FRANCE CINEMA", FR - TCM CINEMA UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543503
+#EXTINF:-1 tvg-id="553999" tvg-name="FR - TCM CINEMA FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553999.png" group-title="|EU| FRANCE CINEMA", FR - TCM CINEMA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553999
+#EXTINF:-1 tvg-id="543504" tvg-name="FR - TCM CINEMA" tvg-logo="http://103.176.90.154/picons/logos/france/543504.png" group-title="|EU| FRANCE CINEMA", FR - TCM CINEMA
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543504
+#EXTINF:-1 tvg-id="554035" tvg-name="FR - TLC FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554035.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TLC FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554035
+#EXTINF:-1 tvg-id="543572" tvg-name="FR - TOUTE L'HISTOIRE UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543572.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TOUTE L'HISTOIRE UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543572
+#EXTINF:-1 tvg-id="554038" tvg-name="FR - TOUTE L'HISTOIRE FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554038.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TOUTE L'HISTOIRE FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554038
+#EXTINF:-1 tvg-id="543573" tvg-name="FR - TOUTE L'HISTOIRE" tvg-logo="http://103.176.90.154/picons/logos/france/543573.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TOUTE L'HISTOIRE
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543573
+#EXTINF:-1 tvg-id="756585" tvg-name="FR - TRACE SPORT STARS FHD" tvg-logo="http://103.176.90.154/picons/logos/france/756585.png" group-title="|EU| FRANCE SPORTS", FR - TRACE SPORT STARS FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756585
+#EXTINF:-1 tvg-id="543412" tvg-name="FR - TRACE SPORTS UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543412.png" group-title="|EU| FRANCE SPORTS", FR - TRACE SPORTS UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543412
+#EXTINF:-1 tvg-id="543580" tvg-name="FR - TREK UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543580.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TREK UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543580
+#EXTINF:-1 tvg-id="629707" tvg-name="FR - TREK FHD" tvg-logo="http://103.176.90.154/picons/logos/france/629707.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - TREK FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/629707
+#EXTINF:-1 tvg-id="543581" tvg-name="FR - USHUAIA UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543581.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - USHUAIA UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543581
+#EXTINF:-1 tvg-id="554036" tvg-name="FR - USHUAIA FHD" tvg-logo="http://103.176.90.154/picons/logos/france/554036.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - USHUAIA FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/554036
+#EXTINF:-1 tvg-id="543582" tvg-name="FR - USHUAIA" tvg-logo="http://103.176.90.154/picons/logos/france/543582.png" group-title="|EU| FRANCE DOCUMENTAIRE", FR - USHUAIA
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543582
+#EXTINF:-1 tvg-id="543192" tvg-name="FR - WARNER TV UHD" tvg-logo="http://103.176.90.154/picons/logos/france/543192.png" group-title="|EU| FRANCE CINEMA", FR - WARNER TV UHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543192
+#EXTINF:-1 tvg-id="553988" tvg-name="FR - WARNER TV FHD" tvg-logo="http://103.176.90.154/picons/logos/france/553988.png" group-title="|EU| FRANCE CINEMA", FR - WARNER TV FHD
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/553988
+#EXTINF:-1 tvg-id="543193" tvg-name="FR - WARNER TV" tvg-logo="http://103.176.90.154/picons/logos/france/543193.png" group-title="|EU| FRANCE CINEMA", FR - WARNER TV
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543193
+#EXTINF:-1 tvg-id="827915" tvg-name="FR - WORLD POKER TOUR" tvg-logo="http://103.176.90.154/picons/logos/france/827915.png" group-title="|EU| FRANCE SPORTS", FR - WORLD POKER TOUR
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/827915
+#EXTINF:-1 tvg-id="756671" tvg-name="##### FRANCE DOCUMENTAIRE UHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE DOCUMENTAIRE", ##### FRANCE DOCUMENTAIRE UHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756671
+#EXTINF:-1 tvg-id="756672" tvg-name="##### FRANCE DOCUMENTAIRE FHD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE DOCUMENTAIRE", ##### FRANCE DOCUMENTAIRE FHD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/756672
+#EXTINF:-1 tvg-id="543587" tvg-name="##### FRANCE DOCUMENTAIRE SD #####" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE DOCUMENTAIRE", ##### FRANCE DOCUMENTAIRE SD #####
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543587
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MGOLF.png" group-title="ES_ Sport",GOL HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505614.ts
+#EXTINF:-1 group-title="ES_ Spain",IB3 RÀDIO
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769436.ts
+#EXTINF:-1 group-title="ES_ Spain",JAMMFM RADIO COSTA DEL SOL
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769440.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/697239.png" group-title="ES_ Spain",KARAOKE 1
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/697239.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505545.png" group-title="ES_ ESPÃNA",LA 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505545.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505546.png" group-title="ES_ ESPÃNA",LA 2
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505546.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505551.png" group-title="ES_ ESPÃNA",LA SEXTA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505551.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Hypermotion",LALIGA HYPERMOTION FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/765166.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Hypermotion",LALIGA HYPERMOTION TV HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/765168.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Hypermotion",LALIGA HYPERMOTION TV 2 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/765167.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Hypermotion",LALIGA HYPERMOTION TV 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/765169.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Sport",LALIGATV BAR HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505619.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pedrosd-svg/pedro-wise/refs/heads/main/foto2.jpg" group-title="ES_ Sport",LALIGATV BAR HD
+http://line.dndnscloud.ru/live/dc43bc230c/560dafdae20c/505619.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Sport",LALIGATVBAR1 LIVEEVENT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505644.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Sport",LALIGATVBAR3 LIVEEVENT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505646.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ Sport",LALIGATVBAR4 LIVEEVENT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505647.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MCOPADELREY.png" group-title="ES_ M+",M.COPA DEL REY FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/811125.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505635.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505637.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES 3 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505638.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES 4 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505639.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES 5 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505640.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/DEPORTES.png" group-title="ES_ M+ Deportes",M. DEPORTES 6 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505641.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MELLAS.png" group-title="ES_ M+",M. ELLAS #V
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/988512.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MGOLF.png" group-title="ES_ M+ Deportes",M. GOLF HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505617.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/718917.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505618.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 1 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/718914.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505621.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 2 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/718915.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505623.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 3 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/718916.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 3 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505624.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 4 FHD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/718918.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA 4 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505643.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 RAW
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196399.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196430.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 SD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196424.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 LOW
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196427.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 RAW
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196398.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196429.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 SD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196423.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 LOW
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196426.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 3 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196421.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 4 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196420.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 5 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196419.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MLIGADECAMPEONE.png" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 6 HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/1196418.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505558.png" group-title="ES_ ESPÃNA",MEGA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505558.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505693.png" group-title="ES_ ESPÃNA",MEZZO LIVE HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505693.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png" group-title="ES_ MOVISTAR",MOVISTAR PLUS+ HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/951390.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505692.png" group-title="ES_ ESPÃNA",MTV ESPANA
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505692.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/MULTIDEPORTE.png" group-title="ES_ Sport",MULTIDEPORTE
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505648.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505552.png" group-title="ES_ ESPÃNA",NEOX
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505552.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505553.png" group-title="ES_ ESPÃNA",NOVA
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505553.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/ONETORO.png" group-title="ES_ Sport",ONETORO HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505661.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/REALMADRID.png" group-title="ES_ Sport",R. MADRID TV HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505616.ts
+#EXTINF:-1 group-title="ES_ Spain",RÀDIO 90
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769434.ts
+#EXTINF:-1 group-title="ES_ Spain",RÀDIO ARENYS DE MAR
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769433.ts
+#EXTINF:-1 group-title="ES_ Spain",RÀDIO ARRELS / FLASH
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769431.ts
+#EXTINF:-1 group-title="ES_ Spain",RADIO BISBAL
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769427.ts
+#EXTINF:-1 group-title="ES_ Spain",RADIO OLOT
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769410.ts
+#EXTINF:-1 group-title="ES_ Spain",RÀDIO TOT BISBAL
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/769386.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505575.png" group-title="ES_ Spain",RTVC CANARIAS HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505575.ts
+#EXTINF:-1 tvg-id="761731" tvg-name="###### STARZPLAY SPORT ######" tvg-logo="http://103.176.90.154/picons/logos/arabic/761731.png" group-title="|AR| STARZPLAY / AD SPORTS", ###### STARZPLAY SPORT ######
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/761731
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505550.png" group-title="ES_ ESPÃNA",TELECINCO HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505550.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TELEDEPORTE.png" group-title="ES_ Sport",TELEDEPORTE HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505660.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505565.png" group-title="ES_ ESPÃNA",TELEMADRID
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505565.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505587.png" group-title="ES_ ESPÃNA",TEN
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505587.ts
+#EXTINF:-1 tvg-id="973395" tvg-name="TOD 360 ULTRA 4K ( EVENT ONLY )" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="|AR| BEIN SPORTS 4K", TOD 360 ULTRA 4K ( EVENT ONLY )
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/973395
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 1
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788397.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 2
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788398.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 3
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788399.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 4
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788400.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 5
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788401.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 6
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788402.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 7
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788403.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 8
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788404.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 9
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788405.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 10
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788406.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES_ TUDN",TUDN XTRA 11
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/788407.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505564.png" group-title="ES_ Spain",TV GALICIA
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505564.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/505560.png" group-title="ES_ ESPÃNA",TVE INTERNACIONAL
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505560.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAIN/682890.png" group-title="ES_ Spain",TVGA HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/682890.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/VAMOS.png" group-title="ES_ VAMOS",#VAMOS HD
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/505632.ts
+#EXTINF:-1 tvg-id="543385" tvg-name="FR - CANAL+ PL" tvg-logo="http://103.176.90.154/picons/logos/france/543385.png" group-title="|EU| FRANCE SPORTS", FR - CANAL+ PL
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/543385
+#EXTINF:-1 tvg-id="862831" tvg-name="BEIN BABY TV HD AR" tvg-logo="http://103.176.90.154/picons/logos/arabic/862831.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN BABY TV HD AR
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862831
+#EXTINF:-1 tvg-id="862826" tvg-name="BEIN BOOMERANG HD AR" tvg-logo="http://103.176.90.154/picons/logos/arabic/862826.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN BOOMERANG HD AR
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862826
+#EXTINF:-1 tvg-id="862824" tvg-name="BEIN CARTOON NETWORK HD AR" tvg-logo="http://103.176.90.154/picons/logos/arabic/862824.png" group-title="|AR| BEIN ENTERTAINMENT", BEIN CARTOON NETWORK HD AR
+http://line.dndnscloud.ru:80/9628623f38/5798872f2642/862824
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA HD (BK 1)
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/864079.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/LALIGA.png" group-title="ES_ M+ LALIGA",M. LALIGA HD (BK 2)
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/864080.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/SPAINNEW/ONETORO.png" group-title="ES_ Sport",ONETORO HD (BK)
+http://line.dndnscloud.ru/live/9628623f38/5798872f2642/879882.ts

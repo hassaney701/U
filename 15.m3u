@@ -1,0 +1,1676 @@
+#EXTM3U
+#M3U_EXTRACT: cdn-mac.live
+#EXTINF:-1 tvg-id="" tvg-name="6ter FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",6ter FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429945
+#EXTINF:-1 tvg-id="" tvg-name="6ter HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",6ter HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429708
+#EXTINF:-1 tvg-id="" tvg-name="6ter FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",6ter FR
+http://cdn-mac.live:8880/242297872843/309171190799/429707
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",13eme Rue FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429944
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",13eme Rue FR
+http://cdn-mac.live:8880/242297872843/309171190799/429711
+#EXTINF:-1 tvg-id="" tvg-name="A FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A FR
+http://cdn-mac.live:8880/242297872843/309171190799/429946
+#EXTINF:-1 tvg-id="" tvg-name="A2i TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A2i TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430115
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429738
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 2 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429739
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429740
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 4 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429741
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 5 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429742
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 6 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430050
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 7 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 7 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430051
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 8 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 8 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430052
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 9 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 9 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430053
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 10 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 10 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430054
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 11 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 11 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430049
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 12 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 12 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430048
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 13 VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",A La Carte 13 VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430043
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",AB1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429712
+#EXTINF:-1 tvg-id="" tvg-name="AB3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",AB3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429713
+#EXTINF:-1 tvg-id="" tvg-name="Action FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Action FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429948
+#EXTINF:-1 tvg-id="" tvg-name="Action FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Action FR
+http://cdn-mac.live:8880/242297872843/309171190799/429779
+#EXTINF:-1 tvg-id="" tvg-name="Africa 24 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Africa 24 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429844
+#EXTINF:-1 tvg-id="" tvg-name="Animaux FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Animaux FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429949
+#EXTINF:-1 tvg-id="" tvg-name="Animaux HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Animaux HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429780
+#EXTINF:-1 tvg-id="" tvg-name="Arte FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Arte FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429950
+#EXTINF:-1 tvg-id="" tvg-name="Arte FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Arte FR
+http://cdn-mac.live:8880/242297872843/309171190799/429781
+#EXTINF:-1 tvg-id="" tvg-name="Automoto FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Automoto FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429782
+#EXTINF:-1 tvg-id="" tvg-name="Automoto HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Automoto HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429827
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430033
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429793
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 1 SD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429792
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 2 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430034
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429795
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 2 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429794
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 3 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430035
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429797
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS 3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429796
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 4 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430036
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 4 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429798
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 5 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430037
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 5 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429799
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 6 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430038
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 6 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429800
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 7 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 7 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430039
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 7 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 7 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429801
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 8 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 8 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430040
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 8 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 8 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429803
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 8 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 8 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429802
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 9 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 9 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430041
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",beIN SPORTS MAX 10 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430042
+#EXTINF:-1 tvg-id="" tvg-name="BET FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BET FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429951
+#EXTINF:-1 tvg-id="" tvg-name="Bet HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Bet HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429850
+#EXTINF:-1 tvg-id="" tvg-name="BFM Business FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM Business FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429952
+#EXTINF:-1 tvg-id="" tvg-name="BFM Business HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM Business HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429848
+#EXTINF:-1 tvg-id="" tvg-name="BFM GRAND LITTORAL FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM GRAND LITTORAL FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429898
+#EXTINF:-1 tvg-id="" tvg-name="BFM LYON FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM LYON FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429896
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM PARIS FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429895
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",BFM TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429849
+#EXTINF:-1 tvg-id="" tvg-name="Bip TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Bip TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429939
+#EXTINF:-1 tvg-id="" tvg-name="Boing FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Boing FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429954
+#EXTINF:-1 tvg-id="" tvg-name="Boing FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Boing FR
+http://cdn-mac.live:8880/242297872843/309171190799/429755
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Boomerang FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429756
+#EXTINF:-1 tvg-id="" tvg-name="C-8 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-8 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429955
+#EXTINF:-1 tvg-id="" tvg-name="C-8 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-8 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429704
+#EXTINF:-1 tvg-id="" tvg-name="C-News FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-News FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429962
+#EXTINF:-1 tvg-id="" tvg-name="C-News FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-News FR
+http://cdn-mac.live:8880/242297872843/309171190799/429838
+#EXTINF:-1 tvg-id="" tvg-name="C-Star HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-Star HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429706
+#EXTINF:-1 tvg-id="" tvg-name="C-Star FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-Star FR
+http://cdn-mac.live:8880/242297872843/309171190799/429705
+#EXTINF:-1 tvg-id="" tvg-name="C-STAR HITS FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",C-STAR HITS FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429899
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429958
+#EXTINF:-1 tvg-id="" tvg-name="CANAL HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429719
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha JU FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Alpha JU FR
+http://cdn-mac.live:8880/242297872843/309171190799/429846
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Cinema FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Cinema FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429956
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Cinema HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Cinema HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429721
+#EXTINF:-1 tvg-id="" tvg-name="Canal Docs FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Docs FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430046
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Family FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Family FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429959
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Family HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Family HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429723
+#EXTINF:-1 tvg-id="" tvg-name="Canal Foot HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Foot HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429685
+#EXTINF:-1 tvg-id="" tvg-name="Canal Foot FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Foot FR
+http://cdn-mac.live:8880/242297872843/309171190799/429830
+#EXTINF:-1 tvg-id="" tvg-name="Canal Grand Écran FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Grand Écran FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429720
+#EXTINF:-1 tvg-id="" tvg-name="Canal Grand Écran HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Grand Écran HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429725
+#EXTINF:-1 tvg-id="" tvg-name="Canal J FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal J FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429762
+#EXTINF:-1 tvg-id="" tvg-name="Canal Kids FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Kids FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430047
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Play 1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429733
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Play 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429734
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Play 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429735
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 4 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Play 4 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429736
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 5 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Play 5 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429737
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Series FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Series FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429960
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Series HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Series HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429724
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Sport FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Sport FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429961
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Sport HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Sport HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429826
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Sport 360 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Sport 360 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429957
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Sport 360 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Sport 360 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429722
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Cartoon Network FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429964
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Cartoon Network FR
+http://cdn-mac.live:8880/242297872843/309171190799/429757
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Français FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CGTN Français FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429938
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Français FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CGTN Français FR
+http://cdn-mac.live:8880/242297872843/309171190799/429903
+#EXTINF:-1 tvg-id="" tvg-name="Chasse et Pêche FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Chasse et Pêche FR
+http://cdn-mac.live:8880/242297872843/309171190799/429783
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Chérie 25 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429965
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Chérie 25 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429710
+#EXTINF:-1 tvg-id="" tvg-name="Cine Classic FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Cine Classic FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429966
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Classic HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Classic HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429726
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Club FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Club FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429967
+#EXTINF:-1 tvg-id="" tvg-name="Cine  Club HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Cine  Club HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429747
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Emotion FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Emotion FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429968
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Emotion HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Emotion HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429728
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Famiz HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Famiz HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429730
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Famiz FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Famiz FR
+http://cdn-mac.live:8880/242297872843/309171190799/429729
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Frisson FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Frisson FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429969
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Frisson HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Frisson HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429731
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Nanar FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Nanar FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429937
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Polar HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Polar HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429727
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Premier FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Premier FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429970
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Premier HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Premier HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429732
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Western FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ciné Western FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429936
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CLIQUE TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429882
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Clubbing TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429909
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CNEWS FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429897
+#EXTINF:-1 tvg-id="" tvg-name="Comédie HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Comédie HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429718
+#EXTINF:-1 tvg-id="" tvg-name="Crime District FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Crime District FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429963
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429910
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN 1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429911
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Discovery Channel FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429971
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Discovery Channel HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429771
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DISCOVERY FAMILY FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429878
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Discovery Science FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429972
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Discovery Science HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429772
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Channel FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429973
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Channel HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429763
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Channel 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429764
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Cinema FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429974
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Cinema HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429766
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Cinema FR
+http://cdn-mac.live:8880/242297872843/309171190799/429765
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Junior FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429975
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Disney Junior HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429767
+#EXTINF:-1 tvg-id="" tvg-name="DJAZZ TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DJAZZ TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429889
+#EXTINF:-1 tvg-id="" tvg-name="E FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",E FR
+http://cdn-mac.live:8880/242297872843/309171190799/429715
+#EXTINF:-1 tvg-id="" tvg-name="Equidia HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Equidia HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429824
+#EXTINF:-1 tvg-id="" tvg-name="Equidia FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Equidia FR
+http://cdn-mac.live:8880/242297872843/309171190799/429825
+#EXTINF:-1 tvg-id="" tvg-name="ES1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",ES1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429943
+#EXTINF:-1 tvg-id="" tvg-name="Euronews FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Euronews FR
+http://cdn-mac.live:8880/242297872843/309171190799/429839
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Eurosport 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429976
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Eurosport 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429828
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Eurosport 2 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429977
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Eurosport 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429829
+#EXTINF:-1 tvg-id="" tvg-name="EXTRÊME SPORTS FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",EXTRÊME SPORTS FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429881
+#EXTINF:-1 tvg-id="" tvg-name="F1 SERIES  FILMS HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",F1 SERIES  FILMS HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429703
+#EXTINF:-1 tvg-id="" tvg-name="France 2 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 2 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429978
+#EXTINF:-1 tvg-id="" tvg-name="France 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429692
+#EXTINF:-1 tvg-id="" tvg-name="France 2 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 2 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429691
+#EXTINF:-1 tvg-id="" tvg-name="France 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429694
+#EXTINF:-1 tvg-id="" tvg-name="France 3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429693
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 NOA FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",FRANCE 3 NOA FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429892
+#EXTINF:-1 tvg-id="" tvg-name="France 4 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 4 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429906
+#EXTINF:-1 tvg-id="" tvg-name="France 4 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 4 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429695
+#EXTINF:-1 tvg-id="" tvg-name="France 4 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 4 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429905
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 5 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430044
+#EXTINF:-1 tvg-id="" tvg-name="France 5 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 5 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429696
+#EXTINF:-1 tvg-id="" tvg-name="France 24 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 24 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430106
+#EXTINF:-1 tvg-id="" tvg-name="France 24 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France 24 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429840
+#EXTINF:-1 tvg-id="" tvg-name="France Info FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France Info FR
+http://cdn-mac.live:8880/242297872843/309171190799/429841
+#EXTINF:-1 tvg-id="" tvg-name="France Ô FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France Ô FR
+http://cdn-mac.live:8880/242297872843/309171190799/429842
+#EXTINF:-1 tvg-id="" tvg-name="Game One FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Game One FR
+http://cdn-mac.live:8880/242297872843/309171190799/429770
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",GAME ONE1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429879
+#EXTINF:-1 tvg-id="" tvg-name="Generations TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Generations TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429934
+#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",GOLF FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429979
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",GOLF HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429832
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Golf Channel FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429980
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Golf Channel HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430072
+#EXTINF:-1 tvg-id="" tvg-name="Gong FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Gong FR
+http://cdn-mac.live:8880/242297872843/309171190799/430111
+#EXTINF:-1 tvg-id="" tvg-name="Gulli FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Gulli FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429981
+#EXTINF:-1 tvg-id="" tvg-name="Gulli HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Gulli HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430067
+#EXTINF:-1 tvg-id="" tvg-name="Gulli FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Gulli FR
+http://cdn-mac.live:8880/242297872843/309171190799/429758
+#EXTINF:-1 tvg-id="" tvg-name="Histoire FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Histoire FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429982
+#EXTINF:-1 tvg-id="" tvg-name="Histoire FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Histoire FR
+http://cdn-mac.live:8880/242297872843/309171190799/429845
+#EXTINF:-1 tvg-id="" tvg-name="Homicide FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Homicide FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429933
+#EXTINF:-1 tvg-id="" tvg-name="i24NEWS FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",i24NEWS FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430107
+#EXTINF:-1 tvg-id="" tvg-name="i24NEWS FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",i24NEWS FR
+http://cdn-mac.live:8880/242297872843/309171190799/429843
+#EXTINF:-1 tvg-id="" tvg-name="IDF1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",IDF1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430112
+#EXTINF:-1 tvg-id="" tvg-name="Imearth FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Imearth FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429932
+#EXTINF:-1 tvg-id="" tvg-name="InfoSport FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",InfoSport FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429983
+#EXTINF:-1 tvg-id="" tvg-name="InfoSport HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",InfoSport HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429833
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Investigation Discovery HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429773
+#EXTINF:-1 tvg-id="" tvg-name="J-One FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",J-One FR
+http://cdn-mac.live:8880/242297872843/309171190799/429769
+#EXTINF:-1 tvg-id="" tvg-name="KTO FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",KTO FR
+http://cdn-mac.live:8880/242297872843/309171190799/429784
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LA CHAINE METEO FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429894
+#EXTINF:-1 tvg-id="" tvg-name="La Chaîne Normande TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",La Chaîne Normande TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429852
+#EXTINF:-1 tvg-id="" tvg-name="La Chaîne Parlementaire FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",La Chaîne Parlementaire FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429984
+#EXTINF:-1 tvg-id="" tvg-name="La Une HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",La Une HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429853
+#EXTINF:-1 tvg-id="" tvg-name="LCI FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LCI FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429876
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LCI HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429877
+#EXTINF:-1 tvg-id="" tvg-name="LEquipe 21 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LEquipe 21 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430108
+#EXTINF:-1 tvg-id="" tvg-name="LEquipe 21 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LEquipe 21 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429847
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430076
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430077
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430078
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 2 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 2 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430079
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430080
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 2 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 2 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430081
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 3 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 3 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430082
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430083
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430084
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 4 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 4 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430085
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 4 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 4 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430086
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 4 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 4 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430087
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 5 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 5 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430088
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 5 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 5 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430089
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 5 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 5 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430090
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 6 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 6 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430091
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 6 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 6 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430092
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 6 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 6 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430093
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 7 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 7 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430094
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 7 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 7 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430095
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 7 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 7 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430096
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 8 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 8 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430097
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 8 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 8 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430098
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 8 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 8 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430099
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 9 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 9 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430100
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 9 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 9 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430101
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 9 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 9 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430102
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 10 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 10 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430103
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 10 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 10 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430104
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 Pass 10 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ligue 1 Pass 10 FR
+http://cdn-mac.live:8880/242297872843/309171190799/430105
+#EXTINF:-1 tvg-id="" tvg-name="LIVE PEPPA PIG HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LIVE PEPPA PIG HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430116
+#EXTINF:-1 tvg-id="" tvg-name="LUCKY JACK TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",LUCKY JACK TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429893
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Luxe TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429985
+#EXTINF:-1 tvg-id="" tvg-name="M6 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429986
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429698
+#EXTINF:-1 tvg-id="" tvg-name="M6 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429697
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 Music FR
+http://cdn-mac.live:8880/242297872843/309171190799/429785
+#EXTINF:-1 tvg-id="" tvg-name="MAISON  TRAVAUX TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MAISON  TRAVAUX TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429931
+#EXTINF:-1 tvg-id="" tvg-name="Mandarin TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mandarin TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429930
+#EXTINF:-1 tvg-id="" tvg-name="Mangas HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mangas HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429768
+#EXTINF:-1 tvg-id="" tvg-name="MAritima TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MAritima TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429929
+#EXTINF:-1 tvg-id="" tvg-name="MCM FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MCM FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429987
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MCM HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429786
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MCM Top FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429988
+#EXTINF:-1 tvg-id="" tvg-name="Mélody FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mélody FR
+http://cdn-mac.live:8880/242297872843/309171190799/429947
+#EXTINF:-1 tvg-id="" tvg-name="Mens Up FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mens Up FR
+http://cdn-mac.live:8880/242297872843/309171190799/429914
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MEZZO FR
+http://cdn-mac.live:8880/242297872843/309171190799/429904
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mezzo Live FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429989
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Mezzo Live HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429787
+#EXTINF:-1 tvg-id="" tvg-name="MGG TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MGG TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429941
+#EXTINF:-1 tvg-id="" tvg-name="MotorsportTV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MotorsportTV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430113
+#EXTINF:-1 tvg-id="" tvg-name="Motus TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Motus TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429928
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MTV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429990
+#EXTINF:-1 tvg-id="" tvg-name="MTV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MTV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429788
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MTV Hits FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429991
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MTV Hits FR
+http://cdn-mac.live:8880/242297872843/309171190799/429789
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MTV Music FR
+http://cdn-mac.live:8880/242297872843/309171190799/429684
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429870
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 2 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429871
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 3 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429872
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 4 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429873
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 5 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429874
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MULTISPORTS 6 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429875
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MY COMEDY TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429880
+#EXTINF:-1 tvg-id="" tvg-name="My Cuisine FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",My Cuisine FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429992
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nat Geo Wild FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429996
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nat Geo Wild HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429778
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",National Geographic FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429995
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",National Geographic HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429777
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nickelodeon FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429997
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nickelodeon 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429993
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon 4 Teen FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nickelodeon 4 Teen FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429994
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nickelodeon Junior FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430068
+#EXTINF:-1 tvg-id="" tvg-name="Nollywood TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Nollywood TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/430114
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",NRJ 12 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429714
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",NRJ Hits HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429790
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",NRJ Hits FR
+http://cdn-mac.live:8880/242297872843/309171190799/430071
+#EXTINF:-1 tvg-id="" tvg-name="Numéro 23 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Numéro 23 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429854
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS Choc FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429743
+#EXTINF:-1 tvg-id="" tvg-name="OCS City FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS City FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429998
+#EXTINF:-1 tvg-id="" tvg-name="OCS City FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS City FR
+http://cdn-mac.live:8880/242297872843/309171190799/429744
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS Geants FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429999
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS Geants FR
+http://cdn-mac.live:8880/242297872843/309171190799/429745
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS Max HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430000
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OCS Max FR
+http://cdn-mac.live:8880/242297872843/309171190799/429746
+#EXTINF:-1 tvg-id="" tvg-name="OL TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OL TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429855
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIA HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",OLYMPIA HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429888
+#EXTINF:-1 tvg-id="" tvg-name="One TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",One TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430001
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Orange Cinema HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429751
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Orange Cinema 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429748
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Orange Cinema 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429749
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Orange Cinema 4 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429750
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Paramount Channel FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430003
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Paramount Channel HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429752
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Décalé FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Paramount Channel Décalé FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430002
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Paris Premiere HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429856
+#EXTINF:-1 tvg-id="" tvg-name="Piwi FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Piwi FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430004
+#EXTINF:-1 tvg-id="" tvg-name="Piwi HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Piwi HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429759
+#EXTINF:-1 tvg-id="" tvg-name="Planète FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Planète FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430006
+#EXTINF:-1 tvg-id="" tvg-name="Planète HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Planète HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429774
+#EXTINF:-1 tvg-id="" tvg-name="Planète Aventure Expérience HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Planète Aventure Expérience HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429775
+#EXTINF:-1 tvg-id="" tvg-name="Planète CrimeInvestigation FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Planète CrimeInvestigation FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430005
+#EXTINF:-1 tvg-id="" tvg-name="Planète CrimeInvestigation HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Planète CrimeInvestigation HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429776
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RFM TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430007
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RFM TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429857
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC DECOUVERTE FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430069
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Decouverte HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429858
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430027
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429834
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 ACCESS HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC SPORT 1 ACCESS HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430073
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 2 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430028
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 2 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429835
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 ACCESS HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC SPORT 2 ACCESS HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430074
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 3 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430029
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 3 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429836
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 ACCESS HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC SPORT 3 ACCESS HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430075
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC Sport 4 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430030
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RMC STORY FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430070
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RTL 9 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430008
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RTL 9 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429709
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RTS Deux HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429688
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RTS Un HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429687
+#EXTINF:-1 tvg-id="" tvg-name="RugbyZoneTV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",RugbyZoneTV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429935
+#EXTINF:-1 tvg-id="" tvg-name="Science  Vie TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Science  Vie TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429859
+#EXTINF:-1 tvg-id="" tvg-name="Seasons FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Seasons FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430009
+#EXTINF:-1 tvg-id="" tvg-name="Seasons HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Seasons HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429716
+#EXTINF:-1 tvg-id="" tvg-name="serieclub FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",serieclub FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430026
+#EXTINF:-1 tvg-id="" tvg-name="serieclub FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",serieclub FR
+http://cdn-mac.live:8880/242297872843/309171190799/429717
+#EXTINF:-1 tvg-id="" tvg-name="SPORT EN FRANCE HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",SPORT EN FRANCE HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429837
+#EXTINF:-1 tvg-id="" tvg-name="SQOOL TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",SQOOL TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429940
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Brava FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Stingray Brava FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429953
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Brava FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Stingray Brava FR
+http://cdn-mac.live:8880/242297872843/309171190799/429860
+#EXTINF:-1 tvg-id="" tvg-name="STINGRAY CLASSICA FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",STINGRAY CLASSICA FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429890
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Syfy HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430010
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Syfy FR
+http://cdn-mac.live:8880/242297872843/309171190799/429699
+#EXTINF:-1 tvg-id="" tvg-name="TAHITI NUI FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TAHITI NUI FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429927
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinéma FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TCM Cinéma FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430011
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinéma HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TCM Cinéma HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429753
+#EXTINF:-1 tvg-id="" tvg-name="TÉBÉSUD FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TÉBÉSUD FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429922
+#EXTINF:-1 tvg-id="" tvg-name="Tele Melody HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Tele Melody HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429917
+#EXTINF:-1 tvg-id="" tvg-name="Tele Novelas HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Tele Novelas HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429916
+#EXTINF:-1 tvg-id="" tvg-name="Tele Paese FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Tele Paese FR
+http://cdn-mac.live:8880/242297872843/309171190799/429921
+#EXTINF:-1 tvg-id="" tvg-name="téléTOON HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",téléTOON HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429760
+#EXTINF:-1 tvg-id="" tvg-name="téléTOON1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",téléTOON1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430012
+#EXTINF:-1 tvg-id="" tvg-name="téva FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",téva FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430110
+#EXTINF:-1 tvg-id="" tvg-name="téva HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",téva HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429867
+#EXTINF:-1 tvg-id="" tvg-name="téva FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",téva FR
+http://cdn-mac.live:8880/242297872843/309171190799/429866
+#EXTINF:-1 tvg-id="" tvg-name="TF1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430013
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429690
+#EXTINF:-1 tvg-id="" tvg-name="TF1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429689
+#EXTINF:-1 tvg-id="" tvg-name="TF1 1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429907
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Séries Films FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 Séries Films FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430014
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Séries Films HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 Séries Films HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430045
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TFX FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429700
+#EXTINF:-1 tvg-id="" tvg-name="TFX FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TFX FR
+http://cdn-mac.live:8880/242297872843/309171190799/429701
+#EXTINF:-1 tvg-id="" tvg-name="Tiji FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Tiji FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429761
+#EXTINF:-1 tvg-id="" tvg-name="TL7 SAINT-ÉTIENNE FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TL7 SAINT-ÉTIENNE FR
+http://cdn-mac.live:8880/242297872843/309171190799/429925
+#EXTINF:-1 tvg-id="" tvg-name="TMC FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TMC FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429754
+#EXTINF:-1 tvg-id="" tvg-name="TMC 1 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TMC 1 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429908
+#EXTINF:-1 tvg-id="" tvg-name="Toonami FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Toonami FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430015
+#EXTINF:-1 tvg-id="" tvg-name="TOP SANTÉ TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TOP SANTÉ TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429926
+#EXTINF:-1 tvg-id="" tvg-name="Toute lHistoire FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Toute lHistoire FR
+http://cdn-mac.live:8880/242297872843/309171190799/429861
+#EXTINF:-1 tvg-id="" tvg-name="Trace Africa HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trace Africa HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430016
+#EXTINF:-1 tvg-id="" tvg-name="Trace CARRIBEAN FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trace CARRIBEAN FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430018
+#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TRACE GOSPEL FR
+http://cdn-mac.live:8880/242297872843/309171190799/429883
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINA HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TRACE LATINA HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430117
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TRACE MZIKI HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429884
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TRACE NAIJA HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429885
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trace Sport Stars FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430017
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TRACE TOCA HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429886
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trace Urban FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430019
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trace Urban FR
+http://cdn-mac.live:8880/242297872843/309171190799/429791
+#EXTINF:-1 tvg-id="" tvg-name="Trek FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trek FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430022
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Trek HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429862
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV5 Monde FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430020
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV5 Monde HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429865
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Europe FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV5 Monde Europe FR
+http://cdn-mac.live:8880/242297872843/309171190799/430109
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE INFO FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV5 MONDE INFO FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429900
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MontBlanc FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV8 MontBlanc FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430021
+#EXTINF:-1 tvg-id="" tvg-name="TV8 Moselle Est FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV8 Moselle Est FR
+http://cdn-mac.live:8880/242297872843/309171190799/429912
+#EXTINF:-1 tvg-id="" tvg-name="TV78 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV78 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429913
+#EXTINF:-1 tvg-id="" tvg-name="TV Pitchoun FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TV Pitchoun FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429942
+#EXTINF:-1 tvg-id="" tvg-name="TVBreizh FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TVBreizh FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429863
+#EXTINF:-1 tvg-id="" tvg-name="TVBreizh FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TVBreizh FR
+http://cdn-mac.live:8880/242297872843/309171190799/429864
+#EXTINF:-1 tvg-id="" tvg-name="TVM3 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TVM3 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429924
+#EXTINF:-1 tvg-id="" tvg-name="TVPI FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TVPI FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429923
+#EXTINF:-1 tvg-id="" tvg-name="TVR FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TVR FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429918
+#EXTINF:-1 tvg-id="" tvg-name="Universe Cine FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Universe Cine FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429920
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaïa TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ushuaïa TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430023
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaïa TV FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Ushuaïa TV FR
+http://cdn-mac.live:8880/242297872843/309171190799/429868
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",VH1 FR
+http://cdn-mac.live:8880/242297872843/309171190799/429887
+#EXTINF:-1 tvg-id="" tvg-name="Via Grand PAris FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Via Grand PAris FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429919
+#EXTINF:-1 tvg-id="" tvg-name="Viceland HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Viceland HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430024
+#EXTINF:-1 tvg-id="" tvg-name="Vosges Télévision HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Vosges Télévision HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429869
+#EXTINF:-1 tvg-id="" tvg-name="W9 FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",W9 FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/430025
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",W9 HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429702
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",WARNER TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429901
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",WARNER TV HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429902
+#EXTINF:-1 tvg-id="" tvg-name="Weo HD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Weo HD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429851
+#EXTINF:-1 tvg-id="" tvg-name="Zouk TV FHD FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Zouk TV FHD FR
+http://cdn-mac.live:8880/242297872843/309171190799/429915
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 1 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Aflam 1 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367362
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 2 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Aflam 2 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367363
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 3 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Aflam 3 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367364
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 4 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Aflam 4 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367365
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aghani 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Aghani 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367370
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Alwathaeqye 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Alwathaeqye 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367367
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Anime 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Anime 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367374
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Atfal 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Atfal 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367368
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Bollywood 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Bollywood 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367371
+#EXTINF:-1 tvg-id="" tvg-name="Alwan F1 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan F1 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367360
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Korea 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Korea 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367372
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Mosalsalat 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367369
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat+ 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Mosalsalat+ 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367373
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Quran 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Quran 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367375
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 1 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367337
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367338
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367339
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 2 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367340
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367341
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367342
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 3 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367343
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367344
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 3 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367345
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 4 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367346
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367347
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 4 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367348
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 5 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367349
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 5 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367350
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 5 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367351
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 6 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367352
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 6 HD
+http://cdn-mac.live:8880/242297872843/309171190799/367353
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 6 SD
+http://cdn-mac.live:8880/242297872843/309171190799/367354
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 7 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 7 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367355
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 8 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 8 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367356
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 9 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 9 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367357
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Sport 10 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367358
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Turkey 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan Turkey 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367366
+#EXTINF:-1 tvg-id="" tvg-name="Alwan UFC 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan UFC 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367359
+#EXTINF:-1 tvg-id="" tvg-name="Alwan WWE 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png" group-title="ALWAN Sports",Alwan WWE 4K
+http://cdn-mac.live:8880/242297872843/309171190799/367361
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",BeIN 1 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23959
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 1 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",BeIN 1 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/124182
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",BeIN 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23958
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",BeIN 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23957
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BeIN 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",BeIN 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23956
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="beIN Sports",BeIN 2 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23954
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="beIN Sports",BeIN 2 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/124183
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="beIN Sports",BeIN 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23953
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BeIN 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="beIN Sports",BeIN 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23952
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="beIN Sports",BeIN 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105750
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN 3 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="beIN Sports",BeIN 3 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23950
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="beIN Sports",BeIN 3 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/124184
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="beIN Sports",BeIN 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23949
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="BeIN 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="beIN Sports",BeIN 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23948
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="beIN Sports",BeIN 3 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105751
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN 4 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="beIN Sports",BeIN 4 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23994
+#EXTINF:-1 tvg-id="" tvg-name="beIN  4 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="beIN Sports",beIN  4 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/124185
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="beIN Sports",BeIN 4 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23993
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="beIN Sports",BeIN 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23992
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="beIN Sports",beIN 4 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23991
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN 5 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="beIN Sports",BeIN 5 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23989
+#EXTINF:-1 tvg-id="" tvg-name="beIN 5 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="beIN Sports",beIN 5 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/124186
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="beIN Sports",BeIN 5 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23988
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="beIN Sports",BeIN 5 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23987
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="beIN Sports",beIN 5 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23986
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN 6 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="beIN Sports",BeIN 6 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23984
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="beIN Sports",BeIN 6 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23983
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BeIN 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="beIN Sports",BeIN 6 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23982
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="beIN Sports",beIN 6 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23981
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN 7 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="beIN Sports",BeIN 7 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23979
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN 7 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="beIN Sports",BeIN 7 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23978
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BeIN 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="beIN Sports",BeIN 7 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23977
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="beIN Sports",beIN 7 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23976
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN 8 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="beIN Sports",BeIN 8 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23974
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN 8 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="beIN Sports",BeIN 8 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23973
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BeIN 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="beIN Sports",BeIN 8 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23972
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN 8 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="beIN Sports",beIN 8 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23971
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN 9 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="beIN Sports",BeIN 9 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23969
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN 9 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="beIN Sports",BeIN 9 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23968
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BeIN 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="beIN Sports",BeIN 9 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23967
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN 9 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="beIN Sports",beIN 9 SD
+http://cdn-mac.live:8880/242297872843/309171190799/23966
+#EXTINF:-1 tvg-id="dmax.qa" tvg-name="Bein Animal Planet" tvg-logo="" group-title="Bein ترفيه",Bein Animal Planet
+http://cdn-mac.live:8880/242297872843/309171190799/69534
+#EXTINF:-1 tvg-id="bejunior.qa" tvg-name="Bein BBC Earth" tvg-logo="" group-title="Bein ترفيه",Bein BBC Earth
+http://cdn-mac.live:8880/242297872843/309171190799/69536
+#EXTINF:-1 tvg-id="" tvg-name="Bein BOOMERANG" tvg-logo="" group-title="Bein ترفيه",Bein BOOMERANG
+http://cdn-mac.live:8880/242297872843/309171190799/68580
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Family" tvg-logo="" group-title="Bein ترفيه",Bein Discovery Family
+http://cdn-mac.live:8880/242297872843/309171190799/69535
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="Bein Drama" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/162.png" group-title="Bein ترفيه",Bein Drama
+http://cdn-mac.live:8880/242297872843/309171190799/24251
+#EXTINF:-1 tvg-id="foxrewayat.qa" tvg-name="beIN FoodNetwork" tvg-logo="" group-title="Bein ترفيه",beIN FoodNetwork
+http://cdn-mac.live:8880/242297872843/309171190799/24248
+#EXTINF:-1 tvg-id="dreamWorks.qa" tvg-name="BeIN Fox Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" group-title="Bein ترفيه",BeIN Fox Crime
+http://cdn-mac.live:8880/242297872843/309171190799/54205
+#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="beIN Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="Bein ترفيه",beIN Fox Life
+http://cdn-mac.live:8880/242297872843/309171190799/54211
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Live" tvg-logo="" group-title="Bein ترفيه",Bein Fox Live
+http://cdn-mac.live:8880/242297872843/309171190799/69537
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Action" tvg-logo="" group-title="Bein ترفيه",beIN Fox Movies Action
+http://cdn-mac.live:8880/242297872843/309171190799/68582
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="Bein Gourmet" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/163.png" group-title="Bein ترفيه",Bein Gourmet
+http://cdn-mac.live:8880/242297872843/309171190799/24250
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="beIN Jeem Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Bein_Jeem.png" group-title="Bein ترفيه",beIN Jeem Kid
+http://cdn-mac.live:8880/242297872843/309171190799/54204
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="Bein Junior" tvg-logo="beIN Fox Crime" group-title="Bein ترفيه",Bein Junior
+http://cdn-mac.live:8880/242297872843/309171190799/24249
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="beIN Movies Action" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1323_1.png" group-title="Bein ترفيه",beIN Movies Action
+http://cdn-mac.live:8880/242297872843/309171190799/54209
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="beIN Movies Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1324_1.png" group-title="Bein ترفيه",beIN Movies Drama
+http://cdn-mac.live:8880/242297872843/309171190799/54208
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="beIN Movies Family" tvg-logo="https://www.tvyayinakisi.com/storage/logos/gkUTLwDjhw0d2n1uCeRntmg3e0Z1VqTeuZtjkVh9.png" group-title="Bein ترفيه",beIN Movies Family
+http://cdn-mac.live:8880/242297872843/309171190799/54207
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="beIN Movies Premiere" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1322_1.png" group-title="Bein ترفيه",beIN Movies Premiere
+http://cdn-mac.live:8880/242297872843/309171190799/54210
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="Bein Series 1" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/168.png" group-title="Bein ترفيه",Bein Series 1
+http://cdn-mac.live:8880/242297872843/309171190799/24245
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="Bein Series 2" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/169.png" group-title="Bein ترفيه",Bein Series 2
+http://cdn-mac.live:8880/242297872843/309171190799/24244
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="beIN Sports HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest?cb=20140328172314" group-title="beIN Sports",beIN Sports HD
+http://cdn-mac.live:8880/242297872843/309171190799/51726
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="beIN Sports EN 1 FHD" tvg-logo="http://85.214.130.100/bein/bein11.png" group-title="beIN Sports",beIN Sports EN 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23946
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 1 HD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105738
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 1 SD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105739
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="beIN Sports EN 2 FHD" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/bein12.png" group-title="beIN Sports",beIN Sports EN 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23945
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 2 HD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105740
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 2 SD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105741
+#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="beIN Sports EN 3 FHD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/46151
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 3 HD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105742
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports EN 3 SD" tvg-logo="" group-title="beIN Sports",beIN Sports EN 3 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105743
+#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="beIN Sports FR 1 FHD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/69531
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FR 1 HD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105744
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FR 1 SD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/105745
+#EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="beIN Sports FR 2 FHD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/69532
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FR 2 HD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105746
+#EXTINF:-1 tvg-id="beinsports16.qa" tvg-name="beIN Sports FR 3 FHD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/69533
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FR 3 HD" tvg-logo="" group-title="beIN Sports",beIN Sports FR 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/105748
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BeIN SPORTS NBA" tvg-logo="https://assets.beinsports.com/3.1.49/images/themes/nba/logo.png" group-title="beIN Sports",BeIN SPORTS NBA
+http://cdn-mac.live:8880/242297872843/309171190799/61758
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN SPORTS NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-news-qa.png" group-title="beIN Sports",beIN SPORTS NEWS HD
+http://cdn-mac.live:8880/242297872843/309171190799/23996
+#EXTINF:-1 tvg-id="travelchannel.qa" tvg-name="beIN Travel Channel" tvg-logo="" group-title="Bein ترفيه",beIN Travel Channel
+http://cdn-mac.live:8880/242297872843/309171190799/24246
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="beIN Sports",Bein Xtra 1 4K
+http://cdn-mac.live:8880/242297872843/309171190799/107405
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="beIN Sports",Bein Xtra 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/105747
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Xtra 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="beIN Sports",BeIN Xtra 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23962
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="beIN Sports",Bein Xtra 2 4K
+http://cdn-mac.live:8880/242297872843/309171190799/107406
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="beIN Sports",Bein Xtra 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/105749
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Xtra 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="beIN Sports",beIN Xtra 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/23961
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Xtra 3 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="beIN Sports",BeIN Xtra 3 4K
+http://cdn-mac.live:8880/242297872843/309171190799/23964
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BeIN Xtra 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="beIN Sports",BeIN Xtra 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/23963
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 1 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 1 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429814
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 2 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 2 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429815
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 3 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 3 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429816
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 4 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 4 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429817
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 5 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 5 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429818
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 6 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 6 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429819
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 7 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 7 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429820
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 8 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 8 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429821
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 9 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 9 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429822
+#EXTINF:-1 tvg-id="" tvg-name="Canal Live 10 FR  Event" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal Live 10 FR  Event
+http://cdn-mac.live:8880/242297872843/309171190799/429823
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4K Ultra FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Canal 4K Ultra FR
+http://cdn-mac.live:8880/242297872843/309171190799/430120
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 1
+http://cdn-mac.live:8880/242297872843/309171190799/429804
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 2" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 2
+http://cdn-mac.live:8880/242297872843/309171190799/429805
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 3" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 3
+http://cdn-mac.live:8880/242297872843/309171190799/429806
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 4" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 4
+http://cdn-mac.live:8880/242297872843/309171190799/429807
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 5" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 5
+http://cdn-mac.live:8880/242297872843/309171190799/429808
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 6" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 6
+http://cdn-mac.live:8880/242297872843/309171190799/429809
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 7" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 7
+http://cdn-mac.live:8880/242297872843/309171190799/429810
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 8" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 8
+http://cdn-mac.live:8880/242297872843/309171190799/429811
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 9" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 9
+http://cdn-mac.live:8880/242297872843/309171190799/429812
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FR  Event 10" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",DAZN FR  Event 10
+http://cdn-mac.live:8880/242297872843/309171190799/429813
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: BETIS FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395721
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 01" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 01
+http://cdn-mac.live:8880/242297872843/309171190799/395722
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 02" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 02
+http://cdn-mac.live:8880/242297872843/309171190799/395723
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 03" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 03
+http://cdn-mac.live:8880/242297872843/309171190799/395724
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 04" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 04
+http://cdn-mac.live:8880/242297872843/309171190799/395725
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 10" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 10
+http://cdn-mac.live:8880/242297872843/309171190799/395726
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 11" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 11
+http://cdn-mac.live:8880/242297872843/309171190799/395727
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 12" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 12
+http://cdn-mac.live:8880/242297872843/309171190799/395728
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 13" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 13
+http://cdn-mac.live:8880/242297872843/309171190799/395729
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 14" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 14
+http://cdn-mac.live:8880/242297872843/309171190799/395730
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 15" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 15
+http://cdn-mac.live:8880/242297872843/309171190799/395731
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 16" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 16
+http://cdn-mac.live:8880/242297872843/309171190799/395732
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 17" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 17
+http://cdn-mac.live:8880/242297872843/309171190799/395733
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 18" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 18
+http://cdn-mac.live:8880/242297872843/309171190799/395734
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 19" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 19
+http://cdn-mac.live:8880/242297872843/309171190799/395735
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 20" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 20
+http://cdn-mac.live:8880/242297872843/309171190799/395736
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 21" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 21
+http://cdn-mac.live:8880/242297872843/309171190799/395737
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 22" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 22
+http://cdn-mac.live:8880/242297872843/309171190799/395738
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 23" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 23
+http://cdn-mac.live:8880/242297872843/309171190799/395739
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 24" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 24
+http://cdn-mac.live:8880/242297872843/309171190799/395740
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 25" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 25
+http://cdn-mac.live:8880/242297872843/309171190799/395741
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 26" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 26
+http://cdn-mac.live:8880/242297872843/309171190799/395742
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 27" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN 27
+http://cdn-mac.live:8880/242297872843/309171190799/395743
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 ESPAÑA HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN F1 ESPAÑA HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395746
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 ESPAÑA FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN F1 ESPAÑA FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395744
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 ESPAÑA HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN F1 ESPAÑA HD
+http://cdn-mac.live:8880/242297872843/309171190799/395745
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 ESPAÑA SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN F1 ESPAÑA SD
+http://cdn-mac.live:8880/242297872843/309171190799/395747
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 1 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 1 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395750
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 1 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395748
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 1 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395749
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 1 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395751
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 2 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 2 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395754
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395752
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395753
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LA LIGA 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DAZN LA LIGA 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395755
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DBIKE FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395756
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DBIKE HD
+http://cdn-mac.live:8880/242297872843/309171190799/395757
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: DBIKE SD
+http://cdn-mac.live:8880/242297872843/309171190799/395758
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport3 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: Esport3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395759
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395760
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395761
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395762
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395763
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395764
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: EUROSPORT 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395765
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: GOL FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395766
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: GOL HD
+http://cdn-mac.live:8880/242297872843/309171190799/395767
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: GOL SD
+http://cdn-mac.live:8880/242297872843/309171190799/395768
+#EXTINF:-1 tvg-id="" tvg-name="ES: M COPA DEL REY FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M COPA DEL REY FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395769
+#EXTINF:-1 tvg-id="" tvg-name="ES: M COPA DEL REY HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M COPA DEL REY HD
+http://cdn-mac.live:8880/242297872843/309171190799/395770
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 1 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 1 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395773
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 1 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395771
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 1 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395772
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 1 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395774
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 2 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 2 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395777
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395775
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395776
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395778
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 3 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 3 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395781
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 3 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395779
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 3 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395780
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 3 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 3 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395782
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 4 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 4 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395783
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 4 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395784
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 4 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 4 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395785
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 5 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 5 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395786
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 5 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 5 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395787
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 5 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 5 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395788
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 6 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 6 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395789
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 6 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 6 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395790
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 6 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 6 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395791
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 7 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 7 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395792
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 7 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 7 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395793
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 7 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 7 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395794
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES 8 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M DEPORTES 8 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395795
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395798
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395796
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF HD
+http://cdn-mac.live:8880/242297872843/309171190799/395797
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF SD
+http://cdn-mac.live:8880/242297872843/309171190799/395799
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395800
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395801
+#EXTINF:-1 tvg-id="" tvg-name="ES: M GOLF 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M GOLF 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395802
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395805
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395803
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA HD
+http://cdn-mac.live:8880/242297872843/309171190799/395804
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA SD
+http://cdn-mac.live:8880/242297872843/309171190799/395806
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395807
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395808
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395809
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 3 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 3 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395810
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 3 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395811
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 4 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 4 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395812
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 4 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395813
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 5 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 5 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395814
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA 5 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGA 5 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395815
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGATV BAR HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="Live Events احداث مباشرة",ES: M LALIGATV BAR HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395818
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGATV BAR FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGATV BAR FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395816
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGATV BAR HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LALIGATV BAR HD
+http://cdn-mac.live:8880/242297872843/309171190799/395817
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LCAMPEONS 4K" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LCAMPEONS 4K
+http://cdn-mac.live:8880/242297872843/309171190799/395819
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 1 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395822
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395820
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395821
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 1 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395823
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 2 HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395826
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 2 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395824
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395825
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 2 SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 2 SD
+http://cdn-mac.live:8880/242297872843/309171190799/395827
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 10 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 10 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395828
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 11 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 11 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395829
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 12 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 12 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395830
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LIGA DE CAMPEONES 13 HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: M LIGA DE CAMPEONES 13 HD
+http://cdn-mac.live:8880/242297872843/309171190799/395831
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADTV FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: MOTO ADTV FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395832
+#EXTINF:-1 tvg-id="" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: MUNDOTORO TV HD
+http://cdn-mac.live:8880/242297872843/309171190799/395833
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="Live Events احداث مباشرة",ES: REAL MADRID TV FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395834
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: REAL MADRID TV HD
+http://cdn-mac.live:8880/242297872843/309171190799/395835
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: REAL MADRID TV SD
+http://cdn-mac.live:8880/242297872843/309171190799/395836
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HEVC" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: TELEDEPORTE HEVC
+http://cdn-mac.live:8880/242297872843/309171190799/395839
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: TELEDEPORTE FHD
+http://cdn-mac.live:8880/242297872843/309171190799/395837
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: TELEDEPORTE HD
+http://cdn-mac.live:8880/242297872843/309171190799/395838
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE SD" tvg-logo="https://logos.mac-panel.com/116_121Spain.PNG" group-title="SP: SPORT",ES: TELEDEPORTE SD
+http://cdn-mac.live:8880/242297872843/309171190799/395840
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 4K Ultra FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",Eurosport 1 4K Ultra FR
+http://cdn-mac.live:8880/242297872843/309171190799/429831
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="Fatafeat" tvg-logo="https://mac-iptv.live/wp-content/uploads/2019/08/175.png" group-title="Bein ترفيه",Fatafeat
+http://cdn-mac.live:8880/242297872843/309171190799/24252
+#EXTINF:-1 tvg-id="" tvg-name="FR: BABY TV HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: BABY TV HD
+http://cdn-mac.live:8880/242297872843/309171190799/392954
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS 1 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436733
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS 2 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436734
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS 3 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436735
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 4 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436736
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 5 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 5 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436737
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 6 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 6 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436738
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 7 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 7 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436739
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 8 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 8 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436740
+#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS MAX 9 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BEIN SPORTS MAX 9 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436741
+#EXTINF:-1 tvg-id="" tvg-name="FR BFM GRAND LILLE HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR BFM GRAND LILLE HD
+http://cdn-mac.live:8880/242297872843/309171190799/436747
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404363
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + HD
+http://cdn-mac.live:8880/242297872843/309171190799/404364
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL4K
+http://cdn-mac.live:8880/242297872843/309171190799/404344
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + CINEMA 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + CINEMA 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404343
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + FOOT 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + FOOT 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404404
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + FOOT FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + FOOT FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404405
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + FOOT HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + FOOT HD
+http://cdn-mac.live:8880/242297872843/309171190799/404406
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + GRAND ECRAN 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + GRAND ECRAN 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404372
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + GRAND ECRAN HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + GRAND ECRAN HD
+http://cdn-mac.live:8880/242297872843/309171190799/404373
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 1
+http://cdn-mac.live:8880/242297872843/309171190799/404386
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 2" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 2
+http://cdn-mac.live:8880/242297872843/309171190799/404387
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 3" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 3
+http://cdn-mac.live:8880/242297872843/309171190799/404388
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 4" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 4
+http://cdn-mac.live:8880/242297872843/309171190799/404389
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 5" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 5
+http://cdn-mac.live:8880/242297872843/309171190799/404390
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 6" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 6
+http://cdn-mac.live:8880/242297872843/309171190799/404391
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 7" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 7
+http://cdn-mac.live:8880/242297872843/309171190799/404392
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 8" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 8
+http://cdn-mac.live:8880/242297872843/309171190799/404393
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 9" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 9
+http://cdn-mac.live:8880/242297872843/309171190799/404394
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + LIVE 10" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + LIVE 10
+http://cdn-mac.live:8880/242297872843/309171190799/404395
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + MOTO GP 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + MOTO GP 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404409
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 1 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/404376
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 2 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/404377
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 3 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/404378
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 4 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 4 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404379
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 5 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 5 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404380
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 6 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 6 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404381
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 7 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 7 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404382
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 8 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 8 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404383
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 9 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 9 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404384
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PLAY 10 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PLAY 10 HD
+http://cdn-mac.live:8880/242297872843/309171190799/404385
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PREMIER LEAGUE 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PREMIER LEAGUE 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404396
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + PREMIER LEAGUE HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + PREMIER LEAGUE HD
+http://cdn-mac.live:8880/242297872843/309171190799/404397
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404398
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404399
+#EXTINF:-1 tvg-id="" tvg-name="FR CANAL SPORT HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR CANAL SPORT HD
+http://cdn-mac.live:8880/242297872843/309171190799/436746
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT HD
+http://cdn-mac.live:8880/242297872843/309171190799/404400
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT 360 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT 360 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404401
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT 360 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT 360 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404402
+#EXTINF:-1 tvg-id="" tvg-name="FR CANAL SPORT 360 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR CANAL SPORT 360 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436732
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + SPORT 360 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + SPORT 360 HD
+http://cdn-mac.live:8880/242297872843/309171190799/404403
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + TOP 14 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + TOP 14 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404407
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANAL + TOP 14 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANAL + TOP 14 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404408
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALBOX OFFICE 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALBOX OFFICE 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404370
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALBOX OFFICE HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALBOX OFFICE HD
+http://cdn-mac.live:8880/242297872843/309171190799/404371
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALCINEMA 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALCINEMA 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404365
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALCINEMA FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALCINEMA FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404366
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALCINEMA HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALCINEMA HD
+http://cdn-mac.live:8880/242297872843/309171190799/404367
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALCINEMA4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALCINEMA4K
+http://cdn-mac.live:8880/242297872843/309171190799/404345
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALCLUBHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALCLUBHD
+http://cdn-mac.live:8880/242297872843/309171190799/404346
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALDECALE4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALDECALE4K
+http://cdn-mac.live:8880/242297872843/309171190799/404347
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALKIDS 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALKIDS 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404368
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALKIDS FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALKIDS FHD
+http://cdn-mac.live:8880/242297872843/309171190799/404369
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALKIDS HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALKIDS HD
+http://cdn-mac.live:8880/242297872843/309171190799/404348
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALSERIES 4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALSERIES 4K
+http://cdn-mac.live:8880/242297872843/309171190799/404374
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALSERIES HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALSERIES HD
+http://cdn-mac.live:8880/242297872843/309171190799/404349
+#EXTINF:-1 tvg-id="" tvg-name="FR- CANALSPORT4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CANALSPORT4K
+http://cdn-mac.live:8880/242297872843/309171190799/404350
+#EXTINF:-1 tvg-id="" tvg-name="FR- CINE FAMIZ4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CINE FAMIZ4K
+http://cdn-mac.live:8880/242297872843/309171190799/404351
+#EXTINF:-1 tvg-id="" tvg-name="FR- CINECLASSIC4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CINECLASSIC4K
+http://cdn-mac.live:8880/242297872843/309171190799/404352
+#EXTINF:-1 tvg-id="" tvg-name="FR- CINECLUB4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CINECLUB4K
+http://cdn-mac.live:8880/242297872843/309171190799/404353
+#EXTINF:-1 tvg-id="" tvg-name="FR- CINEFRISSON4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CINEFRISSON4K
+http://cdn-mac.live:8880/242297872843/309171190799/404354
+#EXTINF:-1 tvg-id="" tvg-name="FR- CINEPREMIER4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- CINEPREMIER4K
+http://cdn-mac.live:8880/242297872843/309171190799/404355
+#EXTINF:-1 tvg-id="" tvg-name="FR- COMEDIE4K" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- COMEDIE4K
+http://cdn-mac.live:8880/242297872843/309171190799/404356
+#EXTINF:-1 tvg-id="" tvg-name="FR- COMEDYCENTRAL HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FR- COMEDYCENTRAL HD
+http://cdn-mac.live:8880/242297872843/309171190799/404357
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-ACTION" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: CSATHD-ACTION
+http://cdn-mac.live:8880/242297872843/309171190799/393071
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-CARTOON NETWORK" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-CARTOON NETWORK
+http://cdn-mac.live:8880/242297872843/309171190799/392955
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-COMEDY CENTRAL" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: CSATHD-COMEDY CENTRAL
+http://cdn-mac.live:8880/242297872843/309171190799/393072
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD- DISCOVERY CHANNEL HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD- DISCOVERY CHANNEL HD
+http://cdn-mac.live:8880/242297872843/309171190799/392974
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD- DISCOVERY ID" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD- DISCOVERY ID
+http://cdn-mac.live:8880/242297872843/309171190799/392975
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-DISCOVERY SCIENCE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD-DISCOVERY SCIENCE
+http://cdn-mac.live:8880/242297872843/309171190799/392976
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-DISNEY CHANNEL" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-DISNEY CHANNEL
+http://cdn-mac.live:8880/242297872843/309171190799/392956
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-DISNEY CHANNEL1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-DISNEY CHANNEL1
+http://cdn-mac.live:8880/242297872843/309171190799/392957
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-DISNEY JUNIOR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-DISNEY JUNIOR
+http://cdn-mac.live:8880/242297872843/309171190799/392958
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-M6 MUSIC" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: CSATHD-M6 MUSIC
+http://cdn-mac.live:8880/242297872843/309171190799/392989
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-MTV" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: CSATHD-MTV
+http://cdn-mac.live:8880/242297872843/309171190799/392990
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-MTV HITS" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: CSATHD-MTV HITS
+http://cdn-mac.live:8880/242297872843/309171190799/392991
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-NICKELODEON" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-NICKELODEON
+http://cdn-mac.live:8880/242297872843/309171190799/392959
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-NICKELODEON1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-NICKELODEON1
+http://cdn-mac.live:8880/242297872843/309171190799/392960
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-NICKELODEON JUNIOR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-NICKELODEON JUNIOR
+http://cdn-mac.live:8880/242297872843/309171190799/392961
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-NICKELODEON TEEN" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: CSATHD-NICKELODEON TEEN
+http://cdn-mac.live:8880/242297872843/309171190799/392962
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-PLANETE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD-PLANETE
+http://cdn-mac.live:8880/242297872843/309171190799/392977
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-PLANETE AVENTURE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD-PLANETE AVENTURE
+http://cdn-mac.live:8880/242297872843/309171190799/392978
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-PLANETE CRIME" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD-PLANETE CRIME
+http://cdn-mac.live:8880/242297872843/309171190799/392979
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-SCIENCE ET VIE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: CSATHD-SCIENCE ET VIE
+http://cdn-mac.live:8880/242297872843/309171190799/392980
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSATHD-TCM CINEMA" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: CSATHD-TCM CINEMA
+http://cdn-mac.live:8880/242297872843/309171190799/393073
+#EXTINF:-1 tvg-id="" tvg-name="FR: -CSATHD-TF1 SERIES" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: -CSATHD-TF1 SERIES
+http://cdn-mac.live:8880/242297872843/309171190799/393074
+#EXTINF:-1 tvg-id="" tvg-name="FR EQUIDIA HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR EQUIDIA HD
+http://cdn-mac.live:8880/242297872843/309171190799/436751
+#EXTINF:-1 tvg-id="" tvg-name="FR EUROSPORT 1 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR EUROSPORT 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436748
+#EXTINF:-1 tvg-id="" tvg-name="FR EUROSPORT 2 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR EUROSPORT 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436749
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE TV SERIES FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: FRANCE TV SERIES FHD
+http://cdn-mac.live:8880/242297872843/309171190799/393075
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE TV SERIES HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: FRANCE TV SERIES HD
+http://cdn-mac.live:8880/242297872843/309171190799/393076
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE TV SERIES SD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: FRANCE TV SERIES SD
+http://cdn-mac.live:8880/242297872843/309171190799/393077
+#EXTINF:-1 tvg-id="" tvg-name="FR GOLF CHANNEL HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR GOLF CHANNEL HD
+http://cdn-mac.live:8880/242297872843/309171190799/436752
+#EXTINF:-1 tvg-id="" tvg-name="FR L EQUIPE CINE HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR L EQUIPE CINE HD
+http://cdn-mac.live:8880/242297872843/309171190799/436750
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON1 FHD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: NICKELODEON1 FHD
+http://cdn-mac.live:8880/242297872843/309171190799/392963
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON1 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: NICKELODEON1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/392964
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON1 SD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: NICKELODEON1 SD
+http://cdn-mac.live:8880/242297872843/309171190799/392965
+#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 1 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR RMC SPORT 1 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436742
+#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 2 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR RMC SPORT 2 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436743
+#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 3 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR RMC SPORT 3 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436744
+#EXTINF:-1 tvg-id="" tvg-name="FR RMC SPORT 4 HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - SPORTIF",FR RMC SPORT 4 HD
+http://cdn-mac.live:8880/242297872843/309171190799/436745
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-ACTION" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: -SAT-ACTION
+http://cdn-mac.live:8880/242297872843/309171190799/393078
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-CARTOON NETWORK" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-CARTOON NETWORK
+http://cdn-mac.live:8880/242297872843/309171190799/392966
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-CGTN Documentary" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: -SAT-CGTN Documentary
+http://cdn-mac.live:8880/242297872843/309171190799/392981
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-COMEDY CENTRAL" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: -SAT-COMEDY CENTRAL
+http://cdn-mac.live:8880/242297872843/309171190799/393079
+#EXTINF:-1 tvg-id="" tvg-name="FR: SAT-DISCOVERY HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: SAT-DISCOVERY HD
+http://cdn-mac.live:8880/242297872843/309171190799/392982
+#EXTINF:-1 tvg-id="" tvg-name="FR: SAT-DISCOVERY INVESTIGATION" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: SAT-DISCOVERY INVESTIGATION
+http://cdn-mac.live:8880/242297872843/309171190799/392983
+#EXTINF:-1 tvg-id="" tvg-name="FR: SAT-DISCOVERY SCIENCE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: SAT-DISCOVERY SCIENCE
+http://cdn-mac.live:8880/242297872843/309171190799/392984
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-DISNEY CHANNEL" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-DISNEY CHANNEL
+http://cdn-mac.live:8880/242297872843/309171190799/392967
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-DISNEY CHANNEL1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-DISNEY CHANNEL1
+http://cdn-mac.live:8880/242297872843/309171190799/392968
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-DISNEY JUNIOR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-DISNEY JUNIOR
+http://cdn-mac.live:8880/242297872843/309171190799/392969
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-M6 MUSIC" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: -SAT-M6 MUSIC
+http://cdn-mac.live:8880/242297872843/309171190799/392992
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-MTV" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: -SAT-MTV
+http://cdn-mac.live:8880/242297872843/309171190799/392993
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-MTV HITS" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - MUSIQUE & NOUVELLES",FR: -SAT-MTV HITS
+http://cdn-mac.live:8880/242297872843/309171190799/392994
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-NICKELODEON" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-NICKELODEON
+http://cdn-mac.live:8880/242297872843/309171190799/392970
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-NICKELODEON1" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-NICKELODEON1
+http://cdn-mac.live:8880/242297872843/309171190799/392971
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-NICKELODEON JUNIOR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-NICKELODEON JUNIOR
+http://cdn-mac.live:8880/242297872843/309171190799/392972
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-NICKELODEON TEEN" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - ENFANTS",FR: -SAT-NICKELODEON TEEN
+http://cdn-mac.live:8880/242297872843/309171190799/392973
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-PLANETE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: -SAT-PLANETE
+http://cdn-mac.live:8880/242297872843/309171190799/392985
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-PLANETE AVENTUR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: -SAT-PLANETE AVENTUR
+http://cdn-mac.live:8880/242297872843/309171190799/392986
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-PLANETE CRIME" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: -SAT-PLANETE CRIME
+http://cdn-mac.live:8880/242297872843/309171190799/392987
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-SCIENCE ET VIE" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - DOCUMENTATION",FR: -SAT-SCIENCE ET VIE
+http://cdn-mac.live:8880/242297872843/309171190799/392988
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-TCM CINEMA" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: -SAT-TCM CINEMA
+http://cdn-mac.live:8880/242297872843/309171190799/393080
+#EXTINF:-1 tvg-id="" tvg-name="FR: -SAT-TF1 SERIES" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR- Cinema",FR: -SAT-TF1 SERIES
+http://cdn-mac.live:8880/242297872843/309171190799/393081
+#EXTINF:-1 tvg-id="" tvg-name="France" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",France
+http://cdn-mac.live:8880/242297872843/309171190799/429686
+#EXTINF:-1 tvg-id="" tvg-name="FRCINECLASSIC" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FRCINECLASSIC
+http://cdn-mac.live:8880/242297872843/309171190799/404360
+#EXTINF:-1 tvg-id="" tvg-name="FRCINECLUB" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FRCINECLUB
+http://cdn-mac.live:8880/242297872843/309171190799/404361
+#EXTINF:-1 tvg-id="" tvg-name="FRCINEEMOTION" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FRCINEEMOTION
+http://cdn-mac.live:8880/242297872843/309171190799/404358
+#EXTINF:-1 tvg-id="" tvg-name="FRCINEFAMIZ" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FRCINEFAMIZ
+http://cdn-mac.live:8880/242297872843/309171190799/404362
+#EXTINF:-1 tvg-id="" tvg-name="FRCINEPREMIER" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FR - CANAL +",FRCINEPREMIER
+http://cdn-mac.live:8880/242297872843/309171190799/404359
+#EXTINF:-1 tvg-id="hgtv.qa" tvg-name="HGTV" tvg-logo="" group-title="Bein ترفيه",HGTV
+http://cdn-mac.live:8880/242297872843/309171190799/68577
+#EXTINF:-1 tvg-id="" tvg-name="IT: MILAN CHANNEL" tvg-logo="https://logos.mac-panel.com/Italy.PNG" group-title="Live Events احداث مباشرة",IT: MILAN CHANNEL
+http://cdn-mac.live:8880/242297872843/309171190799/393572
+#EXTINF:-1 tvg-id="" tvg-name="Live Event 1" tvg-logo="" group-title="Live Events احداث مباشرة",Live Event 1
+http://cdn-mac.live:8880/242297872843/309171190799/275114
+#EXTINF:-1 tvg-id="" tvg-name="M6 BOUTIQUE  CO HD" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 BOUTIQUE  CO HD
+http://cdn-mac.live:8880/242297872843/309171190799/429891
+#EXTINF:-1 tvg-id="" tvg-name="M6 4K Ultra FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",M6 4K Ultra FR
+http://cdn-mac.live:8880/242297872843/309171190799/430118
+#EXTINF:-1 tvg-id="" tvg-name="MySports 1 FHD FR Multi-Language" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MySports 1 FHD FR Multi-Language
+http://cdn-mac.live:8880/242297872843/309171190799/430032
+#EXTINF:-1 tvg-id="" tvg-name="MySports FHD FR Multi-Language" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",MySports FHD FR Multi-Language
+http://cdn-mac.live:8880/242297872843/309171190799/430031
+#EXTINF:-1 tvg-id="" tvg-name="TF1 4K Ultra FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",TF1 4K Ultra FR
+http://cdn-mac.live:8880/242297872843/309171190799/430119
+#EXTINF:-1 tvg-id="" tvg-name="UK-LFC TV FHD" tvg-logo="https://logos.mac-panel.com/UK.PNG" group-title="Live Events احداث مباشرة",UK-LFC TV FHD
+http://cdn-mac.live:8880/242297872843/309171190799/423942
+#EXTINF:-1 tvg-id="" tvg-name="UK-MUTV FHD" tvg-logo="https://logos.mac-panel.com/UK.PNG" group-title="Live Events احداث مباشرة",UK-MUTV FHD
+http://cdn-mac.live:8880/242297872843/309171190799/423944
+#EXTINF:-1 tvg-id="" tvg-name="Usyk vs Rico" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feede1de-3e1d-4e4a-9f3b-eede21631f5e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live Events احداث مباشرة",Usyk vs Rico
+http://cdn-mac.live:8880/242297872843/309171190799/275111
+#EXTINF:-1 tvg-id="" tvg-name="WWE LIVE 2" tvg-logo="https://www4.0zz0.com/2023/11/18/14/865890219.png" group-title="Live Events احداث مباشرة",WWE LIVE 2
+http://cdn-mac.live:8880/242297872843/309171190799/275110
+#EXTINF:-1 tvg-id="" tvg-name="مباريات فنون قتالية 3" tvg-logo="" group-title="Live Events احداث مباشرة",مباريات فنون قتالية 3
+http://cdn-mac.live:8880/242297872843/309171190799/275112
+#EXTINF:-1 tvg-id="" tvg-name="مباريات فنون قتالية 4" tvg-logo="" group-title="Live Events احداث مباشرة",مباريات فنون قتالية 4
+http://cdn-mac.live:8880/242297872843/309171190799/275113
+#EXTINF:-1 tvg-id="" tvg-name="مباريات فورملا وان 1" tvg-logo="" group-title="Live Events احداث مباشرة",مباريات فورملا وان 1
+http://cdn-mac.live:8880/242297872843/309171190799/275115
+#EXTINF:-1 tvg-id="" tvg-name="مباريات فورملا وان 2" tvg-logo="" group-title="Live Events احداث مباشرة",مباريات فورملا وان 2
+http://cdn-mac.live:8880/242297872843/309171190799/275116
+#EXTINF:-1 tvg-id="" tvg-name="مباريات فورملا وان 3" tvg-logo="" group-title="Live Events احداث مباشرة",مباريات فورملا وان 3
+http://cdn-mac.live:8880/242297872843/309171190799/275117
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CINEMA HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL CINEMA HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430062
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL PLAY 6 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430055
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL PLAY 7 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430056
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 8 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL PLAY 8 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430057
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 9 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL PLAY 9 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430058
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 10 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL PLAY 10 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430059
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SERIES HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL SERIES HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430063
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Sport 360 HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CANAL Sport 360 HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430061
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CINE EMOTION HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430066
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMIZ HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CINE FAMIZ HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430060
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CINE FRISSON HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430064
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER HD VIP FR" tvg-logo="https://logos.mac-panel.com/FRance.PNG" group-title="FRANCE",CINE PREMIER HD VIP FR
+http://cdn-mac.live:8880/242297872843/309171190799/430065
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4K HDR" tvg-logo="https://www7.0zz0.com/2023/09/28/22/769890805.jpg" group-title="beIN Sports",beIN 4K HDR
+http://cdn-mac.live:8880/242297872843/309171190799/428882

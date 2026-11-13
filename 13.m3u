@@ -1,0 +1,1336 @@
+#EXTM3U
+#M3U_EXTRACT: telves.net
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 1 HD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium1.png" group-title="STARZPLAY",AD SPORT ASIA 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548167
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 1 SD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium1.png" group-title="STARZPLAY",AD SPORT ASIA 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548175
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 2 HD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium2.png" group-title="STARZPLAY",AD SPORT ASIA 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548168
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 2 SD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium2.png" group-title="STARZPLAY",AD SPORT ASIA 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548176
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 4K" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium1.png" group-title="STARZPLAY",AD SPORT PREMIUM 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548169
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 HD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium1.png" group-title="STARZPLAY",AD SPORT PREMIUM 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548165
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 SD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium1.png" group-title="STARZPLAY",AD SPORT PREMIUM 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548173
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 4K" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium2.png" group-title="STARZPLAY",AD SPORT PREMIUM 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548170
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 HD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium2.png" group-title="STARZPLAY",AD SPORT PREMIUM 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548166
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 SD" tvg-logo="http://vodkom.com/Logo/BEIN/adsportspremium2.png" group-title="STARZPLAY",AD SPORT PREMIUM 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/548174
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN AFLAM 1 4K" tvg-logo="" group-title="AR_ Sports",ALWAN AFLAM 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215818
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN AFLAM 2 4K" tvg-logo="" group-title="AR_ Sports",ALWAN AFLAM 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215819
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN AFLAM 3 4K" tvg-logo="" group-title="AR_ Sports",ALWAN AFLAM 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215820
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN AFLAM 4 4K" tvg-logo="" group-title="AR_ Sports",ALWAN AFLAM 4 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215821
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN AGHANI 4K" tvg-logo="" group-title="AR_ Sports",ALWAN AGHANI 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215826
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN ALWATHAEQYE 4K" tvg-logo="" group-title="AR_ Sports",ALWAN ALWATHAEQYE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215823
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN ANIME 4K" tvg-logo="" group-title="AR_ Sports",ALWAN ANIME 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215830
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN ATFAL 4K" tvg-logo="" group-title="AR_ Sports",ALWAN ATFAL 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215824
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN BOLLYWOOD 4K" tvg-logo="" group-title="AR_ Sports",ALWAN BOLLYWOOD 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215827
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN F1 4K" tvg-logo="" group-title="AR_ Sports",ALWAN F1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215816
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN KOREA 4K" tvg-logo="" group-title="AR_ Sports",ALWAN KOREA 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215828
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN MOSALSALAT 4K" tvg-logo="" group-title="AR_ Sports",ALWAN MOSALSALAT 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215825
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN MOSALSALAT+ 4K" tvg-logo="" group-title="AR_ Sports",ALWAN MOSALSALAT+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215829
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 1 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan1-4k.png" group-title="AR_ Sports",ALWAN SPORT 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852917
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan1-hd.png" group-title="AR_ Sports",ALWAN SPORT 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852915
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 1 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan1-sd.png" group-title="AR_ Sports",ALWAN SPORT 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852916
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 2 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan2-4k.png" group-title="AR_ Sports",ALWAN SPORT 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852920
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan2-hd.png" group-title="AR_ Sports",ALWAN SPORT 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852918
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 2 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan2-sd.png" group-title="AR_ Sports",ALWAN SPORT 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852919
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 3 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan3-4k.png" group-title="AR_ Sports",ALWAN SPORT 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852923
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 3 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan3-hd.png" group-title="AR_ Sports",ALWAN SPORT 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852921
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 3 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan3-sd.png" group-title="AR_ Sports",ALWAN SPORT 3 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852922
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 4 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan4-4k.png" group-title="AR_ Sports",ALWAN SPORT 4 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852926
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 4 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan4-hd.png" group-title="AR_ Sports",ALWAN SPORT 4 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852924
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 4 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan4-sd.png" group-title="AR_ Sports",ALWAN SPORT 4 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852925
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 5 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan5-4k.png" group-title="AR_ Sports",ALWAN SPORT 5 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852929
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 5 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan5-hd.png" group-title="AR_ Sports",ALWAN SPORT 5 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852927
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 5 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan5-sd.png" group-title="AR_ Sports",ALWAN SPORT 5 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852928
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 6 4K" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan6-4k.png" group-title="AR_ Sports",ALWAN SPORT 6 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852932
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 6 HD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan6-hd.png" group-title="AR_ Sports",ALWAN SPORT 6 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852930
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 6 SD" tvg-logo="http://vodkom.com/LOGO/TV_ALWAN/alwan6-sd.png" group-title="AR_ Sports",ALWAN SPORT 6 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/852931
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 7 4K" tvg-logo="" group-title="AR_ Sports",ALWAN SPORT 7 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3211412
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 8 4K" tvg-logo="" group-title="AR_ Sports",ALWAN SPORT 8 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3211413
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 9 4K" tvg-logo="" group-title="AR_ Sports",ALWAN SPORT 9 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3211414
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN SPORT 10 4K" tvg-logo="" group-title="AR_ Sports",ALWAN SPORT 10 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3211415
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN TURKEY 4K" tvg-logo="" group-title="AR_ Sports",ALWAN TURKEY 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215822
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN UFC 4K" tvg-logo="" group-title="AR_ Sports",ALWAN UFC 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215815
+#EXTINF:-1 tvg-ID="" tvg-name="ALWAN WWE 4K" tvg-logo="" group-title="AR_ Sports",ALWAN WWE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215817
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 4K" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661458
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 HD" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661459
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 SD" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661460
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 4K" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661461
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 HD" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661462
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 SD" tvg-logo="" group-title="STARZPLAY",|AR| AD Sport Premium 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661463
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 1 SD" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS ASIA 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661469
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 1" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS ASIA 1
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661468
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 2 SD" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS ASIA 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661471
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 2" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS ASIA 2
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661470
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 1 HEVC" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS PREMIUM 1 HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661465
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 1 HD*" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS PREMIUM 1 HD*
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661464
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 2 HEVC" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS PREMIUM 2 HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661467
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 2 HD*" tvg-logo="" group-title="STARZPLAY",|AR| AD SPORTS PREMIUM 2 HD*
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661466
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="|AR| BEIN GLOBAL 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS.png" group-title="beIN Sport_ 4k",|AR| BEIN GLOBAL 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/881470
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS 1 EN 4k " tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 EN 4k
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/63495
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS 1 FR 4K " tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 FR 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/105256
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS 2 EN 4K" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-2-fhd.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 EN 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/881472
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS 2 FR 4K" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-2-FHD.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 FR 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/881473
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="|AR| BEIN SPORTS NBA 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NBA.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS NBA 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/336789
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="|AR| BEIN SPORTS NEWS 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS NEWS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/881471
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="|AR| BEIN SPORTS NEWS FA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sports",|AR| BEIN SPORTS NEWS FA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5233
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117761
+#EXTINF:-1 tvg-ID="beinsportsxtra2ar.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117762
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 4K" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/14710
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 1 HD" tvg-logo="" group-title="STARZPLAY",|AR| STARZ PLAY SPORT 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661453
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 2 HD" tvg-logo="" group-title="STARZPLAY",|AR| STARZ PLAY SPORT 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661454
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 3 HD" tvg-logo="" group-title="STARZPLAY",|AR| STARZ PLAY SPORT 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661455
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZPLAY CRICLIFE 1 HD" tvg-logo="" group-title="STARZPLAY",|AR| STARZPLAY CRICLIFE 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661456
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZPLAY CRICLIFE 2 HD" tvg-logo="" group-title="STARZPLAY",|AR| STARZPLAY CRICLIFE 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/661457
+#EXTINF:-1 tvg-ID="baraem.qa" tvg-name="BEIN BARAEAM 4K" tvg-logo="http://vodkom.com/MYBEIN/BARAIM.png" group-title="beIN Entertainment",BEIN BARAEAM 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/375947
+#EXTINF:-1 tvg-ID="baraem.qa" tvg-name="BEIN BARAEM HD" tvg-logo="http://vodkom.com/MYBEIN/BARAIM.png" group-title="beIN Entertainment",BEIN BARAEM HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59090
+#EXTINF:-1 tvg-ID="beindrama.qa" tvg-name="BEIN DRAMA HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_DRAMA_HD_1.png" group-title="beIN Entertainment",BEIN DRAMA HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59084
+#EXTINF:-1 tvg-ID="fatafeat.qa" tvg-name="BEIN FATAFEAT" tvg-logo="http://vodkom.com/MYBEIN/FATAFEAT.png" group-title="beIN Entertainment",BEIN FATAFEAT
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59093
+#EXTINF:-1 tvg-ID="foxmoviesaction.qa" tvg-name="BEIN FOX MOVIES ACTION HD" tvg-logo="http://vodkom.com/MYBEIN/FOX_ACTION_MOVIES.png" group-title="beIN Entertainment",BEIN FOX MOVIES ACTION HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59086
+#EXTINF:-1 tvg-ID="gourmet.qa" tvg-name="BEIN GORMENT" tvg-logo="http://vodkom.com/MYBEIN/BEIN_GURME_HD.png" group-title="beIN Entertainment",BEIN GORMENT
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/375945
+#EXTINF:-1 tvg-ID="gourmet.qa" tvg-name="BEIN GOURMET HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_GURME_HD.png" group-title="beIN Entertainment",BEIN GOURMET HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59089
+#EXTINF:-1 tvg-ID="jeemtv.qa" tvg-name="BEIN JEEM 4K" tvg-logo="http://vodkom.com/MYBEIN/JEEM.png" group-title="beIN Entertainment",BEIN JEEM 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/375948
+#EXTINF:-1 tvg-ID="jeemtv.qa" tvg-name="BEIN JEEM HD" tvg-logo="http://vodkom.com/MYBEIN/JEEM.png" group-title="beIN Entertainment",BEIN JEEM HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59100
+#EXTINF:-1 tvg-ID="beinmovies1.qa" tvg-name="BEIN MOVIES 1 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_MOVIES_HD_1.png" group-title="beIN Entertainment",BEIN MOVIES 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59077
+#EXTINF:-1 tvg-ID="beinmovies2.qa" tvg-name="BEIN MOVIES 2 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_MOVIES_HD_2.png" group-title="beIN Entertainment",BEIN MOVIES 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59078
+#EXTINF:-1 tvg-ID="beinmovies3.qa" tvg-name="BEIN MOVIES 3 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_MOVIES_HD_3.png" group-title="beIN Entertainment",BEIN MOVIES 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59079
+#EXTINF:-1 tvg-ID="beinmovies4.qa" tvg-name="BEIN MOVIES 4 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_MOVIES_HD_4.png" group-title="beIN Entertainment",BEIN MOVIES 4 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59080
+#EXTINF:-1 tvg-ID="natgeo.qa" tvg-name="BEIN NAT GEO" tvg-logo="http://vodkom.com/MYBEIN/NAT_geo.png" group-title="beIN Entertainment",BEIN NAT GEO
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59097
+#EXTINF:-1 tvg-ID="natgeowildhd.qa" tvg-name="BEIN NAT GEO WILD" tvg-logo="http://vodkom.com/MYBEIN/Nat_Geo_WILD.png" group-title="beIN Entertainment",BEIN NAT GEO WILD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59099
+#EXTINF:-1 tvg-ID="beinseries1.qa" tvg-name="BEIN SERIES 1 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SERIES.png" group-title="beIN Entertainment",BEIN SERIES 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59082
+#EXTINF:-1 tvg-ID="beinseries2.qa" tvg-name="BEIN SERIES 2 HD" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SERIES_HD_3.png" group-title="beIN Entertainment",BEIN SERIES 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/59083
+#EXTINF:-1 tvg-ID="" tvg-name="-----| BEIN SPORTS |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE SPORTS",-----| BEIN SPORTS |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126934
+#EXTINF:-1 tvg-ID="" tvg-name="=====  BEINSPORT  4K =====" tvg-logo="" group-title="beIN Sport_ 4k",=====  BEINSPORT  4K =====
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2298508
+#EXTINF:-1 tvg-ID="" tvg-name="=====  BEINSPORT  HD =====" tvg-logo="http://vodkom.com/Logo/BEIN/beIN_Global.png" group-title="beIN Sports",=====  BEINSPORT  HD =====
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5208
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE 4K |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE CINEMA",-----| CINÉMA FRANCE 4K |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127234
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE CINEMA",-----| CINÉMA FRANCE SD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127254
+#EXTINF:-1 tvg-ID="" tvg-name="-----| CINÉMA FRANCE |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE CINEMA",-----| CINÉMA FRANCE |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127214
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE 4K |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DECOUVERTE",-----| DÉCOUVERTE FRANCE 4K |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127055
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DECOUVERTE",-----| DÉCOUVERTE FRANCE FHD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127034
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DÉCOUVERTE FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DECOUVERTE",-----| DÉCOUVERTE FRANCE SD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127077
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE HEVC |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DIVERTISSEMENT",-----| DIVERTISSEMENT FRANCE HEVC |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127179
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DIVERTISSEMENT",-----| DIVERTISSEMENT FRANCE FHD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127162
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DIVERTISSEMENT FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE DIVERTISSEMENT",-----| DIVERTISSEMENT FRANCE SD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127196
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| 6TER 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127304
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| 6TER FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127280
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| 6TER SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127326
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127184
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127167
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="|FR| 13EME RUE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127201
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB1 HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127187
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB1 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127170
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="|FR| AB1 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB1.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127204
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| AB 3 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/AB3.png" group-title="FRANCE DIVERTISSEMENT",|FR| AB 3 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127205
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="|FR| ACTION 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/ACTION.png" group-title="FRANCE CINEMA",|FR| ACTION 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127252
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| ACTION HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/ACTION.png" group-title="FRANCE CINEMA",|FR| ACTION HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127232
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| ACTION SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/ACTION_SD.png" group-title="FRANCE CINEMA",|FR| ACTION SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127271
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127073
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/ANIMAUX.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127051
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/ANIMAUX_SD.png" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127095
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| ARTE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127302
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| ARTE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127281
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| ARTE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127324
+#EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="|FR| AUTOMOTO HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/AUTOMOTO.png" group-title="FRANCE SPORTS",|FR| AUTOMOTO HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126959
+#EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="|FR| AUTOMOTO SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/AUTOMOTO_SD.png" group-title="FRANCE SPORTS",|FR| AUTOMOTO SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127032
+#EXTINF:-1 tvg-ID="beINSPORTSMAX4.fr" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_4.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 4 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126938
+#EXTINF:-1 tvg-ID="beINSPORTSMAX5.fr" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_5.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 5 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126939
+#EXTINF:-1 tvg-ID="beINSPORTSMAX6.fr" tvg-name="|FR| BEIN MAX 6 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_6.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 6 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126940
+#EXTINF:-1 tvg-ID="beINSPORTSMAX7.fr" tvg-name="|FR| BEIN MAX 7 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_7.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 7 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126941
+#EXTINF:-1 tvg-ID="beINSPORTSMAX8.fr" tvg-name="|FR| BEIN MAX 8 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_8.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 8 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126942
+#EXTINF:-1 tvg-ID="beINSPORTSMAX9.fr" tvg-name="|FR| BEIN MAX 9 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_9.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 9 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126943
+#EXTINF:-1 tvg-ID="beINSPORTSMAX10.fr" tvg-name="|FR| BEIN MAX 10 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_MAX_10.png" group-title="FRANCE SPORTS",|FR| BEIN MAX 10 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126944
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_1.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126980
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_1.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126935
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_1_SD.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127016
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_2.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126981
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_2.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126936
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_2_SD.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127017
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_3.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126982
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_3.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126937
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/BEIN_SPORTS_3_SD.png" group-title="FRANCE SPORTS",|FR| BEIN SPORTS 3 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127018
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="FRANCE DIVERTISSEMENT",|FR| BET HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127192
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="FRANCE DIVERTISSEMENT",|FR| BET FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127175
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="|FR| BET SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/BET.png" group-title="FRANCE DIVERTISSEMENT",|FR| BET SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127210
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM ALPES SUD HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| BFM ALPES SUD HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224442
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/BFM_BUSINESS.png" group-title="FRANCE INFOS",|FR| BFM BUSINESS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126770
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/BFM_BUSINESS.png" group-title="FRANCE INFOS",|FR| BFM BUSINESS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126754
+#EXTINF:-1 tvg-ID="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/BFM_BUSINESS_SD.png" group-title="FRANCE INFOS",|FR| BFM BUSINESS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126786
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM COTE D AZUR HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| BFM COTE D AZUR HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224440
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BFM HAUTE PROVINCE HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| BFM HAUTE PROVINCE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224443
+#EXTINF:-1 tvg-ID="bfmgrandlille.fr" tvg-name="|FR| BFM MARSEILLE HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| BFM MARSEILLE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224441
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/BFM_TV.png" group-title="FRANCE INFOS",|FR| BFM TV 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126769
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/BFM_TV.png" group-title="FRANCE INFOS",|FR| BFM TV FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126753
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/BFM_TV_SD.png" group-title="FRANCE INFOS",|FR| BFM TV SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126785
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| C NEWS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CNEWS.png" group-title="FRANCE INFOS",|FR| C NEWS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126767
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| C NEWS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CNEWS_SD.png" group-title="FRANCE INFOS",|FR| C NEWS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126783
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/165819
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="https://logo.yellowcdn.xyz/canalplus.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126810
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659289
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL+ 3D FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE MY CANAL",|FR| CANAL+ 3D FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126825
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT_360.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 360 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/645168
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ 360 FHD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT_360.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 360 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126834
+#EXTINF:-1 tvg-ID="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ 360 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT_360.png" group-title="FRANCE MY CANAL",|FR| CANAL+ 360 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659303
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CANAL+_CINEMA(S).png" group-title="FRANCE MY CANAL",|FR| CANAL+ CINEMA 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/169175
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_CINEMA(S).png" group-title="FRANCE MY CANAL",|FR| CANAL+ CINEMA FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126820
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_CINEMA(S)_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL+ CINEMA SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659295
+#EXTINF:-1 tvg-ID="canalplusdocs.fr" tvg-name="|FR| CANAL+ DOCS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CANAL+_DOCS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ DOCS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224455
+#EXTINF:-1 tvg-ID="EvenementsSports4KUHD.fr" tvg-name="|FR| CANAL+ EVENEMENT " tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_EVENEMENT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ EVENEMENT
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/1003904
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_FOOT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FOOT 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659286
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_FOOT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FOOT FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126832
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_FOOT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ FOOT SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659299
+#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CANAL+_GRAND_ECRAN.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224456
+#EXTINF:-1 tvg-ID="canalplusgrandecran.fr" tvg-name="|FR| CANAL+ GRAND ECRAN SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_GRAND_ECRAN_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL+ GRAND ECRAN SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659296
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CANAL+_KIDS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/199685
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_KIDS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126815
+#EXTINF:-1 tvg-ID="canalpluskids.fr" tvg-name="|FR| CANAL+ KIDS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_KIDS_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL+ KIDS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659293
+#EXTINF:-1 tvg-ID="CanalPlusLive1.fr" tvg-name="|FR| CANAL+LIVE 1" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_1.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 1
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666026
+#EXTINF:-1 tvg-ID="CanalPlusLive2.fr" tvg-name="|FR| CANAL+LIVE 2" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_2.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 2
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666027
+#EXTINF:-1 tvg-ID="CanalPlusLive3.fr" tvg-name="|FR| CANAL+LIVE 3" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_3.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 3
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666028
+#EXTINF:-1 tvg-ID="CanalPlusLive4.fr" tvg-name="|FR| CANAL+LIVE 4" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_4.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 4
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666029
+#EXTINF:-1 tvg-ID="CanalPlusLive5.fr" tvg-name="|FR| CANAL+LIVE 5" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_5.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 5
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666030
+#EXTINF:-1 tvg-ID="CanalPlusLive6.fr" tvg-name="|FR| CANAL+LIVE 6" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_6.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 6
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666031
+#EXTINF:-1 tvg-ID="CanalPlusLive7.fr" tvg-name="|FR| CANAL+LIVE 7" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_7.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 7
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666032
+#EXTINF:-1 tvg-ID="CanalPlusLive8.fr" tvg-name="|FR| CANAL+LIVE 8" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_8.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 8
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666033
+#EXTINF:-1 tvg-ID="CanalPlusLive9.fr" tvg-name="|FR| CANAL+LIVE 9" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_9.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 9
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666034
+#EXTINF:-1 tvg-ID="CanalPlusLive10.fr" tvg-name="|FR| CANAL+LIVE 10" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_10.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 10
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666035
+#EXTINF:-1 tvg-ID="CanalPlusLive11.fr" tvg-name="|FR| CANAL+LIVE 11" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_11.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 11
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666036
+#EXTINF:-1 tvg-ID="CanalPlusLive12.fr" tvg-name="|FR| CANAL+LIVE 12" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_12.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 12
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666037
+#EXTINF:-1 tvg-ID="CanalPlusLive13.fr" tvg-name="|FR| CANAL+LIVE 13" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_13.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 13
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666038
+#EXTINF:-1 tvg-ID="CanalPlusLive14.fr" tvg-name="|FR| CANAL+LIVE 14" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_14.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 14
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666039
+#EXTINF:-1 tvg-ID="CanalPlusLive15.fr" tvg-name="|FR| CANAL+LIVE 15" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_15.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 15
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666040
+#EXTINF:-1 tvg-ID="CanalPlusLive16.fr" tvg-name="|FR| CANAL+LIVE 16" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_16.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 16
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666041
+#EXTINF:-1 tvg-ID="CanalPlusLive17.fr" tvg-name="|FR| CANAL+LIVE 17" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_17.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 17
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666042
+#EXTINF:-1 tvg-ID="CanalPlusLive18.fr" tvg-name="|FR| CANAL+LIVE 18" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_18.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 18
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666043
+#EXTINF:-1 tvg-ID="CanalPlusLive19.fr" tvg-name="|FR| CANAL+LIVE 19" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_LIVE_19.png" group-title="FRANCE MY CANAL",|FR| CANAL+LIVE 19
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/666044
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL+ NEWS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CNEWS.png" group-title="FRANCE MY CANAL",|FR| CANAL+ NEWS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/169174
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL NEWS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CNEWS_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL NEWS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126812
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CANAL NEWS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CNEWS_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL NEWS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659290
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_PREMIER_LEAGUE.png" group-title="FRANCE MY CANAL",|FR| CANAL+ PREMIER LEAGUE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224457
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_PREMIER_LEAGUE.png" group-title="FRANCE MY CANAL",|FR| CANAL+ PREMIER LEAGUE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126835
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_PREMIER_LEAGUE.png" group-title="FRANCE MY CANAL",|FR| CANAL+ PREMIER LEAGUE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659305
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIE FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_SERIES.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SERIE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126814
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CANAL+_SERIES.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SERIES 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/199966
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CANAL+_SERIES_SD.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SERIES SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659292
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224454
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/CANAL+_SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126831
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659291
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/CANAL+_SPORT.png" group-title="FRANCE MY CANAL",|FR| CANAL+ SPORT SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659304
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE ET PECHE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127052
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CHASSE_ET_PECHE.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127074
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CHASSE_ET_PECHE_SD.png" group-title="FRANCE DECOUVERTE",|FR| CHASSE&PECHE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127096
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| CHERIE 25 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127313
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| CHERIE 25 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127291
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| CHERIE 25 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127335
+#EXTINF:-1 tvg-ID="CinePlusClassic.fr" tvg-name="|FR| CINE+ CLASSIC 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_CLASSIC.png" group-title="FRANCE CINEMA",|FR| CINE+ CLASSIC 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127240
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_CLASSIC.png" group-title="FRANCE CINEMA",|FR| CINE+ CLASSIC HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127220
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+  CLASSIC SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_CLASSIC_SD.png" group-title="FRANCE CINEMA",|FR| CINE+  CLASSIC SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127260
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/" group-title="FRANCE CINEMA",|FR| CINE+ CLUB 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127239
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE CINEMA",|FR| CINE+ CLUB HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127219
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE CINEMA",|FR| CINE+ CLUB SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127259
+#EXTINF:-1 tvg-ID="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_EMOTION.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127237
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_EMOTION.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127217
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_EMOTION_SD.png" group-title="FRANCE CINEMA",|FR| CINE+ EMOTION SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127257
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_FAMIZ.png" group-title="FRANCE CINEMA",|FR| CINE+ FAMIZ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127238
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ FAMIZ SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_FAMIZ.png" group-title="FRANCE CINEMA",|FR| CINE+ FAMIZ SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127258
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_FESTIVAL.png" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861324
+#EXTINF:-1 tvg-ID="CinePlusClub.fr" tvg-name="|FR| CINE+ FESTIVAL HD 4ᴋ" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_FESTIVAL.png" group-title="FRANCE CINEMA",|FR| CINE+ FESTIVAL HD 4ᴋ
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861323
+#EXTINF:-1 tvg-ID="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_FRISSON_FHD+.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127236
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_FRISSON.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127216
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_FRISSON_SD.png" group-title="FRANCE CINEMA",|FR| CINE+ FRISSON SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127256
+#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_OCS.png" group-title="FRANCE CINEMA",|FR| CINE+ OCS HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861322
+#EXTINF:-1 tvg-ID="cineplusocs.fr" tvg-name="|FR| CINE+ OCS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_OCS.png" group-title="FRANCE CINEMA",|FR| CINE+ OCS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861325
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="|FR| CINE+ PREMIER 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CINE+_PREMIER.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127235
+#EXTINF:-1 tvg-ID="CinePlusPremier.be" tvg-name="|FR| CINE+ PREMIER HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_PREMIER.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127215
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CINE+_PREMIER.png" group-title="FRANCE CINEMA",|FR| CINE+ PREMIER SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127255
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| CNEWS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CNEWS.png" group-title="FRANCE INFOS",|FR| CNEWS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126751
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127181
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE+  FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE+  FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127164
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127198
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127195
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127178
+#EXTINF:-1 tvg-ID="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127213
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/CRIME_DISTRICT.png" group-title="FRANCE CINEMA",|FR| CRIME DISTRICT 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127249
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CRIME_DISTRICT.png" group-title="FRANCE CINEMA",|FR| CRIME DISTRICT HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127229
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/CRIME_DISTRICT_SD.png" group-title="FRANCE CINEMA",|FR| CRIME DISTRICT SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127269
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="FRANCE TNT",|FR| CSTAR 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127310
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="FRANCE TNT",|FR| CSTAR FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127288
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png " group-title="FRANCE TNT",|FR| CSTAR SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127332
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/DISCOVERY_CHANNEL.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127061
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/DISCOVERY_CHANNEL.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127040
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127083
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY ID 4K" tvg-logo="http://vodkom.com/LOGO/discoveryid.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY ID 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127064
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISCOVERY ID SD" tvg-logo="http://vodkom.com/LOGO/discoveryid.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY ID SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127086
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/DISCOVERY_INVESTIGATION.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127065
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/DISCOVERY_INVESTIGATION.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127042
+#EXTINF:-1 tvg-ID="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION SD" tvg-logo="http://vodkom.com/LOGO/discovery.png" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127087
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="FRANCE DIVERTISSEMENT",|FR| E! HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127183
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="FRANCE DIVERTISSEMENT",|FR| E! FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127166
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! ENTERTAINMENT SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/E!_Entertainment.png" group-title="FRANCE DIVERTISSEMENT",|FR| E! ENTERTAINMENT SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127200
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EQUIDIA_LIVE.png" group-title="FRANCE SPORTS",|FR| EQUIDIA LIVE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126993
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EQUIDIA_LIVE.png" group-title="FRANCE SPORTS",|FR| EQUIDIA LIVE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126956
+#EXTINF:-1 tvg-ID="equidia.fr" tvg-name="|FR| EQUIDIA LIVE SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EQUIDIA_LIVE_SD.png" group-title="FRANCE SPORTS",|FR| EQUIDIA LIVE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127031
+#EXTINF:-1 tvg-ID="es1.fr" tvg-name="|FR| ES1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/" group-title="FRANCE SPORTS",|FR| ES1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126961
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/EURONEWS.png" group-title="FRANCE INFOS",|FR| EURONEWS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126758
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FRENCH 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/EURONEWS.png" group-title="FRANCE INFOS",|FR| EURONEWS FRENCH 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126774
+#EXTINF:-1 tvg-ID="euronews.fr" tvg-name="|FR| EURONEWS FRENCH SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/EURONEWS_SD.png" group-title="FRANCE INFOS",|FR| EURONEWS FRENCH SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126790
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_1.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126994
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_1.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126957
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_1_SD.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127026
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_2.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126995
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_2.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126958
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_2_SD.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127027
+#EXTINF:-1 tvg-ID="eurosport3601.fr" tvg-name="|FR| EUROSPORT 360 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_360_1.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 360 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/606119
+#EXTINF:-1 tvg-ID="eurosport3602.fr" tvg-name="|FR| EUROSPORT 360 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_360_2.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 360 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/606120
+#EXTINF:-1 tvg-ID="eurosport3603.fr" tvg-name="|FR| EUROSPORT 360 3 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_360_3.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 360 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/606121
+#EXTINF:-1 tvg-ID="eurosport3604.fr" tvg-name="|FR| EUROSPORT 360 4 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_360_4.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 360 4 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/606122
+#EXTINF:-1 tvg-ID="eurosport3605.fr" tvg-name="|FR| EUROSPORT 360 5 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/EUROSPORT_360_5.png" group-title="FRANCE SPORTS",|FR| EUROSPORT 360 5 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/606123
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE24 FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/FRANCE24.png" group-title="FRANCE INFOS",|FR| FRANCE24 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126761
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127297
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 2 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127275
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127319
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127298
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 3 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127276
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 3 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127320
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| FRANCE 3 NOA HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| FRANCE 3 NOA HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224422
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 4 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127300
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 4 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127278
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 4 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127322
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 5 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127301
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 5 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127279
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| FRANCE 5 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127323
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE 24 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/FRANCE24.png" group-title="FRANCE INFOS",|FR| FRANCE 24 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126777
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE 24 SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/FRANCE24_SD.png" group-title="FRANCE INFOS",|FR| FRANCE 24 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126792
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/FRANCE_INFO.png" group-title="FRANCE INFOS",|FR| FRANCE INFO 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126768
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/FRANCE_INFO.png" group-title="FRANCE INFOS",|FR| FRANCE INFO FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126752
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/FRANCE_INFO_SD.png" group-title="FRANCE INFOS",|FR| FRANCE INFO SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126784
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_FHD/GOLF+.png" group-title="FRANCE SPORTS",|FR| GOLF+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126997
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/GOLF+.png" group-title="FRANCE SPORTS",|FR| GOLF+ HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126960
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/GOLF+_SD.png" group-title="FRANCE SPORTS",|FR| GOLF+ SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127033
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GONG HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| GONG HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224428
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GONG MAX HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| GONG MAX HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224429
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GOURMAND TV HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| GOURMAND TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224427
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127067
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/HISTOIRE_TV_SD.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127089
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE TV FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/HISTOIRE_TV.png" group-title="FRANCE DECOUVERTE",|FR| HISTOIRE TV FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127045
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I24 NEWS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/I24_NEWS.png" group-title="FRANCE INFOS",|FR| I24 NEWS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126762
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I 24 NEWS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/I24_NEWS.png" group-title="FRANCE INFOS",|FR| I 24 NEWS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126778
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="|FR| I 24 NEWS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/I24_NEWS_SD.png" group-title="FRANCE INFOS",|FR| I 24 NEWS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126793
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| IMEARTH HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| IMEARTH HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224450
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| INFOSPORT+ 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/INFOSPORT+.png" group-title="FRANCE SPORTS",|FR| INFOSPORT+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126991
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/INFOSPORT+.png" group-title="FRANCE SPORTS",|FR| INFOSPORT+ HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126954
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="|FR| KTO FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/KTO.png" group-title="FRANCE DIVERTISSEMENT",|FR| KTO FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/147875
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="|FR| KTO SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/KTO.png" group-title="FRANCE DIVERTISSEMENT",|FR| KTO SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/147876
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/LEQUIPE.png" group-title="FRANCE SPORTS",|FR| L EQUIPE 21 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126992
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L" group-title="FRANCE SPORTS",|FR| L EQUIPE 21 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126955
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L EQUIPE 21 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/LEQUIPE.png" group-title="FRANCE SPORTS",|FR| L EQUIPE 21 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127030
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/LA_CHAINE_METEO.png" group-title="FRANCE INFOS",|FR| LA CHAINE METEO 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126766
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/LA_CHAINE_METEO.png" group-title="FRANCE INFOS",|FR| LA CHAINE METEO FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126750
+#EXTINF:-1 tvg-ID="lachainemeteo.fr" tvg-name="|FR| LA CHAINE METEO SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/LA_CHAINE_METEO_SD.png" group-title="FRANCE INFOS",|FR| LA CHAINE METEO SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126782
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LA CHAINE NORMANDE HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| LA CHAINE NORMANDE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224436
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/LCI.png" group-title="FRANCE INFOS",|FR| LCI 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126772
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/LCI_SD.png" group-title="FRANCE INFOS",|FR| LCI SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126788
+#EXTINF:-1 tvg-ID="publicsenat.fr" tvg-name="|FR| LCP 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/LCP_PUBLIC_SÉNAT.png" group-title="FRANCE INFOS",|FR| LCP 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126773
+#EXTINF:-1 tvg-ID="publicsenat.fr" tvg-name="|FR| LCP FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/LCP_PUBLIC_SÉNAT.png" group-title="FRANCE INFOS",|FR| LCP FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126757
+#EXTINF:-1 tvg-ID="LaChaineParlementaire.fr" tvg-name="|FR| LCP SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/LCP_PUBLIC_SÉNAT_SD.png" group-title="FRANCE INFOS",|FR| LCP SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126789
+#EXTINF:-1 tvg-ID="LEquipeLive1.fr" tvg-name="|FR| LEQUIPE LIVE 1 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_1.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631899
+#EXTINF:-1 tvg-ID="LEquipeLive1.fr" tvg-name="|FR| LEQUIPE LIVE 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_1.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631889
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 2 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_2.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631900
+#EXTINF:-1 tvg-ID="LEquipeLive2.fr" tvg-name="|FR| LEQUIPE LIVE 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_2.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631890
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 3 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_3.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 3 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631901
+#EXTINF:-1 tvg-ID="LEquipeLive3.fr" tvg-name="|FR| LEQUIPE LIVE 3 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_3.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 3 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631891
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 4 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_4.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 4 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631902
+#EXTINF:-1 tvg-ID="LEquipeLive4.fr" tvg-name="|FR| LEQUIPE LIVE 4 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_4.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 4 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631892
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 5 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_5.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 5 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631903
+#EXTINF:-1 tvg-ID="LEquipeLive5.fr" tvg-name="|FR| LEQUIPE LIVE 5 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_5.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 5 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631893
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 6 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_6.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 6 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631904
+#EXTINF:-1 tvg-ID="LEquipeLive6.fr" tvg-name="|FR| LEQUIPE LIVE 6 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_6.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 6 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631894
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 7 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_7.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 7 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631905
+#EXTINF:-1 tvg-ID="LEquipeLive7.fr" tvg-name="|FR| LEQUIPE LIVE 7 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_7.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 7 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631895
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 8 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_8.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 8 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631906
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 8 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_8.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 8 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631896
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 9 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_9.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 9 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631907
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 9 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_9.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 9 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631897
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 10 4K (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_10.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 10 4K (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631908
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LEQUIPE LIVE 10 HD (EVENT)" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/L'EQUIPE_LIVE_10.png" group-title="FRANCE SPORTS",|FR| LEQUIPE LIVE 10 HD (EVENT)
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/631898
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LUCKY JACK HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| LUCKY JACK HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224435
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LUXE TV HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| LUXE TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224434
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127303
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127282
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127325
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 INTERNATIONAL 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 INTERNATIONAL 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/272387
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 INTERNATIONAL FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| M6 INTERNATIONAL FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/272388
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MAISON ET TRAVAUX HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| MAISON ET TRAVAUX HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224433
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MOTORVISION HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| MOTORVISION HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224411
+#EXTINF:-1 tvg-ID="MotorVisionTV.fr" tvg-name="|FR| MOTORVISION HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/MOTORSPORT_TV.png" group-title="FRANCE SPORTS",|FR| MOTORVISION HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/260524
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|  MY ZEN TV HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR|  MY ZEN TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224420
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/NAT_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127059
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NAT_GEO.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127038
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NAT GEO SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE DECOUVERTE",|FR| NAT GEO SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127081
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/NAT_GEO_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127060
+#EXTINF:-1 tvg-ID="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NAT_GEO_WILD.png" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127039
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="|FR| NAT GEO WILD SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE DECOUVERTE",|FR| NAT GEO WILD SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127082
+#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="|FR| NAUTICAL FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NAUTICAL.png" group-title="FRANCE DECOUVERTE",|FR| NAUTICAL FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127054
+#EXTINF:-1 tvg-ID="nauticalchannel.fr" tvg-name="|FR| NAUTICAL CHANNEL SD " tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NAUTICAL_SD.png" group-title="FRANCE DECOUVERTE",|FR| NAUTICAL CHANNEL SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127097
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ACTION" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX ACTION
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861330
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ADVENTURE" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX ADVENTURE
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861331
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX COMEDY" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX COMEDY
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861334
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX DOCUMENTARY" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX DOCUMENTARY
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861336
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX DRAMA" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX DRAMA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861333
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX FANTASY" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX FANTASY
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861329
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX HORROR" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX HORROR
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861335
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX KIDS" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX KIDS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861338
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX ROMANCE" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX ROMANCE
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861332
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX SCI-FI" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX SCI-FI
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861328
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX SPORTS" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX SPORTS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861337
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NETFLIX THRILLER" tvg-logo="http://vodkom.com/LOGO/netflix.png" group-title="FRANCE CINEMA",|FR| NETFLIX THRILLER
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/861327
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="|FR| NOVELAS TV 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127247
+#EXTINF:-1 tvg-ID="novelastv.fr" tvg-name="|FR| NOVELAS TV HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NOVELAS_TV.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127227
+#EXTINF:-1 tvg-ID="novelastv.fr" tvg-name="|FR| NOVELAS TV SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/NOVELAS_TV_SD.png" group-title="FRANCE CINEMA",|FR| NOVELAS TV SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127267
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 SD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| NRJ12 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127328
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 4K" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| NRJ 12 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127306
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| NRJ 12 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127284
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="|FR| OL TV HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/OL_TV.png" group-title="FRANCE SPORTS",|FR| OL TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126952
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/PARAMOUNT_CHANNEL.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127250
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PARAMOUNT_CHANNEL.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127230
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PARAMOUNT_CHANNEL_SD.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127270
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/PARAMOUNT_DECALE.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT DECALE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127251
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="|FR| PARAMOUNT DECALE HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PARAMOUNT_DECALE.png" group-title="FRANCE CINEMA",|FR| PARAMOUNT DECALE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127231
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="FRANCE DIVERTISSEMENT",|FR| PARIS PREMIERE HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127189
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="FRANCE DIVERTISSEMENT",|FR| PARIS PREMIERE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127172
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="FRANCE DIVERTISSEMENT",|FR| PARIS PREMIERE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127207
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127056
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127035
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+_SD.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127078
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE A&E 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/PLANETE+_AVENTURE.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE A&E 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127057
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+_AVENTURE.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ A&E FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127036
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| PLANETE  A&E SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+_AVENTURE_SD.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE  A&E SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127079
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/PLANETE+_CRIME.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127058
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+_CRIME.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127037
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ CI SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/PLANETE+_CRIME_SD.png" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ CI SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127080
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/POLAR+.png" group-title="FRANCE CINEMA",|FR| POLAR+ 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127248
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR+ HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/POLAR+.png" group-title="FRANCE CINEMA",|FR| POLAR+ HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127228
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="|FR| POLAR  SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/POLAR+_SD.png" group-title="FRANCE CINEMA",|FR| POLAR  SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127268
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/RMC_DECOUVERTE.png" group-title="FRANCE DECOUVERTE",|FR| RMC DECOUVERTE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127071
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/RMC_DECOUVERTE.png" group-title="FRANCE DECOUVERTE",|FR| RMC DECOUVERTE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127049
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/RMC_DECOUVERTE_SD.png" group-title="FRANCE DECOUVERTE",|FR| RMC DECOUVERTE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127093
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126964
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/658067
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_1_SD.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127000
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_2.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 2 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126965
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_2.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 2 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/658068
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_2_SD.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 2 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127001
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_3.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 3 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126966
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_3.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 3 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/658069
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 3 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_3_SD.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 3 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127002
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_4.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 4 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126967
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_4.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 4 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/658070
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 4 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_4_SD.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 4 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127003
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_5.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 5 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126968
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_5.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 5 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126923
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_5.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 5 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127004
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_6.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 6 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126969
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_6.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 6 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127005
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_7.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 7 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126970
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_7.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 7 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126925
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_7.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 7 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127006
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_8.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 8 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126971
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_8.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 8 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126926
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_8.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 8 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127007
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_9.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 9 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126972
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_9.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 9 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126927
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_9.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 9 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127008
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_10.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 10 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126973
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_10.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 10 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126928
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_10.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 10 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127009
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_11.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 11 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126974
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_11.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 11 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126929
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_11.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 11 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127010
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 4K" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_12.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 12 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126975
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_12.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 12 HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126930
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 SD" tvg-logo="http://vodkom.com/LOGO/TV_SPORTS_FR_HD/RMC_SPORT_LIVE_12.png" group-title="FRANCE SPORTS",|FR| RMC SPORT LIVE 12 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127011
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY 4K" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| RMC STORY 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127312
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| RMC STORY FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127290
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY SD" tvg-logo="http://vodkom.com/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="FRANCE TNT",|FR| RMC STORY SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127334
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ROUGE TV FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/" group-title="FRANCE INFOS",|FR| ROUGE TV FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126763
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT NEWS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/RT_NEWS.png" group-title="FRANCE INFOS",|FR| RT NEWS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/1054874
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT NEWS HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/RT_NEWS.png" group-title="FRANCE INFOS",|FR| RT NEWS HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/1054875
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127169
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL 9 HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="FRANCE DIVERTISSEMENT",|FR| RTL 9 HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127186
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL 9 SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/RTL9.png" group-title="FRANCE DIVERTISSEMENT",|FR| RTL 9 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127203
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCE ET VIE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/SCIENCE_&_VIE_TV_SD.png" group-title="FRANCE DECOUVERTE",|FR| SCIENCE ET VIE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127092
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCE & VIE TV FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/SCIENCE_&_VIE_TV.png" group-title="FRANCE DECOUVERTE",|FR| SCIENCE & VIE TV FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127048
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127069
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/SEASONS.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127047
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="|FR| SEASONS SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/SEASONS_SD.png" group-title="FRANCE DECOUVERTE",|FR| SEASONS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127091
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="FRANCE DIVERTISSEMENT",|FR| SERIE CLUB HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127188
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="FRANCE DIVERTISSEMENT",|FR| SERIE CLUB FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127171
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="|FR| SERIE CLUB SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="FRANCE DIVERTISSEMENT",|FR| SERIE CLUB SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127206
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127182
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127165
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127199
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/TCM_CINEMA.png" group-title="FRANCE CINEMA",|FR| TCM CINEMA 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127253
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TCM_CINEMA.png" group-title="FRANCE CINEMA",|FR| TCM CINEMA HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127233
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TCM_CINEMA_SD.png" group-title="FRANCE CINEMA",|FR| TCM CINEMA SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127272
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TEBEO HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| TEBEO HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224417
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127185
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127168
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TEVA.png" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127202
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127296
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/634532
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127318
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES-FILMS 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SERIES-FILMS 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127308
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127286
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SERIES FILMS SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127330
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TF1+ STAR ACADEMY FHD" tvg-logo="" group-title="FRANCE TNT",|FR| TF1+ STAR ACADEMY FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215806
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TF1+ STAR ACADEMY HD" tvg-logo="" group-title="FRANCE TNT",|FR| TF1+ STAR ACADEMY HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215807
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TF1+ STAR ACADEMY SD" tvg-logo="" group-title="FRANCE TNT",|FR| TF1+ STAR ACADEMY SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/3215808
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127307
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127285
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TFX SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127329
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TMC 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127311
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TMC FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127289
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| TMC SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127333
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| TOP SANTE TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224418
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/TOUTE_L_HISTOIRE.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127068
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TOUTE_L_HISTOIRE.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127046
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TOUTE_L_HISTOIRE_SD.png" group-title="FRANCE DECOUVERTE",|FR| TOUTE L HISTOIRE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127090
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127066
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TREK.png" group-title="FRANCE DECOUVERTE",|FR| TREK FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127044
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK SD" tvg-logo="http://vodkom.com/LOGO/trek.png" group-title="FRANCE DECOUVERTE",|FR| TREK SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127088
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/TV5_MONDE.png" group-title="FRANCE INFOS",|FR| TV5 MONDE 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126776
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TV5_MONDE.png" group-title="FRANCE INFOS",|FR| TV5 MONDE FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126760
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/TV5_MONDE_SD.png" group-title="FRANCE INFOS",|FR| TV5 MONDE SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126791
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH HEVC" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="FRANCE DIVERTISSEMENT",|FR| TV BREIZH HEVC
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127190
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="FRANCE DIVERTISSEMENT",|FR| TV BREIZH FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127173
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH SD" tvg-logo="http://vodkom.com/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="FRANCE DIVERTISSEMENT",|FR| TV BREIZH SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127208
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127072
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/USHUAIA_TV_SD.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127094
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/USHUAIA_TV.png" group-title="FRANCE DECOUVERTE",|FR| USHUAIA TV FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127050
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| VIA MATELE HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| VIA MATELE HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224431
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 4K" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| W9 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127305
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| W9 FHD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127283
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 SD" tvg-logo="http://vodkom.com/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="FRANCE TNT",|FR| W9 SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127327
+#EXTINF:-1 tvg-ID="WarnerTV.fr" tvg-name="|FR| WARNER TV 4K" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/WARNER_TV.png" group-title="FRANCE CINEMA",|FR| WARNER TV 4K
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127246
+#EXTINF:-1 tvg-ID="warnertv.fr" tvg-name="|FR| WARNER TV SD" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_HD/WARNER_TV_SD.png" group-title="FRANCE CINEMA",|FR| WARNER TV SD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127266
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ZOUK TV HD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| ZOUK TV HD
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/224451
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE 4K |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE INFOS",-----| INFOS FRANCE 4K |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126765
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE INFOS",-----| INFOS FRANCE FHD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126749
+#EXTINF:-1 tvg-ID="" tvg-name="-----| INFOS FRANCE SD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE INFOS",-----| INFOS FRANCE SD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126781
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE 4K |-----" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/FLAG_FRANCE.png" group-title="FRANCE MY CANAL",-----| MY CANAL FRANCE 4K |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/165818
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE FHD |-----" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/FLAG_FRANCE.png" group-title="FRANCE MY CANAL",-----| MY CANAL FRANCE FHD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126808
+#EXTINF:-1 tvg-ID="" tvg-name="-----| MY CANAL FRANCE SD |-----" tvg-logo="http://vodkom.com/LOGO/TV_FRANCE_FHD/FLAG_FRANCE.png" group-title="FRANCE MY CANAL",-----| MY CANAL FRANCE SD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/659288
+#EXTINF:-1 tvg-ID="" tvg-name="-----| RMC SPORT |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE SPORTS",-----| RMC SPORT |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126917
+#EXTINF:-1 tvg-ID="" tvg-name="-----| SPORTS |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE SPORTS",-----| SPORTS |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/126945
+#EXTINF:-1 tvg-ID="" tvg-name="-----| TNT FRANCE 4K |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE TNT",-----| TNT FRANCE 4K |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127295
+#EXTINF:-1 tvg-ID="" tvg-name="-----| TNT FRANCE FHD |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE TNT",-----| TNT FRANCE FHD |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2660530
+#EXTINF:-1 tvg-ID="" tvg-name="-----| TNT FRANCE |-----" tvg-logo="http://vodkom.com/Logo/EVENT/1-fr.png" group-title="FRANCE TNT",-----| TNT FRANCE |-----
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/127317
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6814
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sports",|AR| BEIN SPORTS 1 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6727
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6823
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sports",|AR| BEIN SPORTS 2 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60960
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 3 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6815
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sports",|AR| BEIN SPORTS 3 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60964
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 4 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6818
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sports",|AR| BEIN SPORTS 4 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60969
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 5 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6817
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sports",|AR| BEIN SPORTS 5 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117946
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 6 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6819
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sports",|AR| BEIN SPORTS 6 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/135165
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 7 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6820
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sports",|AR| BEIN SPORTS 7 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/394074
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 8 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6821
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sports",|AR| BEIN SPORTS 8 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576498
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 9 4K MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/6822
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sports",|AR| BEIN SPORTS 9 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/667032
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS EN 1 HD MS" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-1-fhd.png" group-title="beIN Sports",|AR| BEIN SPORTS EN 1 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772979
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 1 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772988
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 2 HD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772992
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS FHD MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS.png" group-title="beIN Sport_ FHD",BEIN SPORTS FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771281
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771283
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ FHD",BEIN SPORTS 2 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771286
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ FHD",BEIN SPORTS 3 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771289
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ FHD",BEIN SPORTS 4 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771291
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ FHD",BEIN SPORTS 5 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771294
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ FHD",BEIN SPORTS 6 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771297
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ FHD",BEIN SPORTS 7 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771300
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ FHD",BEIN SPORTS 8 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771303
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD MS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ FHD",BEIN SPORTS 9 FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771306
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS FHD MS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sport_ FHD",BEIN SPORTS NEWS FHD MS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771279
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771137
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sports",|AR| BEIN SPORTS 1 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5241
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS 1 EN 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 EN 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771146
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771138
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sports",|AR| BEIN SPORTS 2 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60956
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS 2 EN 4K NX" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-2-fhd.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 EN 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771147
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 3 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771139
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sports",|AR| BEIN SPORTS 3 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60963
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 4 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771140
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sports",|AR| BEIN SPORTS 4 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60967
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 5 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771141
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sports",|AR| BEIN SPORTS 5 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117945
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 6 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771142
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sports",|AR| BEIN SPORTS 6 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/118456
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 7 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771143
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sports",|AR| BEIN SPORTS 7 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/394073
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 8 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771144
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sports",|AR| BEIN SPORTS 8 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576497
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 9 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771145
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sports",|AR| BEIN SPORTS 9 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576501
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS EN 1 HD NX" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-1-fhd.png" group-title="beIN Sports",|AR| BEIN SPORTS EN 1 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772980
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS EN 2 HD NX" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-2-fhd.png" group-title="beIN Sports",|AR| BEIN SPORTS EN 2 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772982
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS FR 1 HD NX" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-1-FHD.png" group-title="beIN Sports",|AR| BEIN SPORTS FR 1 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772984
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 2 HD NX" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-2-FHD.png" group-title="beIN Sports",|AR| BEIN SPORTS FR 2 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772986
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="|AR| BEIN SPORTS GLOBAL HD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sports",|AR| BEIN SPORTS GLOBAL HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5239
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="|AR| BEIN SPORTS GLOBAL HD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS.png" group-title="beIN Sports",|AR| BEIN SPORTS GLOBAL HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5235
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="|AR| BEIN SPORTS NEWS HD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sports",|AR| BEIN SPORTS NEWS HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5231
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 1 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771148
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 1 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772989
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 2 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771149
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 2 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772994
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 4K NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS XTRA 3 4K NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771150
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 HD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 3 HD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772996
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS FHD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS.png" group-title="beIN Sport_ FHD",BEIN SPORTS FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771282
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771284
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ FHD",BEIN SPORTS 2 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771287
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ FHD",BEIN SPORTS 4 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771292
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ FHD",BEIN SPORTS 5 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771295
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ FHD",BEIN SPORTS 6 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771298
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ FHD",BEIN SPORTS 7 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771301
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ FHD",BEIN SPORTS 8 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771304
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD NX" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ FHD",BEIN SPORTS 9 FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771307
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS FHD NX" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sport_ FHD",BEIN SPORTS NEWS FHD NX
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771280
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402504
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sports",|AR| BEIN SPORTS 1 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60954
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402505
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sports",|AR| BEIN SPORTS 2 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60961
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 3 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402506
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sports",|AR| BEIN SPORTS 3 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60965
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 4 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402507
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sports",|AR| BEIN SPORTS 4 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60970
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 5 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402508
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sports",|AR| BEIN SPORTS 5 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117948
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 6 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402509
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sports",|AR| BEIN SPORTS 6 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/135166
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 7 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402510
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sports",|AR| BEIN SPORTS 7 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/394075
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 8 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402511
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sports",|AR| BEIN SPORTS 8 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576499
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 9 4K SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/402512
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sports",|AR| BEIN SPORTS 9 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772977
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 1 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772990
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 2 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772993
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 HD SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 3 HD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772997
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771285
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD SA" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ FHD",BEIN SPORTS 2 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771288
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ FHD",BEIN SPORTS 3 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771290
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ FHD",BEIN SPORTS 4 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771293
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ FHD",BEIN SPORTS 5 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771296
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ FHD",BEIN SPORTS 6 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771299
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ FHD",BEIN SPORTS 7 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771302
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ FHD",BEIN SPORTS 8 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771305
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD SA" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ FHD",BEIN SPORTS 9 FHD SA
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2771308
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 1 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760350
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sports",|AR| BEIN SPORTS 1 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5240
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 2 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760351
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sports",|AR| BEIN SPORTS 2 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60955
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 3 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760352
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sports",|AR| BEIN SPORTS 3 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60962
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 4 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760353
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sports",|AR| BEIN SPORTS 4 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60966
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 5 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760354
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sports",|AR| BEIN SPORTS 5 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/63503
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 6 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760355
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sports",|AR| BEIN SPORTS 6 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/117949
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 7 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760356
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sports",|AR| BEIN SPORTS 7 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/290371
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 8 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760357
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sports",|AR| BEIN SPORTS 8 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576496
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ 4k",|AR| BEIN SPORTS 9 4K SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2760358
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sports",|AR| BEIN SPORTS 9 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/576500
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS EN 1 HD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-1-fhd.png" group-title="beIN Sports",|AR| BEIN SPORTS EN 1 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772978
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS EN 2 HD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-2-fhd.png" group-title="beIN Sports",|AR| BEIN SPORTS EN 2 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772981
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS FR 1 HD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-1-FHD.png" group-title="beIN Sports",|AR| BEIN SPORTS FR 1 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772983
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 2 HD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-2-FHD.png" group-title="beIN Sports",|AR| BEIN SPORTS FR 2 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772985
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="|AR| BEIN SPORTS GLOBAL HD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sports",|AR| BEIN SPORTS GLOBAL HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5237
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="|AR| BEIN SPORTS NEWS HD SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="beIN Sports",|AR| BEIN SPORTS NEWS HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/5229
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 HD SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 1 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772987
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 HD SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 2 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772991
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 HD SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sports",|AR| BEIN SPORTS XTRA 3 HD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/2772995
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_1.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60958
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 EN FHD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/eng-1-fhd.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 EN FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36295
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="BEIN SPORTS 1 FR FHD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-1-FHD.png" group-title="beIN Sport_ FHD",BEIN SPORTS 1 FR FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/63499
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD SS" tvg-logo="http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png" group-title="beIN Sport_ FHD",BEIN SPORTS 2 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/28751
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="BEIN SPORTS 2 FR FHD SS" tvg-logo="http://vodkom.com/Logo/BEIN1/Fr-2-FHD.png" group-title="beIN Sport_ FHD",BEIN SPORTS 2 FR FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/63500
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_3.png" group-title="beIN Sport_ FHD",BEIN SPORTS 3 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/60959
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_4.png" group-title="beIN Sport_ FHD",BEIN SPORTS 4 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36301
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_5.png" group-title="beIN Sport_ FHD",BEIN SPORTS 5 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36302
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_6.png" group-title="beIN Sport_ FHD",BEIN SPORTS 6 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36300
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_7.png" group-title="beIN Sport_ FHD",BEIN SPORTS 7 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36299
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_8.png" group-title="beIN Sport_ FHD",BEIN SPORTS 8 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36298
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_9.png" group-title="beIN Sport_ FHD",BEIN SPORTS 9 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36297
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="beIN Sport_ FHD",BEIN SPORTS XTRA 1 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/135167
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="beIN Sport_ FHD",BEIN SPORTS XTRA 2 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/135168
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XTRA 3 FHD SS" tvg-logo="http://vodkom.com//MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="beIN Sport_ FHD",BEIN SPORTS XTRA 3 FHD SS
+http://telves.net:88/BZ8TISPV8Q/UEUXOQCVFU/36296

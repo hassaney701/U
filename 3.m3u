@@ -1,0 +1,608 @@
+#EXTM3U
+#M3U_EXTRACT: cf.business-cloud-8.ru
+#EXTINF:-1 tvg-name="DAZN 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="DAZN Sport",DAZN 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133298.ts
+#EXTINF:-1 tvg-name="DAZN 1 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6580.png?95057" group-title="DAZN Sport",DAZN 1 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839951.ts
+#EXTINF:-1 tvg-name="DAZN 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6580.png?81420" group-title="DAZN Sport",DAZN 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839966.ts
+#EXTINF:-1 tvg-name="DAZN 1 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="DAZN Sport",DAZN 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133310.ts
+#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6580.png?42836" group-title="DAZN Sport",DAZN 1 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839960.ts
+#EXTINF:-1 tvg-name="DAZN 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="DAZN Sport",DAZN 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133297.ts
+#EXTINF:-1 tvg-name="DAZN 2 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6578.png?62861" group-title="DAZN Sport",DAZN 2 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839950.ts
+#EXTINF:-1 tvg-name="DAZN 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6578.png?75476" group-title="DAZN Sport",DAZN 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839965.ts
+#EXTINF:-1 tvg-name="DAZN 2 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="DAZN Sport",DAZN 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133309.ts
+#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6578.png?95555" group-title="DAZN Sport",DAZN 2 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839959.ts
+#EXTINF:-1 tvg-name="DAZN 3 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12608.jpg?40841" group-title="DAZN Sport",DAZN 3 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839949.ts
+#EXTINF:-1 tvg-name="DAZN 3 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12608.jpg?93284" group-title="DAZN Sport",DAZN 3 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839958.ts
+#EXTINF:-1 tvg-name="DAZN 4 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12607.jpg?10692" group-title="DAZN Sport",DAZN 4 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839948.ts
+#EXTINF:-1 tvg-name="DAZN 4 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12607.jpg?10692" group-title="DAZN Sport",DAZN 4 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839957.ts
+#EXTINF:-1 tvg-name="DAZN F1® ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="DAZN Sport",DAZN F1® ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133296.ts
+#EXTINF:-1 tvg-name="DAZN F1 ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?1697" group-title="DAZN Sport",DAZN F1 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839952.ts
+#EXTINF:-1 tvg-name="DAZN F1 ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?1697" group-title="DAZN Sport",DAZN F1 ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839953.ts
+#EXTINF:-1 tvg-name="DAZN F1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?31639" group-title="DAZN Sport",DAZN F1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839967.ts
+#EXTINF:-1 tvg-name="DAZN F1® ᴴᴰ" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="DAZN Sport",DAZN F1® ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133308.ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN LALIGA",DAZN LA LIGA ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839972.ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA ʰᵉᵛᶜ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN LALIGA",DAZN LA LIGA ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839973.ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA ᴴᴰ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN LALIGA",DAZN LA LIGA ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839982.ts
+#EXTINF:-1 tvg-name="DAZN LA LIGA 2 ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="DAZN LALIGA",DAZN LA LIGA 2 ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839971.ts
+#EXTINF:-1 tvg-name="DAZN LALIGA ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN LALIGA",DAZN LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133295.ts
+#EXTINF:-1 tvg-name="DAZN LALIGA ᴴᴰ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN LALIGA",DAZN LALIGA ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133307.ts
+#EXTINF:-1 tvg-name="DAZN MOTOGP ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN Sport",DAZN MOTOGP ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1843658.ts
+#EXTINF:-1 tvg-name="DAZN MOTOGP ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN Sport",DAZN MOTOGP ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1843657.ts
+#EXTINF:-1 tvg-name="DAZN MOTOGP SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN Sport",DAZN MOTOGP SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1843656.ts
+#EXTINF:-1 tvg-name="ELLAS #V ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3036.png?ver=40896" group-title="ES_ Sport",ELLAS #V ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839860.ts
+#EXTINF:-1 tvg-name="ELLAS #V ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3036.png?ver=40896" group-title="ES_ Sport",ELLAS #V ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839867.ts
+#EXTINF:-1 tvg-name="ELLAS #V SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3036.png?ver=40896" group-title="ES_ Sport",ELLAS #V SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839864.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556187.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556186.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556185.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556184.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556183.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 6 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 6 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556182.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 7 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 7 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556181.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 8 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 8 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556180.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 9 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 9 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556179.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 10 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 10 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556178.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 11 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 11 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556177.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 12 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 12 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556176.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 13 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 13 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556175.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 14 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 14 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556174.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 15 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 15 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556173.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 16 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 16 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556172.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 17 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 17 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556171.ts
+#EXTINF:-1 tvg-name="ESTRENOS M+ 19 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14507.png?ver=53464" group-title="ES_ ESTRENOS",ESTRENOS M+ 19 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1556170.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="DAZN Sport",EUROSPORT 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133294.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="DAZN Sport",EUROSPORT 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133306.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="DAZN Sport",EUROSPORT 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133293.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="DAZN Sport",EUROSPORT 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2133305.ts
+#EXTINF:-1 tvg-name="GO DAZN 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="ES_ ORANGE SPORTS",GO DAZN 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677876.ts
+#EXTINF:-1 tvg-name="GO DAZN LA LIGA 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="ES_ ORANGE SPORTS",GO DAZN LA LIGA 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680770.ts
+#EXTINF:-1 tvg-name="GO EURO SPORT 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES_ ORANGE SPORTS",GO EURO SPORT 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677834.ts
+#EXTINF:-1 tvg-name="GO EURO SPORT 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES_ ORANGE SPORTS",GO EURO SPORT 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677833.ts
+#EXTINF:-1 tvg-name="GO M+ DEPORTES 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ ORANGE SPORTS",GO M+ DEPORTES 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677848.ts
+#EXTINF:-1 tvg-name="GO M+ DEPORTES 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ ORANGE SPORTS",GO M+ DEPORTES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677847.ts
+#EXTINF:-1 tvg-name="GO M+ DEPORTES 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ ORANGE SPORTS",GO M+ DEPORTES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677846.ts
+#EXTINF:-1 tvg-name="GO M+ DEPORTES 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ ORANGE SPORTS",GO M+ DEPORTES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677844.ts
+#EXTINF:-1 tvg-name="GO M+ DEPORTES 6 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ ORANGE SPORTS",GO M+ DEPORTES 6 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677843.ts
+#EXTINF:-1 tvg-name="GO M+ ELLAS VAMOS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3036.png?ver=40896" group-title="ES_ ORANGE SPORTS",GO M+ ELLAS VAMOS ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677841.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677863.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677862.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677861.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677860.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677859.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 6 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 6 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677858.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 7 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 7 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677857.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 8 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 8 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677856.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 9 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 9 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677855.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 10 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 10 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677854.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 11 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 11 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677853.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 12 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 12 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677852.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA DE CAMPEONES 13 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA DE CAMPEONES 13 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677851.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA ᴴᴰᴿ ³⁸⁴⁰ᴾ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677874.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA TV 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11356.jpg?36983" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA TV 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677872.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?95371" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA TV 2 ᴴᴰᴿ ³⁸⁴⁰ᴾ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677878.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA TV 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11356.jpg?36983" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA TV 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677871.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA TV 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11356.jpg?36983" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA TV 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677870.ts
+#EXTINF:-1 tvg-name="GO M+ LALIGA TV ᴴᴰᴿ ³⁸⁴⁰ᴾ" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES_ ORANGE SPORTS",GO M+ LALIGA TV ᴴᴰᴿ ³⁸⁴⁰ᴾ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677879.ts
+#EXTINF:-1 tvg-name="GO M+ VAMOS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ ORANGE SPORTS",GO M+ VAMOS ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1677842.ts
+#EXTINF:-1 tvg-name="M+ DAZN 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="DAZN ES",M+ DAZN 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683615.ts
+#EXTINF:-1 tvg-name="M+ DAZN 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="DAZN ES",M+ DAZN 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683614.ts
+#EXTINF:-1 tvg-name="M+ DAZN 3 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn3.png" group-title="DAZN ES",M+ DAZN 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683613.ts
+#EXTINF:-1 tvg-name="M+ DAZN 4 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn4.png" group-title="DAZN ES",M+ DAZN 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683612.ts
+#EXTINF:-1 tvg-name="M+ DAZN F1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="DAZN ES",M+ DAZN F1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683616.ts
+#EXTINF:-1 tvg-name="M+ DAZN LA LIGA ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN ES",M+ DAZN LA LIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683618.ts
+#EXTINF:-1 tvg-name="M+ DAZN LA LIGA 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="DAZN ES",M+ DAZN LA LIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683617.ts
+#EXTINF:-1 tvg-name="M+ EUROSPORT 1 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES_ M+ Deportes",M+ EUROSPORT 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683598.ts
+#EXTINF:-1 tvg-name="M+ EUROSPORT 1 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES_ M+ Deportes",M+ EUROSPORT 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683596.ts
+#EXTINF:-1 tvg-name="M+ EUROSPORT 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES_ M+ Deportes",M+ EUROSPORT 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683597.ts
+#EXTINF:-1 tvg-name="M+ EUROSPORT 2 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES_ M+ Deportes",M+ EUROSPORT 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683595.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES ᴿᴬᵂ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES ᴿᴬᵂ ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144571.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144573.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144574.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144595.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144584.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144570.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones2.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144594.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 2 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144583.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144569.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 3 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144593.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 3 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 3 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144582.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144568.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 4 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144581.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144567.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 5 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 5 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144591.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 5 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 5 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144580.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 6 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 6 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144566.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 6 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 6 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144590.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 6 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 6 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144579.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144565.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 7 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 7 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144589.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 7 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 7 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144578.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144564.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 8 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 8 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144588.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 8 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 8 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144577.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144563.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 9 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 9 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144587.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 9 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 9 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144576.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144562.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 10 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 10 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144586.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 10 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 10 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144575.ts
+#EXTINF:-1 tvg-name="M+ M.DEPORTES 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11367.jpg?ver=37776" group-title="ES_ M+ Deportes",M+ M.DEPORTES 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683608.ts
+#EXTINF:-1 tvg-name="M+ M.DEPORTES 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14610.png?37407" group-title="ES_ M+ Deportes",M+ M.DEPORTES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683607.ts
+#EXTINF:-1 tvg-name="M+ M.DEPORTES 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14610.png?37407" group-title="ES_ M+ Deportes",M+ M.DEPORTES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683606.ts
+#EXTINF:-1 tvg-name="M+ M.DEPORTES 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14611.png?66043" group-title="ES_ M+ Deportes",M+ M.DEPORTES 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683605.ts
+#EXTINF:-1 tvg-name="M+ M.DEPORTES 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14612.png?12225" group-title="ES_ M+ Deportes",M+ M.DEPORTES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683604.ts
+#EXTINF:-1 tvg-name="M+ M.LALIGA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?29431" group-title="ES_ M+ LALIGA",M+ M.LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683611.ts
+#EXTINF:-1 tvg-name="M+ M.LALIGA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/11527.png?62465" group-title="ES_ M+ LALIGA",M+ M.LALIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683610.ts
+#EXTINF:-1 tvg-name="M+ M.LALIGA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?62465" group-title="ES_ M+ LALIGA",M+ M.LALIGA 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683609.ts
+#EXTINF:-1 tvg-name="M+ M. LALIGA 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?62465" group-title="ES_ M+ LALIGA",M+ M. LALIGA 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1713896.ts
+#EXTINF:-1 tvg-name="M+ M. LALIGA 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?62465" group-title="ES_ M+ LALIGA",M+ M. LALIGA 4 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1713897.ts
+#EXTINF:-1 tvg-name="M+ M. LALIGA 4 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?62465" group-title="ES_ M+ LALIGA",M+ M. LALIGA 4 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1713895.ts
+#EXTINF:-1 tvg-name="M+ M.LCAMPEONES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14591.png?48021" group-title="ES_ M+",M+ M.LCAMPEONES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683603.ts
+#EXTINF:-1 tvg-name="M+ M.LCAMPEONES 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14595.png?70832" group-title="ES_ M+",M+ M.LCAMPEONES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683602.ts
+#EXTINF:-1 tvg-name="M+ M.LCAMPEONES 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14610.png?68510" group-title="ES_ M+",M+ M.LCAMPEONES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683601.ts
+#EXTINF:-1 tvg-name="M+ #VAMOS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?51748" group-title="ES_ VAMOS",M+ #VAMOS ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683599.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ MOVISTAR",MOVISTAR DEPORTES ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839941.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ MOVISTAR",MOVISTAR DEPORTES ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839942.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10582.png?33075" group-title="ES_ MOVISTAR",MOVISTAR DEPORTES ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839946.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10581.png?10706" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839940.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10581.png?10706" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839939.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839938.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839937.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839936.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839935.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES_ EVENTOS",MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839934.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126797.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126798.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126805.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126802.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126795.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126804.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 2 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 2 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126800.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126794.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 3 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126803.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA 3 SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA 3 SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126799.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126796.ts
+#EXTINF:-1 tvg-name="OR DAZN LA LIGA 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="ES_ ORANGE SPORTS",OR DAZN LA LIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680769.ts
+#EXTINF:-1 tvg-name="TV DAZN 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="DAZN ES",TV DAZN 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954600.ts
+#EXTINF:-1 tvg-name="TV DAZN 3 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/dazn3.png" group-title="DAZN ES",TV DAZN 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954599.ts
+#EXTINF:-1 tvg-name="TV DAZN LALIGA ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="DAZN ES",TV DAZN LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954596.ts
+#EXTINF:-1 tvg-name="TV DAZN LALIGA 2 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="DAZN ES",TV DAZN LALIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954595.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Deportes_1_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=20230721201356" group-title="ES_ M+ Deportes",TV M+ DEPORTES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954587.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES 2 ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Deportes_2_por_Movistar_Plus%2B.png/revision/latest?cb=20230721201355" group-title="ES_ M+ Deportes",TV M+ DEPORTES 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954586.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES 3 ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Deportes_3_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=20230721201354" group-title="ES_ M+ Deportes",TV M+ DEPORTES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954585.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES 5 ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Deportes_5_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=20230721201352" group-title="ES_ M+ Deportes",TV M+ DEPORTES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954583.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES 7 ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Deportes_7_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=20230721201351" group-title="ES_ M+ Deportes",TV M+ DEPORTES 7 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954581.ts
+#EXTINF:-1 tvg-name="TV M+ DEPORTES 8 ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Deportes_8_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=20230721201936" group-title="ES_ M+ Deportes",TV M+ DEPORTES 8 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954580.ts
+#EXTINF:-1 tvg-name="TV M+ LALIGA TV ᴿᴬᵂ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/LaLiga_por_Movistar_Plus%2B_2025.svg/revision/latest?cb=20251220163137" group-title="ES_ M+ LALIGA",TV M+ LALIGA TV ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954594.ts
+#EXTINF:-1 tvg-name="TV M+ LALIGA TV 4 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8160.png?45398" group-title="ES_ M+ LALIGA",TV M+ LALIGA TV 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954591.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14591.png?17650" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954579.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14592.png?66822" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954577.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14594.png?12967" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 5 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954575.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 6 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14606.png?96278" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 6 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954574.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14607.png?55425" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 7 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954573.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14608.png?27079" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 8 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954572.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15023.png?90830" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 9 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954571.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15024.png?95010" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 10 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954570.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 11 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15025.png?2157" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 11 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954569.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 12 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15026.png?20668" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 12 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954568.ts
+#EXTINF:-1 tvg-name="TV M+ LIGA DE CAMPEONES 13 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15027.png?98665" group-title="ES_ M+ LIGA",TV M+ LIGA DE CAMPEONES 13 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1954567.ts
+#EXTINF:-1 tvg-name="#VAMOS ᵁᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS ᵁᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839861.ts
+#EXTINF:-1 tvg-name="#VAMOS ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839862.ts
+#EXTINF:-1 tvg-name="#VAMOS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839868.ts
+#EXTINF:-1 tvg-name="#VAMOS SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683722.ts
+#EXTINF:-1 tvg-name="#VAMOS SD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS SD
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/839865.ts
+#EXTINF:-1 tvg-name="#VAMOS 2 ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS 2 ʰᵉᵛᶜ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683720.ts
+#EXTINF:-1 tvg-name="#VAMOS 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VAMOS",#VAMOS 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1683721.ts
+#EXTINF:-1 tvg-name="VO AYM SPORTS MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14681.jpg?215" group-title="ES_ VODAFONE SPORTS",VO AYM SPORTS MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680778.ts
+#EXTINF:-1 tvg-name="VO AYM SPORTS MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14681.jpg?3818" group-title="ES_ VODAFONE SPORTS",VO AYM SPORTS MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680776.ts
+#EXTINF:-1 tvg-name="VO BARÇA TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11347.jpg?22867" group-title="ES_ VODAFONE SPORTS",VO BARÇA TV ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680797.ts
+#EXTINF:-1 tvg-name="VO DAZN 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6580.png?95057" group-title="ES_ VODAFONE SPORTS",VO DAZN 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680843.ts
+#EXTINF:-1 tvg-name="VO DAZN 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6580.png?95057" group-title="ES_ VODAFONE SPORTS",VO DAZN 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680842.ts
+#EXTINF:-1 tvg-name="VO DAZN 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6578.png?62861" group-title="ES_ VODAFONE SPORTS",VO DAZN 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680841.ts
+#EXTINF:-1 tvg-name="VO DAZN 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6578.png?62861" group-title="ES_ VODAFONE SPORTS",VO DAZN 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680840.ts
+#EXTINF:-1 tvg-name="VO DAZN 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12608.jpg?93284" group-title="ES_ VODAFONE SPORTS",VO DAZN 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680839.ts
+#EXTINF:-1 tvg-name="VO DAZN 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12608.jpg?93284" group-title="ES_ VODAFONE SPORTS",VO DAZN 3 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680838.ts
+#EXTINF:-1 tvg-name="VO DAZN 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12607.jpg?10692" group-title="ES_ VODAFONE SPORTS",VO DAZN 4 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680837.ts
+#EXTINF:-1 tvg-name="VO DAZN 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12607.jpg?10692" group-title="ES_ VODAFONE SPORTS",VO DAZN 4 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680836.ts
+#EXTINF:-1 tvg-name="VO DAZN F1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?45571" group-title="ES_ VODAFONE SPORTS",VO DAZN F1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680845.ts
+#EXTINF:-1 tvg-name="VO DAZN F1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?45571" group-title="ES_ VODAFONE SPORTS",VO DAZN F1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680844.ts
+#EXTINF:-1 tvg-name="VO DAZN LALIGA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES_ VODAFONE SPORTS",VO DAZN LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680849.ts
+#EXTINF:-1 tvg-name="VO DAZN LALIGA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES_ VODAFONE SPORTS",VO DAZN LALIGA ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680848.ts
+#EXTINF:-1 tvg-name="VO DAZN LALIGA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES_ VODAFONE SPORTS",VO DAZN LALIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680847.ts
+#EXTINF:-1 tvg-name="VO DAZN LALIGA 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES_ VODAFONE SPORTS",VO DAZN LALIGA 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680846.ts
+#EXTINF:-1 tvg-name="VO EURO SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1422.jpg?64174" group-title="ES_ VODAFONE SPORTS",VO EURO SPORT 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680796.ts
+#EXTINF:-1 tvg-name="VO EURO SPORT 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1422.jpg?64174" group-title="ES_ VODAFONE SPORTS",VO EURO SPORT 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680795.ts
+#EXTINF:-1 tvg-name="VO EURO SPORT 2ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/722.png?32842" group-title="ES_ VODAFONE SPORTS",VO EURO SPORT 2ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680794.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 1 ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8253.jpg?30216" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 1 ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680777.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 1 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12612.jpg?13910" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 1 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680787.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 1 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12612.jpg?13910" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 1 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680788.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 2 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/609.png?22335" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 2 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680785.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 2 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/609.png?22335" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 2 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680786.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 3 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12604.jpg?32388" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 3 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680783.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS 3 MX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12604.jpg?32388" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS 3 MX ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680784.ts
+#EXTINF:-1 tvg-name="VO FOX SPORTS PREMIUM ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8253.jpg?66908" group-title="ES_ VODAFONE SPORTS",VO FOX SPORTS PREMIUM ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680789.ts
+#EXTINF:-1 tvg-name="VO GOL TV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8415.png?29036" group-title="ES_ VODAFONE SPORTS",VO GOL TV ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680802.ts
+#EXTINF:-1 tvg-name="VO GOL TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8415.png?29036" group-title="ES_ VODAFONE SPORTS",VO GOL TV ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680801.ts
+#EXTINF:-1 tvg-name="VO M+ DEPORTES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ VODAFONE SPORTS",VO M+ DEPORTES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680818.ts
+#EXTINF:-1 tvg-name="VO M+ DEPORTES ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ VODAFONE SPORTS",VO M+ DEPORTES ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680817.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680814.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680813.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680812.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680811.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680810.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680809.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 3 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680808.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 4 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680807.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 5 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 5 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680805.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 6 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 6 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680806.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 7 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 7 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680804.ts
+#EXTINF:-1 tvg-name="VO M.LIGA CAMPEONES 8 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ VODAFONE SPORTS",VO M.LIGA CAMPEONES 8 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680803.ts
+#EXTINF:-1 tvg-name="VO M+LIGA HYPERMOTIONV TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11576.png?95652" group-title="ES_ VODAFONE SPORTS",VO M+LIGA HYPERMOTIONV TV ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680816.ts
+#EXTINF:-1 tvg-name="VO M+LIGA HYPERMOTIONV TV 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11576.png?23718" group-title="ES_ VODAFONE SPORTS",VO M+LIGA HYPERMOTIONV TV 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680815.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR DEPORTES 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR DEPORTES 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680833.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR DEPORTES 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10581.png?10706" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR DEPORTES 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680832.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR DEPORTES 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?6881" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR DEPORTES 3 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680831.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR DEPORTES 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10692.png?9659" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR DEPORTES 4 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680830.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?60016" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680829.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?60016" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680828.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 1 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680827.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 1 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680826.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 2 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680825.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 2 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680824.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 3 ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680823.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?91435" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 4 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680822.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 5 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 5 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680821.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR LALIGA 6 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?3188" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR LALIGA 6 ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680820.ts
+#EXTINF:-1 tvg-name="VO MOVISTAR ORANGE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10047.png?58736" group-title="ES_ VODAFONE SPORTS",VO MOVISTAR ORANGE ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680834.ts
+#EXTINF:-1 tvg-name="VO PN 3 ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14680.png?40637" group-title="ES_ VODAFONE SPORTS",VO PN 3 ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680779.ts
+#EXTINF:-1 tvg-name="VO PN ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14680.png?40637" group-title="ES_ VODAFONE SPORTS",VO PN ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680781.ts
+#EXTINF:-1 tvg-name="VO PN+ ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14680.png?40637" group-title="ES_ VODAFONE SPORTS",VO PN+ ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680782.ts
+#EXTINF:-1 tvg-name="VO REAL MADRID ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11366.jpg?67353" group-title="ES_ VODAFONE SPORTS",VO REAL MADRID ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680798.ts
+#EXTINF:-1 tvg-name="VO TELEDEPORTE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11368.jpg?58632" group-title="ES_ VODAFONE SPORTS",VO TELEDEPORTE ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680793.ts
+#EXTINF:-1 tvg-name="VO TELEDEPORTE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11368.jpg?58632" group-title="ES_ VODAFONE SPORTS",VO TELEDEPORTE ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680792.ts
+#EXTINF:-1 tvg-name="VO TNT SPORTS ARG ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?18838" group-title="ES_ VODAFONE SPORTS",VO TNT SPORTS ARG ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680775.ts
+#EXTINF:-1 tvg-name="VO TOROS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9997.jpg?14233" group-title="ES_ VODAFONE SPORTS",VO TOROS ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680791.ts
+#EXTINF:-1 tvg-name="VO TOROS TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9997.jpg?14233" group-title="ES_ VODAFONE SPORTS",VO TOROS TV ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680790.ts
+#EXTINF:-1 tvg-name="VO #VAMOS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VODAFONE SPORTS",VO #VAMOS ᴿᴬᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680800.ts
+#EXTINF:-1 tvg-name="VO #VAMOS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11364.jpg?ver=23794" group-title="ES_ VODAFONE SPORTS",VO #VAMOS ᴴᴰ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680799.ts
+#EXTINF:-1 tvg-name="### VODAFONE SPORTS ᴿᴬᵂ ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES_ VODAFONE SPORTS",### VODAFONE SPORTS ᴿᴬᵂ ###
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1680850.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES SD LOW" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES SD LOW
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144585.ts
+#EXTINF:-1 tvg-name="MOVISTAR LALIGA SD ᴸᴼᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES_ MOVISTAR",MOVISTAR LALIGA SD ᴸᴼᵂ
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2126801.ts
+#EXTINF:-1 tvg-name="DAZN MOTOGP ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN Sport",DAZN MOTOGP ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2135969.ts
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15446.jpg?ver=54124" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/2144572.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 1 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302267.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 1 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 1 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302305.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 2 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302266.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 2 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 2 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302304.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 3 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 3 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302265.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 3 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 3 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302303.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 4 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 4 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302264.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 5 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 5 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302301.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 6 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 6 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302262.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 6 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 6 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302300.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 7 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 7 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302261.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 7 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 7 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302299.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 8 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 8 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302260.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 8 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 8 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302298.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 9 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 9 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302259.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 9 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 9 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302297.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 10 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 10 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302258.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 10 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 10 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302296.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 11 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 11 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302257.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 11 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 11 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302295.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 12 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 12 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302256.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 12 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 12 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302294.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 13 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 13 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302255.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 13 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 13 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302293.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 14 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302254.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 14 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302292.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 15 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302253.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 15 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302291.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 16 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302252.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 16 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302290.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 17 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302251.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 17 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302289.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 18 ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302250.ts
+#EXTINF:-1 tvg-name="M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11573.jpg?83778" group-title="ES_ M+ LIGA",M. LIGA DE CAMPEONES 18 ᴴᴰ ⁽ᴮᴷ⁾
+http://cf.business-cloud-8.ru/live/0d9b815a8599/xszhi47i4x/1302288.ts
