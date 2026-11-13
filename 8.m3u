@@ -1,1237 +1,458 @@
 #EXTM3U
-#M3U_EXTRACT: foxbleu.pro
-#EXTINF:-1 tvg-name="6TER HEVC" group-title="FR_ France",6TER HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47495&extension=ts&play_token=wioZl6cDG6
-#EXTINF:-1 tvg-name="6TER HD" group-title="FR_ France",6TER HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14046&extension=ts&play_token=IVVq2aYEpW
-#EXTINF:-1 tvg-name="13EME RUE FHD" group-title="FR_ France",13EME RUE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13794&extension=ts&play_token=RZdiIF4hOU
-#EXTINF:-1 tvg-name="13EME RUE HD" group-title="FR_ France",13EME RUE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14048&extension=ts&play_token=b6qU8LKP4s
-#EXTINF:-1 tvg-name="AB1 HEVC" group-title="FR_ France",AB1 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216773&extension=ts&play_token=uIBvJSdFeC
-#EXTINF:-1 tvg-name="ABC 7" group-title="USA",ABC 7
-#M3U_EXTRACT: us
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=330300&extension=ts&play_token=MUadVwGAle
-#EXTINF:-1 tvg-name="ABC NEWS NOW" group-title="USA",ABC NEWS NOW
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328850&extension=ts&play_token=pJKIchchCx
-#EXTINF:-1 tvg-name="ACC Network HD" group-title="USA",ACC Network HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328786&extension=ts&play_token=vzayG7B28x
-#EXTINF:-1 tvg-name="ACCU WEATHER" group-title="USA",ACCU WEATHER
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328849&extension=ts&play_token=HGzwtk4373
-#EXTINF:-1 tvg-name="ACTION HEVC" group-title="FR_ France",ACTION HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47518&extension=ts&play_token=Iz9XC85SVm
-#EXTINF:-1 tvg-name="ACTION FHD" group-title="TV mix",ACTION FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13790&extension=ts&play_token=Sv4vKsVsN9
-#EXTINF:-1 tvg-name="AF CANAL+ FAMILY" tvg-logo="https://logoipro2.com/LOGO_AFRIC/51022.png" group-title="FR_ CANAL+",AF CANAL+ FAMILY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=208564&extension=ts&play_token=Lyi29kkywr
-#EXTINF:-1 tvg-name="AF CANAL+ FAMILY CENTRE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/langfr-345px-Canal%2B_Family_2013.svg.png" group-title="FR_ CANAL+",AF CANAL+ FAMILY CENTRE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139488&extension=ts&play_token=KoWbC7obcX
-#EXTINF:-1 tvg-name="AF CANAL+ SPORT 4" tvg-logo="https://i.ibb.co/Gn9kPh7/output-onlinepngtools-14.png" group-title="FR_ CANAL+",AF CANAL+ SPORT 4
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139442&extension=ts&play_token=cv6CfehpFp
-#EXTINF:-1 tvg-name="AF CANAL+ SPORT 5" tvg-logo="https://i.ibb.co/ZJHYSw5/output-onlinepngtools2.png" group-title="FR_ CANAL+",AF CANAL+ SPORT 5
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139443&extension=ts&play_token=hacozrQp4Y
-#EXTINF:-1 tvg-name="AF FRANCE 2 INTER" tvg-logo="https://logoipro2.com/LOGO/canal afrique/france2-fr.png" group-title="FR_ France",AF FRANCE 2 INTER
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139527&extension=ts&play_token=tzlbZmd5ci
-#EXTINF:-1 tvg-name="AF FRANCE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/langfr-150px-France_3_2018.svg.png" group-title="FR_ France",AF FRANCE 3
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139529&extension=ts&play_token=SUoEdG9dEb
-#EXTINF:-1 tvg-name="AF FRANCE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-150px-France_5_2018.svg.png" group-title="FR_ France",AF FRANCE 5
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139530&extension=ts&play_token=BngCPJgre1
-#EXTINF:-1 tvg-name="AF HISTOIRE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Histoire_TV_logo_2019.svg/langfr-375px-Histoire_TV_logo_2019.svg.png" group-title="Mix_ Documentary",AF HISTOIRE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139539&extension=ts&play_token=OtZN9HxiNe
-#EXTINF:-1 tvg-name="AF USHUAIA TV" group-title="Mix_ Documentary",AF USHUAIA TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=139652&extension=ts&play_token=iH6neOyy5q
-#EXTINF:-1 tvg-name="ALIBI HD" group-title="UK_ GENERAL",ALIBI HD
-#M3U_EXTRACT: uk
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216072&extension=ts&play_token=7O8VS4N9wg
-#EXTINF:-1 tvg-name="AMC" group-title="ES_ Sport",AMC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23127&extension=ts&play_token=je04eLDGme
-#EXTINF:-1 tvg-name="AMC" group-title="USA",AMC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328904&extension=ts&play_token=L7fXgS4f0Y
-#EXTINF:-1 tvg-name="AMC BREAK" group-title="ES_ Sport",AMC BREAK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235357&extension=ts&play_token=jmLH5lwYX4
-#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Mix_ Documentary",ANIMAL PLANET
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328962&extension=ts&play_token=apxDM2Mw7c
-#EXTINF:-1 tvg-name="ANIMAUX FHD" group-title="FR_ Documentary",ANIMAUX FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13789&extension=ts&play_token=eaboua8gwt
-#EXTINF:-1 tvg-name="ANIMAUX HD" group-title="FR_ Documentary",ANIMAUX HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14044&extension=ts&play_token=YkxDlBIcPN
-#EXTINF:-1 tvg-name="ANIMAUX (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo-Animaux-2017.png/280px-Logo-Animaux-2017.png" group-title="Mix_ Documentary",ANIMAUX (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39526&extension=ts&play_token=AVoYuMdmPB
-#EXTINF:-1 tvg-name="ANTENNE RÉUNION HD" group-title="FR_ GENERAL",ANTENNE RÉUNION HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89994&extension=ts&play_token=6yx9egW5E8
-#EXTINF:-1 tvg-name="ARTE HEVC" group-title="FR_ Documentary",ARTE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47480&extension=ts&play_token=QC5NruJM0K
-#EXTINF:-1 tvg-name="ARTE FHD" group-title="FR_ Documentary",ARTE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13788&extension=ts&play_token=9BvUJLfzHK
-#EXTINF:-1 tvg-name="ARTE HD" group-title="FR_ Documentary",ARTE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14043&extension=ts&play_token=ypRxVWJPFc
-#EXTINF:-1 tvg-name="AT&T SPORTSNET" group-title="USA",AT&T SPORTSNET
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328785&extension=ts&play_token=BhFqCLqFjl
-#EXTINF:-1 tvg-name="AWE CHANNEL" group-title="USA",AWE CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328961&extension=ts&play_token=AeuAd36y4z
-#EXTINF:-1 tvg-name="BBC FOUR FHD" group-title="UK_ GENERAL",BBC FOUR FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216088&extension=ts&play_token=fIIsKidP2J
-#EXTINF:-1 tvg-name="BBC NEWS FHD" group-title="UK_ GENERAL",BBC NEWS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215941&extension=ts&play_token=E5NZYwkial
-#EXTINF:-1 tvg-name="BBC NEWS HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/bbcnews_uk.png" group-title="UK_ GENERAL",BBC NEWS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215940&extension=ts&play_token=ZjFNDexMkP
-#EXTINF:-1 tvg-name="BBC WORLD NEWS FHD" group-title="UK_ GENERAL",BBC WORLD NEWS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=284889&extension=ts&play_token=QLEjQOdGwi
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 HEVC" group-title="beIN Sport_ FR",BEIN SPORTS 1 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47499&extension=ts&play_token=NqEKMCFEgI
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD" group-title="beIN Sports",BEIN SPORTS 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13607&extension=ts&play_token=RKgEfw1dK6
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 2 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13615&extension=ts&play_token=jNQxhutAnF
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13605&extension=ts&play_token=52Hp399onk
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13676&extension=ts&play_token=py3yIcquvs
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13617&extension=ts&play_token=9WWpS9wwNA
-#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://logoipro2.com/LOGO/bein logo/SPORTS_6-1.png" group-title="beIN Sports",BEIN SPORTS 6 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13672&extension=ts&play_token=H4fx35qU3g
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 BKP" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 7 BKP
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13669&extension=ts&play_token=UqaRNr3qBL
-#EXTINF:-1 tvg-name="BEIN SPORTS GLOBAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24980&extension=ts&play_token=gFwRLwnk1e
-#EXTINF:-1 tvg-name="BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=409586&extension=ts&play_token=SyV9QA8L7Z
-#EXTINF:-1 tvg-name="BEIN SPORTS NEWS FHD" group-title="beIN Sports",BEIN SPORTS NEWS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24979&extension=ts&play_token=1jqoyYsY6x
-#EXTINF:-1 tvg-name="BEIN SPORTS NEWS HD" group-title="beIN Sports",BEIN SPORTS NEWS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=78372&extension=ts&play_token=Dwxx5H16fA
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 1 FHD" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=129996&extension=ts&play_token=Nrq421wXOS
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 2 FHD" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423814&extension=ts&play_token=zIaNvf1k5d
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 2 HD" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=129999&extension=ts&play_token=R6kO2b67r6
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 3 FHD" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 3 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=129998&extension=ts&play_token=seSQ14xW20
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 4 FHD" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423822&extension=ts&play_token=SCpIqt6v20
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 4 HD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423821&extension=ts&play_token=ERrQBZwEnR
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 4 SD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423820&extension=ts&play_token=DkHqJvO9f0
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 5 4K" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 4K
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423823&extension=ts&play_token=2pVbLVZvns
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 5 FHD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423826&extension=ts&play_token=D99IsSW64p
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 5 HD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423825&extension=ts&play_token=oVuaIgclSm
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 5 SD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423824&extension=ts&play_token=QYErJl1jL3
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 6 FHD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423830&extension=ts&play_token=oCTmKzRc3C
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 6 HD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423829&extension=ts&play_token=eAxofooToZ
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 7 4K" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 4K
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423831&extension=ts&play_token=7pRRje8IVy
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 7 HD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423833&extension=ts&play_token=DTJLA9RfIG
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 7 SD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423832&extension=ts&play_token=MQRX3tMotU
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 8 4K" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 4K
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423835&extension=ts&play_token=oH5GTg6xQy
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 8 FHD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423838&extension=ts&play_token=p93E4qZAIe
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 8 SD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423836&extension=ts&play_token=b1RupNqJS7
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 9 HD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423841&extension=ts&play_token=E3O5KGVbc5
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA 9 SD" tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=423840&extension=ts&play_token=5DKkd2xG5s
-#EXTINF:-1 tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA",BET
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328992&extension=ts&play_token=ecXDxrW9y9
-#EXTINF:-1 tvg-name="BET JAMS" group-title="USA",BET JAMS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328858&extension=ts&play_token=HltxicLbu1
-#EXTINF:-1 tvg-name="BET SOUL" tvg-logo="https://logoipro2.com/logo/BET_blanc.png" group-title="USA",BET SOUL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328857&extension=ts&play_token=e3Pl0Qd3SR
-#EXTINF:-1 tvg-name="BFMTV HEVC" group-title="FR_ GENERAL",BFMTV HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47486&extension=ts&play_token=2aqYGOCwf2
-#EXTINF:-1 tvg-name="BG DIEMA SPORT" tvg-logo="https://i.ibb.co/KF4x9dB/Bulgaria-Flag-iconic-waving-svg.png" group-title="BG_ Sport",BG DIEMA SPORT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=338293&extension=ts&play_token=ZIelc9Cf80
-#EXTINF:-1 tvg-name="BLOOMBERG" group-title="USA",BLOOMBERG
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328846&extension=ts&play_token=IcpNqjxKxM
-#EXTINF:-1 tvg-name="BOING FHD" group-title="FR_ GENERAL",BOING FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13859&extension=ts&play_token=aIenUNigey
-#EXTINF:-1 tvg-name="BOING HD" group-title="FR_ GENERAL",BOING HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24945&extension=ts&play_token=fZgzL79o8m
-#EXTINF:-1 tvg-name="BOM CINE" group-title="ES_ Sport",BOM CINE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=362622&extension=ts&play_token=zf6pHeSMdT
-#EXTINF:-1 tvg-name="BOOMERANG FHD" group-title="Kids",BOOMERANG FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13858&extension=ts&play_token=Uv6ZcSlMOl
-#EXTINF:-1 tvg-name="BOOMERANG HD" group-title="FR_ France",BOOMERANG HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24954&extension=ts&play_token=fks8ceLd0V
-#EXTINF:-1 tvg-name="BOOMERANG" group-title="Kids",BOOMERANG
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328930&extension=ts&play_token=e8WG9k5U5Z
-#EXTINF:-1 tvg-name="BOUNCE TV" group-title="USA",BOUNCE TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328913&extension=ts&play_token=Wn1wbBOkH9
-#EXTINF:-1 tvg-name="BR DAZN 01 HD" tvg-logo="https://logoipro2.com/logo/52365.png" group-title="DAZN Sport",BR DAZN 01 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=220586&extension=ts&play_token=uC0kOgribK
-#EXTINF:-1 tvg-name="BR DAZN 02 HD" tvg-logo="https://logoipro2.com/logo/52364.png" group-title="DAZN Sport",BR DAZN 02 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=220585&extension=ts&play_token=4ITX3Mv4QA
-#EXTINF:-1 tvg-name="BR DISCOVERY CHANNEL HD" tvg-logo="https://logoipro2.com/LOGO/brasil/discovery.png" group-title="Mix_ Documentary",BR DISCOVERY CHANNEL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=155748&extension=ts&play_token=SmCID6UMWr
-#EXTINF:-1 tvg-name="BR DISCOVERY H&H HD" tvg-logo="https://logoipro2.com/LOGO/brasil/discoveryhomeandhealth.png" group-title="Mix_ Documentary",BR DISCOVERY H&H HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=155713&extension=ts&play_token=WFhrxh1IgI
-#EXTINF:-1 tvg-name="BR PREMIERE 2 HD" tvg-logo="https://logoipro2.com/logo/52244.png" group-title="FR_ GENERAL",BR PREMIERE 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=220576&extension=ts&play_token=pRiDyxaJR2
-#EXTINF:-1 tvg-name="BRAVO" tvg-logo="https://logoipro2.com/logo/s58625_h3_aa.png" group-title="USA",BRAVO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328960&extension=ts&play_token=XAjDVFlrRB
-#EXTINF:-1 tvg-name="BT SPORT 1 FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/btsport1_uk.png" group-title="UK_ GENERAL",BT SPORT 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215897&extension=ts&play_token=jkxwN5atCn
-#EXTINF:-1 tvg-name="BT SPORT 1 HD" group-title="UK_ GENERAL",BT SPORT 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215896&extension=ts&play_token=XW3UztGEsG
-#EXTINF:-1 tvg-name="BT SPORT 2 FHD" group-title="UK_ GENERAL",BT SPORT 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215895&extension=ts&play_token=3y78tEzlSN
-#EXTINF:-1 tvg-name="BT SPORT 2 HD" group-title="UK_ GENERAL",BT SPORT 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215894&extension=ts&play_token=26dbpX6cNO
-#EXTINF:-1 tvg-name="C+ CAR CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="FR_ CANAL+",C+ CAR CANAL+
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=169169&extension=ts&play_token=56vtcbCCVl
-#EXTINF:-1 tvg-name="C+ CAR CANAL+ FOOT HD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",C+ CAR CANAL+ FOOT HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=331929&extension=ts&play_token=TTEl9G1a8Y
-#EXTINF:-1 tvg-name="C+ CAR FRANCE 2" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/France2.png" group-title="FR_ CAR",C+ CAR FRANCE 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=169164&extension=ts&play_token=4Phiu7S4bP
-#EXTINF:-1 tvg-name="C+ CAR FRANCE 3" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/France3.png" group-title="FR_ CAR",C+ CAR FRANCE 3
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=169163&extension=ts&play_token=Cy6dYGQr42
-#EXTINF:-1 tvg-name="C+ CAR FRANCE 4" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/France4.png" group-title="FR_ CAR",C+ CAR FRANCE 4
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=169162&extension=ts&play_token=SU3qJAesIk
-#EXTINF:-1 tvg-name="C+ CAR FRANCE 5" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/France5.png" group-title="FR_ CAR",C+ CAR FRANCE 5
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=169161&extension=ts&play_token=eTv9gulGs1
-#EXTINF:-1 tvg-name="C SPAN" tvg-logo="https://logoipro2.com/logo/s68344_ll_h3_ad.png" group-title="USA",C SPAN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328839&extension=ts&play_token=Gnt7mdHatw
-#EXTINF:-1 tvg-name="CANAL+ HEVC" group-title="FR_ CANAL+",CANAL+ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47507&extension=ts&play_token=HZ7mKWGHmI
-#EXTINF:-1 tvg-name="CANAL+ FHD" group-title="FR_ CANAL+",CANAL+ FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14151&extension=ts&play_token=FcNbYdaqV4
-#EXTINF:-1 tvg-name="CANAL+ HD" group-title="FR_ CANAL+",CANAL+ HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14167&extension=ts&play_token=zXZYaN2Ffn
-#EXTINF:-1 tvg-name="CANAL+ BOX OFFICE FHD" group-title="FR_ CANAL+",CANAL+ BOX OFFICE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=265758&extension=ts&play_token=KAPXAa8OJD
-#EXTINF:-1 tvg-name="CANAL+ CINEMA FHD" group-title="FR_ CANAL+",CANAL+ CINEMA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13769&extension=ts&play_token=OjqZ5pLJqX
-#EXTINF:-1 tvg-name="CANAL+ CINEMA HD" group-title="FR_ CANAL+",CANAL+ CINEMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=28942&extension=ts&play_token=zAlFYG3tf2
-#EXTINF:-1 tvg-name="CANAL+ DOCS HEVC" group-title="FR_ CANAL+",CANAL+ DOCS HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216661&extension=ts&play_token=B94mFP7Ro2
-#EXTINF:-1 tvg-name="CANAL+ DOCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="FR_ CANAL+",CANAL+ DOCS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=142063&extension=ts&play_token=9z0hIXiKuK
-#EXTINF:-1 tvg-name="CANAL+ FOOT FHD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=180946&extension=ts&play_token=RthyFQNhlB
-#EXTINF:-1 tvg-name="CANAL+ FOOT HD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=181485&extension=ts&play_token=kHnR4t0T3d
-#EXTINF:-1 tvg-name="CANAL+ FOOT SD" tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=84801&extension=ts&play_token=ubqONQC7NT
-#EXTINF:-1 tvg-name="CANAL+ GRAND ÉCRAN HEVC" tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216663&extension=ts&play_token=NLJOOViHw7
-#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=156272&extension=ts&play_token=AK2gdgQECg
-#EXTINF:-1 tvg-name="CANAL J FHD" group-title="Kids",CANAL J FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13764&extension=ts&play_token=K56ZWtdQDn
-#EXTINF:-1 tvg-name="CANAL J HD" group-title="Kids",CANAL J HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24941&extension=ts&play_token=pk0VtlrSck
-#EXTINF:-1 tvg-name="CANAL J (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/CanalJ.png" group-title="Kids",CANAL J (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39518&extension=ts&play_token=gQ9yL2IFXv
-#EXTINF:-1 tvg-name="CANAL+ KIDS HEVC" group-title="FR_ CANAL+",CANAL+ KIDS HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216662&extension=ts&play_token=JYRPmpGhay
-#EXTINF:-1 tvg-name="CANAL+ KIDS FHD" group-title="FR_ CANAL+",CANAL+ KIDS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=142060&extension=ts&play_token=9EaX4MvKtA
-#EXTINF:-1 tvg-name="CANAL+ KIDS HD" group-title="FR_ CANAL+",CANAL+ KIDS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=142061&extension=ts&play_token=CEudiNr2C7
-#EXTINF:-1 tvg-name="CANAL+ LIVE 1 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+ LIVE.webp" group-title="FR_ CANAL+",CANAL+ LIVE 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327340&extension=ts&play_token=R870BhOF30
-#EXTINF:-1 tvg-name="CANAL+ LIVE 2" tvg-logo="https://logoipro2.com/LOGO/CANAL+ LIVE.webp" group-title="FR_ CANAL+",CANAL+ LIVE 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327311&extension=ts&play_token=xOsqB3vOMc
-#EXTINF:-1 tvg-name="CANAL+ LIVE 4 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+ LIVE.webp" group-title="FR_ CANAL+",CANAL+ LIVE 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327337&extension=ts&play_token=M1I253ferp
-#EXTINF:-1 tvg-name="CANAL+ LIVE 5 FHD" group-title="FR_ CANAL+",CANAL+ LIVE 5 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327336&extension=ts&play_token=JMCZTC0WQP
-#EXTINF:-1 tvg-name="CANAL+ LIVE 6" tvg-logo="https://logoipro2.com/LOGO/CANAL+ LIVE.webp" group-title="FR_ CANAL+",CANAL+ LIVE 6
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327308&extension=ts&play_token=kR1d93vzYV
-#EXTINF:-1 tvg-name="CANAL+ LIVE 11 FHD" tvg-logo="https://logoipro2.com/LOGO/CANAL+ LIVE.webp" group-title="FR_ CANAL+",CANAL+ LIVE 11 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=327330&extension=ts&play_token=omIl6VYyfr
-#EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE HEVC" group-title="FR_ CANAL+",CANAL+ PREMIER LEAGUE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216645&extension=ts&play_token=4xeASnc6wB
-#EXTINF:-1 tvg-name="CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/canalpluspremierleague.png" group-title="FR_ CANAL+",CANAL+ PREMIER LEAGUE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=116520&extension=ts&play_token=mMVxPsQoXi
-#EXTINF:-1 tvg-name="CANALPLAY 1 ACTION" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 1 ACTION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13970&extension=ts&play_token=WzwH1VR9TL
-#EXTINF:-1 tvg-name="CANALPLAY 3 ANIMATION" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 3 ANIMATION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13961&extension=ts&play_token=gngAomcgRh
-#EXTINF:-1 tvg-name="CANALPLAY 4 COMEDY" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 4 COMEDY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13960&extension=ts&play_token=aZNvNd4ARg
-#EXTINF:-1 tvg-name="CANALPLAY 5 THRILLER" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 5 THRILLER
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13959&extension=ts&play_token=FgqkV0YEKx
-#EXTINF:-1 tvg-name="CANALPLAY 6 ADVENTURE" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 6 ADVENTURE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13958&extension=ts&play_token=inXDct2K2k
-#EXTINF:-1 tvg-name="CANALPLAY 8 SCIENCE FICTION" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 8 SCIENCE FICTION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13956&extension=ts&play_token=Falp9Azd0a
-#EXTINF:-1 tvg-name="CANALPLAY 10 MANGA" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 10 MANGA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13969&extension=ts&play_token=5DWcOBNQsa
-#EXTINF:-1 tvg-name="CANALPLAY 11 CRIME/POLICIER" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 11 CRIME/POLICIER
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13968&extension=ts&play_token=NcMYVHHorU
-#EXTINF:-1 tvg-name="CARTOON NETWORK HEVC" group-title="FR_ France",CARTOON NETWORK HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47513&extension=ts&play_token=3pqbsfFBeg
-#EXTINF:-1 tvg-name="CARTOON NETWORK FHD" group-title="Kids",CARTOON NETWORK FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13761&extension=ts&play_token=GhzCuNz6C9
-#EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="Kids",CARTOON NETWORK HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24933&extension=ts&play_token=kYrmDK2kS8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Kids",CARTOON NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328929&extension=ts&play_token=oOfmZwoi3g
-#EXTINF:-1 tvg-name="CARTOON NETWORK EN" tvg-logo="https://logoipro2.com/logo/45908.png" group-title="Kids",CARTOON NETWORK EN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342351&extension=ts&play_token=u8OMdv2rdg
-#EXTINF:-1 tvg-name="CBS NEW" group-title="USA",CBS NEW
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328845&extension=ts&play_token=Eg4Gcjqoq7
-#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" group-title="Sports_ Mix",CBS SPORTS NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328820&extension=ts&play_token=EwygKlHQ1W
-#EXTINF:-1 tvg-name="CHANNEL 4 FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/channel4_uk.png" group-title="UK_ GENERAL",CHANNEL 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216110&extension=ts&play_token=YxP3VCtX9H
-#EXTINF:-1 tvg-name="CHANNEL 4 HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/channel4_uk.png" group-title="UK_ GENERAL",CHANNEL 4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216109&extension=ts&play_token=70e4hbjVrZ
-#EXTINF:-1 tvg-name="CHASSE&PECHE FHD" group-title="FR_ Documentary",CHASSE&PECHE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13837&extension=ts&play_token=eXLiKgezcZ
-#EXTINF:-1 tvg-name="CHEDDAR NEWS" group-title="USA",CHEDDAR NEWS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328837&extension=ts&play_token=AkGFjFiAmk
-#EXTINF:-1 tvg-name="CINE+ CLASSIC HEVC" group-title="FR_ Cine+",CINE+ CLASSIC HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47533&extension=ts&play_token=3PP0Gs44FY
-#EXTINF:-1 tvg-name="CINÉ+ CLASSIC HEVC" group-title="FR_ Cine+",CINÉ+ CLASSIC HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216659&extension=ts&play_token=bFkoR55Jjl
-#EXTINF:-1 tvg-name="CINE+ CLASSIC FHD" group-title="FR_ Cine+",CINE+ CLASSIC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13758&extension=ts&play_token=1yyAxmrSdH
-#EXTINF:-1 tvg-name="CINE+ CLASSIC HD" group-title="FR_ Cine+",CINE+ CLASSIC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14026&extension=ts&play_token=9KoQOap2AB
-#EXTINF:-1 tvg-name="CINE+ EMOTION HEVC" group-title="FR_ Cine+",CINE+ EMOTION HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47519&extension=ts&play_token=d95RxxKubU
-#EXTINF:-1 tvg-name="CINE+ EMOTION FHD" group-title="FR_ Cine+",CINE+ EMOTION FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13756&extension=ts&play_token=Od2PGwVLvG
-#EXTINF:-1 tvg-name="CINE+ EMOTION HD" group-title="FR_ Cine+",CINE+ EMOTION HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14024&extension=ts&play_token=IOyzyESyDj
-#EXTINF:-1 tvg-name="CINE+ FAMILY FHD" group-title="FR_ Cine+",CINE+ FAMILY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13755&extension=ts&play_token=UoBYYHtxuR
-#EXTINF:-1 tvg-name="CINE+ FAMILY HD" group-title="FR_ Cine+",CINE+ FAMILY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13941&extension=ts&play_token=QlZVXSrxIf
-#EXTINF:-1 tvg-name="CINE+ FAMIZ HEVC" group-title="FR_ Cine+",CINE+ FAMIZ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47532&extension=ts&play_token=ZM1ws2qYzI
-#EXTINF:-1 tvg-name="CINE+ FESTIVAL FHD" group-title="FR_ Cine+",CINE+ FESTIVAL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47556&extension=ts&play_token=8X0ttD8ILV
-#EXTINF:-1 tvg-name="CINE+ FESTIVAL HD" group-title="FR_ Cine+",CINE+ FESTIVAL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14025&extension=ts&play_token=JoaK7r1OoG
-#EXTINF:-1 tvg-name="CINE+ FRISSON FHD" group-title="FR_ Cine+",CINE+ FRISSON FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13754&extension=ts&play_token=QP73O7D1B3
-#EXTINF:-1 tvg-name="CINE+ FRISSON HD" group-title="FR_ Cine+",CINE+ FRISSON HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14023&extension=ts&play_token=g2EaFNPKZc
-#EXTINF:-1 tvg-name="CINE KIDS HD" group-title="FR_ Cine+",CINE KIDS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24959&extension=ts&play_token=D9JAaijOYu
-#EXTINF:-1 tvg-name="CINE+ OCS FHD" group-title="FR_ Cine+",CINE+ OCS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13834&extension=ts&play_token=l95B78zwcR
-#EXTINF:-1 tvg-name="CINE+ PREMIER FHD" group-title="FR_ Cine+",CINE+ PREMIER FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13759&extension=ts&play_token=sxstAVLf6c
-#EXTINF:-1 tvg-name="CINE+ PREMIER HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14021&extension=ts&play_token=CsmP9VWKyL
-#EXTINF:-1 tvg-name="CINEMAX" group-title="USA",CINEMAX
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328903&extension=ts&play_token=5pXypE6qE8
-#EXTINF:-1 tvg-name="CINEMAX THRILLERMAX" group-title="USA",CINEMAX THRILLERMAX
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328900&extension=ts&play_token=WthZ9fD9w8
-#EXTINF:-1 tvg-name="CLAN TVE" group-title="ES_ Sport",CLAN TVE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23172&extension=ts&play_token=EqDKYN0i1r
-#EXTINF:-1 tvg-name="CMT" tvg-logo="https://logoipro2.com/logo/s10138_h3_aa.png" group-title="USA",CMT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328991&extension=ts&play_token=srPwBP67iQ
-#EXTINF:-1 tvg-name="CNBC" group-title="USA",CNBC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328844&extension=ts&play_token=mkEIzTA1bd
-#EXTINF:-1 tvg-name="CNBC WORLD" tvg-logo="https://logoipro2.com/logo/cnbc_world_m.png" group-title="USA",CNBC WORLD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328843&extension=ts&play_token=sYg4ftNTlI
-#EXTINF:-1 tvg-name="CNEWS HEVC" group-title="FR_ France",CNEWS HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47483&extension=ts&play_token=v3mqdSlQH0
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/cnn_uk.png" group-title="UK_ GENERAL",CNN HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215936&extension=ts&play_token=crITCnHK3M
-#EXTINF:-1 tvg-name="CNN" group-title="USA",CNN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328842&extension=ts&play_token=Cm87lMkVdz
-#EXTINF:-1 tvg-name="COMEDIE+ HEVC" group-title="FR_ France",COMEDIE+ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216782&extension=ts&play_token=T1sRCRe2TT
-#EXTINF:-1 tvg-name="COMEDIE+ FHD" group-title="FR_ France",COMEDIE+ FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13751&extension=ts&play_token=a7yyz0SE2U
-#EXTINF:-1 tvg-name="COMEDY CENTRAL FHD" group-title="ES_ Sport",COMEDY CENTRAL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23134&extension=ts&play_token=VN7GqfKMtQ
-#EXTINF:-1 tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/comedycentral_uk.png" group-title="UK_ GENERAL",COMEDY CENTRAL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216094&extension=ts&play_token=SFTSpM2Uay
-#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/comedycentral_uk.png" group-title="UK_ GENERAL",COMEDY CENTRAL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216093&extension=ts&play_token=ECGUEGODxD
-#EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="USA",COMEDY CENTRAL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328990&extension=ts&play_token=m6eAWq5y1D
-#EXTINF:-1 tvg-name="COMEDY CENTRAL FRANCE HEVC" group-title="FR_ France",COMEDY CENTRAL FRANCE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216783&extension=ts&play_token=5XHJch79Qs
-#EXTINF:-1 tvg-name="COMET" tvg-logo="https://logoipro2.com/logo/s97051_ll_h3_aa.png" group-title="USA",COMET
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328912&extension=ts&play_token=3urDZXQYqB
-#EXTINF:-1 tvg-name="COOKING CHANNEL" group-title="USA",COOKING CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328959&extension=ts&play_token=zdjk3YaG9q
-#EXTINF:-1 tvg-name="COSMO FHD" group-title="ES_ Sport",COSMO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23120&extension=ts&play_token=65z7rmPE7I
-#EXTINF:-1 tvg-name="COURT TV" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/courttv_uk.png" group-title="UK_ GENERAL",COURT TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216037&extension=ts&play_token=SzAfznhkmO
-#EXTINF:-1 tvg-name="CRIME DISTRICT FHD" group-title="FR_ Documentary",CRIME DISTRICT FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13750&extension=ts&play_token=ypBpwQtodc
-#EXTINF:-1 tvg-name="CSTAR FHD" group-title="FR_ France",CSTAR FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13749&extension=ts&play_token=DukOoxkv3B
-#EXTINF:-1 tvg-name="CSTAR HD" group-title="FR_ France",CSTAR HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13940&extension=ts&play_token=jIre134sOF
-#EXTINF:-1 tvg-name="CUATRO FHD" group-title="ES_ Sport",CUATRO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23168&extension=ts&play_token=0rfUyYufeo
-#EXTINF:-1 tvg-name="DAZN 1 FHD" group-title="DAZN Sport",DAZN 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=201355&extension=ts&play_token=jpFRBGNlNP
-#EXTINF:-1 tvg-name="DAZN 1 HD" group-title="DAZN Sport",DAZN 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=201356&extension=ts&play_token=ImhyGPmNAG
-#EXTINF:-1 tvg-name="DAZN 2 FHD" group-title="DAZN Sport",DAZN 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=59092&extension=ts&play_token=hhCi0KSkVx
-#EXTINF:-1 tvg-name="DAZN 2 HD" group-title="DAZN ES",DAZN 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=59091&extension=ts&play_token=1mVWvuNnv9
-#EXTINF:-1 tvg-name="DAZN A1 FHD" tvg-logo="https://logoipro2.com/logo/daznsport1.png" group-title="DAZN IT",DAZN A1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365316&extension=ts&play_token=3c5yu3Ulwb
-#EXTINF:-1 tvg-name="DAZN A1 HD" group-title="DAZN IT",DAZN A1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365315&extension=ts&play_token=Om3DW99XTP
-#EXTINF:-1 tvg-name="DAZN F1 FHD" group-title="DAZN Sport",DAZN F1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=140781&extension=ts&play_token=6hlD03xl2d
-#EXTINF:-1 tvg-name="DAZN F1 HD" group-title="DAZN Sport",DAZN F1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14052&extension=ts&play_token=CFwLbMeLDk
-#EXTINF:-1 tvg-name="DAZN LA LIGA FHD" group-title="DAZN LALIGA",DAZN LA LIGA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=281438&extension=ts&play_token=38DNSVzWjs
-#EXTINF:-1 tvg-name="DAZN LALIGA 1 FHD" group-title="DAZN LALIGA",DAZN LALIGA 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=59089&extension=ts&play_token=QjgAiuFEi9
-#EXTINF:-1 tvg-name="DAZN ZONA FHD" group-title="DAZN IT",DAZN ZONA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365318&extension=ts&play_token=1mT0pwqihG
-#EXTINF:-1 tvg-name="DAZN ZONA HD" group-title="DAZN IT",DAZN ZONA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365317&extension=ts&play_token=FJDRfCvv4z
-#EXTINF:-1 tvg-name="DISCOVERY FHD" group-title="FR_ Documentary",DISCOVERY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13748&extension=ts&play_token=FHkCW3g1MR
-#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="FR_ Documentary",DISCOVERY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14017&extension=ts&play_token=UjUz3WWVqO
-#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="Mix_ Documentary",DISCOVERY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342382&extension=ts&play_token=DC6VlLtoKb
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" group-title="Mix_ Documentary",DISCOVERY CHANNEL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23110&extension=ts&play_token=nX8KMdYhld
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Mix_ Documentary",DISCOVERY CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328988&extension=ts&play_token=bwXA6qAJei
-#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION FHD" group-title="FR_ Documentary",DISCOVERY INVESTIGATION FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13836&extension=ts&play_token=Q2eFfsomiJ
-#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION HD" group-title="FR_ Documentary",DISCOVERY INVESTIGATION HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13828&extension=ts&play_token=YhXfrO8Z7X
-#EXTINF:-1 tvg-name="DISCOVERY LIFE" tvg-logo="https://logoipro2.com/logo/s92204_ll_h3_aa.png" group-title="Mix_ Documentary",DISCOVERY LIFE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328957&extension=ts&play_token=8a3U8eRyMZ
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" group-title="USA",DISNEY CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328928&extension=ts&play_token=xlhZBnkI0w
-#EXTINF:-1 tvg-name="DISNEY CHANNEL +1 HEVC" group-title="FR_ GENERAL",DISNEY CHANNEL +1 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216743&extension=ts&play_token=bPOqvOi0SC
-#EXTINF:-1 tvg-name="DISNEY ORANGE 1" group-title="FR_ GENERAL",DISNEY ORANGE 1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24939&extension=ts&play_token=b7nLIS03jM
-#EXTINF:-1 tvg-name="DISNEY ORANGE 2" group-title="FR_ GENERAL",DISNEY ORANGE 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24950&extension=ts&play_token=lTYGeks2mr
-#EXTINF:-1 tvg-name="DISNEY ORANGE 3" group-title="FR_ GENERAL",DISNEY ORANGE 3
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24951&extension=ts&play_token=6gl7j9z9X6
-#EXTINF:-1 tvg-name="DISNEY PRO+" group-title="FR_ GENERAL",DISNEY PRO+
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=153719&extension=ts&play_token=I1EblUolJD
-#EXTINF:-1 tvg-name="DISNEY XD" group-title="USA",DISNEY XD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328926&extension=ts&play_token=ARa3hh6o7Z
-#EXTINF:-1 tvg-name="DIVINITY HD" group-title="ES_ Sport",DIVINITY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=203310&extension=ts&play_token=0Uj8wAYBFa
-#EXTINF:-1 tvg-name="DIVINITY" group-title="ES_ Sport",DIVINITY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=203311&extension=ts&play_token=LkPxubkMdl
-#EXTINF:-1 tvg-name="DMAX FHD" group-title="ES_ Sport",DMAX FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=218555&extension=ts&play_token=JArlnLjNbb
-#EXTINF:-1 tvg-name="DREAMWORKS FHD" group-title="FR_ GENERAL",DREAMWORKS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1041&extension=ts&play_token=Zl5FyLdJIm
-#EXTINF:-1 tvg-name="E! FHD" group-title="UK_ GENERAL",E! FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216049&extension=ts&play_token=NvqxZJkyId
-#EXTINF:-1 tvg-name="E! HD" group-title="UK_ GENERAL",E! HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216048&extension=ts&play_token=nxKWeUwYOw
-#EXTINF:-1 tvg-name="E!" group-title="USA",E!
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328954&extension=ts&play_token=C0OL359vHh
-#EXTINF:-1 tvg-name="E! ENTERTAINMENT HEVC" group-title="FR_ France",E! ENTERTAINMENT HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216777&extension=ts&play_token=yI8ATtRYt2
-#EXTINF:-1 tvg-name="ENERGY" group-title="ES_ Sport",ENERGY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23121&extension=ts&play_token=xsIyyEdRc7
-#EXTINF:-1 tvg-name="EQUIDIA HEVC" group-title="FR_ France",EQUIDIA HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47527&extension=ts&play_token=BJEeBlNtYn
-#EXTINF:-1 tvg-name="ESPN2" group-title="USA",ESPN2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328818&extension=ts&play_token=ni9QG5TJE0
-#EXTINF:-1 tvg-name="ESPN DEPORTES FHD" group-title="ES_ Sport",ESPN DEPORTES FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=201986&extension=ts&play_token=YU95VeaU8h
-#EXTINF:-1 tvg-name="ESPNU" group-title="USA",ESPNU
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328816&extension=ts&play_token=RNpLaHUdhH
-#EXTINF:-1 tvg-name="ETB 2 HD" group-title="ES_ Sport",ETB 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=90698&extension=ts&play_token=myaTxdFimL
-#EXTINF:-1 tvg-name="ETB SAT" group-title="ES_ Sport",ETB SAT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=90696&extension=ts&play_token=76usoiYCII
-#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/euronews_uk.png" group-title="UK_ GENERAL",EURONEWS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215934&extension=ts&play_token=Eu2trkL1UJ
-#EXTINF:-1 tvg-name="EUROSPORT 1 HEVC" group-title="FR_ France",EUROSPORT 1 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47548&extension=ts&play_token=Zc3BmXK6dn
-#EXTINF:-1 tvg-name="EUROSPORT 2 HEVC" group-title="FR_ France",EUROSPORT 2 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47549&extension=ts&play_token=cf12f0LmJi
-#EXTINF:-1 tvg-name="FASHION TV FHD" group-title="FR_ GENERAL",FASHION TV FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1064&extension=ts&play_token=qXurXqJd3m
-#EXTINF:-1 tvg-name="FIGHT NETWORK" group-title="USA",FIGHT NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328815&extension=ts&play_token=lbdidOkcau
-#EXTINF:-1 tvg-name="FOX 5" group-title="USA",FOX 5
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=330302&extension=ts&play_token=9hotnDshjm
-#EXTINF:-1 tvg-name="FOX BUSINESS" group-title="USA",FOX BUSINESS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328835&extension=ts&play_token=AAWhnvqQOL
-#EXTINF:-1 tvg-name="FOX DEPORTES" group-title="USA",FOX DEPORTES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328648&extension=ts&play_token=kNKshD7SPT
-#EXTINF:-1 tvg-name="FOX NEWS" group-title="USA",FOX NEWS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328834&extension=ts&play_token=kxElUPWT7m
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="FOX Sport",FOX SPORTS 1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328813&extension=ts&play_token=gGPodfwmii
-#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="FOX Sport",FOX SPORTS 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328812&extension=ts&play_token=52DDxRCzjw
-#EXTINF:-1 tvg-name="FRANCE 2 FHD" group-title="FR_ France",FRANCE 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13739&extension=ts&play_token=HHRfiCA8qJ
-#EXTINF:-1 tvg-name="FRANCE 3 HEVC" group-title="FR_ France",FRANCE 3 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47476&extension=ts&play_token=KrJtPkEUyG
-#EXTINF:-1 tvg-name="FRANCE 3 FHD" group-title="FR_ France",FRANCE 3 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13738&extension=ts&play_token=0RmSPjRlVO
-#EXTINF:-1 tvg-name="FRANCE 3 HD" group-title="FR_ France",FRANCE 3 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13915&extension=ts&play_token=csv6Vegio3
-#EXTINF:-1 tvg-name="FRANCE 3 BOURGOGNE FHD" tvg-logo="https://logoipro2.com/LOGO/FRANCE OTT/France3.png" group-title="FR_ France",FRANCE 3 BOURGOGNE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=195827&extension=ts&play_token=I32oC9Ay4l
-#EXTINF:-1 tvg-name="FRANCE 4 HD" group-title="FR_ France",FRANCE 4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13914&extension=ts&play_token=AGndjaNA5t
-#EXTINF:-1 tvg-name="FRANCE 5 FHD" group-title="FR_ France",FRANCE 5 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13736&extension=ts&play_token=KMHnP8QsAf
-#EXTINF:-1 tvg-name="FRANCE 5 HD" group-title="FR_ France",FRANCE 5 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13913&extension=ts&play_token=NDATeoensN
-#EXTINF:-1 tvg-name="FRANCE 24 HEVC" group-title="FR_ GENERAL",FRANCE 24 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216740&extension=ts&play_token=1N6sj4U2yY
-#EXTINF:-1 tvg-name="FRANCE 24 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/france24.png" group-title="FR_ GENERAL",FRANCE 24 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=162&extension=ts&play_token=urXcceIz9U
-#EXTINF:-1 tvg-name="FRANCE 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="FR_ GENERAL",FRANCE 24 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64262&extension=ts&play_token=nEzwxlZf67
-#EXTINF:-1 tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/langfr-225px-Logos_FRANCE24_RVB_2013.svg.png" group-title="FR_ GENERAL",FRANCE 24
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23054&extension=ts&play_token=gsUPq0Pdoa
-#EXTINF:-1 tvg-name="FRANCE INFO HEVC" group-title="FR_ France",FRANCE INFO HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216739&extension=ts&play_token=MbI79uVacj
-#EXTINF:-1 tvg-name="FUBO SPORTS NETWORK" group-title="USA",FUBO SPORTS NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=413323&extension=ts&play_token=08Hnnrjnhj
-#EXTINF:-1 tvg-name="FXM" group-title="USA",FXM
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328910&extension=ts&play_token=8ceLu8fFcs
-#EXTINF:-1 tvg-name="FXX" group-title="USA",FXX
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328984&extension=ts&play_token=v7JhTIWSWy
-#EXTINF:-1 tvg-name="FYI" group-title="USA",FYI
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328952&extension=ts&play_token=jkQYgDr7Av
-#EXTINF:-1 tvg-name="GALAVISION" group-title="USA",GALAVISION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328647&extension=ts&play_token=iaEzuNhOdV
-#EXTINF:-1 tvg-name="GOL PLAY FHD" group-title="ES_ Sport",GOL PLAY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14083&extension=ts&play_token=GL3lBIT6KY
-#EXTINF:-1 tvg-name="GOL PLAY SD" group-title="ES_ Sport",GOL PLAY SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14082&extension=ts&play_token=I20T6PJBLS
-#EXTINF:-1 tvg-name="GOLF+ HEVC" group-title="FR_ France",GOLF+ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216724&extension=ts&play_token=qqESZlCO6L
-#EXTINF:-1 tvg-name="GOLF CHANNEL HEVC" group-title="FR_ France",GOLF CHANNEL HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216723&extension=ts&play_token=809tX1zN1F
-#EXTINF:-1 tvg-name="GOLF CHANNEL" group-title="USA",GOLF CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328810&extension=ts&play_token=cEzAwkmjxe
-#EXTINF:-1 tvg-name="GULLI HD" group-title="FR_ France",GULLI HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24955&extension=ts&play_token=GuH87g7XkL
-#EXTINF:-1 tvg-name="HALLMARK CHANNEL" group-title="USA",HALLMARK CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328925&extension=ts&play_token=FFil9Ahh6J
-#EXTINF:-1 tvg-name="HALLMARK MOVIES&MYSTERIES" group-title="USA",HALLMARK MOVIES&MYSTERIES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328923&extension=ts&play_token=QsTItnY4Rh
-#EXTINF:-1 tvg-name="HBO" group-title="USA",HBO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328892&extension=ts&play_token=8B5a3CZW39
-#EXTINF:-1 tvg-name="HBO 2" group-title="USA",HBO 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328891&extension=ts&play_token=s0I1bzadSi
-#EXTINF:-1 tvg-name="HBO COMEDY" group-title="USA",HBO COMEDY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328888&extension=ts&play_token=AnxqwELdtN
-#EXTINF:-1 tvg-name="HBO LATINO" group-title="USA",HBO LATINO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328886&extension=ts&play_token=k4Whs1Ccw5
-#EXTINF:-1 tvg-name="HBO ZONE" group-title="USA",HBO ZONE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328887&extension=ts&play_token=5z1WjS7Sok
-#EXTINF:-1 tvg-name="HDNET MOVIES" group-title="USA",HDNET MOVIES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328909&extension=ts&play_token=lDzHE1soeU
-#EXTINF:-1 tvg-name="HGTV" group-title="USA",HGTV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328951&extension=ts&play_token=zql2eSLisd
-#EXTINF:-1 tvg-name="HISTOIRE HEVC" group-title="FR_ Documentary",HISTOIRE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216728&extension=ts&play_token=ZSrPNLnNzz
-#EXTINF:-1 tvg-name="HISTOIRE FHD" group-title="FR_ Documentary",HISTOIRE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13731&extension=ts&play_token=AUtWSRXByU
-#EXTINF:-1 tvg-name="HISTOIRE SD" group-title="FR_ Documentary",HISTOIRE SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1056&extension=ts&play_token=8F5GLxTOXD
-#EXTINF:-1 tvg-name="HISTORIA" group-title="ES_ Sport",HISTORIA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23109&extension=ts&play_token=FcPepoz7ly
-#EXTINF:-1 tvg-name="HISTORY FHD" group-title="Mix_ Documentary",HISTORY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79654&extension=ts&play_token=UxNFidNjgG
-#EXTINF:-1 tvg-name="HISTORY HD" group-title="Mix_ Documentary",HISTORY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23532&extension=ts&play_token=hEkPya6TIE
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="https://logoipro2.com/logo/s14771_ll_h3_ad.png" group-title="Mix_ Documentary",HISTORY CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328982&extension=ts&play_token=hrK0i54SFK
-#EXTINF:-1 tvg-name="HLN" group-title="USA",HLN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328833&extension=ts&play_token=PY4rulhwFZ
-#EXTINF:-1 tvg-name="IFC" group-title="USA",IFC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328885&extension=ts&play_token=6Jn7P2w2Rp
-#EXTINF:-1 tvg-name="INFOSPORT (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/Infosportplus.png" group-title="FR_ GENERAL",INFOSPORT (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39496&extension=ts&play_token=ynzSxFd2Ec
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://logoipro2.com/logo/s65342_ll_h3_ac.png" group-title="Mix_ Documentary",INVESTIGATION DISCOVERY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328981&extension=ts&play_token=FLRHEcQNmB
-#EXTINF:-1 tvg-name="ION TV" group-title="USA",ION TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328980&extension=ts&play_token=aCcd2qJidF
-#EXTINF:-1 tvg-name="ITV 4 FHD" group-title="UK_ GENERAL",ITV 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216081&extension=ts&play_token=7l22KFsg8A
-#EXTINF:-1 tvg-name="LA 1 FHD" group-title="ES_ Sport",LA 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23174&extension=ts&play_token=ebzjg4dL83
-#EXTINF:-1 tvg-name="LA 1 HD" group-title="ES_ Sport",LA 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=294119&extension=ts&play_token=MyVp39MVAe
-#EXTINF:-1 tvg-name="LA 1 SD" group-title="ES_ Sport",LA 1 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23173&extension=ts&play_token=odvK0jirXk
-#EXTINF:-1 tvg-name="LA 2 FHD" group-title="ES_ Sport",LA 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=294120&extension=ts&play_token=XafkNxx2P3
-#EXTINF:-1 tvg-name="LA 2 HD" group-title="ES_ Sport",LA 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=45417&extension=ts&play_token=GXSbdIN5lh
-#EXTINF:-1 tvg-name="LA 2 SD" group-title="ES_ Sport",LA 2 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23171&extension=ts&play_token=3DJbA0S5Za
-#EXTINF:-1 tvg-name="LA CHAINE METEO FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/lachainemeteo.png" group-title="FR_ France",LA CHAINE METEO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13783&extension=ts&play_token=eDayyOzU1T
-#EXTINF:-1 tvg-name="LA LIGA SMARTBANK FHD" group-title="ES_ Sport",LA LIGA SMARTBANK FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=214119&extension=ts&play_token=qvWi3RSUPf
-#EXTINF:-1 tvg-name="LA LIGA SMARTBANK HD" group-title="ES_ Sport",LA LIGA SMARTBANK HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=214118&extension=ts&play_token=tP1OzNDene
-#EXTINF:-1 tvg-name="LA RESISTENCIA FHD" group-title="ES_ Sport",LA RESISTENCIA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235355&extension=ts&play_token=wXArA7oE4k
-#EXTINF:-1 tvg-name="LA RESISTENCIA HD" group-title="ES_ Sport",LA RESISTENCIA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235354&extension=ts&play_token=U6mMBtUssu
-#EXTINF:-1 tvg-name="LA SEXTA HD" group-title="ES_ Sport",LA SEXTA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23163&extension=ts&play_token=Ix3njBssPg
-#EXTINF:-1 tvg-name="LA SEXTA" group-title="ES_ Sport",LA SEXTA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23162&extension=ts&play_token=Eci8i4fCLi
-#EXTINF:-1 tvg-name="LALIGA TV BAR FHD" group-title="ES_ Sport",LALIGA TV BAR FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=180249&extension=ts&play_token=MvVJhKovSY
-#EXTINF:-1 tvg-name="LCI HEVC" group-title="FR_ France",LCI HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47485&extension=ts&play_token=6ob9RjORct
-#EXTINF:-1 tvg-name="LCI FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/lci.png" group-title="FR_ France",LCI FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13727&extension=ts&play_token=KpQTta66Vb
-#EXTINF:-1 tvg-name="LCI (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/lci.png" group-title="FR_ France",LCI (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39458&extension=ts&play_token=qffgpq0IIm
-#EXTINF:-1 tvg-name="LCP HEVC" group-title="FR_ France",LCP HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47473&extension=ts&play_token=ZUtBXcH2yi
-#EXTINF:-1 tvg-name="LCP HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/lcp.png" group-title="FR_ France",LCP HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1016&extension=ts&play_token=71qrv4yKMt
-#EXTINF:-1 tvg-name="LEQUIPE 21 HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/lequipe21.png" group-title="FR_ L'EQUIPE",LEQUIPE 21 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14005&extension=ts&play_token=m336v72xO8
-#EXTINF:-1 tvg-name="LEQUIPE LIVE 6 FHD" tvg-logo="https://www.tv-direct.net/wp-content/uploads/2017/07/equipe-tv.jpg" group-title="FR_ L'EQUIPE",LEQUIPE LIVE 6 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=201042&extension=ts&play_token=tbtl5jlnvl
-#EXTINF:-1 tvg-name="LIFETIME" group-title="UK_ GENERAL",LIFETIME
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216030&extension=ts&play_token=m26ctTAqWV
-#EXTINF:-1 tvg-name="LIFETIME MOVIES" group-title="USA",LIFETIME MOVIES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328948&extension=ts&play_token=Hok9MqP1HJ
-#EXTINF:-1 tvg-name="LIFETIME NETWORK" group-title="USA",LIFETIME NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328949&extension=ts&play_token=klVghY30TA
-#EXTINF:-1 tvg-name="LOCAL NOW" group-title="USA",LOCAL NOW
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328823&extension=ts&play_token=jMFzMerexJ
-#EXTINF:-1 tvg-name="LOGO TV" group-title="USA",LOGO TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328947&extension=ts&play_token=MvBdjmELfs
-#EXTINF:-1 tvg-name="M6 FHD" group-title="FR_ France",M6 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13726&extension=ts&play_token=muTl3JuRfz
-#EXTINF:-1 tvg-name="M6 MUSIC HEVC" group-title="FR_ France",M6 MUSIC HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47512&extension=ts&play_token=oJE53B3ak2
-#EXTINF:-1 tvg-name="M6 MUSIC FHD" group-title="FR_ France",M6 MUSIC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13826&extension=ts&play_token=97xFL4XSIi
-#EXTINF:-1 tvg-name="M6 MUSIC HD" group-title="FR_ France",M6 MUSIC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=44692&extension=ts&play_token=8exUN12WYN
-#EXTINF:-1 tvg-name="M ACCION" group-title="ES_ M+",M ACCION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23148&extension=ts&play_token=xrTrmj8eub
-#EXTINF:-1 tvg-name="M CAMPEONES FHD" group-title="ES_ LIGA DE CAMPEONES",M CAMPEONES FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=45415&extension=ts&play_token=iTWGTJoHYN
-#EXTINF:-1 tvg-name="M DECASA" group-title="ES_ M+",M DECASA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23118&extension=ts&play_token=ShaNjVzfEy
-#EXTINF:-1 tvg-name="M DEPORTES 2 FHD" group-title="ES_ M+ Deportes",M DEPORTES 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14063&extension=ts&play_token=jVp98Dv9XL
-#EXTINF:-1 tvg-name="M ESTRENOS FHD" group-title="ES_ ESTRENOS",M ESTRENOS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23152&extension=ts&play_token=5JftSwpZAo
-#EXTINF:-1 tvg-name="M ESTRENOS" group-title="ES_ ESTRENOS",M ESTRENOS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23151&extension=ts&play_token=9Adu9Fsv6n
-#EXTINF:-1 tvg-name="M ESTRENOS 2 FHD" group-title="ES_ ESTRENOS",M ESTRENOS 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235360&extension=ts&play_token=4gUOGDruOz
-#EXTINF:-1 tvg-name="M EUROSPORT 1 FHD" group-title="ES_ M+ Deportes",M EUROSPORT 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14058&extension=ts&play_token=Iv2SLb6G1n
-#EXTINF:-1 tvg-name="M EUROSPORT 1" group-title="ES_ M+ Deportes",M EUROSPORT 1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14059&extension=ts&play_token=qrYUa58Rj5
-#EXTINF:-1 tvg-name="M GOLF FHD" group-title="ES_ M+ Deportes",M GOLF FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14056&extension=ts&play_token=vxkXGxTeUX
-#EXTINF:-1 tvg-name="M GOLF HD" group-title="ES_ M+ Deportes",M GOLF HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14057&extension=ts&play_token=ZvN98i32a0
-#EXTINF:-1 tvg-name="M HOLLYWOOD HD" group-title="ES_ M+",M HOLLYWOOD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23141&extension=ts&play_token=rI7Qugd3Na
-#EXTINF:-1 tvg-name="M. LALIGA 1 HD" group-title="ES_ M+ LALIGA",M. LALIGA 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14080&extension=ts&play_token=h9wzMFgi2T
-#EXTINF:-1 tvg-name="M. LALIGA 2 FHD (EVENT ONLY)" group-title="ES_ M+ LALIGA",M. LALIGA 2 FHD (EVENT ONLY)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14072&extension=ts&play_token=34t45y8eF1
-#EXTINF:-1 tvg-name="M. LALIGA 2 HD (EVENT ONLY)" group-title="ES_ M+ LALIGA",M. LALIGA 2 HD (EVENT ONLY)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14071&extension=ts&play_token=G9PzB3lmuw
-#EXTINF:-1 tvg-name="M. LALIGA 4 (EVENT ONLY)" group-title="ES_ M+ LALIGA",M. LALIGA 4 (EVENT ONLY)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=140784&extension=ts&play_token=EkzVZwl0IL
-#EXTINF:-1 tvg-name="M LIGA CAMPEONES 1 FHD" group-title="ES_ M+ LIGA",M LIGA CAMPEONES 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=214113&extension=ts&play_token=QCKNtj12X7
-#EXTINF:-1 tvg-name="M LIGA CAMPEONES 1 HD" group-title="ES_ M+ LIGA",M LIGA CAMPEONES 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=214110&extension=ts&play_token=NkG2gH8QRI
-#EXTINF:-1 tvg-name="M LIGA CAMPEONES 2 HD" group-title="ES_ M+ LIGA",M LIGA CAMPEONES 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=214109&extension=ts&play_token=OM3lKK8WGO
-#EXTINF:-1 tvg-name="M LIGA DE CAMPEONES" group-title="ES_ M+ LIGA",M LIGA DE CAMPEONES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=45416&extension=ts&play_token=hWHNjiA928
-#EXTINF:-1 tvg-name="M PARAMOUNT SD" group-title="ES_ M+",M PARAMOUNT SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235356&extension=ts&play_token=qFYNBHEQCI
-#EXTINF:-1 tvg-name="M REAL MADRID TV" group-title="ES_ M+",M REAL MADRID TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14084&extension=ts&play_token=Han33Lg2NK
-#EXTINF:-1 tvg-name="M SYFY FHD" group-title="ES_ M+",M SYFY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23123&extension=ts&play_token=LGjwz3Ayqy
-#EXTINF:-1 tvg-name="M TELEDEPORTE" group-title="ES_ M+",M TELEDEPORTE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14061&extension=ts&play_token=PU7h6nuHe7
-#EXTINF:-1 tvg-name="MANGAS HEVC" group-title="FR_ France",MANGAS HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216730&extension=ts&play_token=RkNJOwno7t
-#EXTINF:-1 tvg-name="MANGAS FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/mangas.png" group-title="FR_ France",MANGAS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13865&extension=ts&play_token=r64OZP5EQx
-#EXTINF:-1 tvg-name="MANGAS HD" group-title="FR_ France",MANGAS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24932&extension=ts&play_token=AE0GvdPTMs
-#EXTINF:-1 tvg-name="MANGAS (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE OTT/Mangas_blanc.png" group-title="FR_ France",MANGAS (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39507&extension=ts&play_token=YnANvyJl3l
-#EXTINF:-1 tvg-name="MBC 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/300px-Mbc1logo.png" group-title="AR_ OSN MBC",MBC 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120314&extension=ts&play_token=AD7wMLJDYv
-#EXTINF:-1 tvg-name="MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/300px-Mbc1logo.png" group-title="AR_ OSN MBC",MBC 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=62563&extension=ts&play_token=A7x0wpfUyA
-#EXTINF:-1 tvg-name="MBC 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/300px-Mbc1logo.png" group-title="AR_ OSN MBC",MBC 1 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=62564&extension=ts&play_token=y8VMcHj47z
-#EXTINF:-1 tvg-name="MBC 1 HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC 1 HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401459&extension=ts&play_token=913FtG6Zky
-#EXTINF:-1 tvg-name="MBC 2 FHD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBC2-1_2.png" group-title="AR_ OSN MBC",MBC 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120313&extension=ts&play_token=l86OIdi0gr
-#EXTINF:-1 tvg-name="MBC 2 HD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBC2-1_2.png" group-title="AR_ OSN MBC",MBC 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=21189&extension=ts&play_token=5a271en4Nq
-#EXTINF:-1 tvg-name="MBC 2 SD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBC2-1_2.png" group-title="AR_ OSN MBC",MBC 2 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=21185&extension=ts&play_token=uNLWJxsrE7
-#EXTINF:-1 tvg-name="MBC 3 FHD" tvg-logo="https://seeklogo.com/images/M/mbc-3-logo-4F339A04DC-seeklogo.com.png" group-title="AR_ OSN MBC",MBC 3 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120312&extension=ts&play_token=Qpkzbo2PCY
-#EXTINF:-1 tvg-name="MBC 3 HD" group-title="AR_ OSN MBC",MBC 3 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342453&extension=ts&play_token=1HsYhNiK40
-#EXTINF:-1 tvg-name="MBC 3 HD" tvg-logo="https://seeklogo.com/images/M/mbc-3-logo-4F339A04DC-seeklogo.com.png" group-title="AR_ OSN MBC",MBC 3 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=21188&extension=ts&play_token=fr4uotUiTJ
-#EXTINF:-1 tvg-name="MBC 3 HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC 3 HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401461&extension=ts&play_token=zMn2oyHKYM
-#EXTINF:-1 tvg-name="MBC 4 FHD" tvg-logo="https://seeklogo.com/images/M/mbc-4-logo-3EDD2C5146-seeklogo.com.png" group-title="AR_ OSN MBC",MBC 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120311&extension=ts&play_token=f3A9zPc8PU
-#EXTINF:-1 tvg-name="MBC 4 HD" group-title="AR_ OSN MBC",MBC 4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342452&extension=ts&play_token=G71oQwtqHc
-#EXTINF:-1 tvg-name="MBC 4 SD" tvg-logo="https://seeklogo.com/images/M/mbc-4-logo-3EDD2C5146-seeklogo.com.png" group-title="AR_ OSN MBC",MBC 4 SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=21183&extension=ts&play_token=5s0ZkVUdfo
-#EXTINF:-1 tvg-name="MBC 4 HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC 4 HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401462&extension=ts&play_token=x6tQSEBfw2
-#EXTINF:-1 tvg-name="MBC 5 FHD" tvg-logo="https://logoipro2.com/logo/41035.png" group-title="AR_ OSN MBC",MBC 5 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120310&extension=ts&play_token=u2o0tgPeMY
-#EXTINF:-1 tvg-name="MBC 5 FHD" tvg-logo="https://logoipro2.com/logo/41035.png" group-title="AR_ OSN MBC",MBC 5 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=412350&extension=ts&play_token=2BIcDg52np
-#EXTINF:-1 tvg-name="MBC 5 HD" tvg-logo="https://logoipro2.com/logo/41035.png" group-title="AR_ OSN MBC",MBC 5 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=21186&extension=ts&play_token=x15gkVvcJ4
-#EXTINF:-1 tvg-name="MBC ACTION FHD HEVC" group-title="AR_ OSN MBC",MBC ACTION FHD HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=219418&extension=ts&play_token=jRPdV9vI7Y
-#EXTINF:-1 tvg-name="MBC ACTION FHD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCACTION-1_2.png" group-title="AR_ OSN MBC",MBC ACTION FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120308&extension=ts&play_token=7ZEHTmTrZK
-#EXTINF:-1 tvg-name="MBC ACTION HD" group-title="AR_ OSN MBC",MBC ACTION HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342451&extension=ts&play_token=iZVwsLvLCj
-#EXTINF:-1 tvg-name="MBC ACTION HD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCACTION-1_2.png" group-title="AR_ OSN MBC",MBC ACTION HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23079&extension=ts&play_token=oHBFWalFR1
-#EXTINF:-1 tvg-name="MBC ACTION HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC ACTION HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401469&extension=ts&play_token=nDzFPNaU8o
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD FHD HEVC" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCBOLLYWOOD-1.png" group-title="AR_ OSN MBC",MBC BOLLYWOOD FHD HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=219423&extension=ts&play_token=zTy0V4ZJAk
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MBC_BOLLYWOOD.png/280px-MBC_BOLLYWOOD.png" group-title="AR_ OSN MBC",MBC BOLLYWOOD FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120307&extension=ts&play_token=3bRzm23eX6
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD HD" group-title="AR_ OSN MBC",MBC BOLLYWOOD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342448&extension=ts&play_token=hDmEBErVfX
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD HD" tvg-logo="http://x.iptv-pure.com/mbcbollywood.png" group-title="AR_ OSN MBC",MBC BOLLYWOOD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64534&extension=ts&play_token=mScUrIXkQL
-#EXTINF:-1 tvg-name="MBC BOLLYWOOD SD" tvg-logo="http://x.iptv-pure.com/mbcbollywood.png" group-title="AR_ OSN MBC",MBC BOLLYWOOD SD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23074&extension=ts&play_token=KLljSSzlSE
-#EXTINF:-1 tvg-name="MBC DRAMA FHD HEVC" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCDRAMA-1_2.png" group-title="AR_ OSN MBC",MBC DRAMA FHD HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=219420&extension=ts&play_token=H3BYw84KZz
-#EXTINF:-1 tvg-name="MBC+ DRAMA FHD" tvg-logo="https://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="AR_ OSN MBC",MBC+ DRAMA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120305&extension=ts&play_token=Mtn0X7PcV4
-#EXTINF:-1 tvg-name="MBC DRAMA HD" group-title="AR_ OSN MBC",MBC DRAMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342449&extension=ts&play_token=k8drTdnjVz
-#EXTINF:-1 tvg-name="MBC DRAMA HD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCDRAMA-1_2.png" group-title="AR_ OSN MBC",MBC DRAMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23078&extension=ts&play_token=RCZsFaZpRE
-#EXTINF:-1 tvg-name="MBC+ DRAMA HD" group-title="AR_ OSN MBC",MBC+ DRAMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342447&extension=ts&play_token=vGvPSF3BUA
-#EXTINF:-1 tvg-name="MBC DRAMA HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC DRAMA HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401464&extension=ts&play_token=NqXYgCrRcU
-#EXTINF:-1 tvg-name="MBC DRAMA PLUS FHD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC DRAMA PLUS FHD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401471&extension=ts&play_token=YJO9iCvDdc
-#EXTINF:-1 tvg-name="MBC FM FHD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC FM FHD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401474&extension=ts&play_token=KtbjrYNOwo
-#EXTINF:-1 tvg-name="• • MBC GROUPE • •" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Groupe_MBC.jpg/420px-Groupe_MBC.jpg" group-title="AR_ OSN MBC",• • MBC GROUPE • •
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23080&extension=ts&play_token=7PLpwJtjxr
-#EXTINF:-1 tvg-name="MBC IRAQ HD" tvg-logo="https://logoipro2.com/LOGO/ARABE/mbciraq.png" group-title="AR_ OSN MBC",MBC IRAQ HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=84196&extension=ts&play_token=qS5I9tWjPS
-#EXTINF:-1 tvg-name="MBC IRAQ HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC IRAQ HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401465&extension=ts&play_token=soXpAoR9ye
-#EXTINF:-1 tvg-name="MBC IRAQHD" group-title="AR_ OSN MBC",MBC IRAQHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=227348&extension=ts&play_token=Vo42HvIuDO
-#EXTINF:-1 tvg-name="MBC MASR 2 HD" tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBMS2_264_Color.png" group-title="AR_ OSN MBC",MBC MASR 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=446823&extension=ts&play_token=9FA8nP7VCW
-#EXTINF:-1 tvg-name="MBC MASR 2 HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC MASR 2 HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401467&extension=ts&play_token=NqVSvnj0L5
-#EXTINF:-1 tvg-name="MBC MASR HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC MASR HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401466&extension=ts&play_token=3786RoJ5Pm
-#EXTINF:-1 tvg-name="MBC MAX HD" group-title="AR_ OSN MBC",MBC MAX HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342450&extension=ts&play_token=pxOQ0tVxiK
-#EXTINF:-1 tvg-name="MBC MAX HD" tvg-logo="https://logoipro2.com/LOGO/ARABIC/MBCMAX-_2.png" group-title="AR_ OSN MBC",MBC MAX HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=234521&extension=ts&play_token=au4MOqQSnR
-#EXTINF:-1 tvg-name="MBC MAX HD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC MAX HD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401468&extension=ts&play_token=JvJXROXd2W
-#EXTINF:-1 tvg-name="MBC PERSIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="AR_ OSN MBC",MBC PERSIA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=157327&extension=ts&play_token=5eA9Oy9uKk
-#EXTINF:-1 tvg-name="MBC PERSIA FHD +6H" tvg-logo="https://logoipro2.com/LOGO/LOGO ARABE +6.png" group-title="AR_ OSN MBC",MBC PERSIA FHD +6H
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=401473&extension=ts&play_token=f3zwIWpGnT
-#EXTINF:-1 tvg-name="MBC+ VARIETY FHD" tvg-logo="https://logoipro2.com/LOGO/ARABE/mbcplusvariety.png" group-title="AR_ OSN MBC",MBC+ VARIETY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=120304&extension=ts&play_token=KKqGVY4RnP
-#EXTINF:-1 tvg-name="MBC+ VARIETY HD" group-title="AR_ OSN MBC",MBC+ VARIETY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342446&extension=ts&play_token=x0vWd2OU5c
-#EXTINF:-1 tvg-name="MCM TOP HEVC" group-title="FR_ France",MCM TOP HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47526&extension=ts&play_token=ePMJuP9HHS
-#EXTINF:-1 tvg-name="MCM TOP HD" group-title="FR_ France",MCM TOP HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1037&extension=ts&play_token=NHD8iDr1oI
-#EXTINF:-1 tvg-name="MEGA HD" group-title="ES_ Sport",MEGA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23119&extension=ts&play_token=3jiJ5IWeq2
-#EXTINF:-1 tvg-name="MEZZO LIVE FHD" group-title="FR_ France",MEZZO LIVE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13723&extension=ts&play_token=Xy0HtPhxlB
-#EXTINF:-1 tvg-name="MGM+ DRIVE IN" group-title="USA",MGM+ DRIVE IN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=330249&extension=ts&play_token=kz4qt52yk1
-#EXTINF:-1 tvg-name="MLB NETWORK" group-title="USA",MLB NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328809&extension=ts&play_token=AhaoNwbJVS
-#EXTINF:-1 tvg-name="MLB STRIKE ZONE" group-title="USA",MLB STRIKE ZONE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328808&extension=ts&play_token=830Dj1iSXG
-#EXTINF:-1 tvg-name="MORE4 HD" group-title="UK_ GENERAL",MORE4 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216066&extension=ts&play_token=EMYioEzdZB
-#EXTINF:-1 tvg-name="MOTOR TREND" group-title="USA",MOTOR TREND
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328807&extension=ts&play_token=uQzeqnK4UB
-#EXTINF:-1 tvg-name="MOVISTAR PLUS+ 1 HD" group-title="ES_ MOVISTAR",MOVISTAR PLUS+ 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=290869&extension=ts&play_token=hIjm0IAibz
-#EXTINF:-1 tvg-name="MSNBC" group-title="USA",MSNBC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328831&extension=ts&play_token=UxhBbJIilM
-#EXTINF:-1 tvg-name="MTV FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/mtv.png" group-title="FR_ France",MTV FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13932&extension=ts&play_token=MsbLMy3Zgw
-#EXTINF:-1 tvg-name="MTV" group-title="USA",MTV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328979&extension=ts&play_token=Q56cEkld1C
-#EXTINF:-1 tvg-name="MTV2" group-title="USA",MTV2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328978&extension=ts&play_token=cs8NlOLNNY
-#EXTINF:-1 tvg-name="MTV CLASSIC HD" group-title="FR_ France",MTV CLASSIC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13931&extension=ts&play_token=WHX3qPK58F
-#EXTINF:-1 tvg-name="MTV CLASSICS TV" tvg-logo="https://logoipro2.com/logo/48571.png" group-title="FR_ France",MTV CLASSICS TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=205001&extension=ts&play_token=QCjicqmqXu
-#EXTINF:-1 tvg-name="MTV FRANCE (SD)" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/mtv.png" group-title="FR_ France",MTV FRANCE (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39486&extension=ts&play_token=wIVLeWyLV4
-#EXTINF:-1 tvg-name="MULTIDEPORTE" group-title="ES_ Sport",MULTIDEPORTE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79829&extension=ts&play_token=ETs63y5ED9
-#EXTINF:-1 tvg-name="MUNDOTORO" group-title="ES_ Sport",MUNDOTORO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235353&extension=ts&play_token=l4YrD0j7bm
-#EXTINF:-1 tvg-name="MUSEUM CHANNEL FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/museum.png" group-title="FR_ GENERAL",MUSEUM CHANNEL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13714&extension=ts&play_token=iPvPdFAAFC
-#EXTINF:-1 tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/ryzrR2K/images.png" group-title="Mix_ Documentary",NAT GEO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=337612&extension=ts&play_token=41vIHFyKnd
-#EXTINF:-1 tvg-name="NAT GEO WILD FHD" group-title="Mix_ Documentary",NAT GEO WILD FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23113&extension=ts&play_token=1WEMsRwa3g
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Mix_ Documentary",NAT GEO WILD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23112&extension=ts&play_token=P13wnxYpn8
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://logoipro2.com/logo/NatGeoWild.png" group-title="Mix_ Documentary",NAT GEO WILD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328946&extension=ts&play_token=lognq12Jmb
-#EXTINF:-1 tvg-name="NAT GEOGRAPHIC FHD" group-title="Mix_ Documentary",NAT GEOGRAPHIC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23114&extension=ts&play_token=rbNyiZPGPb
-#EXTINF:-1 tvg-name="NATIONAL GEO FHD" group-title="UK_ GENERAL",NATIONAL GEO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215967&extension=ts&play_token=t8aSZuAUq1
-#EXTINF:-1 tvg-name="NATIONAL GEO FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/nationalgeo.png" group-title="FR_ Documentary",NATIONAL GEO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13718&extension=ts&play_token=Ga9ebnOxml
-#EXTINF:-1 tvg-name="NATIONAL GEO HD" group-title="UK_ GENERAL",NATIONAL GEO HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215966&extension=ts&play_token=hsUi4hTCsA
-#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/nationalgeo.png" group-title="FR_ Documentary",NATIONAL GEO HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13999&extension=ts&play_token=dfjNKdpsrb
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="FR_ Documentary",NATIONAL GEO WILD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=14000&extension=ts&play_token=TOCItingqm
-#EXTINF:-1 tvg-name="NBC GOLF" group-title="USA",NBC GOLF
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328805&extension=ts&play_token=oyABOqyqwr
-#EXTINF:-1 tvg-name="NBC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1200px-NBC_Sports_2023.svg.png" group-title="Sports_ Mix",NBC SPORT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=330319&extension=ts&play_token=F5xfdj3qsG
-#EXTINF:-1 tvg-name="NBC SPORTS BAY AREA" group-title="USA",NBC SPORTS BAY AREA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328763&extension=ts&play_token=DtlVZIRwEP
-#EXTINF:-1 tvg-name="NBC SPORTS BOSTON" group-title="USA",NBC SPORTS BOSTON
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328762&extension=ts&play_token=mfDkuSdaOF
-#EXTINF:-1 tvg-name="NBC SPORTS NETWORK" group-title="USA",NBC SPORTS NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328804&extension=ts&play_token=VyK9zZE7SD
-#EXTINF:-1 tvg-name="NESN BOSTON" group-title="USA",NESN BOSTON
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328803&extension=ts&play_token=PHvL76tHgU
-#EXTINF:-1 tvg-name="NESN PLUS" group-title="USA",NESN PLUS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328802&extension=ts&play_token=lbGmZJ3knq
-#EXTINF:-1 tvg-name="NICK JR." group-title="USA",NICK JR.
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328921&extension=ts&play_token=XnpOos7ynQ
-#EXTINF:-1 tvg-name="NICKELODEON FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/nickelodeon.png" group-title="Kids",NICKELODEON FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24958&extension=ts&play_token=97yK8DIiYp
-#EXTINF:-1 tvg-name="NICKELODEON FHD" tvg-logo="https://logoipro2.com/logo/46663.png" group-title="Kids",NICKELODEON FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23101&extension=ts&play_token=X7XrVDaXPm
-#EXTINF:-1 tvg-name="NICKELODEON JUNIOR HD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/nickelodeonjunior.png" group-title="Kids",NICKELODEON JUNIOR HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24935&extension=ts&play_token=au7qnScfL7
-#EXTINF:-1 tvg-name="NICKELODEON TEEN FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/nickelodeon4teen.png" group-title="FR_ France",NICKELODEON TEEN FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24957&extension=ts&play_token=awv0lZvlL3
-#EXTINF:-1 tvg-name="NICKELODEON TEEN HD" group-title="Kids",NICKELODEON TEEN HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24953&extension=ts&play_token=rzWj6w9GnQ
-#EXTINF:-1 tvg-name="NICKTOONS (SD)" tvg-logo="https://logoipro2.com/logo/37944.png" group-title="FR_ GENERAL",NICKTOONS (SD)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=39520&extension=ts&play_token=KZUHtzhNeL
-#EXTINF:-1 tvg-name="NOLLYWOOD HD" group-title="FR_ GENERAL",NOLLYWOOD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13800&extension=ts&play_token=Kt3pzlbSFZ
-#EXTINF:-1 tvg-name="NOVA FHD" group-title="ES_ Sport",NOVA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=143295&extension=ts&play_token=0FcqwxjISB
-#EXTINF:-1 tvg-name="NOVA CINEMA 2 HD" group-title="TV mix",NOVA CINEMA 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=442550&extension=ts&play_token=JzhvsK86HV
-#EXTINF:-1 tvg-name="NOVELAS FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/novelastv.png" group-title="FR_ GENERAL",NOVELAS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13799&extension=ts&play_token=voQuvTceQ5
-#EXTINF:-1 tvg-name="NOVELAS TV HEVC" group-title="FR_ France",NOVELAS TV HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216781&extension=ts&play_token=OPkLfqtmXM
-#EXTINF:-1 tvg-name="NOW 70S" group-title="UK_ GENERAL",NOW 70S
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215848&extension=ts&play_token=NWauM3lckG
-#EXTINF:-1 tvg-name="NOW 80S" group-title="UK_ GENERAL",NOW 80S
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215847&extension=ts&play_token=9ens4jXdE9
-#EXTINF:-1 tvg-name="NRJ12 HEVC" group-title="FR_ GENERAL",NRJ12 HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47491&extension=ts&play_token=MyLsQ9Mrls
-#EXTINF:-1 tvg-name="NRJ HITS HEVC" group-title="FR_ France",NRJ HITS HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216731&extension=ts&play_token=pGZpVt8Nh2
-#EXTINF:-1 tvg-name="NRJ HITS HD" group-title="FR_ France",NRJ HITS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13927&extension=ts&play_token=uQLvvhmiSq
-#EXTINF:-1 tvg-name="OL PLAY HEVC" group-title="FR_ GENERAL",OL PLAY HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216654&extension=ts&play_token=3CXoMJzMsf
-#EXTINF:-1 tvg-name="OUTDOOR CHANNEL" group-title="USA",OUTDOOR CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328797&extension=ts&play_token=wWm6mMb5tT
-#EXTINF:-1 tvg-name="OVATION" group-title="USA",OVATION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328943&extension=ts&play_token=PDhUwPUwDV
-#EXTINF:-1 tvg-name="PARIS PREMIERE HEVC" group-title="FR_ France",PARIS PREMIERE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216784&extension=ts&play_token=W1vvrveJkY
-#EXTINF:-1 tvg-name="PARIS PREMIERE FHD" group-title="FR_ France",PARIS PREMIERE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13824&extension=ts&play_token=MqRnJ231Pl
-#EXTINF:-1 tvg-name="PARIS PREMIERE HD" group-title="FR_ France",PARIS PREMIERE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13993&extension=ts&play_token=piF1n35gvX
-#EXTINF:-1 tvg-name="PITCHOUN TV HEVC" group-title="FR_ GENERAL",PITCHOUN TV HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216648&extension=ts&play_token=6VqIKvfG7l
-#EXTINF:-1 tvg-name="PIWI+ HEVC" tvg-logo="https://logoipro2.com/LOGO/LOGO VIP/piwiplus.png" group-title="FR_ France",PIWI+ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216764&extension=ts&play_token=5CMYBNeoj4
-#EXTINF:-1 tvg-name="PIWI+ FHD" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/piwiplus.png" group-title="FR_ France",PIWI+ FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13867&extension=ts&play_token=JkUjl9z2cu
-#EXTINF:-1 tvg-name="PIWI+ HD" group-title="FR_ France",PIWI+ HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24937&extension=ts&play_token=nmVJIH4vfh
-#EXTINF:-1 tvg-name="PLANETE+ HEVC" group-title="FR_ Documentary",PLANETE+ HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47534&extension=ts&play_token=RlaHsJZY7e
-#EXTINF:-1 tvg-name="PLANETE+ FHD" group-title="FR_ Documentary",PLANETE+ FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13712&extension=ts&play_token=zPBTo5Bpvo
-#EXTINF:-1 tvg-name="PLANETE+ AVENTURE HEVC" group-title="FR_ Documentary",PLANETE+ AVENTURE HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47541&extension=ts&play_token=z211BvH10d
-#EXTINF:-1 tvg-name="PLANETE + CRIME HEVC" tvg-logo="https://logo-iptvpro.com/LOGO/LOGO VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE + CRIME HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47542&extension=ts&play_token=wiKEyCSC2v
-#EXTINF:-1 tvg-name="PLANETE+ CRIME FHD" group-title="Mix_ Documentary",PLANETE+ CRIME FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13710&extension=ts&play_token=HzHdz5vfDJ
-#EXTINF:-1 tvg-name="POPTV" group-title="USA",POPTV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328942&extension=ts&play_token=ZWqiuxDbBa
-#EXTINF:-1 tvg-name="PREMIER LEAGUE" group-title="USA",PREMIER LEAGUE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=330318&extension=ts&play_token=M6hUWH4tip
-#EXTINF:-1 tvg-name="PRIMAFILA 1" group-title="IT_ Sky Primafila",PRIMAFILA 1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23513&extension=ts&play_token=7I48n87M2Z
-#EXTINF:-1 tvg-name="PRIMAFILA 2" group-title="IT_ Sky Primafila",PRIMAFILA 2
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23512&extension=ts&play_token=hoZfQEeNzz
-#EXTINF:-1 tvg-name="PRIMAFILA 5" group-title="IT_ Sky Primafila",PRIMAFILA 5
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23509&extension=ts&play_token=Rh25ms8J5u
-#EXTINF:-1 tvg-name="PT FOX MOVIES HD" tvg-logo="https://logoipro2.com/logo/15963.png" group-title="Movies",PT FOX MOVIES HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79923&extension=ts&play_token=1scBkW1fU8
-#EXTINF:-1 tvg-name="PT FOX MOVIES" tvg-logo="https://logoipro2.com/logo/15963.png" group-title="Movies",PT FOX MOVIES
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23210&extension=ts&play_token=JGweGY9Jo7
-#EXTINF:-1 tvg-name="QVC" group-title="USA",QVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328655&extension=ts&play_token=RxVinRgjeg
-#EXTINF:-1 tvg-name="RAI 1 FHD" group-title="Rai",RAI 1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64358&extension=ts&play_token=bz5FX98IVb
-#EXTINF:-1 tvg-name="RAI 1 HD" group-title="Rai",RAI 1 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23655&extension=ts&play_token=399Wuiy0qH
-#EXTINF:-1 tvg-name="RAI 2 FHD" group-title="Rai",RAI 2 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64359&extension=ts&play_token=RiDboDGrna
-#EXTINF:-1 tvg-name="RAI 2 HD" group-title="Rai",RAI 2 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23654&extension=ts&play_token=JVuMiEuVaM
-#EXTINF:-1 tvg-name="RAI 3 FHD" group-title="Rai",RAI 3 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64360&extension=ts&play_token=QlfNTZBcSu
-#EXTINF:-1 tvg-name="RAI 4 FHD" group-title="Rai",RAI 4 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64361&extension=ts&play_token=iI6iXbj1kT
-#EXTINF:-1 tvg-name="RAI MOVIE HD" group-title="Rai",RAI MOVIE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23650&extension=ts&play_token=LhlAf24ZD3
-#EXTINF:-1 tvg-name="RAI YOYO FHD" tvg-logo="https://logoipro2.com/logo/22218.png" group-title="Rai",RAI YOYO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79643&extension=ts&play_token=drY80zqhvp
-#EXTINF:-1 tvg-name="RAI YOYO" tvg-logo="https://logoipro2.com/logo/22218.png" group-title="Rai",RAI YOYO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23644&extension=ts&play_token=lywMIstiKy
-#EXTINF:-1 tvg-name="RED BULL TV HD" group-title="USA",RED BULL TV HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328941&extension=ts&play_token=jKLfH8ZDNp
-#EXTINF:-1 tvg-name="REVOLT" group-title="USA",REVOLT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328853&extension=ts&play_token=hbHyPvwsx5
-#EXTINF:-1 tvg-name="RT AMERICA" group-title="USA",RT AMERICA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328828&extension=ts&play_token=1iMRIPn378
-#EXTINF:-1 tvg-name="RTE TWO FHD" group-title="UK_ GENERAL",RTE TWO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216019&extension=ts&play_token=Cr28lUz5Sa
-#EXTINF:-1 tvg-name="RTE TWO HD" group-title="UK_ GENERAL",RTE TWO HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216018&extension=ts&play_token=F5i4iqnnej
-#EXTINF:-1 tvg-name="SCIENCE CHANNEL" group-title="USA",SCIENCE CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328940&extension=ts&play_token=oEA03wUoQD
-#EXTINF:-1 tvg-name="SEC Network HD" group-title="USA",SEC Network HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328746&extension=ts&play_token=lQCoOQ5heS
-#EXTINF:-1 tvg-name="SHAHID MOVIES" tvg-logo="https://iconape.com/wp-content/files/nr/370452/svg/370452.svg" group-title="SHAHID",SHAHID FILMBOX ACTION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=316962&extension=ts&play_token=rkBj1DpDx7
-#EXTINF:-1 tvg-name="SHAHID WRESTLE MANIA" tvg-logo="https://iconape.com/wp-content/files/nr/370452/svg/370452.svg" group-title="SHAHID",SHAHID WRESTLE MANIA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=316972&extension=ts&play_token=9NGfCCnixr
-#EXTINF:-1 tvg-name="SHOWCASE TV" group-title="UK_ GENERAL",SHOWCASE TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216029&extension=ts&play_token=6vdow4XiWS
-#EXTINF:-1 tvg-name="SHOWTIME 2 EAST" group-title="USA",SHOWTIME 2 EAST
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328880&extension=ts&play_token=nHvCbB31VK
-#EXTINF:-1 tvg-name="SHOWTIME EXTREME" group-title="USA",SHOWTIME EXTREME
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328878&extension=ts&play_token=wWHXJDEN51
-#EXTINF:-1 tvg-name="SHOWTIME FAMILY ZONE" group-title="USA",SHOWTIME FAMILY ZONE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328877&extension=ts&play_token=XdWemCbHum
-#EXTINF:-1 tvg-name="SHOWTIME NEXT" group-title="USA",SHOWTIME NEXT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328876&extension=ts&play_token=vil1B5qbC7
-#EXTINF:-1 tvg-name="SHOWTIME SHOWCASE" group-title="USA",SHOWTIME SHOWCASE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328875&extension=ts&play_token=YAIWI32mDd
-#EXTINF:-1 tvg-name="SKY ATLANTIC FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skyatlantic_uk.png" group-title="UK_ GENERAL",SKY ATLANTIC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216102&extension=ts&play_token=SkJz64GmhY
-#EXTINF:-1 tvg-name="SKY CINEMA COLLECTION FHD" group-title="Sky Cinema",SKY CINEMA COLLECTION FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79575&extension=ts&play_token=p8OkA6x4Dh
-#EXTINF:-1 tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemacomedy_uk.png" group-title="UK_ GENERAL",SKY CINEMA COMEDY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215994&extension=ts&play_token=diosrMaKpF
-#EXTINF:-1 tvg-name="SKY CINEMA DRAMA FHD" group-title="Sky Cinema",SKY CINEMA DRAMA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79569&extension=ts&play_token=JymRSz2qNo
-#EXTINF:-1 tvg-name="SKY CINEMA DRAMA HD" group-title="Sky Cinema",SKY CINEMA DRAMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79570&extension=ts&play_token=WRg5GPlj99
-#EXTINF:-1 tvg-name="SKY CINEMA DRAMA HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemadrama_uk.png" group-title="UK_ GENERAL",SKY CINEMA DRAMA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215989&extension=ts&play_token=Wa4VCnFFeq
-#EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD" group-title="Sky Cinema",SKY CINEMA FAMILY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23620&extension=ts&play_token=ChQEk3lDdB
-#EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemafamily_uk.png" group-title="Sky Cinema",SKY CINEMA FAMILY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215997&extension=ts&play_token=HfoAyCBn8I
-#EXTINF:-1 tvg-name="SKY CINEMA GREATS FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemagreats_uk.png" group-title="UK_ GENERAL",SKY CINEMA GREATS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216002&extension=ts&play_token=E5Fcwj3LdU
-#EXTINF:-1 tvg-name="SKY CINEMA GREATS HD" group-title="UK_ GENERAL",SKY CINEMA GREATS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216001&extension=ts&play_token=w8M6AcHsE5
-#EXTINF:-1 tvg-name="SKY CINEMA HITS FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemahits_uk.png" group-title="UK_ GENERAL",SKY CINEMA HITS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216004&extension=ts&play_token=BQmReKo1Qc
-#EXTINF:-1 tvg-name="SKY CINEMA HITS HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycinemahits_uk.png" group-title="UK_ GENERAL",SKY CINEMA HITS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216003&extension=ts&play_token=RIhVb2jsdT
-#EXTINF:-1 tvg-name="SKY CINEMA SUSPENSE FHD" group-title="Sky Cinema",SKY CINEMA SUSPENSE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79573&extension=ts&play_token=F198FQCVs9
-#EXTINF:-1 tvg-name="SKY CINEMA UNO FHD" group-title="Sky Cinema",SKY CINEMA UNO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79567&extension=ts&play_token=6YL6iUgrOB
-#EXTINF:-1 tvg-name="SKY CINEMA UNO HD" group-title="Sky Cinema",SKY CINEMA UNO HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23624&extension=ts&play_token=7aqsOQqy8O
-#EXTINF:-1 tvg-name="SKY COMEDY FHD" group-title="UK_ GENERAL",SKY COMEDY FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216092&extension=ts&play_token=HzH5694ji3
-#EXTINF:-1 tvg-name="SKY COMEDY HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skycomedy_uk.png" group-title="UK_ GENERAL",SKY COMEDY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216091&extension=ts&play_token=7hYSdx1cY3
-#EXTINF:-1 tvg-name="SKY NATURE FHD" group-title="Mix_ Documentary",SKY NATURE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=200269&extension=ts&play_token=jXiZyif1k1
-#EXTINF:-1 tvg-name="SKY NATURE FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skynature_uk.png" group-title="UK_ GENERAL",SKY NATURE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215965&extension=ts&play_token=hJNoGskecN
-#EXTINF:-1 tvg-name="SKY NATURE HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skynature_uk.png" group-title="UK_ GENERAL",SKY NATURE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215964&extension=ts&play_token=uFzbXVyJ89
-#EXTINF:-1 tvg-name="SKY NEWS HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skynews_uk.png" group-title="UK_ GENERAL",SKY NEWS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215944&extension=ts&play_token=6GDpJhYZXD
-#EXTINF:-1 tvg-name="SKY SPORT 252 FHD" group-title="IT_ Sky Sport",SKY SPORT 252 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79611&extension=ts&play_token=mquuGWB6SQ
-#EXTINF:-1 tvg-name="SKY SPORT 252 HD" group-title="IT_ Sky Sport",SKY SPORT 252 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89709&extension=ts&play_token=p1IizQ1HmP
-#EXTINF:-1 tvg-name="SKY SPORT 253 HD" group-title="IT_ Sky Sport",SKY SPORT 253 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23562&extension=ts&play_token=ddXPhIb3DM
-#EXTINF:-1 tvg-name="SKY SPORT 253 HD" group-title="IT_ Sky Sport",SKY SPORT 253 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79612&extension=ts&play_token=wPEQrVouxp
-#EXTINF:-1 tvg-name="SKY SPORT 254 FHD" group-title="IT_ Sky Sport",SKY SPORT 254 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79613&extension=ts&play_token=ZkDEpR8QUo
-#EXTINF:-1 tvg-name="SKY SPORT 254 HD" group-title="IT_ Sky Sport",SKY SPORT 254 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23561&extension=ts&play_token=22d941naty
-#EXTINF:-1 tvg-name="SKY SPORT 255 FHD" group-title="IT_ Sky Sport",SKY SPORT 255 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79614&extension=ts&play_token=ks94zPJf1Z
-#EXTINF:-1 tvg-name="SKY SPORT 255 HD" group-title="IT_ Sky Sport",SKY SPORT 255 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23560&extension=ts&play_token=byqdevjjMB
-#EXTINF:-1 tvg-name="SKY SPORT 257 FHD" group-title="IT_ Sky Sport",SKY SPORT 257 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79616&extension=ts&play_token=b4RhJdRUN7
-#EXTINF:-1 tvg-name="SKY SPORT 257 HD" group-title="IT_ Sky Sport",SKY SPORT 257 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23558&extension=ts&play_token=ZRD0txIClp
-#EXTINF:-1 tvg-name="SKY SPORT F1 FHD" group-title="IT_ Sky Sport",SKY SPORT F1 FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89667&extension=ts&play_token=VPNFimexTs
-#EXTINF:-1 tvg-name="SKY SPORT F1" group-title="IT_ Sky Sport",SKY SPORT F1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89669&extension=ts&play_token=mIXK4XbueF
-#EXTINF:-1 tvg-name="SKY SPORTS ARENA FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsarena_uk.png" group-title="UK_ GENERAL",SKY SPORTS ARENA FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215907&extension=ts&play_token=0TF0LMeOE7
-#EXTINF:-1 tvg-name="SKY SPORTS ARENA HD" group-title="Sky Sport",SKY SPORTS ARENA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215906&extension=ts&play_token=HUMwsB4ZEO
-#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL FHD" group-title="Sky Sport",SKY SPORTS FOOTBALL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215917&extension=ts&play_token=mT3y8S2lsj
-#EXTINF:-1 tvg-name="SKY SPORTS FOOTBALL HD" group-title="UK_ GENERAL",SKY SPORTS FOOTBALL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215916&extension=ts&play_token=6cPzWM5BuY
-#EXTINF:-1 tvg-name="SKY SPORTS GOLF HD" group-title="UK_ GENERAL",SKY SPORTS GOLF HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215912&extension=ts&play_token=QUtOgOsOw7
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsmainevent_uk.png" group-title="UK_ GENERAL",SKY SPORTS MAIN EVENT FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215921&extension=ts&play_token=fvzLqQPHVF
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsmainevent_uk.png" group-title="UK_ GENERAL",SKY SPORTS MAIN EVENT HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215920&extension=ts&play_token=Hq3xve2rJy
-#EXTINF:-1 tvg-name="SKY SPORTS MIX HD" group-title="Sky Sport",SKY SPORTS MIX HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215890&extension=ts&play_token=8HzSUacpwR
-#EXTINF:-1 tvg-name="SKY SPORTS NEWS FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsnews_uk.png" group-title="UK_ GENERAL",SKY SPORTS NEWS FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215905&extension=ts&play_token=yb2j6hvwyy
-#EXTINF:-1 tvg-name="SKY SPORTS NEWS HD" group-title="UK_ GENERAL",SKY SPORTS NEWS HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215904&extension=ts&play_token=kDjmoVQe8A
-#EXTINF:-1 tvg-name="SKY SPORTS NFL FHD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsnfl_uk.png" group-title="UK_ GENERAL",SKY SPORTS NFL FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215909&extension=ts&play_token=dpkFN1mfOO
-#EXTINF:-1 tvg-name="SKY SPORTS NFL HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsnfl_uk.png" group-title="UK_ GENERAL",SKY SPORTS NFL HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215908&extension=ts&play_token=WjCaExM2rF
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE FHD" group-title="UK_ PREMIER SPORT",SKY SPORTS PREMIER LEAGUE FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215919&extension=ts&play_token=23uNCnCSUZ
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportspl_uk.png" group-title="UK_ GENERAL",SKY SPORTS PREMIER LEAGUE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215918&extension=ts&play_token=WW4zHiR2dt
-#EXTINF:-1 tvg-name="SKY SPORTS RACING HD" group-title="UK_ GENERAL",SKY SPORTS RACING HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215892&extension=ts&play_token=ZRwaiZWmh5
-#EXTINF:-1 tvg-name="SMITHSONIAN CHANNEL" group-title="USA",SMITHSONIAN CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328939&extension=ts&play_token=zcRGamZeEk
-#EXTINF:-1 tvg-name="SPORT 3 HD" group-title="ES_ Sport",SPORT 3 HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=177280&extension=ts&play_token=7B8ZxcO5c7
-#EXTINF:-1 tvg-name="START TV" group-title="USA",START TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328907&extension=ts&play_token=Xw0pcGeAcT
-#EXTINF:-1 tvg-name="STARZ" group-title="USA",STARZ
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328873&extension=ts&play_token=wm38apoggx
-#EXTINF:-1 tvg-name="STARZ COMEDY" group-title="USA",STARZ COMEDY
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328870&extension=ts&play_token=lVfryWS8X7
-#EXTINF:-1 tvg-name="STARZ EDGE" group-title="USA",STARZ EDGE
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328872&extension=ts&play_token=hQjDhdHrNJ
-#EXTINF:-1 tvg-name="STARZ ENCORE WESTERN" group-title="USA",STARZ ENCORE WESTERN
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328861&extension=ts&play_token=43Kw0gHv7N
-#EXTINF:-1 tvg-name="STARZ IN BLACK" group-title="USA",STARZ IN BLACK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328871&extension=ts&play_token=EB8bcPlCwm
-#EXTINF:-1 tvg-name="TBS" group-title="USA",TBS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328964&extension=ts&play_token=RKtaqwF2Os
-#EXTINF:-1 tvg-name="TCM" group-title="USA",TCM
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328906&extension=ts&play_token=BURkX9MZnD
-#EXTINF:-1 tvg-name="TEENNICK" group-title="USA",TEENNICK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328916&extension=ts&play_token=Z91yLpa6UV
-#EXTINF:-1 tvg-name="TELE MADRID" group-title="ES_ Sport",TELE MADRID
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=80273&extension=ts&play_token=j8f2Ck8kh0
-#EXTINF:-1 tvg-name="TELECINCO FHD" group-title="ES_ Sport",TELECINCO FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23166&extension=ts&play_token=p4HSBnqjjn
-#EXTINF:-1 tvg-name="TELECINCO" group-title="ES_ Sport",TELECINCO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23165&extension=ts&play_token=iDTUvid8Wj
-#EXTINF:-1 tvg-name="TELESUR" group-title="ES_ Sport",TELESUR
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=279590&extension=ts&play_token=H4VLKijhFB
-#EXTINF:-1 tvg-name="TENNIS CHANNEL" group-title="USA",TENNIS CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328794&extension=ts&play_token=qhlBfOOs8f
-#EXTINF:-1 tvg-name="TFX HEVC" group-title="FR_ France",TFX HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=47492&extension=ts&play_token=RKUtBj5eMl
-#EXTINF:-1 tvg-name="TFX HD" group-title="FR_ France",TFX HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13998&extension=ts&play_token=ut4awEtrtT
-#EXTINF:-1 tvg-name="THE WEATHER CHANNEL" group-title="USA",THE WEATHER CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328827&extension=ts&play_token=Ibv2bvFgYt
-#EXTINF:-1 tvg-name="TIJI HEVC" group-title="FR_ France",TIJI HEVC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216765&extension=ts&play_token=tjaikYlD8t
-#EXTINF:-1 tvg-name="TIJI FHD" group-title="FR_ France",TIJI FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13868&extension=ts&play_token=ncUC2Eqpj1
-#EXTINF:-1 tvg-name="TIJI HD" group-title="FR_ France",TIJI HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=24949&extension=ts&play_token=KvtKC83F69
-#EXTINF:-1 tvg-name="TLC FHD" group-title="UK_ GENERAL",TLC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216071&extension=ts&play_token=0jLol5Mt29
-#EXTINF:-1 tvg-name="TLC HD" group-title="FR_ GENERAL",TLC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=325461&extension=ts&play_token=hdnReqSTVF
-#EXTINF:-1 tvg-name="TLC HD" group-title="UK_ GENERAL",TLC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=216070&extension=ts&play_token=dqrv7T8su8
-#EXTINF:-1 tvg-name="TLC" group-title="USA",TLC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328937&extension=ts&play_token=fL6zn6rVdD
-#EXTINF:-1 tvg-name="TMC FHD" group-title="FR_ France",TMC FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13696&extension=ts&play_token=61lxI4K0sx
-#EXTINF:-1 tvg-name="TMC HD" group-title="FR_ France",TMC HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13979&extension=ts&play_token=iGyByl4I6e
-#EXTINF:-1 tvg-name="TNT" group-title="USA",TNT
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328970&extension=ts&play_token=s2ozeAEvPY
-#EXTINF:-1 tvg-name="TNT SPORTS 7" group-title="UK_ GENERAL",TNT SPORTS 7
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=373815&extension=ts&play_token=6jaOwH9tSJ
-#EXTINF:-1 tvg-name="TNT SPORTS 8" group-title="UK_ GENERAL",TNT SPORTS 8
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=373814&extension=ts&play_token=x4xD6RgsSj
-#EXTINF:-1 tvg-name="TOUTE L" group-title="FR_ France",TOUTE L
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13832&extension=ts&play_token=HJdtI0T0Lc
-#EXTINF:-1 tvg-name="TOUTE L" group-title="FR_ France",TOUTE L
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=25050&extension=ts&play_token=jsigdZD84Q
-#EXTINF:-1 tvg-name="TR DISCOVERY HD" tvg-logo="http://logo.one-tvplus.com/TR/discoverychannel.png" group-title="Mix_ Documentary",TR DISCOVERY HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79490&extension=ts&play_token=i2qzMRlcg4
-#EXTINF:-1 tvg-name="TR NAT GEO WILD HD" tvg-logo="http://logo.one-tvplus.com/TR/nationalgeowild.png" group-title="Mix_ Documentary",TR NAT GEO WILD HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79488&extension=ts&play_token=WPVFU7gLah
-#EXTINF:-1 tvg-name="TRACE URBAIN FHD" group-title="FR_ GENERAL",TRACE URBAIN FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=1099&extension=ts&play_token=9UJ88wtqFW
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL" group-title="USA",TRAVEL CHANNEL
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328936&extension=ts&play_token=tHFvnTFxec
-#EXTINF:-1 tvg-name="TRECE HD" group-title="ES_ Sport",TRECE HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=362691&extension=ts&play_token=jCGFLwPRu9
-#EXTINF:-1 tvg-name="TREK FHD" group-title="FR_ France",TREK FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13694&extension=ts&play_token=2iFN1ZiBH1
-#EXTINF:-1 tvg-name="TRT ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/شعار_قناة_تي_آر_تي_العربية.png/220px-شعار_قناة_تي_آر_تي_العربية.png" group-title="TV mix",TRT ARABIC
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23051&extension=ts&play_token=eWUcA2zXtV
-#EXTINF:-1 tvg-name="TURBO" group-title="UK_ GENERAL",TURBO
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=215959&extension=ts&play_token=V6rFQL6OOR
-#EXTINF:-1 tvg-name="TV BREIZH HD" group-title="FR_ France",TV BREIZH HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13693&extension=ts&play_token=2rewmjR9i0
-#EXTINF:-1 tvg-name="TV GALICIA" group-title="ES_ Sport",TV GALICIA
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23161&extension=ts&play_token=05NLWOvzeJ
-#EXTINF:-1 tvg-name="TV LAND" group-title="USA",TV LAND
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328968&extension=ts&play_token=bDkecP7BGc
-#EXTINF:-1 tvg-name="UFC 24/7" group-title="USA",UFC 24/7
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328792&extension=ts&play_token=oBA6Sv2qWy
-#EXTINF:-1 tvg-name="UNIVERSAL KIDS" group-title="USA",UNIVERSAL KIDS
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328915&extension=ts&play_token=TyyaVvQw2U
-#EXTINF:-1 tvg-name="UNIVISION" group-title="USA",UNIVISION
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328651&extension=ts&play_token=jXzxsGLTUP
-#EXTINF:-1 tvg-name="USA NETWORK" group-title="USA",USA NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328966&extension=ts&play_token=PJf4bZsRzn
-#EXTINF:-1 tvg-name="USHUAIA HD" group-title="Mix_ Documentary",USHUAIA HD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13974&extension=ts&play_token=n0jRSKwCUf
-#EXTINF:-1 tvg-name="#VAMOS BAR HD" group-title="ES_ VAMOS",#VAMOS BAR HD
-#M3U_EXTRACT: es
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=155886&extension=ts&play_token=CRuU5uGEFu
-#EXTINF:-1 tvg-name="VH1" group-title="USA",VH1
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328965&extension=ts&play_token=InbD7GddjF
-#EXTINF:-1 tvg-name="WARNER TV FHD" group-title="ES_ Sport",WARNER TV FHD
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=235358&extension=ts&play_token=bXDIacL38C
-#EXTINF:-1 tvg-name="WE TV" group-title="USA",WE TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328934&extension=ts&play_token=ta8WIAl5Lx
-#EXTINF:-1 tvg-name="WEATHER NATION TV" group-title="USA",WEATHER NATION TV
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328826&extension=ts&play_token=cHZq4ZhFNH
-#EXTINF:-1 tvg-name="WORLD FISHING NETWORK" group-title="USA",WORLD FISHING NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328789&extension=ts&play_token=eRTVEtgZ8c
-#EXTINF:-1 tvg-name="YES NETWORK" group-title="USA",YES NETWORK
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328741&extension=ts&play_token=DYQLMT3nBZ
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD BKP" tvg-logo="https://logoipro2.com/LOGO/bein logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 2 FHD BKP
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=368731&extension=ts&play_token=9tQ2HkJujU
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD BKP" group-title="beIN Sport_ BK",BEIN SPORTS 3 HD BKP
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=13677&extension=ts&play_token=KTY8Pk2W6F
-#EXTINF:-1 tvg-name="BEIN SPORTS US" tvg-logo="https://logoipro2.com/logo/bein_sports_english_m.png" group-title="USA",BEIN SPORTS US
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328821&extension=ts&play_token=FHzyr8H048
-#EXTINF:-1 tvg-name="CARTOON NETWORK AR" group-title="Kids",CARTOON NETWORK AR
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=342353&extension=ts&play_token=jKSokhDyp2
-#EXTINF:-1 tvg-name="44 CHATS (LIVE)" group-title="FR_ GENERAL",44 CHATS (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=142693&extension=ts&play_token=pvMoziyUqd
-#EXTINF:-1 tvg-name="CAILLOU (LIVE)" group-title="FR_ GENERAL",CAILLOU (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=132901&extension=ts&play_token=Sh7xhf2PID
-#EXTINF:-1 tvg-name="CHUCHU TV (LIVE)" group-title="FR_ GENERAL",CHUCHU TV (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64608&extension=ts&play_token=HtLLFj3VuZ
-#EXTINF:-1 tvg-name="DORA L’EXPLORATRICE (LIVE)" group-title="FR_ GENERAL",DORA L’EXPLORATRICE (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=6713&extension=ts&play_token=klYWtyRHkx
-#EXTINF:-1 tvg-name="KATURI (LIVE)" group-title="FR_ GENERAL",KATURI (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=132900&extension=ts&play_token=gX6EvwCUZK
-#EXTINF:-1 tvg-name="LE MONDE MERVEILLEUX DE MICKEY (LIVE)" group-title="FR_ GENERAL",LE MONDE MERVEILLEUX DE MICKEY (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=38527&extension=ts&play_token=pEjcYWfZ9P
-#EXTINF:-1 tvg-name="OSCAR'S OASIS (LIVE)" tvg-logo="https://www.themoviedb.org/t/p/w500/wk7dZ7qoocFZqzvr37SfO5nKncr.jpg" group-title="FR_ GENERAL",OSCAR'S OASIS (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=136701&extension=ts&play_token=qu3CyBB3Id
-#EXTINF:-1 tvg-name="PEPPA PIG (LIVE)" group-title="FR_ GENERAL",PEPPA PIG (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=6700&extension=ts&play_token=irMg8YnT5n
-#EXTINF:-1 tvg-name="TOM AND JERRY (LIVE)" group-title="FR_ GENERAL",TOM AND JERRY (LIVE)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=6757&extension=ts&play_token=1nq0Jf36Jf
-#EXTINF:-1 tvg-name="GAME SHOW NETWORK (GSN)" group-title="USA",GAME SHOW NETWORK (GSN)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=328983&extension=ts&play_token=AuNNRsLeNG
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY (FR)" tvg-logo="https://logoipro2.com/LOGO/50847.png" group-title="Mix_ Documentary",INVESTIGATION DISCOVERY (FR)
-http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=340277&extension=ts&play_token=PTYL9PpMAX
+#EXTINF:-1 tvg-name="Tring Sport 1 HD AL" group-title="AL_ Tring Sport",Tring Sport 1 HD AL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31563/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 2 HD AL" group-title="AL_ Tring Sport",Tring Sport 2 HD AL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31564/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 3 HD AL" group-title="AL_ Tring Sport",Tring Sport 3 HD AL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31565/index.m3u8
+#M3U_EXTRACT: b114b5a8.edmonst.net
+#EXTINF:-1 tvg-name="Arena Premium 2 HD RS" group-title="ARENA Premium",Arena Premium 2 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31600/index.m3u8
+#EXTINF:-1 tvg-name="Arena Premium 3 HD RS" group-title="ARENA Premium",Arena Premium 3 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31601/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 FHD HR" group-title="ARENA Sport HR",Arena Sport 1 FHD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7263/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 HD HR" group-title="ARENA Sport HR",Arena Sport 1 HD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7329/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 FHD HR" group-title="ARENA Sport HR",Arena Sport 2 FHD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7264/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 HD HR" group-title="ARENA Sport HR",Arena Sport 2 HD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7330/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 FHD HR" group-title="ARENA Sport HR",Arena Sport 3 FHD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7265/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 HD HR" group-title="ARENA Sport HR",Arena Sport 3 HD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7331/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 FHD HR" group-title="ARENA Sport HR",Arena Sport 4 FHD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7266/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 FHD HR" group-title="ARENA Sport HR",Arena Sport 5 FHD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7267/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 HD HR" group-title="ARENA Sport HR",Arena Sport 5 HD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7333/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 HD HR" group-title="ARENA Sport HR",Arena Sport 6 HD HR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7334/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 FHD RS" group-title="ARENA Sport SR",Arena Sport 1 FHD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2550/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 HD RS" group-title="ARENA Sport SR",Arena Sport 1 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31602/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3 HD RS" group-title="ARENA Sport SR",Arena Sport 3 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31603/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4 HD RS" group-title="ARENA Sport SR",Arena Sport 4 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31605/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 HD RS" group-title="ARENA Sport SR",Arena Sport 5 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31606/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6 HD RS" group-title="ARENA Sport SR",Arena Sport 6 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31607/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 8 HD RS" group-title="ARENA Sport SR",Arena Sport 8 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31609/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31610/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 1 HD TR" group-title="beIN Entertainment",beIN Box Office 1 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6744/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 2 HD TR" group-title="beIN Entertainment",beIN Box Office 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6745/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 3 HD TR" group-title="beIN Entertainment",beIN Box Office 3 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6743/index.m3u8
+#EXTINF:-1 tvg-name="beIN IZ HD TR" group-title="beIN Entertainment",beIN IZ HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19078/index.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Premiere 2 HD TR" group-title="beIN Entertainment",beIN Movies Premiere 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6879/index.m3u8
+#EXTINF:-1 tvg-name="beIN Series 2 HD TR" group-title="beIN Entertainment",beIN Series 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6814/index.m3u8
+#EXTINF:-1 tvg-name="beIN Series Drama HD TR" group-title="beIN Entertainment",beIN Series Drama HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6882/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 HD FR" group-title="beIN Sport_ FR",beIN Sports 1 HD FR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2499/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3 HD QA" group-title="beIN Sport_ QA",beIN Sports 3 HD QA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6124/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5 HD QA" group-title="beIN Sport_ QA",beIN Sports 5 HD QA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6126/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 6 HD QA" group-title="beIN Sport_ QA",beIN Sports 6 HD QA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6127/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 HD TR" group-title="beIN Sport_ TR",beIN Sports 1 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6781/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2 HD TR" group-title="beIN Sport_ TR",beIN Sports 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6818/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3 FHD TR" group-title="beIN Sport_ TR",beIN Sports 3 FHD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6821/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4 FHD TR" group-title="beIN Sport_ TR",beIN Sports 4 FHD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6823/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Haber HD TR" group-title="beIN Sport_ TR",beIN Sports Haber HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19064/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 1 HD TR" group-title="beIN Sport_ TR",beIN Sports Max 1 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6824/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5 US" group-title="beIN Sport_ US",beIN Sports 5 US
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31052/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 6 US" group-title="beIN Sport_ US",beIN Sports 6 US
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31053/index.m3u8
+#EXTINF:-1 tvg-name="Diema Sport 3 HD BG" group-title="BG_ Sport",Diema Sport 3 HD BG
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31917/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet 360 HD CA" group-title="CA_ Sportsnet",Sportsnet 360 HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6462/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet East HD CA" group-title="CA_ Sportsnet",Sportsnet East HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6477/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet Pacific HD CA" group-title="CA_ Sportsnet",Sportsnet Pacific HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6479/index.m3u8
+#EXTINF:-1 tvg-name="Sportsnet West HD CA" group-title="CA_ Sportsnet",Sportsnet West HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6478/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2 HD CA" group-title="CA_ TSN Sport",TSN 2 HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6492/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3 HD CA" group-title="CA_ TSN Sport",TSN 3 HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6522/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5 HD CA" group-title="CA_ TSN Sport",TSN 5 HD CA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6517/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ HD FR" group-title="CANAL+ FR",Canal+ HD FR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6007/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ FR" group-title="CANAL+ FR",Canal+ FR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6005/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Kids HD FR" group-title="CANAL+ FR",Canal+ Kids HD FR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6006/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ 360 HD PL" group-title="CANAL+ PL",Canal+ 360 HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6105/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Film HD PL" group-title="CANAL+ PL",Canal+ Film HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6101/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Kuchnia PL" group-title="CANAL+ PL",Canal+ Kuchnia PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7302/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport HD PL" group-title="CANAL+ PL",Canal+ Sport HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6098/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 2 HD PL" group-title="CANAL+ PL",Canal+ Sport 2 HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6099/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport 5 HD PL" group-title="CANAL+ PL",Canal+ Sport 5 HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2519/index.m3u8
+#EXTINF:-1 tvg-name="DAZN F1 HD ES" group-title="DAZN ES",DAZN F1 HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31834/index.m3u8
+#EXTINF:-1 tvg-name="DAZN F1 ES" group-title="DAZN ES",DAZN F1 ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6071/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Bar HD ES" group-title="DAZN LALIGA",DAZN 1 Bar HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31831/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 Bar HD ES" group-title="DAZN LALIGA",DAZN 2 Bar HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31832/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 Bar HD ES" group-title="DAZN LALIGA",DAZN 3 Bar HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31861/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" group-title="DAZN LALIGA",DAZN 4 Bar HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31862/index.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga HD ES" group-title="DAZN LALIGA",DAZN LaLiga HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31856/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 FHD PT" group-title="DAZN PT",DAZN 1 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19158/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 PT" group-title="DAZN PT",DAZN 1 PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31954/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 FHD PT" group-title="DAZN PT",DAZN 2 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2532/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 HD PT" group-title="DAZN PT",DAZN 2 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31955/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 FHD PT" group-title="DAZN PT",DAZN 3 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7062/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 3 HD PT" group-title="DAZN PT",DAZN 3 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31956/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 4 FHD PT" group-title="DAZN PT",DAZN 4 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2534/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 5 FHD PT" group-title="DAZN PT",DAZN 5 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2535/index.m3u8
+#EXTINF:-1 tvg-name="DAZN 5 HD PT" group-title="DAZN PT",DAZN 5 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31958/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE_ Sky Sport",Sky Sport 2 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2479/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE_ Sky Sport",Sky Sport 5 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19032/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Austria 2 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6113/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 1 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2480/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 3 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7235/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE_ Sky Sport",Sky Sport F1 FHD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10079/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE_ Sky Sport",Sky Sport F1 HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19022/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="DE_ Sky Sport",Sky Sport Mix HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5039/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD DE" group-title="DE_ Sky Sport",Sky Sport News HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2477/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Premier League HD DE" group-title="DE_ Sky Sport",Sky Sport Premier League HD DE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5042/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes HD ES" group-title="ES_ M+ Deportes",M+ Deportes HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31830/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 3 HD ES" group-title="ES_ M+ Deportes",M+ Deportes 3 HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31849/index.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 4 HD ES" group-title="ES_ M+ Deportes",M+ Deportes 4 HD ES
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31850/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 1 HD NL" group-title="ESPN_ NL",ESPN 1 HD NL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19201/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD NL" group-title="ESPN_ NL",ESPN 2 HD NL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19202/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 HD NL" group-title="ESPN_ NL",ESPN 3 HD NL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19203/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Deportes HD US" group-title="ESPN_ US",ESPN Deportes HD US
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/30063/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports HD AR" group-title="FOX Sport_ AR",Fox Sports HD AR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19138/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 501 Cricket HD AU" group-title="FOX Sport_ AU",Fox Sports 501 Cricket HD AU
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19146/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 506 HD AU" group-title="FOX Sport_ AU",Fox Sports 506 HD AU
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19143/index.m3u8
+#EXTINF:-1 tvg-name="Silk Sport 1 HD GE" group-title="GE_ Silk Sport",Silk Sport 1 HD GE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19330/index.m3u8
+#EXTINF:-1 tvg-name="Silk Sport 2 FHD GE" group-title="GE_ Silk Sport",Silk Sport 2 FHD GE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20145/index.m3u8
+#EXTINF:-1 tvg-name="Silk Sport 3 FHD GE" group-title="GE_ Silk Sport",Silk Sport 3 FHD GE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20146/index.m3u8
+#EXTINF:-1 tvg-name="Silk Sport 3 HD GE" group-title="GE_ Silk Sport",Silk Sport 3 HD GE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19332/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 1 GR" group-title="GR_ Cytavision",Cytavision Sports 1 GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31572/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 2 GR" group-title="GR_ Cytavision",Cytavision Sports 2 GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31573/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 IN" group-title="IN_ Star Sport",Star Sports 2 IN
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2507/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24 FHD IT" group-title="IT_ Sky Sport",Sky Sport 24 FHD IT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19107/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19127/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Arena HD IT" group-title="IT_ Sky Sport",Sky Sport Arena HD IT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19128/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Calcio HD IT" group-title="IT_ Sky Sport",Sky Sport Calcio HD IT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19113/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport MotoGP HD IT" group-title="IT_ Sky Sport",Sky Sport MotoGP HD IT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19133/index.m3u8
+#EXTINF:-1 tvg-name="ČT sport HD CZ" group-title="JOJ Sport",ČT sport HD CZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2551/index.m3u8
+#EXTINF:-1 tvg-name="Best4Sport HD LV" group-title="LV_ Best4Sport",Best4Sport HD LV
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18016/index.m3u8
+#EXTINF:-1 tvg-name="Best4Sport 2 HD LV" group-title="LV_ Best4Sport",Best4Sport 2 HD LV
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18015/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 2 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 2 HD LV
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18012/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 3 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 3 HD LV
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6408/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport Open HD LV" group-title="LV_ Go3 Sport",Go3 Sport Open HD LV
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18025/index.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 2 HD EE" group-title="LV_ Go3 Sport",Go3 Sport 2 HD EE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18001/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 2 HD GR" group-title="Magenta Sport",Magenta Sport 2 HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31579/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 3 HD GR" group-title="Magenta Sport",Magenta Sport 3 HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31581/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 6 HD GR" group-title="Magenta Sport",Magenta Sport 6 HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31584/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 8 HD GR" group-title="Magenta Sport",Magenta Sport 8 HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31586/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 9 HD GR" group-title="Magenta Sport",Magenta Sport 9 HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31587/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport Highlights HD GR" group-title="Magenta Sport",Magenta Sport Highlights HD GR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31588/index.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport HD NL" group-title="NL_ Ziggo",Ziggo Sport HD NL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2560/index.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 2 HD NL" group-title="NL_ Ziggo",Ziggo Sport 2 HD NL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2561/index.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL" group-title="PL_ Eleven Sport",Eleven Sports 1 4K PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20068/index.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1 HD PL" group-title="PL_ Eleven Sport",Eleven Sports 1 HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2518/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV+ FHD PT" group-title="PT_ SportTV",Sport TV+ FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31941/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 FHD PT" group-title="PT_ SportTV",Sport TV 1 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31942/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 HD PT" group-title="PT_ SportTV",Sport TV 1 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2525/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2 HD PT" group-title="PT_ SportTV",Sport TV 2 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2526/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3 HD PT" group-title="PT_ SportTV",Sport TV 3 HD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2527/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4 FHD PT" group-title="PT_ SportTV",Sport TV 4 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31945/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 5 FHD PT" group-title="PT_ SportTV",Sport TV 5 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31946/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV 6 FHD PT" group-title="PT_ SportTV",Sport TV 6 FHD PT
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31947/index.m3u8
+#EXTINF:-1 tvg-name="DIGI Sport 1 HD RO" group-title="RO_ DIGI Sport",DIGI Sport 1 HD RO
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2523/index.m3u8
+#EXTINF:-1 tvg-name="DIGI Sport 2 HD RO" group-title="RO_ DIGI Sport",DIGI Sport 2 HD RO
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2522/index.m3u8
+#EXTINF:-1 tvg-name="DIGI Sport 4 HD RO" group-title="RO_ DIGI Sport",DIGI Sport 4 HD RO
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2538/index.m3u8
+#EXTINF:-1 tvg-name="Sport Extra HD RO" group-title="RO_ Sport EXTRA",Sport Extra HD RO
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31595/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 1 HD" group-title="RU_ SportCast",BOX SportCast Live 1 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20166/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 2 HD" group-title="RU_ SportCast",BOX SportCast Live 2 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20167/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 4 HD" group-title="RU_ SportCast",BOX SportCast Live 4 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20169/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 6 HD" group-title="RU_ SportCast",BOX SportCast Live 6 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31648/index.m3u8
+#EXTINF:-1 tvg-name="BOX SportCast Live 7 HD" group-title="RU_ SportCast",BOX SportCast Live 7 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31649/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="RU_ Матч",Матч! Футбол 1
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/124/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 1 HD 50 orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5072/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 FHD" group-title="RU_ Матч",Матч! Футбол 2 FHD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2420/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="RU_ Матч",Матч! Футбол 2 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/211/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD 50" group-title="RU_ Матч",Матч! Футбол 2 HD 50
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10027/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 FHD" group-title="RU_ Матч",Матч! Футбол 3 FHD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2408/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="RU_ Матч",Матч! Футбол 3
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/522/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50" group-title="RU_ Матч",Матч! Футбол 3 HD 50
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10016/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 3 HD 50 orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5071/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD orig" group-title="RU_ Матч",Матч! Футбол 2 HD orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/290/index.m3u8
+#EXTINF:-1 tvg-name="Окко Спорт HD" group-title="RU_ Окко",Окко Спорт HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20138/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт FHD UA" group-title="RU_ Спорт",Суспільне Спорт FHD UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31751/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт HD UA" group-title="RU_ Спорт",Суспільне Спорт HD UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31750/index.m3u8
+#EXTINF:-1 tvg-name="TV3 Sport SE" group-title="SE_ Sport",TV3 Sport SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12100/index.m3u8
+#EXTINF:-1 tvg-name="TV4 Sport Live 1 HD SE" group-title="SE_ Sport",TV4 Sport Live 1 HD SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12036/index.m3u8
+#EXTINF:-1 tvg-name="TV4 Sport Live 2 HD SE" group-title="SE_ Sport",TV4 Sport Live 2 HD SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12037/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Extra SE" group-title="SE_ V Sport",V Sport Extra SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12074/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Golf SE" group-title="SE_ V Sport",V Sport Golf SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12077/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Motor SE" group-title="SE_ V Sport",V Sport Motor SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12104/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Premium SE" group-title="SE_ V Sport",V Sport Premium SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12079/index.m3u8
+#EXTINF:-1 tvg-name="V Sport Ultra HD SE" group-title="SE_ V Sport",V Sport Ultra HD SE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19163/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="SETANTA",Setanta Sports 1 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/271/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="SETANTA",Setanta Sports 2 HD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/270/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" group-title="SETANTA",Setanta Sports 2
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6544/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD orig" group-title="SETANTA",Setanta Sports 1 HD orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6541/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD orig" group-title="SETANTA",Setanta Sports 2 HD orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6542/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 FHD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 FHD KZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20065/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 HD KZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/16026/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 2 HD KZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/16025/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports UA" group-title="SETANTA_ UA",Setanta Sports UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31754/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ UA" group-title="SETANTA_ UA",Setanta Sports+ UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31756/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ FHD UA" group-title="SETANTA_ UA",Setanta Sports+ FHD UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5068/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD UA orig" group-title="SETANTA_ UA",Setanta Sports HD UA orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/15183/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ HD UA orig" group-title="SETANTA_ UA",Setanta Sports+ HD UA orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/15184/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sport AZ" group-title="Sports_ Mix",CBC Sport AZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2193/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport" group-title="Sports_ Mix",Viju+ Sport
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/160/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport orig" group-title="Sports_ Mix",Viju+ Sport orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9249/index.m3u8
+#EXTINF:-1 tvg-name="Vital Sport Drive" group-title="Sports_ Mix",Vital Sport Drive
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20160/index.m3u8
+#EXTINF:-1 tvg-name="Band Sports HD BR" group-title="Sports_ Mix",Band Sports HD BR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6157/index.m3u8
+#EXTINF:-1 tvg-name="TVP Sport HD PL" group-title="Sports_ Mix",TVP Sport HD PL
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2520/index.m3u8
+#EXTINF:-1 tvg-name="Divi Sport HD UA" group-title="Sports_ Mix",Divi Sport HD UA
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31800/index.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Network HD US" group-title="Sports_ Mix",NBC Sports Network HD US
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7327/index.m3u8
+#EXTINF:-1 tvg-name="M4 Sport HD HU" group-title="Sports_ Mix",M4 Sport HD HU
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31519/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport HD orig" group-title="Sports_ Mix",Viju+ Sport HD orig
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5065/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 3 HD GE" group-title="Sports_ Mix",Setanta Sports 3 HD GE
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2209/index.m3u8
+#EXTINF:-1 tvg-name="Sport TV HD AZ" group-title="Sports_ Mix",Sport TV HD AZ
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31926/index.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport 2 HD NO" group-title="Sports_ Mix",TV 2 Sport 2 HD NO
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2540/index.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport HD DK" group-title="Sports_ Mix",TV 2 Sport HD DK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7355/index.m3u8
+#EXTINF:-1 tvg-name="We Sport TV HD MD" group-title="Sports_ Mix",We Sport TV HD MD
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31904/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart HD TR" group-title="TR_ Spor Smart",Spor Smart HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20060/index.m3u8
+#EXTINF:-1 tvg-name="Spor Smart 2 HD TR" group-title="TR_ Spor Smart",Spor Smart 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19073/index.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2 HD TR" group-title="TR_ Tivibu Spor",Tivibu Spor 2 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6816/index.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3 HD TR" group-title="TR_ Tivibu Spor",Tivibu Spor 3 HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19076/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor FHD TR" group-title="TR_ TRT Spor",TRT Spor FHD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19068/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor HD TR" group-title="TR_ TRT Spor",TRT Spor HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19072/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor TR" group-title="TR_ TRT Spor",TRT Spor TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19067/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Yildiz HD TR" group-title="TR_ TRT Spor",TRT Spor Yildiz HD TR
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2145/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Action HD 50 UK" group-title="UK_ Sky",Sky Sports Action HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9155/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket HD 50 UK" group-title="UK_ Sky",Sky Sports Cricket HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9258/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1 HD 50 UK" group-title="UK_ Sky",Sky Sports F1 HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9283/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football HD 50 UK" group-title="UK_ Sky",Sky Sports Football HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9289/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix HD 50 UK" group-title="UK_ Sky",Sky Sports Mix HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9310/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News HD 50 UK" group-title="UK_ Sky",Sky Sports News HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9314/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD 50 UK" group-title="UK_ Sky",Sky Sports Premier League HD 50 UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/9334/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Action HD UK" group-title="UK_ Sky",Sky Sports Action HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7340/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket HD UK" group-title="UK_ Sky",Sky Sports Cricket HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7343/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix HD UK" group-title="UK_ Sky",Sky Sports Mix HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7339/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD UK" group-title="UK_ Sky",Sky Sports Premier League HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7335/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Racing HD UK" group-title="UK_ Sky",Sky Sports Racing HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/7341/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1 FHD UK" group-title="UK_ TNT Sport",TNT Sports 1 FHD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2505/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1 HD UK" group-title="UK_ TNT Sport",TNT Sports 1 HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6566/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2 HD UK" group-title="UK_ TNT Sport",TNT Sports 2 HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2506/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3 HD UK" group-title="UK_ TNT Sport",TNT Sports 3 HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6564/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4 HD UK" group-title="UK_ TNT Sport",TNT Sports 4 HD UK
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/19054/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20099/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20103/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20105/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 6" group-title="VIP",ViP Sport 6
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20107/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20109/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20100/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20101/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20102/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31674/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31675/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31676/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31677/index.m3u8
+#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
+http://b114b5a8.edmonst.net/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/31678/index.m3u8
