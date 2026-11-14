@@ -1,46 +1,16 @@
 #EXTM3U
-#M3U_EXTRACT: line.mag7070.eu
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084671&extension=ts&play_token=DRAkkpcU15
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 1 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C6:3E:8F&stream=1084671&extension=ts&play_token=BlCUjfKmBW
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084670&extension=ts&play_token=9szpRT8E9A
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 2 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C6:3E:8F&stream=1084670&extension=ts&play_token=fqhCB4sJ6c
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 6 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084669&extension=ts&play_token=KJUimRMmMU
-#EXTINF:-1 tvg-name="CANAL+ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="NL_ Ziggo",CANAL+ ZIGGO SPORT 6 HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C6:3E:8F&stream=1084669&extension=ts&play_token=4TZkYKIzzd
-#EXTINF:-1 tvg-name="ZDF 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png" group-title="TV mix",ZDF 4K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=15348&extension=ts&play_token=g4ic0hkkHR
-#EXTINF:-1 tvg-name="ZDF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF.png" group-title="TV mix",ZDF FHD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1025124&extension=ts&play_token=rmBMpIKWVC
-#EXTINF:-1 tvg-name="ZDF FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/ZDF.png" group-title="TV mix",ZDF FHD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1025176&extension=ts&play_token=MEv3TbLkAN
-#EXTINF:-1 tvg-name="ZDF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png" group-title="TV mix",ZDF HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=446&extension=ts&play_token=sNgKkezQIt
-#EXTINF:-1 tvg-name="ZDF INFO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png" group-title="TV mix",ZDF INFO 4K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=15375&extension=ts&play_token=tsWs4c5RCh
-#EXTINF:-1 tvg-name="ZDF INFO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF INFO.png" group-title="TV mix",ZDF INFO FHD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1025150&extension=ts&play_token=qhHoLCzlTV
-#EXTINF:-1 tvg-name="ZDF INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png" group-title="TV mix",ZDF INFO HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=444&extension=ts&play_token=XgqGLURHZt
-#EXTINF:-1 tvg-name="ZDF NEO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png" group-title="TV mix",ZDF NEO 4K
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=15374&extension=ts&play_token=WgfPRdFuOX
-#EXTINF:-1 tvg-name="ZDF NEO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ALLGEMEINES/ZDF NEO.png" group-title="TV mix",ZDF NEO FHD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1025136&extension=ts&play_token=M7CCrR49Hn
-#EXTINF:-1 tvg-name="ZDF NEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png" group-title="TV mix",ZDF NEO HD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=445&extension=ts&play_token=2MzbAqgXlN
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 1 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 1 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894968&extension=ts&play_token=8Y8fHQ3f2Q
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 2 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 2 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894969&extension=ts&play_token=WwWKjx0Wmx
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 3 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 3 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894970&extension=ts&play_token=xIwnZ7vW3I
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 4 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 4 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894971&extension=ts&play_token=QKaEtgFMtL
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 5 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 5 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894972&extension=ts&play_token=IQmN2fPtRN
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 6 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 6 HD NL
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894973&extension=ts&play_token=C6jT3iUHwq
+#M3U_EXTRACT: gist.githubusercontent.com
+#EXTINF:-1 tvg-name="MultilinksGit" group-title="Multilinksgit",heyyy
+https://gist.githubusercontent.com/Wahidbsd/96148454f10f103188f2b3d454fcedb8/raw/4d9e71bff66d6a859e7652bff758e6cc8453f2bb/Multilinks.m3u
+#EXTINF:-1 tvg-name="final" group-title="finl",heyyy
+https://gist.githubusercontent.com/Wahidbsd/903a2cf74bd7157a28f0eff3ec6e543d/raw/e6e63e51c25e3607d52a47313dde31e5fe97b0bd/Hm.final.m3u
+#EXTINF:-1 tvg-name="heygityy" group-title="heygity",heyyy
+https://gist.githubusercontent.com/Wahidbsd/24450a3ffd9d200b1e5899750a2e81e1/raw/f7b29ee9d2dda71483bf0a45f92680f72aa661e9/Heyorg%2520m3u
+#EXTINF:-1 tvg-name="aeinnn" group-title="hhhh",hls
+https://gist.githubusercontent.com/Wahidbsd/8442d2cf840728ecb200652823f9f4a1/raw/cd60ee64be06d573f015b04247caa15aa7d75d39/Azian.m3u
+#EXTINF:-1 tvg-name="neob" group-title="nrob",hls
+https://gist.githubusercontent.com/Wahidbsd/daebf28ac1bfcf71e13e467dc6e98465/raw/2acc10ba481e9466d4b732d3e905baa73b88efa9/Grokmac.m3u
+#EXTINF:-1 tvg-name="smgitartplushls" group-title="smartplushls",smartplushls
+https://gist.githubusercontent.com/Wahidbsd/0f4a2c3d26dd566ca0754de6c60db5d3/raw/478244eb04268465f8e171c36982d2faa42c8d85/Smartplus.m3u
+#EXTINF:-1 tvg-name="gistvluvip" group-title="vluevip",vipvlie
+https://gist.githubusercontent.com/Wahidbsd/0b7644b6ae96c78ca5d1f9f280b7c4ce/raw/3527838c112ed6baae6e4cbd94702bd92c33a1b8/Tvpip.m3u
