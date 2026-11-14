@@ -1,614 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ OSN MBC",ALWAN SPORT 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/402389.ts
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 1 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/402388.ts
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/402386.ts
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/402383.ts
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR_ Sports",ALWAN SPORT 6 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/402374.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 1 HD BKP
-http://4kpro2.com:80/live/WSET2024/SADF5566/13681.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 2 FHD BKP
-http://4kpro2.com:80/live/WSET2024/SADF5566/368731.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 3 FHD BKP
-http://4kpro2.com:80/live/WSET2024/SADF5566/441361.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 3 HD BKP
-http://4kpro2.com:80/live/WSET2024/SADF5566/13677.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sport_ BK",BEIN SPORTS 4 FHD BKP
-http://4kpro2.com:80/live/WSET2024/SADF5566/441362.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="beIN Sport_ FR",BEIN SPORT FRENCH 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151987.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="beIN Sport_ FR",BEIN SPORT FRENCH 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151988.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sport_ FR",BEIN SPORTS 1 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/92.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax4.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 4 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151958.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax5.png" group-title="beIN Sport_ FR",BEIN SPORTS MAX 5 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/39882.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423811.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/129996.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 1 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/129997.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423814.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 2 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/129999.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/129998.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423819.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423821.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 4 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423820.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423823.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423826.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423825.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 5 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423824.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423827.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423830.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423829.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 6 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423828.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423831.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423834.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423833.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 7 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423832.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423835.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423838.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423837.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 8 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423836.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/423839.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423841.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6w43CyR/output-onlinepngtools-2.png" group-title="beIN Sport_ Xtra",BEIN SPORTS XTRA 9 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/423840.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/beinsports1.png" group-title="beIN Sports",BEIN SPORTS 1 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47499.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14160.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13608.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="beIN Sports",BEIN SPORTS 1 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14170.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 1 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13682.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/beinsports2.png" group-title="beIN Sports",BEIN SPORTS 2 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47500.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14153.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14169.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports2_fr.png" group-title="beIN Sports",BEIN SPORTS 2 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/93.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 2 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13615.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sports",4K BEIN SPORTS 3
-http://4kpro2.com:80/live/WSET2024/SADF5566/89342.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="beIN Sports",BEIN SPORTS 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14152.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports3_fr.png" group-title="beIN Sports",BEIN SPORTS 3 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14163.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13605.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13676.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 4 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13617.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 5 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13674.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 5 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13618.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/SPORTS_6-1.png" group-title="beIN Sports",BEIN SPORTS 6 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13672.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS 7 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13642.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/24980.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="beIN Sports",BEIN SPORTS GLOBAL HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/409586.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax4.png" group-title="beIN Sports",BEIN SPORTS MAX 4 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/95.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax5.png" group-title="beIN Sports",BEIN SPORTS MAX 5 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151961.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax6.png" group-title="beIN Sports",BEIN SPORTS MAX 6 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151964.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax6.png" group-title="beIN Sports",BEIN SPORTS MAX 6 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1089.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax7.png" group-title="beIN Sports",BEIN SPORTS MAX 7 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151967.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax7.png" group-title="beIN Sports",BEIN SPORTS MAX 7 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1113.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax8.png" group-title="beIN Sports",BEIN SPORTS MAX 8 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151970.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax8.png" group-title="beIN Sports",BEIN SPORTS MAX 8 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1468.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax9.png" group-title="beIN Sports",BEIN SPORTS MAX 9 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151973.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax9.png" group-title="beIN Sports",BEIN SPORTS MAX 9 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1469.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax10.png" group-title="beIN Sports",BEIN SPORTS MAX 10 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/151976.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/BeinFrance/beinmax10.png" group-title="beIN Sports",BEIN SPORTS MAX 10 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1470.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/NEWS_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS NEWS FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/24979.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/bein%20logo/NEWS_DIGITAL_Mono.png" group-title="beIN Sports",BEIN SPORTS NEWS HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/78372.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/180946.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/181485.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cfoot.png" group-title="CANAL+ FR",CANAL+ FOOT SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/84801.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327340.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 2
-http://4kpro2.com:80/live/WSET2024/SADF5566/327311.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 3
-http://4kpro2.com:80/live/WSET2024/SADF5566/327310.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 4 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327337.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 5 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327336.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 5
-http://4kpro2.com:80/live/WSET2024/SADF5566/327309.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 6 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327335.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 6
-http://4kpro2.com:80/live/WSET2024/SADF5566/327308.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 7 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327334.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 7
-http://4kpro2.com:80/live/WSET2024/SADF5566/327307.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 8 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327333.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 8
-http://4kpro2.com:80/live/WSET2024/SADF5566/327306.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 9 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327332.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 9
-http://4kpro2.com:80/live/WSET2024/SADF5566/327305.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 10 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327331.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 11 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327330.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 12 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327329.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 13 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327328.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 14 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327327.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 15 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327326.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 15
-http://4kpro2.com:80/live/WSET2024/SADF5566/327299.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 16 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327325.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 16
-http://4kpro2.com:80/live/WSET2024/SADF5566/327298.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 18 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327323.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 18
-http://4kpro2.com:80/live/WSET2024/SADF5566/327296.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="CANAL+ FR",CANAL+ LIVE 19
-http://4kpro2.com:80/live/WSET2024/SADF5566/327295.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cpl.png" group-title="CANAL+ FR",CANAL+ PREMIER LEAGUE FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/116520.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/cpl.png" group-title="CANAL+ FR",CANAL+ PREMIER LEAGUE HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/116522.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport.png" group-title="CANAL+ FR",CANAL+ SPORT FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14156.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport.png" group-title="CANAL+ FR",CANAL+ SPORT HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14161.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/180947.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/181486.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/csport360.png" group-title="CANAL+ FR",CANAL+ SPORT 360 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/84802.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canal-canalfootuhdhdr.png" group-title="CANAL+ FR",CANAL+ FOOT UHD HDR
-http://4kpro2.com:80/live/WSET2024/SADF5566/479238.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 1 ACTION
-http://4kpro2.com:80/live/WSET2024/SADF5566/13970.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 2 DRAMA
-http://4kpro2.com:80/live/WSET2024/SADF5566/13962.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 3 ANIMATION
-http://4kpro2.com:80/live/WSET2024/SADF5566/13961.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 5 THRILLER
-http://4kpro2.com:80/live/WSET2024/SADF5566/13959.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 6 ADVENTURE
-http://4kpro2.com:80/live/WSET2024/SADF5566/13958.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 7 HORROR
-http://4kpro2.com:80/live/WSET2024/SADF5566/13957.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 8 SCIENCE FICTION
-http://4kpro2.com:80/live/WSET2024/SADF5566/13956.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 9 DOCUMENTAIRE
-http://4kpro2.com:80/live/WSET2024/SADF5566/13955.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 10 MANGA
-http://4kpro2.com:80/live/WSET2024/SADF5566/13969.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="FR_ C+ PLAY & ALA CARTE",CANALPLAY 11 CRIME/POLICIER
-http://4kpro2.com:80/live/WSET2024/SADF5566/13968.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/canalplus.png" group-title="FR_ CANAL+",CANAL+ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216688.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14151.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14167.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NOsvsGA.png" group-title="FR_ CANAL+",CANAL+ SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28345.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/boxofficeuhd.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE UHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/436433.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G4YTEW9.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/265758.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G4YTEW9.png" group-title="FR_ CANAL+",CANAL+ BOX OFFICE HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/265759.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47506.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13769.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28942.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE/canalpluscinema.png" group-title="FR_ CANAL+",CANAL+ CINEMA SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28347.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/logo/49100.png" group-title="FR_ CANAL+",CANAL+ DOCS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216661.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z2nQXYs/output-onlinepngtools-5.png" group-title="FR_ CANAL+",CANAL+ FOOT HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216660.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pZSDwGH/output-onlinepngtools-26.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216663.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/75avpC2.png" group-title="FR_ CANAL+",CANAL+ GRAND ECRAN FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/156272.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/75avpC2.png" group-title="FR_ CANAL+",CANAL+ GRAND ÉCRAN HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/461479.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 1
-http://4kpro2.com:80/live/WSET2024/SADF5566/327312.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/327338.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 4
-http://4kpro2.com:80/live/WSET2024/SADF5566/327383.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/CANAL/canalplusliveevent.png" group-title="FR_ CANAL+",CANAL+ LIVE 10
-http://4kpro2.com:80/live/WSET2024/SADF5566/327304.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/canalpluspremierleague.png" group-title="FR_ CANAL+",CANAL+ PREMIER LEAGUE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216645.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47533.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13758.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusclassic.png" group-title="FR_ Cine+",CINE+ CLASSIC HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14026.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47519.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13756.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusemotion.png" group-title="FR_ Cine+",CINE+ EMOTION HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14024.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13755.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13941.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FAMILY.png" group-title="FR_ Cine+",CINE+ FAMILY SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28329.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusfamiz.png" group-title="FR_ Cine+",CINE+ FAMIZ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47532.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/47556.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/CINE+FESTIVAL.png" group-title="FR_ Cine+",CINE+ FESTIVAL HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14025.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47516.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13754.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14023.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cineplusfrisson.png" group-title="FR_ Cine+",CINE+ FRISSON SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28331.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/OCS.png" group-title="FR_ Cine+",CINE+ OCS FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13834.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER 4K
-http://4kpro2.com:80/live/WSET2024/SADF5566/47520.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13759.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14021.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cinepluspremier.png" group-title="FR_ Cine+",CINE+ PREMIER SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28332.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/animaux.png" group-title="FR_ Documentary",ANIMAUX HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47510.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE UHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/451702.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/arte.png" group-title="FR_ Documentary",ARTE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47480.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13788.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/arte.png" group-title="FR_ Documentary",ARTE HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14043.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/chasseetpeche.png" group-title="FR_ Documentary",CHASSE & PECHE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47543.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/discovery.png" group-title="FR_ Documentary",DISCOVERY HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47535.ts
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/discoveryidx.png" group-title="FR_ Documentary",DISCOVERY INVES HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47538.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/histoire.png" group-title="FR_ Documentary",HISTOIRE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216728.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeowild.png" group-title="FR_ Documentary",NAT GEO WILD HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47511.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nationalgeographic.png" group-title="FR_ Documentary",NATIONAL GEO CHANNEL HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47523.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/planeteplus.png" group-title="FR_ Documentary",PLANETE+ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47534.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE+ AVENTURE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47541.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/planeteplus.png" group-title="FR_ Documentary",PLANETE + CRIME HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47542.ts
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/rmcdecouverte.png" group-title="FR_ Documentary",RMC DECOUVERTE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47498.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V60ctwM/output-onlinepngtools-3.png" group-title="FR_ Documentary",RMC LIFE FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13760.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V60ctwM/output-onlinepngtools-3.png" group-title="FR_ Documentary",RMC LIFE SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1027.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/rmcstory.png" group-title="FR_ Documentary",RMC STORY HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47497.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/seasons.png" group-title="FR_ Documentary",SEASONS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216770.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/toutelhistoire.png" group-title="FR_ Documentary",TOUTE L HISTOIRE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47490.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tv5monde.png" group-title="FR_ Documentary",TV5 MONDE FBS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216736.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/ushuaia.png" group-title="FR_ Documentary",USHUAIA HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47540.ts
-#M3U_EXTRACT: 4kpro2.com
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47495.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/6ter.png" group-title="FR_ France",6TER HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14046.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/ab1.png" group-title="FR_ France",AB1 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216773.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/action.png" group-title="FR_ France",ACTION HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47518.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/logo/25606.png" group-title="FR_ France",BFM BUSINESS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216702.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/BFMMARSEILLE-2024.svg" group-title="FR_ France",BFM MARSEILLE PROVENCE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216704.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/boomerang.png" group-title="FR_ France",BOOMERANG HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47517.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cartoonnetwork.png" group-title="FR_ France",CARTOON NETWORK HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47513.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cnews.png" group-title="FR_ France",CNEWS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47483.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/comedieplus.png" group-title="FR_ France",COMEDIE+ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216782.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/comedy_central_m.png" group-title="FR_ France",COMEDY CENTRAL FRANCE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216783.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/cstar.png" group-title="FR_ France",CSTAR HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47484.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13749.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/cstar.png" group-title="FR_ France",CSTAR HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13940.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/e.png" group-title="FR_ France",E! ENTERTAINMENT HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216777.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/equidialive.png" group-title="FR_ France",EQUIDIA HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47527.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/eurosport1.png" group-title="FR_ France",EUROSPORT 1 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47548.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france2.png" group-title="FR_ France",FRANCE 2 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47475.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oGA9bWx.png" group-title="FR_ France",FRANCE 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13739.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oGA9bWx.png" group-title="FR_ France",FRANCE 2 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1007.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france3.png" group-title="FR_ France",FRANCE 3 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47476.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13738.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13915.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nyy8oss.png" group-title="FR_ France",FRANCE 3 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1008.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/france4.png" group-title="FR_ France",FRANCE 4 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47477.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13737.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13914.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ebk8gNo.png" group-title="FR_ France",FRANCE 4 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1009.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/france5.png" group-title="FR_ France",FRANCE 5 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47478.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5yfr0rW.png" group-title="FR_ France",FRANCE 5 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13736.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5yfr0rW.png" group-title="FR_ France",FRANCE 5 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1013.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/franceinfo.png" group-title="FR_ France",FRANCE INFO HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216739.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/gulli.png" group-title="FR_ France",GULLI HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47488.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/lachainemeteo.png" group-title="FR_ France",LA CHAINE METEO HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216742.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/lci.png" group-title="FR_ France",LCI HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47485.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/m6.png" group-title="FR_ France",M6 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47479.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNjzQMf.png" group-title="FR_ France",M6 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13726.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNjzQMf.png" group-title="FR_ France",M6 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14003.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/m6music.png" group-title="FR_ France",M6 MUSIC HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47512.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/mangas.png" group-title="FR_ France",MANGAS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216730.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/mcmtop.png" group-title="FR_ France",MCM TOP HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47526.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/melody.png" group-title="FR_ France",MELODY HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216707.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/mtvhits.png" group-title="FR_ France",MTV HITS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216722.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/nrjhits.png" group-title="FR_ France",NRJ HITS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216731.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/parispremiere.png" group-title="FR_ France",PARIS PREMIERE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216784.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/piwiplus.png" group-title="FR_ France",PIWI+ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216764.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216785.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13763.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/polarplus.png" group-title="FR_ France",POLAR+ HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/25041.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/syfy.png" group-title="FR_ France",SYFY HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216772.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216780.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13697.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13980.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tcmcinema.png" group-title="FR_ France",TCM CINEMA SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/28337.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/teletoonplus1.png" group-title="FR_ France",TÉLÉTOON +1 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216649.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/teva.png" group-title="FR_ France",TEVA HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47521.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tf1.png" group-title="FR_ France",TF1 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47474.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tf1seriesfilms.png" group-title="FR_ France",TF1 SERIES FILMS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47493.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/tfx.png" group-title="FR_ France",TFX HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47492.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13716.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13998.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2j00It.png" group-title="FR_ France",TFX SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1015.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/tmc.png" group-title="FR_ France",TMC HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47494.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13696.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE%20OTT/TMC.png" group-title="FR_ France",TMC SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1014.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/tvbreizh.png" group-title="FR_ France",TV BREIZH HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216775.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/250px-Logo_TVM3_2015.png" group-title="FR_ France",TVM3 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216679.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/w9.png" group-title="FR_ France",W9 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47481.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13690.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13973.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GUSFgsr.png" group-title="FR_ France",W9 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/421.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47546.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13784.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/warnertv.png" group-title="FR_ France",WARNER TV HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/88193.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="FR_ France",‎WARNER TV NEXT HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216762.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/automotorsporthd.png" group-title="FR_ GENERAL",AUTOMOTO HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216725.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/bfmtv.png" group-title="FR_ GENERAL",BFMTV HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47486.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/boing.png" group-title="FR_ GENERAL",BOING HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216761.ts
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalj.png" group-title="FR_ GENERAL",CANALJ HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47539.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/france24.png" group-title="FR_ GENERAL",FRANCE 24 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216740.ts
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="FR_ GENERAL",GÉNÉRATION TV HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216670.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="FR_ GENERAL",GONG HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216651.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lcp.png" group-title="FR_ GENERAL",LA CHAÎNE PARLEMENTAIRE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216690.ts
-#EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/lfm-carre-rgb-violet-fond-blanc-1.png" group-title="FR_ GENERAL",LFM TV HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216673.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/LOGO%20VIP/luckyjack.png" group-title="FR_ GENERAL",LUCKY JACK HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216691.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/museum.png" group-title="FR_ GENERAL",MUSEUM CHANNEL HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216769.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX COMEDY
-http://4kpro2.com:80/live/WSET2024/SADF5566/87975.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DOC
-http://4kpro2.com:80/live/WSET2024/SADF5566/87979.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX DRAME
-http://4kpro2.com:80/live/WSET2024/SADF5566/87977.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W29DCnk/netflix-france-2-1024x605.jpg" group-title="FR_ GENERAL",NETFLIX HORROR
-http://4kpro2.com:80/live/WSET2024/SADF5566/87978.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeonjunior.png" group-title="FR_ GENERAL",NICK JUNIOR HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47550.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X1q3nEs.png" group-title="FR_ GENERAL",NOVO 19 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/469339.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X1q3nEs.png" group-title="FR_ GENERAL",NOVO 19 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/394021.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nrj12hd.png" group-title="FR_ GENERAL",NRJ12 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47491.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GPRhvLg/PITCHONTV.png" group-title="FR_ GENERAL",PITCHOUN TV HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216648.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg" group-title="FR_ GENERAL",PUBLIC SENAT HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216727.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/rtl9.png" group-title="FR_ GENERAL",RTL9 HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47496.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vE6ijp.png" group-title="FR_ GENERAL",T18 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/374422.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vE6ijp.png" group-title="FR_ GENERAL",T18 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14036.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png/640px-T%C3%A9b%C3%A9Sud_logo_2013.png" group-title="FR_ GENERAL",TÉBÉSUD HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216700.ts
-#EXTINF:-1 tvg-logo="https://archives.eelv.fr/departementales2015/49.ecologie2015.fr/files/2015/03/logo-angers-t%C3%A9l%C3%A9.jpg" group-title="FR_ GENERAL",TÉLÉ ANGERS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216685.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/TVR_%28Bretagne%29_logo_2011.png/640px-TVR_%28Bretagne%29_logo_2011.png" group-title="FR_ GENERAL",TVR HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216694.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/lequipe21.png" group-title="FR_ L'EQUIPE",L'EQUIPE HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47489.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13728.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/14005.ts
-#EXTINF:-1 tvg-logo="http://logo.4kpro2.com/LEQUIPE/equipe.png" group-title="FR_ L'EQUIPE",LA CHAÎNE L'EQUIPE SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/1023.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport1.png" group-title="FR_ RMC",RMC SPORT 1 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/408065.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13701.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 HD
-http://4kpro2.com:80/live/WSET2024/SADF5566/32718.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport2.png" group-title="FR_ RMC",RMC SPORT LIVE 2 SD
-http://4kpro2.com:80/live/WSET2024/SADF5566/32713.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/rmcsport3.png" group-title="FR_ RMC",RMC SPORT LIVE 3 FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13700.ts
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/3xj-pofb-400x400-1590594586.png" group-title="Kids",CANAL+ KIDS HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/216662.ts
-#EXTINF:-1 tvg-logo="https://logoipro2.com/LOGO/FRANCE/nickelodeon4teen.png" group-title="Kids",NICKELODEON 4TEEN HEVC
-http://4kpro2.com:80/live/WSET2024/SADF5566/47551.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9b596Np/hu.png" group-title="Mix_ Documentary",HU VIASAT HISTORY
-http://4kpro2.com:80/live/WSET2024/SADF5566/337354.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/Infosportplus.png" group-title="Sports_ Mix",INFOSPORT + FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13729.ts
-#EXTINF:-1 tvg-logo="https://logo-iptvpro.com/LOGO/LOGO%20VIP/action.png" group-title="TV mix",ACTION FHD
-http://4kpro2.com:80/live/WSET2024/SADF5566/13790.ts
+#M3U_EXTRACT: main.light-ott.net
+#EXTINF:-1 tvg-name="BEST DIRECT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/BEST DIRECT.png" group-title="UK_ GENERAL",BEST DIRECT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170606&extension=ts&play_token=mZLkfoXzkB
+#EXTINF:-1 tvg-name="BLAZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/BLAZE.png" group-title="UK_ GENERAL",BLAZE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170582&extension=ts&play_token=aPseoNhl0W
+#EXTINF:-1 tvg-name="CLUBLAND" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/CLUBLAND.png" group-title="UK_ GENERAL",CLUBLAND
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=827923&extension=ts&play_token=vpnbhZy4tc
+#EXTINF:-1 tvg-name="GREAT ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT ACTION.png" group-title="UK_ GENERAL",GREAT ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170619&extension=ts&play_token=sHEH4wfEfz
+#EXTINF:-1 tvg-name="GREAT ACTION +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ACTION +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823776&extension=ts&play_token=wZPczE9HOw
+#EXTINF:-1 tvg-name="GREAT MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823779&extension=ts&play_token=uG7va03hN7
+#EXTINF:-1 tvg-name="GREAT MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT MOVIES.png" group-title="UK_ GENERAL",GREAT MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170620&extension=ts&play_token=9PsPiiqLE2
+#EXTINF:-1 tvg-name="GREAT MOVIES +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT MOVIES +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823778&extension=ts&play_token=RsHomZPNMP
+#EXTINF:-1 tvg-name="GREAT ROMANACE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ROMANACE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823775&extension=ts&play_token=fM6ZGePxVH
+#EXTINF:-1 tvg-name="GREAT ROMANCE +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ROMANCE +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823774&extension=ts&play_token=VXJ0wXiYzz
+#EXTINF:-1 tvg-name="GREAT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823781&extension=ts&play_token=X04Q47yHdX
+#EXTINF:-1 tvg-name="GREAT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT TV.png" group-title="UK_ GENERAL",GREAT TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170618&extension=ts&play_token=rTdUDqeyuY
+#EXTINF:-1 tvg-name="GREAT TV +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT TV +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823780&extension=ts&play_token=92heDUNAC3
+#EXTINF:-1 tvg-name="MOVIES 24" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/MOVIES24TV.png" group-title="UK_ GENERAL",MOVIES 24
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823768&extension=ts&play_token=dWkAv6yvMf
+#EXTINF:-1 tvg-name="QUEST HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST.png" group-title="UK_ GENERAL",QUEST HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170572&extension=ts&play_token=SzCmrqzMaR
+#EXTINF:-1 tvg-name="QUEST +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST.png" group-title="UK_ GENERAL",QUEST +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170573&extension=ts&play_token=sUpKkNlclT
+#EXTINF:-1 tvg-name="QUEST RED" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST RED.png" group-title="UK_ GENERAL",QUEST RED
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170574&extension=ts&play_token=zsS7o10iG5
+#EXTINF:-1 tvg-name="QUEST RED +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST RED +1.png" group-title="UK_ GENERAL",QUEST RED +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170575&extension=ts&play_token=l6CrEtGqK8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC.png" group-title="UK_ GENERAL",QVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170595&extension=ts&play_token=4k4SQesU1d
+#EXTINF:-1 tvg-name="QVC BEAUTY" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC BEAUTY.png" group-title="UK_ GENERAL",QVC BEAUTY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170596&extension=ts&play_token=XeRCo34vCk
+#EXTINF:-1 tvg-name="QVC EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC EXTRA.png" group-title="UK_ GENERAL",QVC EXTRA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170597&extension=ts&play_token=14q16VDz0i
+#EXTINF:-1 tvg-name="VIRGIN MEDIA FOUR 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN4.png" group-title="TV mix",VIRGIN MEDIA FOUR 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833957&extension=ts&play_token=bHNz7tYaq3
+#EXTINF:-1 tvg-name="VIRGIN MEDIA ONE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN1.png" group-title="TV mix",VIRGIN MEDIA ONE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833962&extension=ts&play_token=Zt8PngmhKN
+#EXTINF:-1 tvg-name="VIRGIN MEDIA ONE +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN1.png" group-title="TV mix",VIRGIN MEDIA ONE +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833961&extension=ts&play_token=xQEHt0xcxs
+#EXTINF:-1 tvg-name="VIRGIN MEDIA THREE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/IEVIRGINMEDIA.png" group-title="TV mix",VIRGIN MEDIA THREE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833958&extension=ts&play_token=cg6L8Ac4x7
+#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833959&extension=ts&play_token=OrzFwzVd90
+#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833960&extension=ts&play_token=90SchXPQlP
+#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 1 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 1 HD NL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894968&extension=ts&play_token=teT3lzURJ7
+#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 3 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 3 HD NL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894970&extension=ts&play_token=NxJV6JEjRq
+#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 4 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 4 HD NL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894971&extension=ts&play_token=qrkAGYA9G9
+#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 5 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 5 HD NL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894972&extension=ts&play_token=KknWrX6kE1
+#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 6 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 6 HD NL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894973&extension=ts&play_token=C0y4v4tpqa
+#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO HD ⏺ʳᵉᶜ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=595789&extension=ts&play_token=HODXGGkZJE
