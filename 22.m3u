@@ -1,36 +1,12 @@
 #EXTM3U
-#M3U_EXTRACT: 8b789a40.akadatel.com
-#EXTINF:-1 group-title="VIP",ViP Sport 1
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20099/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 2
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20103/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 3
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20104/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 4
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20105/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 5
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20106/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 6
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20107/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 7
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20108/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 8
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20109/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 9
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20110/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 10
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20100/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 11
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20101/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 12
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20102/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 13
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31674/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 14
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31675/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 15
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31676/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 16
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31677/index.m3u8
-#EXTINF:-1 group-title="VIP",ViP Sport 17
-http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31678/index.m3u8
+#M3U_EXTRACT: xxot9n16.megogo.xyz
+#EXTINF:-1 tvg-name="BOX Anime" tvg-logo="http://epg.one/img2/6698.png" group-title="BOX",BOX Anime
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/19276/index.m3u8
+#EXTINF:-1 tvg-name="BOX Ghost" tvg-logo="http://epg.one/img2/7488.png" group-title="BOX",BOX Ghost
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/20154/index.m3u8
+#EXTINF:-1 tvg-name="BOX Mayday" tvg-logo="http://epg.one/img2/7493.png" group-title="BOX",BOX Mayday
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/20159/index.m3u8
+#EXTINF:-1 tvg-name="BOX Memory" tvg-logo="http://epg.one/img2/6701.png" group-title="BOX",BOX Memory
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/19279/index.m3u8
+#EXTINF:-1 tvg-name="BOX Remast 4K" tvg-logo="http://epg.one/img2/7492.png" group-title="BOX",BOX Remast
+http://xxot9n16.megogo.xyz/iptv/T9H75A85UBLDTFZDN74YZ4G6/20158/index.m3u8
