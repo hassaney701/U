@@ -1,24 +1,14 @@
 #EXTM3U
-#M3U_EXTRACT: 3.3loka.site
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_38843whca1.png" group-title="ALWAN SPORT",ALWAN 1 FHD
-https://3.3loka.site/aloka1313/aloka1313/125
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3884x9r0j2.png" group-title="ALWAN SPORT",ALWAN 2 FHD
-https://3.3loka.site/aloka1313/aloka1313/126
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3884qsnn42.png" group-title="ALWAN SPORT",ALWAN 3 FHD
-https://3.3loka.site/aloka1313/aloka1313/127
-#EXTINF:-1 tvg-logo="https://i.top4top.io/p_38845pti51.png" group-title="ALWAN SPORT",ALWAN 4 FHD
-https://3.3loka.site/aloka1313/aloka1313/128
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 FHD
-https://3.3loka.site/aloka1214/aloka1214/11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 FHD
-https://3.3loka.site/aloka1214/aloka1214/12
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 FHD
-https://3.3loka.site/aloka1214/aloka1214/13
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 FHD
-https://3.3loka.site/aloka1214/aloka1214/14
-#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 FHD
-https://3.3loka.site/aloka1214/aloka1214/15
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 FHD
-https://3.3loka.site/aloka1214/aloka1214/16
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 FHD
-https://3.3loka.site/aloka1214/aloka1214/17
+#M3U_EXTRACT: video07.logicahost.com.br
+#EXTINF:-1 group-title="No Group" ,RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+#EXTINF:-1 group-title="No Group" ,RS Sports 1
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 group-title="No Group" ,RS Sports 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 group-title="No Group" ,RS Sports 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 group-title="No Group" ,RS Sports 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 group-title="No Group" ,RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
