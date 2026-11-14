@@ -1,42 +1,12 @@
 #EXTM3U
-#M3U_EXTRACT: ronaldo.tvfor.pro
-#EXTINF:-1 group-title="RO_ DIGI Sport",DIGI Sport 2 HD
-http://ronaldo.tvfor.pro/GOnDepEJaP/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="FOX Sport",Fox Sport 1 HD
-http://ronaldo.tvfor.pro/lOgencONiS/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="FOX Sport",Fox Sport 2 HD
-http://ronaldo.tvfor.pro/quiCkTaNDE/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="LV_ Go3 Sport",Go3 Sport 1 HD
-http://ronaldo.tvfor.pro/xVlZwIumys/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="LV_ Go3 Sport",Go3 Sport 3 HD
-http://ronaldo.tvfor.pro/hwlYGiD7DJn8/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="LV_ Go3 Sport",Go3 Sport 4 HD
-http://ronaldo.tvfor.pro/fgerHJifwhw4/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="LV_ Go3 Sport",Go3 Sport Open HD
-http://ronaldo.tvfor.pro/obTrIngoUr/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="GR_ NOVA",Nova Sport 1 HD
-http://ronaldo.tvfor.pro/ASIlkyrOST/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="GR_ NOVA",Nova Sport 2 HD
-http://ronaldo.tvfor.pro/yGMaNCTrio/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="RU_ Матч",Матч Премьер
-http://ronaldo.tvfor.pro/NTVPlusNashFutbol/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="RU_ Матч",Матч! Футбол 1 HD
-http://ronaldo.tvfor.pro/MatchFutbol1HD/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="RU_ Матч",Матч! Футбол 2 HD
-http://ronaldo.tvfor.pro/MatchFutbol2HD/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="UK_ Sky",Sky Sport Arena HD UK
-http://ronaldo.tvfor.pro/uC3alP4H/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="UK_ Sky",Sky Sport Cricket HD UK
-http://ronaldo.tvfor.pro/cOwmjQnG/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="UK_ Sky",Sky Sport Football HD UK
-http://ronaldo.tvfor.pro/LKGg4xhJ/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="UK_ Sky",Sky Sports Action HD UK
-http://ronaldo.tvfor.pro/fedegwwSe/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="TNT Sports 1 HD UK" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_1.png" group-title="UK_ TNT Sport",TNT Sports 1 HD UK
-http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="TNT Sports 2 HD UK" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" group-title="UK_ TNT Sport",TNT Sports 2 HD UK
-http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="TNT Sports 3 HD UK" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" group-title="UK_ TNT Sport",TNT Sports 3 HD UK
-http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="TNT Sports 4 HD UK" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_4.png" group-title="UK_ TNT Sport",TNT Sports 4 HD UK
-http://ronaldo.tvfor.pro/Ff54kV22Cg/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#M3U_EXTRACT: www.manar2.shop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXnfSrDC/Bein1.jpg" group-title="beIN Sports",beIN SPORTS 1 2K
+https://www.manar2.shop/x1/59.json?token=34c2032873719277ad982f805868f5cd4a3ce67b1479c6060d7f6253870f92bb&expires=1787856241&exp=33554432
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN Sports",beIN SPORTS 2 2K
+https://www.manar2.shop/x1/60.json?token=34c2032873719277ad982f805868f5cd4a3ce67b1479c6060d7f6253870f92bb&expires=1787856241&exp=33554432
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN Sports",beIN SPORTS 3 2K
+https://www.manar2.shop/x1/61.json?token=34c2032873719277ad982f805868f5cd4a3ce67b1479c6060d7f6253870f92bb&expires=1787856241&exp=33554432
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN Sports",beIN SPORTS 4 2K
+https://www.manar2.shop/x1/62.json?token=34c2032873719277ad982f805868f5cd4a3ce67b1479c6060d7f6253870f92bb&expires=1787856241&exp=33554432
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN Sports",beIN SPORTS 5 2K
+https://www.manar2.shop/x1/63.json?token=34c2032873719277ad982f805868f5cd4a3ce67b1479c6060d7f6253870f92bb&expires=1787856241&exp=33554432
