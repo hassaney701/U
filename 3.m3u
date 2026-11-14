@@ -1,399 +1,130 @@
 #EXTM3U
-#M3U_EXTRACT: stream.shbro.org
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/663.png" group-title="ARENA Premium",Arena Sport Premium 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/ium1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/633.png" group-title="ARENA Premium",Arena Sport Premium 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/ium2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/625.png" group-title="ARENA Premium",Arena Sport Premium 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/ium3monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1496.png" group-title="ARENA Sport HR",Arena Sport 1 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t1HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2293.png" group-title="ARENA Sport HR",Arena Sport 2 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t2HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2291.png" group-title="ARENA Sport HR",Arena Sport 3 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t3HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2630.png" group-title="ARENA Sport HR",Arena Sport 4 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t4HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2811.png" group-title="ARENA Sport HR",Arena Sport 5 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t5HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2069.png" group-title="ARENA Sport HR",Arena Sport 6 HD HR
-http://stream.shbro.org/stream/5DAA46FD1012/t6HRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e75104ec45c4e27353d08ae98cde36c0902e8108-5888638-images-thumbs&n=13" group-title="beIN Sport_ EN",beIN SPORTS XTRA en Espanol
-http://stream.shbro.org/stream/5DAA46FD1012/raEspanolm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e75104ec45c4e27353d08ae98cde36c0902e8108-5888638-images-thumbs&n=13" group-title="beIN Sport_ EN",beIN SPORTS XTRA en Espanol
-http://stream.shbro.org/stream/5DAA46FD1012/raEspanolm3u8_7eaa.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=608e728ba6499f90e15dfae38b0154da10f321b5-4575627-images-thumbs&n=13" group-title="beIN Sport_ Xtra",beIN SPORTS XTRA
-http://stream.shbro.org/stream/5DAA46FD1012/listR1080pm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=608e728ba6499f90e15dfae38b0154da10f321b5-4575627-images-thumbs&n=13" group-title="beIN Sport_ Xtra",beIN SPORTS XTRA
-http://stream.shbro.org/stream/5DAA46FD1012/vplaylistm3u8_fffb.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBJnA8dQLAOnRYiXi-P4vIP3hTO_EDyz9jxyU8lhQ30XXAp4uphipiZ6zqwgB8U8uTDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="beIN Sports",Bein Sports Extra
-http://stream.shbro.org/stream/5DAA46FD1012/ylistR720Pm3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1487.png" group-title="BG_ Sport",Diema Sport HD
-http://stream.shbro.org/stream/5DAA46FD1012/RTHDmonom3u8_2a73.m3u8
-#EXTINF:-1 group-title="BG_ Sport",Diema Sport 2 UHD
-http://stream.shbro.org/stream/5DAA46FD1012/4UHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1478.png" group-title="BG_ Sport",Diema Sport 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_a868.m3u8
-#EXTINF:-1 group-title="BG_ Sport",Diema Sport 3 UHD
-http://stream.shbro.org/stream/5DAA46FD1012/3UHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1306.png" group-title="BG_ Sport",Diema Sport 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_6a59.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1352.png" group-title="BG_ Sport",MAX Sport 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/1HDmonom3u8_b394.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1256.png" group-title="BG_ Sport",MAX Sport 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_5b9c.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1271.png" group-title="BG_ Sport",MAX Sport 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_f6e4.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1273.png" group-title="BG_ Sport",MAX Sport 4 HD
-http://stream.shbro.org/stream/5DAA46FD1012/4HDmonom3u8_6fe5.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2503.png" group-title="CANAL+ EXTRA",Canal+ Extra 1
-http://stream.shbro.org/stream/5DAA46FD1012/tra1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2128.png" group-title="CANAL+ EXTRA",Canal+ Extra 2
-http://stream.shbro.org/stream/5DAA46FD1012/tra2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2127.png" group-title="CANAL+ EXTRA",Canal+ Extra 3
-http://stream.shbro.org/stream/5DAA46FD1012/tra3monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2126.png" group-title="CANAL+ EXTRA",Canal+ Extra 4
-http://stream.shbro.org/stream/5DAA46FD1012/tra4monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1144.png" group-title="CANAL+ PL",CANAL+ Sport HD PL
-http://stream.shbro.org/stream/5DAA46FD1012/RTHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1143.png" group-title="CANAL+ PL",CANAL+ Sport 2 HD PL
-http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_0d96.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1480.png" group-title="CANAL+ PL",CANAL+ Sport 3 HD PL
-http://stream.shbro.org/stream/5DAA46FD1012/RT3HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1479.png" group-title="CANAL+ PL",CANAL+ Sport 4 HD PL
-http://stream.shbro.org/stream/5DAA46FD1012/4HDPLmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1498.png" group-title="CANAL+ PL",CANAL+ Sport 5 HD PL
-http://stream.shbro.org/stream/5DAA46FD1012/lusPLmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/132.png" group-title="CANAL+ Sport",Canal+ Sport CZ
-http://stream.shbro.org/stream/5DAA46FD1012/rtCZmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2713.png" group-title="CANAL+ Sport",Canal+ Sport 2 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/HDCZmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2772.png" group-title="CANAL+ Sport",Canal+ Sport 3 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_5a8d.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2773.png" group-title="CANAL+ Sport",Canal+ Sport 4 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/4HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2774.png" group-title="CANAL+ Sport",Canal+ Sport 5 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/5HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1281.png" group-title="CANAL+ Sport",Canal+ Sport 6 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/6HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/168.png" group-title="CANAL+ Sport",Canal+ Sport 7 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/7HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/136.png" group-title="CANAL+ Sport",Canal+ Sport 8 CZ
-http://stream.shbro.org/stream/5DAA46FD1012/8HDmonom3u8.m3u8
-#EXTINF:-1 tvg-name="Canal+ 4K Ultra HD (Test)" group-title="CANAL+ Sport",Canal+ 4K Ultra HD (Test)
-http://stream.shbro.org/stream/5DAA46FD1012/TESTmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/9.png" group-title="DAZN Sport",DAZN 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/1ESmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/7.png" group-title="DAZN Sport",DAZN 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/2ESmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2444.png" group-title="DAZN Sport",DAZN Fast HD
-http://stream.shbro.org/stream/5DAA46FD1012/PLUSmonom3u8_c597.m3u8
-#EXTINF:-1 group-title="DAZN Sport",DAZN Rise HD
-http://stream.shbro.org/stream/5DAA46FD1012/Risemonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/411.png" group-title="DE_ Sky Sport",Sky Sport UHD DE
-http://stream.shbro.org/stream/5DAA46FD1012/HDDEmonom3u8_05e3.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2251.png" group-title="DE_ Sky Sport",Sky Sport Mix DE
-http://stream.shbro.org/stream/5DAA46FD1012/ixDEmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2838.png" group-title="DE_ Sky Sport",Sky Sport Top Event DE
-http://stream.shbro.org/stream/5DAA46FD1012/Eventmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1669.png" group-title="FR_ Cine+",Cine+ HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDLWmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=40f3448a3aa2499ed3acff7c081cb9e582bcf82c-5877972-images-thumbs&n=13" group-title="FR_ Cine+",Cine+ HD
-http://stream.shbro.org/stream/5DAA46FD1012/d567videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1670.png" group-title="FR_ Cine+",Cine+ Hit HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDLWmonom3u8_cfb0.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4a867da89a93879a98d583206a2d6ef962f42e4d-8437019-images-thumbs&n=13" group-title="FR_ Cine+",Cine+ Hit HD
-http://stream.shbro.org/stream/5DAA46FD1012/d539videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1672.png" group-title="FR_ Cine+",Cine+ Legend
-http://stream.shbro.org/stream/5DAA46FD1012/NDLWmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBdn47IlbBa3NZiyjlYoObaicDM6YCyWcynHo8kRQ00XST9Ij41n85YKzqwgpyU86SDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="FR_ Cine+",Cine+ Legend
-http://stream.shbro.org/stream/5DAA46FD1012/d568videom3u8.m3u8
-#EXTINF:-1 group-title="FR_ L'EQUIPE",L'Equipe
-http://stream.shbro.org/stream/5DAA46FD1012/iaFRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2031.png" group-title="IL_ Sport",Yes Sport 1 HD IL
-http://stream.shbro.org/stream/5DAA46FD1012/HDILmonom3u8_6214.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2032.png" group-title="IL_ Sport",Yes Sport 2 HD IL
-http://stream.shbro.org/stream/5DAA46FD1012/HDILmonom3u8_35df.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2033.png" group-title="IL_ Sport",Yes Sport 3 HD IL
-http://stream.shbro.org/stream/5DAA46FD1012/HDILmonom3u8_309a.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2034.png" group-title="IL_ Sport",Yes Sport 4 HD IL
-http://stream.shbro.org/stream/5DAA46FD1012/HDILmonom3u8_0abc.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1063.png" group-title="LV_ Go3 Sport",Go3 Sport 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/ICHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2405.png" group-title="LV_ Go3 Sport",Go3 Sport 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/t3HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2818.png" group-title="LV_ Go3 Sport",Go3 Sport 4 HD
-http://stream.shbro.org/stream/5DAA46FD1012/ort4monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1083.png" group-title="LV_ Go3 Sport",Go3 Sport Open HD
-http://stream.shbro.org/stream/5DAA46FD1012/ENHDmonom3u8_f8ad.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8d2e649dee55c116e84e96ef8eac849e80cbd389-5147912-images-thumbs&n=13" group-title="Mix_ Documentary",Travel+Adventure HD
-http://stream.shbro.org/stream/5DAA46FD1012/reHDindexm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="Mix_ Documentary",Travel channel Европа HD
-http://stream.shbro.org/stream/5DAA46FD1012/d426videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f1938e267211aaa4be8e84d2b563a48c58759b12-5474084-images-thumbs&n=13" group-title="Mix_ Documentary",Travel TV
-http://stream.shbro.org/stream/5DAA46FD1012/travelSDm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=59f7c955efcfaa5a159ff7e42c4f86c3ee29e99d-4902913-images-thumbs&n=13" group-title="Mix_ Documentary",Travel XP HD
-http://stream.shbro.org/stream/5DAA46FD1012/d524videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1370.png" group-title="Mix_ Documentary",Travel Channel BG
-#M3U_EXTRACT: travel
-http://stream.shbro.org/stream/5DAA46FD1012/annelmonom3u8_8f0e.m3u8
-#EXTINF:-1 group-title="Mix_ Documentary",Travel TV BG
-http://stream.shbro.org/stream/5DAA46FD1012/velTVmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1894.png" group-title="NL_ Ziggo",Ziggo Sport
-http://stream.shbro.org/stream/5DAA46FD1012/Sportmonom3u8_3fff.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2383.png" group-title="NL_ Ziggo",Ziggo Sport 2
-http://stream.shbro.org/stream/5DAA46FD1012/ort2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2376.png" group-title="NL_ Ziggo",Ziggo Sport 6
-http://stream.shbro.org/stream/5DAA46FD1012/ort6monom3u8.m3u8
-#EXTINF:-1 group-title="PL_ Eleven Sport",Eleven Sports 4K
-http://stream.shbro.org/stream/5DAA46FD1012/rt4Kmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1156.png" group-title="PL_ Eleven Sport",Eleven Sports 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/1HDmonom3u8_37ee.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1155.png" group-title="PL_ Eleven Sport",Eleven Sports 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8_1a09.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1154.png" group-title="PL_ Eleven Sport",Eleven Sports 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_e76b.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1157.png" group-title="PL_ Eleven Sport",Eleven Sports 4 HD
-http://stream.shbro.org/stream/5DAA46FD1012/4HDmonom3u8_85c6.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2134.png" group-title="RO_ DIGI Sport",Digi Sport 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDROmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2135.png" group-title="RO_ DIGI Sport",Digi Sport 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDROmonom3u8_62ab.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2136.png" group-title="RO_ DIGI Sport",Digi Sport 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/FHDROmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2137.png" group-title="RO_ DIGI Sport",Digi Sport 4 HD
-http://stream.shbro.org/stream/5DAA46FD1012/FHDROmonom3u8_617c.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b56f3e0fd5456a826ac31aced8b4339e7b4ff8d8-4443391-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! HD
-http://stream.shbro.org/stream/5DAA46FD1012/8179videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b56f3e0fd5456a826ac31aced8b4339e7b4ff8d8-4443391-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ!
-http://stream.shbro.org/stream/5DAA46FD1012/8016videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b56f3e0fd5456a826ac31aced8b4339e7b4ff8d8-4443391-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ!
-http://stream.shbro.org/stream/5DAA46FD1012/9835videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_arena.png" group-title="RU_ Матч",Матч! Арена HD
-http://stream.shbro.org/stream/5DAA46FD1012/a9a4videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/438.png" group-title="RU_ Матч",Матч! Арена HD
-http://stream.shbro.org/stream/5DAA46FD1012/enaHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=ed95d364bd2704f7e2e66b788006716af084d56e-12797135-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! АРЕНА HD
-http://stream.shbro.org/stream/5DAA46FD1012/8018videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/473.png" group-title="RU_ Матч",Матч! Арена
-http://stream.shbro.org/stream/5DAA46FD1012/ARENAmonom3u8_23ed.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=48866effd86a7add12a79e6b13c8d5f27163688a-2923255-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! Арена
-http://stream.shbro.org/stream/5DAA46FD1012/a9a4videom3u8_0402.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2316.png" group-title="RU_ Матч",Матч! Боец HD
-http://stream.shbro.org/stream/5DAA46FD1012/ecHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4a14a9143311dfc9eb628f04f91d44116335ed87-3947215-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! БОЕЦ HD
-http://stream.shbro.org/stream/5DAA46FD1012/8027videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/437.png" group-title="RU_ Матч",Матч! Боец
-http://stream.shbro.org/stream/5DAA46FD1012/BOECmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/441.png" group-title="RU_ Матч",Матч! Игра HD
-http://stream.shbro.org/stream/5DAA46FD1012/graHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=80d4602aa4422de4f5f4128f6a0d5fe050329128-6307799-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ИГРА HD
-http://stream.shbro.org/stream/5DAA46FD1012/8024videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_igra.png" group-title="RU_ Матч",Матч! Игра
-http://stream.shbro.org/stream/5DAA46FD1012/8c1fvideom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/436.png" group-title="RU_ Матч",Матч! Игра
-http://stream.shbro.org/stream/5DAA46FD1012/IGRAmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=80d4602aa4422de4f5f4128f6a0d5fe050329128-6307799-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! Игра
-http://stream.shbro.org/stream/5DAA46FD1012/8c1fvideom3u8_7325.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/443.png" group-title="RU_ Матч",Матч! Планета
-http://stream.shbro.org/stream/5DAA46FD1012/anetamonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBIH5sclLHM3VU3CDrbY6bby4GMqdQy25jkn47xxJjjCjD9Nyu1CtjZazhzwB8WsidDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="RU_ Матч",Матч! Планета
-http://stream.shbro.org/stream/5DAA46FD1012/v1a1monom3u8_ddf7.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcd8tegj7LXI4TdESrhWrBtnTk7QRqslC8VFlP_Fhfn2HL-22edYXOgrS0A9Rl1E2cTcyclhJBwKsKzdEJDLTpFQfmR-Yfs0SbpumcNmzKbB-1KRzwG_MItRg9PvA8ugMt8pvozhyQEyaVTZopHBnsFYxg-LoOGXC-MqkpZfxUZLEnDiounsKN83Z9SHbIBgB_BZUgICe3bMVQCB6IkEriqVKPkNrEcD9G2bnmxaQhiIGs0PiaSsFAeiYRtYEgMAhZB4oOGoKSFXdmiTimTJZwY43xEJwnq3y5ADjuHBT2lqWmt7jOnHC7conBXslIvaRxILgQYrr1-P46MWXVtHBAQbfiLpq24rWTvhk89tgaQL8FVfyAyzPkeaiYkiAw2kZplnsQmhh4V2YtueppsPn47Sw0LG6SjTDK2hHBFXi0BMFP_lKiZto1Q9YdyHa04kznPREMkMOztGEEVCr0XGpWTQrTxBasvA8C5ake6UD9EImYdHhiWmFYKmLZVfF4FOzVN_aeVvLOaedOqYwaNHoQx8XtdBjvs3wZ7OSOzJhaLqkad7QuvHTPXtmZRq3cYTwV2DQEZvYZ2M6OyckJrKwMOat-gur-ljFj1tUgFsACVGf16Vh002-kuSi8bnw03vZFYv8o1qxQr_ptsQZpmOlAUcigrEJGhVD66gVlCawAMAELGpIOeg7lRzpNeCZ0ogw_zeWkVCPX9OkcZL60CNo-ldqjROq8bN_2ZdnGBezZ8CE8KBwu1o2MuvKhsbUgrGxJjx4-boqeNeey9aAqvDps0xmhlGwXO9AxXEi2hBRmon1mCyAWdLxjqpFJlkWg2fAd2Exsyo5FBK5-dRHRBOxMKR_OTrp6clGDHkWcouBmNA_5AYAQQyucwYBo1piIFkaB8qNgRjiI78rxxV5ZWLmEdcBoGKrGlQCOKoGh_ei0ONEbaq4o" group-title="RU_ Матч",Матч! Планета
-http://stream.shbro.org/stream/5DAA46FD1012/ta1indexm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcdp9in27fQLITRQHXvW-BjwD1vQk__ynkWQQP6QkPq0nX82DGbM3Or-S0A-hJ1EmMRcyclhJBwKsKzdEJDLTpFQfmR-Yfs0SbpumcNmzKbB-1KRzwG_MItRg9PvA8ugMt8pvozhyQEyaVTZopHBnsFYxg-LoOGXC-MqkpZfxUZLEnDiounsKN83Z9SHbIBgB_BZUgICe3bMVQCB6IkEriqVKPkNrEcD9G2bnmxaQhiIGs0PiaSsFAeiYRtYEgMAhZB4oOGoKSFXdmiTimTJZwY43xEJwnq3y5ADjuHBT2lqWmt7jOnHC7conBXslIvaRxILgQYrr1-P46MWXVtHBAQbfiLpq24rWTvhk89tgaQL8FVfyAyzPkeaiYkiAw2kZplnsQmhh4V2YtueppsPn47Sw0LG6SjTDK2hHBFXi0BMFP_lKiZto1Q9YdyHa04kznPREMkMOztGEEVCr0XGpWTQrTxBasvA8C5ake6UD9EImYdHhiWmFYKmLZVfF4FOzVN_aeVvLOaedOqYwaNHoQx8XtdBjvs3wZ7OSOzJhaLqkad7QuvHTPXtmZRq3cYTwV2DQEZvYZ2M6OyckJrKwMOat-gur-ljFj1tUgFsACVGf16Vh002-kuSi8bnw03vZFYv8o1qxQr_ptsQZpmOlAUcigrEJGhVD66gVlCawAMAELGpIOeg7lRzpNeCZ0ogw_zeWkVCPX9OkcZL60CNo-ldqjROq8bN_2ZdnGBezZ8CE8KBwu1o2MuvKhsbUgrGxJjx4-boqeNeey9aAqvDps0xmhlGwXO9AxXEi2hBRmon1mCyAWdLxjqpFJlkWg2fAd2Exsyo5FBK5-dRHRBOxMKR_OTrp6clGDHkWcouBmNA_5AYAQQyucwYBo1piIFkaB8qNgRjiI78rxxV5ZWLmEdcBoGKrGlQCOKoGh_ei0ONEbaq4o" group-title="RU_ Матч",МАТЧ! ПЛАНЕТА
-http://stream.shbro.org/stream/5DAA46FD1012/8549videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/435.png" group-title="RU_ Матч",Матч! Премьер HD
-http://stream.shbro.org/stream/5DAA46FD1012/ERHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=44c7b39b65f8b0999e6d414d35d0781b52c61f0c-7133642-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ПРЕМЬЕР HD
-http://stream.shbro.org/stream/5DAA46FD1012/8023videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/432.png" group-title="RU_ Матч",Матч! Премьер
-http://stream.shbro.org/stream/5DAA46FD1012/EMIERmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=05076edd4c5b237bbb7fa4fa0fba7469b2f49b14-8438956-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! Премьер
-http://stream.shbro.org/stream/5DAA46FD1012/5cbfvideom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcdpdL73uKDJtfRRH3sCeRnxTtrFk-tz3sVRQOsEEjmiiD4jGbNZiD2-C0B-hV4HWIUcyclhJBwKsKzdEJDLTpFQfmR-Yfs0SbpumcNmzKbB-1KRzwG_MItRg9PvA8ugMt8pvozhyQEyaVTZopHBnsFYxg-LoOGXC-MqkpZfxUZLEnDiounsKN83Z9SHbIBgB_BZUgICe3bMVQCB6IkEriqVKPkNrEcD9G2bnmxaQhiIGs0PiaSsFAeiYRtYEgMAhZB4oOGoKSFXdmiTimTJZwY43xEJwnq3y5ADjuHBT2lqWmt7jOnHC7conBXslIvaRxILgQYrr1-P46MWXVtHBAQbfiLpq24rWTvhk89tgaQL8FVfyAyzPkeaiYkiAw2kZplnsQmhh4V2YtueppsPn47Sw0LG6SjTDK2hHBFXi0BMFP_lKiZto1Q9YdyHa04kznPREMkMOztGEEVCr0XGpWTQrTxBasvA8C5ake6UD9EImYdHhiWmFYKmLZVfF4FOzVN_aeVvLOaedOqYwaNHoQx8XtdBjvs3wZ7OSOzJhaLqkad7QuvHTPXtmZRq3cYTwV2DQEZvYZ2M6OyckJrKwMOat-gur-ljFj1tUgFsACVGf16Vh002-kuSi8bnw03vZFYv8o1qxQr_ptsQZpmOlAUcigrEJGhVD66gVlCawAMAELGpIOeg7lRzpNeCZ0ogw_zeWkVCPX9OkcZL60CNo-ldqjROq8bN_2ZdnGBezZ8CE8KBwu1o2MuvKhsbUgrGxJjx4-boqeNeey9aAqvDps0xmhlGwXO9AxXEi2hBRmon1mCyAWdLxjqpFJlkWg2fAd2Exsyo5FBK5-dRHRBOxMKR_OTrp6clGDHkWcouBmNA_5AYAQQyucwYBo1piIFkaB8qNgRjiI78rxxV5ZWLmEdcBoGKrGlQCOKoGh_ei0ONEbaq4o" group-title="RU_ Матч",МАТЧ! СТРАНА HD
-http://stream.shbro.org/stream/5DAA46FD1012/8019videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match-strana-ru.png" group-title="RU_ Матч",МАТЧ! СТРАНА
-http://stream.shbro.org/stream/5DAA46FD1012/c361videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBInQwdweUOSZU2CjoP4qfaigCZqcCzmxgln5tlRlv1H3HoIv4gXg-ZKzgzwdxVcmYDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="RU_ Матч",Матч! Страна
-http://stream.shbro.org/stream/5DAA46FD1012/inuavideom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBdnA5clHAOCFTgny5atvPbygEM_IEy2pjkyhuyUJggH3HpIathXg4NqzlwQd8VcKTDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="RU_ Матч",МАТЧ! Страна
-http://stream.shbro.org/stream/5DAA46FD1012/c361videom3u8_22bc.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/431.png" group-title="RU_ Матч",Матч! Футбол 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/1HDmonom3u8_a09e.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8803e4d5d86733c82be7c41a15fe850a37f90188-5367291-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ФУТБОЛ 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/8236videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8803e4d5d86733c82be7c41a15fe850a37f90188-5367291-images-thumbs&n=13" group-title="RU_ Матч",Матч! Футбол 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/all1indexm3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/476.png" group-title="RU_ Матч",Матч! Футбол 1
-http://stream.shbro.org/stream/5DAA46FD1012/OLL1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8803e4d5d86733c82be7c41a15fe850a37f90188-5367291-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ФУТБОЛ 1
-http://stream.shbro.org/stream/5DAA46FD1012/8021videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/429.png" group-title="RU_ Матч",Матч! Футбол 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/2HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=7b33d21db2e9f0a338768111b107109fe06269cd-8497237-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ФУТБОЛ 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/8237videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/430.png" group-title="RU_ Матч",Матч! Футбол 2
-http://stream.shbro.org/stream/5DAA46FD1012/OLL2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/433.png" group-title="RU_ Матч",Матч! Футбол 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_d1f7.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3f3ba27439e535eebabd980874254d37efa21afa-5877635-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ФУТБОЛ 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/8238videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b4f17ab0363f654ee344128deeba82f0bcb8c598-11938745-images-thumbs&n=13" group-title="RU_ Матч",Матч! Футбол 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/110indexm3u8_1882.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_3.png" group-title="RU_ Матч",Матч! Футбол 3
-http://stream.shbro.org/stream/5DAA46FD1012/110indexm3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/434.png" group-title="RU_ Матч",Матч! Футбол 3
-http://stream.shbro.org/stream/5DAA46FD1012/OLL3monom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3f3ba27439e535eebabd980874254d37efa21afa-5877635-images-thumbs&n=13" group-title="RU_ Матч",МАТЧ! ФУТБОЛ 3
-http://stream.shbro.org/stream/5DAA46FD1012/8029videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBcXNvcQOWaHdTjCq7bY-ZbntUNqMDn2YywXlqkRhk03yT8d3z0Sxia6zjxwp2WsyfFumXYGDBCUml0xTEoVNmGnIqeXtayjt0P-VYnBnl4llXIEvZS8wwMsFkJoVaCepso-LXj8BYDRzJgKxUECi1-W28jltpzQV7y-0IwK99cEhjAHoxU55oAivyS6oe0OFveCtKwkvvCwHrVlmhVznTOLTh-6D7cBo0852fexYms9NXvLxjTuIOV_jvPuefUGdrehBRKFehci8W1Hy6NsDPSWcwZNFW2g8-z1hchU8-5wKpytWp124ZB823h2s_BbfSQqyzTGnjJ2jt_xD5uFxgRXs0XCh1oHk0NtN8myr34G1dBWnveu8HDu54SZttOt8Cu-rtvfdYGSPtsb1iLS-W4FedtkZu8jRV0vAx2bp0cm1CIV8EU71ODBLRa58s38ZaUi1353TrETjNb0y8TRryPKT07LHFfCoW57-eeiIGluBUvph3Tu4jVsThLsCkU1l3VwB8I2GcXAoq9nyNLfTaT3gXdsZj3Bswz0RjhHUE3i6S6tic31QOKdi4kHcfNIzcULO4QUnJH3TDzQzIqUB9X2kRZTZmgGAAFMljkC_v2H19C0nddcAZEv5YTr1jJeAFpcDMkcByEALHqrBEEzSBznuKqnRK1Cti8fME4KlacFZAK0AEW7FYNzjsQbIozsdddzZw03XrODXzZnilZzTaFKLCzIXHWDUh2JOXXgw6rchBiK5Yc-QJT-rKFte5V1RdVy1xAUyyWgUs6VWNNt7ieV8ratBQxigG0EpJv3c5_DqT9sq-30A3MvCzuWIrEL_tdaucSkTuInnP1ijQu3ZQaXw9RwthsVwzOcl2hwPRy0RMDVPTYv0GDvJwTJx1BecAlfrOm8NeCwbRpIVUIQe9xE2jrUpr5AZr3Pc1w7tBUX1cF1M" group-title="RU_ Матч",Матч! Футбол 3
-http://stream.shbro.org/stream/5DAA46FD1012/110indexm3u8_4474.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2810.png" group-title="RU_ Окко",Окко Спорт
-http://stream.shbro.org/stream/5DAA46FD1012/sportmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/56.png" group-title="RU_ Спорт",Спорт 1
-http://stream.shbro.org/stream/5DAA46FD1012/port1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1840.png" group-title="RU_ Спорт",Спорт 1 Baltic HD
-http://stream.shbro.org/stream/5DAA46FD1012/icHDmonom3u8_12c8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/732.png" group-title="RU_ Спорт",Спорт 1 Baltic
-http://stream.shbro.org/stream/5DAA46FD1012/alticmonom3u8_7ebc.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2768.png" group-title="RU_ Спорт",Спорт 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDUAmonom3u8_5f28.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/55.png" group-title="RU_ Спорт",Спорт 2
-http://stream.shbro.org/stream/5DAA46FD1012/port2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2111.png" group-title="RU_ Спорт",Спорт 3 HD
-http://stream.shbro.org/stream/5DAA46FD1012/T1HDmonom3u8_20df.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/736.png" group-title="RU_ Спорт",Спорт 4
-http://stream.shbro.org/stream/5DAA46FD1012/alticmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2047.png" group-title="RU_ Спорт",Спорт 5 HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDUAmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2536.png" group-title="RU_ Спорт",Спорт ТВ
-http://stream.shbro.org/stream/5DAA46FD1012/VBELmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/454.png" group-title="SE_ Sport",TV4 HD LV
-http://stream.shbro.org/stream/5DAA46FD1012/HDLVmonom3u8_1380.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2448.png" group-title="SE_ V Sport",V Sport Ultra HD
-http://stream.shbro.org/stream/5DAA46FD1012/aUHDmonom3u8.m3u8
-#EXTINF:-1 group-title="SE_ V Sport",V Sport 1
-http://stream.shbro.org/stream/5DAA46FD1012/ort1monom3u8_0fd7.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2819.png" group-title="SE_ V Sport",V Sport Golf HD
-http://stream.shbro.org/stream/5DAA46FD1012/emiummonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2497.png" group-title="SETANTA",Setanta Sport Premium HD
-http://stream.shbro.org/stream/5DAA46FD1012/umHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1409.png" group-title="SETANTA",Setanta Sports + HD
-http://stream.shbro.org/stream/5DAA46FD1012/sHDUAmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcd94T137SEd4KGRH26D7Fsl2xtSkylznwTEwevRELu3yD5hmHHNHPyrS0G8RJ4GWcQcyclhJBwKsKzdEJDLTpFQfmR-Yfs0SbpumcNmzKbB-1KRzwG_MItRg9PvA8ugMt8pvozhyQEyaVTZopHBnsFYxg-LoOGXC-MqkpZfxUZLEnDiounsKN83Z9SHbIBgB_BZUgICe3bMVQCB6IkEriqVKPkNrEcD9G2bnmxaQhiIGs0PiaSsFAeiYRtYEgMAhZB4oOGoKSFXdmiTimTJZwY43xEJwnq3y5ADjuHBT2lqWmt7jOnHC7conBXslIvaRxILgQYrr1-P46MWXVtHBAQbfiLpq24rWTvhk89tgaQL8FVfyAyzPkeaiYkiAw2kZplnsQmhh4V2YtueppsPn47Sw0LG6SjTDK2hHBFXi0BMFP_lKiZto1Q9YdyHa04kznPREMkMOztGEEVCr0XGpWTQrTxBasvA8C5ake6UD9EImYdHhiWmFYKmLZVfF4FOzVN_aeVvLOaedOqYwaNHoQx8XtdBjvs3wZ7OSOzJhaLqkad7QuvHTPXtmZRq3cYTwV2DQEZvYZ2M6OyckJrKwMOat-gur-ljFj1tUgFsACVGf16Vh002-kuSi8bnw03vZFYv8o1qxQr_ptsQZpmOlAUcigrEJGhVD66gVlCawAMAELGpIOeg7lRzpNeCZ0ogw_zeWkVCPX9OkcZL60CNo-ldqjROq8bN_2ZdnGBezZ8CE8KBwu1o2MuvKhsbUgrGxJjx4-boqeNeey9aAqvDps0xmhlGwXO9AxXEi2hBRmon1mCyAWdLxjqpFJlkWg2fAd2Exsyo5FBK5-dRHRBOxMKR_OTrp6clGDHkWcouBmNA_5AYAQQyucwYBo1piIFkaB8qNgRjiI78rxxV5ZWLmEdcBoGKrGlQCOKoGh_ei0ONEbaq4o" group-title="SETANTA",Setanta Sports 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/8565videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b4f2653077ef613941dd7ddd80deb91f4c5e4173-10680870-images-thumbs&n=13" group-title="SETANTA",Setanta Sports 1
-http://stream.shbro.org/stream/5DAA46FD1012/v1a1monom3u8_c21a.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcd94T137SEd4KGRH26D7Fsl2xtSkylznwTEwevRELu3yD5hmHHNHPyrS0G8RJ4GWcQcyclhJBwKsKzdEJDLTpFTqnQ8baOoVT0umkekCqdG91sYBYa5YI8WSg-6RgZm4pov_sIlAYU2qlKYpZlClo2QS8HPoaaQze-nUx4RxgiKm71oquCq5RE3YlyBrwFki_SfXkKCOjKInIUBogwHIWPXofwEIc7C-GHRHuzbSZaPlAZCw-DtGQOiYRXQk85Kydp4YSKhpaIcPytbgGeHJ4A0np9FRzk9gdTOxuLDRKPikiH0R2TJSXivGNwj048YABsFCUuhLxQG6yURURjIyMHZP2ss7CyiWTZjmI2vDWlB-lcWyU2zOkIWjAvuAEhpZ9pheoYujsIyoJyZ6hNH28DZgoXI7y0eSufpVRkXSQ8CVDzjIeqs7REwrBhILIkmQPrfE8jHf_HPUEcK7EmC5C8RLT8AYg_Neq-c12xYA96AFQxDRuShlwSn41uYUMmDzR19puujJ6lX-KWdiiMG4ch4Hx9PSfT7jNwEDWIIiKMskCGzBaHMyP7mVRWlnAfZQF_Ly0iqYJ7LKqjVlpkBAgbduCNj6qBjlzfiGcAgBqMOu9LSxUWxdYfWzEDszwAq4xEj9Q_qjkzyoh2SYd0Ok8IUwgPL7CxUCyqiFlUTB0MIlfGuIaRp5hQ8qBxFo4ZszLTZV8BG_PiLVQwMYcSF7CDQIDIPKgjA9GVemWbSRhjE3cKOD-2mGUDiaNORm0cJzpr4oyus4muU8CGaS27CL883l5WNwv44CFTHxa9PT2pvHK05yuVBxfBhnpllHABfyphOBo6la1NGoCzRl5JKDsPV9mVt5iloXHXkX8agyC6I8taRQs88PgmdAMvghgXuahhucQzjSQlxrhieI52CGIycwwbMoCQYRG7pVtgSAEDK1jskJc" group-title="SETANTA",Setanta Sports 1
-http://stream.shbro.org/stream/5DAA46FD1012/v1a1monom3u8_d1ad.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2168.png" group-title="SETANTA",Setanta Sports 1 Georgia
-http://stream.shbro.org/stream/5DAA46FD1012/GE1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f86cdb9c51992578886cf054a44d2dd05b807ed0-12645552-images-thumbs&n=13" group-title="SETANTA",Setanta Sports 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/8676videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f86cdb9c51992578886cf054a44d2dd05b807ed0-12645552-images-thumbs&n=13" group-title="SETANTA",Setanta Sports 2
-http://stream.shbro.org/stream/5DAA46FD1012/v1a1monom3u8_2aed.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/mDh100316/fdbf92fdE0N_/K7YUGwDyFOIwknLyaBkm13gaJoGEdwIAcd9dbz27KEcNfRHnnsDO1klzg8Rxn4yi9FQVP8E0HujnP6iTPOMCL1rC0G9BF7GWIXcyclhJBwKsKzdEJDLTpFTqnQ8baOoVT0umkekCqdG91sYBYa5YI8WSg-6RgZm4pov_sIlAYU2qlKYpZlClo2QS8HPoaaQze-nUx4RxgiKm71oquCq5RE3YlyBrwFki_SfXkKCOjKInIUBogwHIWPXofwEIc7C-GHRHuzbSZaPlAZCw-DtGQOiYRXQk85Kydp4YSKhpaIcPytbgGeHJ4A0np9FRzk9gdTOxuLDRKPikiH0R2TJSXivGNwj048YABsFCUuhLxQG6yURURjIyMHZP2ss7CyiWTZjmI2vDWlB-lcWyU2zOkIWjAvuAEhpZ9pheoYujsIyoJyZ6hNH28DZgoXI7y0eSufpVRkXSQ8CVDzjIeqs7REwrBhILIkmQPrfE8jHf_HPUEcK7EmC5C8RLT8AYg_Neq-c12xYA96AFQxDRuShlwSn41uYUMmDzR19puujJ6lX-KWdiiMG4ch4Hx9PSfT7jNwEDWIIiKMskCGzBaHMyP7mVRWlnAfZQF_Ly0iqYJ7LKqjVlpkBAgbduCNj6qBjlzfiGcAgBqMOu9LSxUWxdYfWzEDszwAq4xEj9Q_qjkzyoh2SYd0Ok8IUwgPL7CxUCyqiFlUTB0MIlfGuIaRp5hQ8qBxFo4ZszLTZV8BG_PiLVQwMYcSF7CDQIDIPKgjA9GVemWbSRhjE3cKOD-2mGUDiaNORm0cJzpr4oyus4muU8CGaS27CL883l5WNwv44CFTHxa9PT2pvHK05yuVBxfBhnpllHABfyphOBo6la1NGoCzRl5JKDsPV9mVt5iloXHXkX8agyC6I8taRQs88PgmdAMvghgXuahhucQzjSQlxrhieI52CGIycwwbMoCQYRG7pVtgSAEDK1jskJc" group-title="SETANTA",Setanta Sports 2
-http://stream.shbro.org/stream/5DAA46FD1012/v1a1monom3u8_4bd4.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1305.png" group-title="SETANTA",Setanta Sports 2 HD Baltic
-http://stream.shbro.org/stream/5DAA46FD1012/ltickmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1897.png" group-title="SETANTA",Setanta Sports 2 Georgia
-http://stream.shbro.org/stream/5DAA46FD1012/GE2monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1374.png" group-title="SETANTA",Setanta Sports 3 Georgia
-http://stream.shbro.org/stream/5DAA46FD1012/3HDmonom3u8_3c81.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2504.png" group-title="SETANTA",Setanta Sports Moldova HD
-http://stream.shbro.org/stream/5DAA46FD1012/H264monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1414.png" group-title="SETANTA",Setanta Sports Україна HD
-http://stream.shbro.org/stream/5DAA46FD1012/aUAHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1802.png" group-title="SETANTA_ KZ",Setanta Sports + HD KZ
-http://stream.shbro.org/stream/5DAA46FD1012/usKZmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/566.png" group-title="SETANTA_ KZ",Setanta Sports 1 HD KZ
-http://stream.shbro.org/stream/5DAA46FD1012/ntaHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/565.png" group-title="SETANTA_ KZ",Setanta Sports 2 HD KZ
-http://stream.shbro.org/stream/5DAA46FD1012/ia2HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=84527907e0b2a9a7396aa90f4d6a438d02f4964e-5253166-images-thumbs&n=13" group-title="SETANTA_ UA",Setanta Sports + HD UA
-http://stream.shbro.org/stream/5DAA46FD1012/8329videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2447.png" group-title="Sky Sport",Sky Sport F1
-http://stream.shbro.org/stream/5DAA46FD1012/rtF1monom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2833.png" group-title="Sky Sport",Sky Sport Golf HD
-http://stream.shbro.org/stream/5DAA46FD1012/HDDEmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2555.png" group-title="Sky Sport",Sky Sport Premier League HD
-http://stream.shbro.org/stream/5DAA46FD1012/eaguemonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2446.png" group-title="Sky Sport",Sky Sport Tennis HD
-http://stream.shbro.org/stream/5DAA46FD1012/isHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2723.png" group-title="Sky Sport",Sky Sports 1 UHD
-http://stream.shbro.org/stream/5DAA46FD1012/1UHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2735.png" group-title="Sky Sport",Sky Sports 2 UHD
-http://stream.shbro.org/stream/5DAA46FD1012/2UHDmonom3u8_4e70.m3u8
-#EXTINF:-1 group-title="Sky Sport",Sky Sports Main Event UHD
-http://stream.shbro.org/stream/5DAA46FD1012/tUHDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2721.png" group-title="Sports_ Mix",CBS Sports Network HD
-http://stream.shbro.org/stream/5DAA46FD1012/rkHDmonom3u8_63db.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2180.png" group-title="Sports_ Mix",Fast Sports 1 AM
-http://stream.shbro.org/stream/5DAA46FD1012/DARMmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2303.png" group-title="Sports_ Mix",Fast Sports 2 AM
-http://stream.shbro.org/stream/5DAA46FD1012/DARMmonom3u8_f867.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2281.png" group-title="Sports_ Mix",Fast Sports AM
-http://stream.shbro.org/stream/5DAA46FD1012/rtHDmonom3u8_c9df.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/249.png" group-title="Sports_ Mix",M4 Sport HD Hungary
-http://stream.shbro.org/stream/5DAA46FD1012/HDHUmonom3u8.m3u8
-#EXTINF:-1 group-title="Sports_ Mix",NBC Sports Network HD
-http://stream.shbro.org/stream/5DAA46FD1012/rkHDmonom3u8_bbca.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2309.png" group-title="Sports_ Mix",TRT Sport HD
-http://stream.shbro.org/stream/5DAA46FD1012/ORTHDmonom3u8.m3u8
-#EXTINF:-1 group-title="Sports_ Mix",We Sport
-http://stream.shbro.org/stream/5DAA46FD1012/ORTTVmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2015.png" group-title="TR_ Tivibu Spor",Tivibu Spor 1 HD
-http://stream.shbro.org/stream/5DAA46FD1012/or1HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2626.png" group-title="TR_ Tivibu Spor",Tivibu Spor 2 HD
-http://stream.shbro.org/stream/5DAA46FD1012/or2HDmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1389.png" group-title="TV mix",DIGI 4K
-http://stream.shbro.org/stream/5DAA46FD1012/igi4Kmonom3u8.m3u8
-#EXTINF:-1 group-title="TV mix",Digi 24 HD
-http://stream.shbro.org/stream/5DAA46FD1012/GI24monom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6c5a6983529c3aae357d5c842ce609ec1e28819a-5491581-images-thumbs&n=13" group-title="TV mix",Silk Way
-http://stream.shbro.org/stream/5DAA46FD1012/AYSILKWAYm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=08aa6881734d1eddc837d179f2dcb8637396f2e6-6918470-images-thumbs&n=13" group-title="TV mix",Silk Way Cinema
-http://stream.shbro.org/stream/5DAA46FD1012/a1monotsm3u8_a103.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=08aa6881734d1eddc837d179f2dcb8637396f2e6-6918470-images-thumbs&n=13" group-title="TV mix",Silk Way Cinema
-http://stream.shbro.org/stream/5DAA46FD1012/nemaindexm3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/580.png" group-title="TV mix",TRT 4K
-http://stream.shbro.org/stream/5DAA46FD1012/4KTRmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=56b269e93bb91a70f68426b253cc45e452c21d6a-12945130-images-thumbs&n=13" group-title="TV mix",TRT ARABI
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7c81.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=362ce8b91448e79a823191cd6263daeba1d620e3-4949370-images-thumbs&n=13" group-title="TV mix",TRT AVAZ
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_bb93.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=91804257eb29b57ef1e999fb336cbec5c3230c40-4256965-images-thumbs&n=13" group-title="TV mix",TRT COCUK
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_fbfb.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0WV0rXP/TRT-ocuk-logo-2021-svg.png" group-title="TV mix",TRT COCUK ᵀᵛˢʰᵃᵐ
-http://stream.shbro.org/stream/5DAA46FD1012/trmasterm3u8.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/E4BH72L83/0733ecCT/-BHgO9aA9k8lH1lQcolfy_gHgVwH7aJqi4eQz6eh0PsfdHINOtGWBOtiA1iKAhNxTPYdHlp6W0dN4yffh490V10l1WrCROJO4Op9YcfJ3_uoJlSINvxnys5WNOpicPB-b_Ryfuk2xDPtxXAfGCDhgPnj-Gtea7-WuzXW_SCIVkZJo9DZ1xPHabffOEXgG24ouVYX3beMZYq-x_DIAuO1jMjD1b9qdabCjgawLMiR8BPqUjt6Td-MhLm2YmzSGsal6XGDarWTRyjWv_hHgclv-NkXpu4FXNSK7dWy6qEhBU-oAbUfm4V2Mz93UZ8IE_NwOIGqCf_9LraadYKv0EqFBylyUSpVkperNxwIhvB4LWtpFua-J25EGJ30U8kDstZO-1J1L9p0xmKsJPMvWQAjsVlCijkfHv71CoVDrvL6FvRa4hEJ54DWG3Zti1fgeS_JCCU1LlSc1-tul_H5McPWzAkTxO-oRVegn3TjrIlS4TJLA_sLr4zNREqkoqzSOwR0OZIDSsbDtVi1T1jn8Ctf62k0lS91b4XqbCVy-MARJE_oUeY-GkQ2s013UVzbEjFD2ZK5Sd6PbcUodGAfkwuEx3tS8Ar1EXZYp90LB-K5nzo7RvcOpo9l2Qwn8QtyA5eOKIGlDyj35AOPlgBfeTEz8grDOTqtTW-0iiQSf5ErVHY60uCqN6L0SPUOSPfyeZ3KmJY1nhfMZOtvZSOJY7GErcgQFg-4d0ZQrGUCHoshE3DKwVs4Xt_-d2qHck7yODXlesIDK4XS9nkUb5t0skkPiPsmJN9FDeWIDvUQ-zKy1Nz60PePu5YWARwVIX6KEEHRmvH6OAzuH_f6pQG8gLllFAlwMAil8Udb1Sx61bPofFtI5ySNRS5VOjy3QkqzoocPGgBHrei0NFFMR9PfOjCgYEuiKWn83M32OpaxrUAY1tU4giAaxNK1u7bP23XDSO46-yWFzgTsZ7q9dqHJMuGl4" group-title="TV mix",TRT DIYANET COCUK
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_014c.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d69178f142f6a61465c67723c5357bdf4741ce25-5309142-images-thumbs&n=13" group-title="TV mix",TRT EBA
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_2704.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=9e320ca6606c587a9272491398a35ce774ffc3c8-4827941-images-thumbs&n=13" group-title="TV mix",TRT HABER
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_a785.m3u8
-#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/E4BH72L83/0733ecCT/-BHgO9aA9k8lH1lQcolfy_gHgVwH7aJqi4eQz6K0YEu_tOINetGTQeui9kiqEibhWbMIDkrvG0INo7d69z9x8l11ta-iRFI-ULpdIefJ3_uoJlSINvxnys5WNOpicPB-b_Ryfuk2xDPtxXAfGCDhgPnj-Gtea7-WuzXW_SCIVkZJo9DZ1xPHabffOEXgG24ouVYX3beMZYq-x_DIAuO1jMjD1b9qdabCjgawLMiR8BPqUjt6Td-MhLm2YmzSGsal6XGDarWTRyjWv_hHgclv-NkXpu4FXNSK7dWy6qEhBU-oAbUfm4V2Mz93UZ8IE_NwOIGqCf_9LraadYKv0EqFBylyUSpVkperNxwIhvB4LWtpFua-J25EGJ30U8kDstZO-1J1L9p0xmKsJPMvWQAjsVlCijkfHv71CoVDrvL6FvRa4hEJ54DWG3Zti1fgeS_JCCU1LlSc1-tul_H5McPWzAkTxO-oRVegn3TjrIlS4TJLA_sLr4zNREqkoqzSOwR0OZIDSsbDtVi1T1jn8Ctf62k0lS91b4XqbCVy-MARJE_oUeY-GkQ2s013UVzbEjFD2ZK5Sd6PbcUodGAfkwuEx3tS8Ar1EXZYp90LB-K5nzo7RvcOpo9l2Qwn8QtyA5eOKIGlDyj35AOPlgBfeTEz8grDOTqtTW-0iiQSf5ErVHY60uCqN6L0SPUOSPfyeZ3KmJY1nhfMZOtvZSOJY7GErcgQFg-4d0ZQrGUCHoshE3DKwVs4Xt_-d2qHck7yODXlesIDK4XS9nkUb5t0skkPiPsmJN9FDeWIDvUQ-zKy1Nz60PePu5YWARwVIX6KEEHRmvH6OAzuH_f6pQG8gLllFAlwMAil8Udb1Sx61bPofFtI5ySNRS5VOjy3QkqzoocPGgBHrei0NFFMR9PfOjCgYEuiKWn83M32OpaxrUAY1tU4giAaxNK1u7bP23XDSO46-yWFzgTsZ7q9dqHJMuGl4" group-title="TV mix",TRT KURDI
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_3c5e.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=46290898d191fdc69ffe7af8f1f2f7be33b1df34-5256771-images-thumbs&n=13" group-title="TV mix",TRT TURK
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7874.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png" group-title="TV mix",TRT TURK ᵀᵛˢʰᵃᵐ
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7c31.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=03805f8d5a8d723cbf5816ed47dc20713f4bbb79-10767434-images-thumbs&n=13" group-title="TV mix",TRT WORLD
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7816.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_futbol_ru.png" group-title="TV mix",Футбол
-http://stream.shbro.org/stream/5DAA46FD1012/tballmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4d19a56bb67df7e10b0de1b6c22cf501dfb5a32a-16411099-images-thumbs&n=13" group-title="TV mix",Футбол
-http://stream.shbro.org/stream/5DAA46FD1012/ballvideom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=fff677e9e6ab885bab110e1ec55747cd2d406fd9-16463591-images-thumbs&n=13" group-title="TV mix",Футбол
-http://stream.shbro.org/stream/5DAA46FD1012/8147videom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1586.png" group-title="UK_ Sky",Sky Sport F1 UHD UK
-http://stream.shbro.org/stream/5DAA46FD1012/HDUKmonom3u8_f4fe.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2835.png" group-title="UK_ Sky",Sky Sports F1 HD UK
-http://stream.shbro.org/stream/5DAA46FD1012/HDUKmonom3u8.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2812.png" group-title="UK_ TNT Sport",TNT Sport 1 UK TEST
-http://stream.shbro.org/stream/5DAA46FD1012/port1monom3u8_eba5.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2813.png" group-title="UK_ TNT Sport",TNT Sport 2 UK TEST
-http://stream.shbro.org/stream/5DAA46FD1012/port2monom3u8_a376.m3u8
-#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2814.png" group-title="UK_ TNT Sport",TNT Sport 3 UK TEST
-http://stream.shbro.org/stream/5DAA46FD1012/port3monom3u8.m3u8
+#M3U_EXTRACT: 186.148.196.250
+#EXTINF:0 group-title="Mix_ Documentary",Animal Planet HD
+http://186.148.196.250:81/play/a04c/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Animal Planet
+http://186.148.196.250:81/play/a0el/index.m3u8
+#EXTINF:0 group-title="UK_ GENERAL",BBC News
+http://186.148.196.250:81/play/a0c7/index.m3u8
+#EXTINF:0 group-title="UK_ GENERAL",BBC News
+http://186.148.196.250:81/play/a0fu/index.m3u8
+#EXTINF:0 group-title="CANAL+ Sport",CANAL 13
+http://186.148.196.250:81/play/a0ng/index.m3u8
+#EXTINF:0 group-title="CANAL+ Sport",Canal N
+http://186.148.196.250:81/play/a0o6/index.m3u8
+#EXTINF:0 group-title="CANAL+ Sport",Canal TUVES
+http://186.148.196.250:81/play/a0om/index.m3u8
+#EXTINF:0 group-title="TV mix",Cinemax
+http://186.148.196.250:81/play/a0g9/index.m3u8
+#EXTINF:0 group-title="TV mix",CNN Espanol
+http://186.148.196.250:81/play/a0nb/index.m3u8
+#EXTINF:0 group-title="TV mix",CNN Espaol
+http://186.148.196.250:81/play/a099/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Channel HD
+http://186.148.196.250:81/play/a04d/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Channel
+http://186.148.196.250:81/play/a0lu/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids HD
+http://186.148.196.250:81/play/a0oc/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids
+http://186.148.196.250:81/play/a0lv/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids
+http://186.148.196.250:81/play/a0na/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Science
+http://186.148.196.250:81/play/a077/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Theater HD
+http://186.148.196.250:81/play/a0cm/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery Turbo
+http://186.148.196.250:81/play/a0en/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Discovery World HD
+http://186.148.196.250:81/play/a0il/index.m3u8
+#EXTINF:0 group-title="TV mix",Disney Channel
+http://186.148.196.250:81/play/a0od/index.m3u8
+#EXTINF:0 group-title="TV mix",Disney Jr
+http://186.148.196.250:81/play/a0nn/index.m3u8
+#EXTINF:0 group-title="TV mix",Disney Junior
+http://186.148.196.250:81/play/a075/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN HD
+http://186.148.196.250:81/play/a0cv/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 2 HD
+http://186.148.196.250:81/play/a0cr/index.m3u8
+#EXTINF:11 group-title="ESPN_ Autre",ESPN 2 HD
+http://186.148.196.250:81/play/a0id/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 2
+http://186.148.196.250:81/play/a0m9/index.m3u8
+#EXTINF:11 group-title="ESPN_ Autre",ESPN 2
+http://186.148.196.250:81/play/a0nq/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 3 HD
+http://186.148.196.250:81/play/a0in/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 4 HD
+http://186.148.196.250:81/play/a0io/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 5 HD
+http://186.148.196.250:81/play/a0fy/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 5
+http://186.148.196.250:81/play/a0g2/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 6 HD
+http://186.148.196.250:81/play/a0i7/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 7
+http://186.148.196.250:81/play/a0lw/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN 7HD
+http://186.148.196.250:81/play/a04i/index.m3u8
+#EXTINF:0 group-title="ESPN_ Autre",ESPN Premium
+http://186.148.196.250:81/play/a0ni/index.m3u8
+#EXTINF:0 group-title="TV mix",FX HD
+http://186.148.196.250:81/play/a09i/index.m3u8
+#EXTINF:0 group-title="TV mix",Golden HD
+http://186.148.196.250:81/play/a0m0/index.m3u8
+#EXTINF:0 group-title="TV mix",Golden
+http://186.148.196.250:81/play/a0me/index.m3u8
+#EXTINF:0 group-title="TV mix",Golden Edge
+http://186.148.196.250:81/play/a0md/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO HD
+http://186.148.196.250:81/play/a0ik/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO 2
+http://186.148.196.250:81/play/a0nj/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Family HD
+http://186.148.196.250:81/play/a0cy/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Family
+http://186.148.196.250:81/play/a0nm/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Mundi
+http://186.148.196.250:81/play/a0cc/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Plus
+http://186.148.196.250:81/play/a0mh/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Plus
+http://186.148.196.250:81/play/a0nk/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO POP HD
+http://186.148.196.250:81/play/a0cs/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Signature
+http://186.148.196.250:81/play/a0cb/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Xtreme HD
+http://186.148.196.250:81/play/a0cz/index.m3u8
+#EXTINF:0 group-title="TV mix",HBO Xtreme SD
+http://186.148.196.250:81/play/a0nl/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",History 2
+http://186.148.196.250:81/play/a0m1/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",History Channel HD
+http://186.148.196.250:81/play/a04e/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",History Channel
+http://186.148.196.250:81/play/a0lx/index.m3u8
+#EXTINF:0 group-title="Mix_ Documentary",Nat Geo HD
+http://186.148.196.250:81/play/a04f/index.m3u8
+#EXTINF:0 group-title="TV mix",Sony HD
+http://186.148.196.250:81/play/a04j/index.m3u8
+#EXTINF:0 group-title="Movies",Sony Movies
+http://186.148.196.250:81/play/a0oo/index.m3u8
+#EXTINF:0 group-title="TV mix",Studio Universal HD
+http://186.148.196.250:81/play/a0d5/index.m3u8
+#EXTINF:0 group-title="TV mix",Studio Universal SD
+http://186.148.196.250:81/play/a0hs/index.m3u8
+#EXTINF:0 group-title="TV mix",Studio Universal
+http://186.148.196.250:81/play/a0np/index.m3u8
+#EXTINF:0 group-title="TV mix",Telemundo
+http://186.148.196.250:81/play/a078/index.m3u8
+#EXTINF:0 group-title="UK_ TNT Sport",TNT SPORTS
+http://186.148.196.250:81/play/a0of/index.m3u8
+#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premium SD
+http://186.148.196.250:81/play/a0ck/index.m3u8
+#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premium
+http://186.148.196.250:81/play/a0nh/index.m3u8
+#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premiun HD
+http://186.148.196.250:81/play/a0cq/index.m3u8
