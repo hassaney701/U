@@ -1,38 +1,36 @@
 #EXTM3U
-#M3U_EXTRACT: me.mdmfista.com
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 1 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798772&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 2 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798773&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 3 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798788&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 4 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798789&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 5 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798790&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 6 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798791&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 7 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798792&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 8 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798793&extension=ts
-#EXTINF:-1 group-title="beIN Sport_ 4k",┃AR┃ BEIN SPORTS 9 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798794&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242241&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 3
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242240&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 4
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242239&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 5
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242238&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 8
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242235&extension=ts
-#EXTINF:-1 group-title="beIN Sports",┃AR┃ BEIN SPORTS 9
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242234&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 6
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242237&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 7
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242236&extension=ts
+#M3U_EXTRACT: 8b789a40.akadatel.com
+#EXTINF:-1 group-title="VIP",ViP Sport 1
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20099/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 2
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20103/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 3
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20104/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 4
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20105/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 5
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20106/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 6
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20107/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 7
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20108/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 8
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20109/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 9
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20110/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 10
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20100/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 11
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20101/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 12
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/20102/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 13
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31674/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 14
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31675/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 15
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31676/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 16
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31677/index.m3u8
+#EXTINF:-1 group-title="VIP",ViP Sport 17
+http://8b789a40.akadatel.com/iptv/LM3PN6CZBA9X3RYH9KL5BNNU/31678/index.m3u8
