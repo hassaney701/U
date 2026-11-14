@@ -1,0 +1,16 @@
+#EXTM3U
+#M3U_EXTRACT: 149.100.11.252
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="AR_ OSN MBC",MBC
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png" group-title="AR_ OSN MBC",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="AR_ OSN MBC",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-5-ae.png" group-title="AR_ OSN MBC",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-bollywood-ae.png" group-title="AR_ OSN MBC",MBC Bollywood
+http://149.100.11.252:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-drama-ae.png" group-title="AR_ OSN MBC",MBC Drama
+http://149.100.11.252:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-max-ae.png" group-title="AR_ OSN MBC",MBC Max
+http://149.100.11.252:8000/play/a02b/index.m3u8
