@@ -1,64 +1,18 @@
 #EXTM3U
-#M3U_EXTRACT: 88.212.15.47
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/1024/bbcearth.png" group-title="Mix_ Documentary",BBC Earth
-http://88.212.15.47/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/discoverycz.png" group-title="Mix_ Documentary",Discovery channel
-http://88.212.15.47/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/golfchannel.png" group-title="TV mix",Golf channel
-http://88.212.15.47/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/joj.png" group-title="JOJ Sport",JOJ
-http://88.212.15.47/live/test_joj_hd_high_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/961-joj-24-hd.png" group-title="JOJ Sport",JOJ 24
-http://88.212.15.47/live/test_joj_24_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/jojcinema.png" group-title="JOJ Sport",JOJ CINEMA
-http://88.212.15.47/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/1024/jojfamilyhd.png" group-title="JOJ Sport",JOJ Family
-http://88.212.15.47/live/test_joj_family_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/JOJ_krimi.png" group-title="JOJ Sport",JOJ KRIMI
-http://88.212.15.47/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/jojplus.png" group-title="JOJ Sport",JOJ PLUS
-http://88.212.15.47/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/817-joj-sport-hd.png" group-title="JOJ Sport",Joj šport
-http://88.212.15.47/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/jojsport2.png" group-title="JOJ Sport",Joj šport 2
-http://88.212.15.47/live/joj_sport_2_avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/jojsvet.png" group-title="JOJ Sport",JOJ SVET
-http://88.212.15.47/live/test_joj_svet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/nova.png" group-title="TV mix",NOVA
-http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="TV mix",NOVA ACTION
-http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="TV mix",NOVA CINEMA
-http://88.212.15.47/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="TV mix",NOVA FUN
-http://88.212.15.47/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="TV mix",NOVA LADY
-http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="RO_ Prima Sport",PRIMA
-http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="RO_ Prima Sport",PRIMA COOL
-http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="RO_ Prima Sport",PRIMA KRIMI
-http://88.212.15.47/live/test_prima_krimi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="RO_ Prima Sport",PRIMA LOVE
-http://88.212.15.47/live/test_prima_love_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="RO_ Prima Sport",PRIMA MAX
-http://88.212.15.47/live/prima_max_ts/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="RO_ Prima Sport",PRIMA SHOW
-http://88.212.15.47/live/prima_show_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="RO_ Prima Sport",PRIMA STAR
-http://88.212.15.47/live/prima_star_ts/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="RO_ Prima Sport",PRIMA ZOOM
-http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/1024/travelchannelhdcz.png" group-title="Mix_ Documentary",Travel channel
-http://88.212.15.47/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/travelxphd.png" group-title="Mix_ Documentary",TravelXP
-http://88.212.15.47/live/travel_xp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/viasatexplore.png" group-title="Mix_ Documentary",Viasat explore
-http://88.212.15.47/live/test_viasat_explore_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/viasathistory.png" group-title="Mix_ Documentary",Viasat history
-http://88.212.15.47/live/test_viasat_history_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/viasatnature.png" group-title="Mix_ Documentary",Viasat nature
-http://88.212.15.47/live/test_viasat_nature_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDZQKIBC/755-prima-plus-hd.png" group-title="RO_ Prima Sport",Prima SK
-http://88.212.15.47/live/test_prima_plus_25p/playlist.m3u8
+#M3U_EXTRACT: ugeen.live
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ROTANA سينماHD
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/106.ts
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Rotanaدراما
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/3215.ts
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY_SPORTS_1 ʰᵉᵛᶜ
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4040.ts
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh 1_4K
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4119.ts
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh 2_4K
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4120.ts
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",روتانا سينما-2
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/107.ts
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",روتانا كوميدي
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/3216.ts
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ستارزبلاي  سبورت2
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4041.ts
