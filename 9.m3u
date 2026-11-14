@@ -1,222 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DAZN LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="DAZN LALIGA",DAZN LALIGA HD
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/320781.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 1
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663334.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 2" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 2
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663335.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 3" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 3
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663336.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 4" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 4
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663337.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 5" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 5
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663338.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 6" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 6
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663339.ts
-#EXTINF:-1 tvg-name="UEFA EVENTO 7" tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="ES_ UEFA EVENTO",UEFA EVENTO 7
-http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/663340.ts
-#M3U_EXTRACT: gdq3yn6a.gts1fma.xyz
-#EXTINF:-1 tvg-name="(EN)2026 FIFA World Cup Opening Game Canada 2026" group-title="VOD FIFA WORLD CUP",(EN)2026 FIFA World Cup Opening Game Canada 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294691.mkv
-#EXTINF:-1 tvg-name="(EN)2026 FIFA World Cup Opening Game MexIco 2026" group-title="VOD FIFA WORLD CUP",(EN)2026 FIFA World Cup Opening Game MexIco 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294692.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ARGENTINA VS ALGERIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ARGENTINA VS ALGERIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294693.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ARGENTINA VS AUSTRIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ARGENTINA VS AUSTRIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294694.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 AUSTRALIA VS TURKEY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 AUSTRALIA VS TURKEY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294695.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 AUSTRIA VS JORDAN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 AUSTRIA VS JORDAN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294696.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 BELGIUM VS EGYPT 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 BELGIUM VS EGYPT 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294697.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 BELGIUM VS IRAN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 BELGIUM VS IRAN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294698.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 BOSNIA AND HERZEGOVINA VS QATAR 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 BOSNIA AND HERZEGOVINA VS QATAR 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294699.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 BRAZIL VS HAITI 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 BRAZIL VS HAITI 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294700.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 BRAZIL VS MOROCCO 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 BRAZIL VS MOROCCO 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294701.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 CANADA VS BOSNIA HERZEGOVINA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 CANADA VS BOSNIA HERZEGOVINA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294702.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 CANADA VS QATAR 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 CANADA VS QATAR 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294703.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 CURACAO VS IVORY COAST 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 CURACAO VS IVORY COAST 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294704.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 CZECH REPUBLIC VS MEXICO 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 CZECH REPUBLIC VS MEXICO 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294705.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 CZECH REPUBLIC VS SOUTH AFRICA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 CZECH REPUBLIC VS SOUTH AFRICA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294706.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ECUADOR VS CURACAO 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ECUADOR VS CURACAO 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294707.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ECUADOR VS GERMANY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ECUADOR VS GERMANY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294708.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ENGLAND VS CROATIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ENGLAND VS CROATIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294709.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 ENGLAND VS GHANA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 ENGLAND VS GHANA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294710.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 FRANCE VS IRAQ 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 FRANCE VS IRAQ 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294711.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 FRANCE VS SENEGAL 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 FRANCE VS SENEGAL 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294712.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 GERMANY VS CURACAO 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 GERMANY VS CURACAO 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294713.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 GERMANY VS IVORY COAST 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 GERMANY VS IVORY COAST 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294714.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 GHANA VS PANAMA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 GHANA VS PANAMA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294715.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 IRAN VS NEW ZEALAND 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 IRAN VS NEW ZEALAND 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294716.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 IRAQ VS NORWAY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 IRAQ VS NORWAY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294717.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 IVORY COAST VS ECUADOR 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 IVORY COAST VS ECUADOR 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294718.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 JORDAN VS ALGERIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 JORDAN VS ALGERIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294719.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 MEXICO VS SOUTH AFRICA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 MEXICO VS SOUTH AFRICA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294720.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 MEXICO VS SOUTH KOREA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 MEXICO VS SOUTH KOREA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294721.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 MOROCCO VS HAITI 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 MOROCCO VS HAITI 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294722.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 NETHERLANDS VS JAPAN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 NETHERLANDS VS JAPAN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294723.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 NETHERLANDS VS SWEDEN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 NETHERLANDS VS SWEDEN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294724.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 NEW ZEALAND VS EGYPT 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 NEW ZEALAND VS EGYPT 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294725.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 NORWAY VS SENEGAL 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 NORWAY VS SENEGAL 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294726.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 PANAMA VS CROATIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 PANAMA VS CROATIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294727.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 PORTUGAL VS CONGO DR 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 PORTUGAL VS CONGO DR 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294728.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 PORTUGAL VS UZBEKISTAN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 PORTUGAL VS UZBEKISTAN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294729.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 QATAR VS SWITZERLAND 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 QATAR VS SWITZERLAND 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294730.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SAUDI ARABIA VS URUGUAY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SAUDI ARABIA VS URUGUAY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294731.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SCOTLAND VS BRAZIL 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SCOTLAND VS BRAZIL 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294732.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SCOTLAND VS HAÎTI 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SCOTLAND VS HAÎTI 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294733.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SCOTLAND VS MOROCCO. 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SCOTLAND VS MOROCCO. 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294734.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SOUTH AFRICA VS SOUTH KOREA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SOUTH AFRICA VS SOUTH KOREA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294735.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SOUTH KOREA VS THE CZECH REPUBLIC 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SOUTH KOREA VS THE CZECH REPUBLIC 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294736.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SPAIN VS CAPE VERDE 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SPAIN VS CAPE VERDE 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294737.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SPAIN VS SAUDI ARABIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SPAIN VS SAUDI ARABIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294738.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SWEDEN VS TUNISIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SWEDEN VS TUNISIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294739.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SWITZERLAND VS BOSNIA AND HERZEGOVINA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SWITZERLAND VS BOSNIA AND HERZEGOVINA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294740.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 SWITZERLAND VS CANADA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 SWITZERLAND VS CANADA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294741.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 TUNISIA VS JAPAN 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 TUNISIA VS JAPAN 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294742.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 TURKEY VS PARAGUAY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 TURKEY VS PARAGUAY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294743.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 UNITED STATES VS AUSTRALIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 UNITED STATES VS AUSTRALIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294744.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 URUGUAY VS CAPE VERDE 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 URUGUAY VS CAPE VERDE 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294745.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 USA VS PARAGUAY 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 USA VS PARAGUAY 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294746.mkv
-#EXTINF:-1 tvg-name="(EN)FIFA WORLD CUP 2026 UZBEKISTAN VS COLOMBIA 2026" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",(EN)FIFA WORLD CUP 2026 UZBEKISTAN VS COLOMBIA 2026
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294747.mkv
-#EXTINF:-1 tvg-name="FIFA26 033 GERMANY VS IVORY COAST 20260620 205500 20260620 230000" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 033 GERMANY VS IVORY COAST 20260620 205500 20260620 230000
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294748.ts
-#EXTINF:-1 tvg-name="FIFA26 034 ECUADOR VS CURA AO 20260621 005500 20260621 030000" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 034 ECUADOR VS CURA AO 20260621 005500 20260621 030000
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294749.ts
-#EXTINF:-1 tvg-name="FIFA26 035 NETHERLANDS VS SWEDEN 20260620 175500 20260620 200000" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 035 NETHERLANDS VS SWEDEN 20260620 175500 20260620 200000
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294750.ts
-#EXTINF:-1 tvg-name="FIFA26 61 I SENEGAL VS IRAQ 202606262050 202606262330" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 61 I SENEGAL VS IRAQ 202606262050 202606262330
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294751.ts
-#EXTINF:-1 tvg-name="FIFA26 63 G EGYPT VS IRAN 202606270450 202606270730" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 63 G EGYPT VS IRAN 202606270450 202606270730
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294869.ts
-#EXTINF:-1 tvg-name="FIFA26 64 G NEW ZEALAND VS BELGIUM 202606270450 202606270730" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 64 G NEW ZEALAND VS BELGIUM 202606270450 202606270730
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294870.ts
-#EXTINF:-1 tvg-name="FIFA26 65 H CAPE VERDE VS SAUDI ARABIA 202606270150 202606270430" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 65 H CAPE VERDE VS SAUDI ARABIA 202606270150 202606270430
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294752.ts
-#EXTINF:-1 tvg-name="FIFA26 66 H URUGUAY VS SPAIN 202606270150 202606270430" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 66 H URUGUAY VS SPAIN 202606270150 202606270430
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1294753.ts
-#EXTINF:-1 tvg-name="FIFA26 67 L PANAMA VS ENGLAND 202606272250 202606280130" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 67 L PANAMA VS ENGLAND 202606272250 202606280130
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295267.ts
-#EXTINF:-1 tvg-name="FIFA26 68 L CROATIA VS GHANA 202606272250 202606280130" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 68 L CROATIA VS GHANA 202606272250 202606280130
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295268.ts
-#EXTINF:-1 tvg-name="FIFA26 69 J ALGERIA VS AUSTRIA 202606280350 202606280630" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 69 J ALGERIA VS AUSTRIA 202606280350 202606280630
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295567.ts
-#EXTINF:-1 tvg-name="FIFA26 70 J JORDAN VS ARGENTINA 202606280350 202606280630" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 70 J JORDAN VS ARGENTINA 202606280350 202606280630
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295568.ts
-#EXTINF:-1 tvg-name="FIFA26 71 K COLOMBIA VS PORTUGAL 202606280120 202606280400" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 71 K COLOMBIA VS PORTUGAL 202606280120 202606280400
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295398.ts
-#EXTINF:-1 tvg-name="FIFA26 72 K DEMOCRATIC REPUBLIC OF THE CONGO VS UZBEKISTAN 202606280120 202606280400" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 72 K DEMOCRATIC REPUBLIC OF THE CONGO VS UZBEKISTAN 202606280120 202606280400
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1295399.ts
-#EXTINF:-1 tvg-name="FIFA26 73 R32 SOUTH AFRICA VS CANADA 202606282050 202606282330" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 73 R32 SOUTH AFRICA VS CANADA 202606282050 202606282330
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1296252.ts
-#EXTINF:-1 tvg-name="FIFA26 74 R32 GERMANY VS PARAGUAY 202606300420 202606300700" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 74 R32 GERMANY VS PARAGUAY 202606300420 202606300700
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1296893.ts
-#EXTINF:-1 tvg-name="FIFA26 75 R32 NETHERLANDS VS MOROCCO 202606300850 202606301130" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 75 R32 NETHERLANDS VS MOROCCO 202606300850 202606301130
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1296987.ts
-#EXTINF:-1 tvg-name="FIFA26 76 R32 BRAZIL VS JAPAN 202606300050 202606300330" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 76 R32 BRAZIL VS JAPAN 202606300050 202606300330
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1296818.ts
-#EXTINF:-1 tvg-name="FIFA26 77 R32 FRANCE VS SWEDEN 202607010455 202607010800" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 77 R32 FRANCE VS SWEDEN 202607010455 202607010800
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1297421.ts
-#EXTINF:-1 tvg-name="FIFA26 78 R32 IVORY COAST VS NORWAY 202607010055 202607010400" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 78 R32 IVORY COAST VS NORWAY 202607010055 202607010400
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1297386.ts
-#EXTINF:-1 tvg-name="FIFA26 79 R32 MEXICO VS ECUADOR 202607010855 202607011200" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 79 R32 MEXICO VS ECUADOR 202607010855 202607011200
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1297447.ts
-#EXTINF:-1 tvg-name="FIFA26 80 R32 ENGLAND VS DEMOCRATIC REPUBLIC OF THE CONGO 202607012355 202607020300" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 80 R32 ENGLAND VS DEMOCRATIC REPUBLIC OF THE CONGO 202607012355 202607020300
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1298445.ts
-#EXTINF:-1 tvg-name="FIFA26 81 R32 UNITED STATES VS BOSNIA AND HERZEGOVINA 202607020755 202607021100" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 81 R32 UNITED STATES VS BOSNIA AND HERZEGOVINA 202607020755 202607021100
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1298690.ts
-#EXTINF:-1 tvg-name="FIFA26 82 R32 BELGIUM VS SENEGAL 202607020355 202607020700" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 82 R32 BELGIUM VS SENEGAL 202607020355 202607020700
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1298579.ts
-#EXTINF:-1 tvg-name="FIFA26 83 R32 PORTUGAL VS CROATIA 202607030655 202607031000" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 83 R32 PORTUGAL VS CROATIA 202607030655 202607031000
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299178.ts
-#EXTINF:-1 tvg-name="FIFA26 84 R32 SPAIN VS AUSTRIA 202607030255 202607030600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 84 R32 SPAIN VS AUSTRIA 202607030255 202607030600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299149.ts
-#EXTINF:-1 tvg-name="FIFA26 85 R32 SWITZERLAND VS ALGERIA 202607031055 202607031400" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 85 R32 SWITZERLAND VS ALGERIA 202607031055 202607031400
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299235.ts
-#EXTINF:-1 tvg-name="FIFA26 86 R32 ARGENTINA VS CAPE VERDE 202607040555 202607040900" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 86 R32 ARGENTINA VS CAPE VERDE 202607040555 202607040900
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299747.ts
-#EXTINF:-1 tvg-name="FIFA26 87 R32 COLOMBIA VS GHANA 202607040925 202607041230" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 87 R32 COLOMBIA VS GHANA 202607040925 202607041230
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299801.ts
-#EXTINF:-1 tvg-name="FIFA26 88 R32 AUSTRALIA VS EGYPT 202607040155 202607040500" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 88 R32 AUSTRALIA VS EGYPT 202607040155 202607040500
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1299605.ts
-#EXTINF:-1 tvg-name="FIFA26 89 R16 PARAGUAY VS FRANCE 202607050455 202607050800" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 89 R16 PARAGUAY VS FRANCE 202607050455 202607050800
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1300094.ts
-#EXTINF:-1 tvg-name="FIFA26 90 R16 CANADA VS MOROCCO 202607050055 202607050400" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 90 R16 CANADA VS MOROCCO 202607050055 202607050400
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1300058.ts
-#EXTINF:-1 tvg-name="FIFA26 91 R16 BRAZIL VS NORWAY 202607060355 202607060700" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 91 R16 BRAZIL VS NORWAY 202607060355 202607060700
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1300484.ts
-#EXTINF:-1 tvg-name="FIFA26 92 R16 MEXICO VS ENGLAND 202607060755 202607061100" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 92 R16 MEXICO VS ENGLAND 202607060755 202607061100
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1300698.ts
-#EXTINF:-1 tvg-name="FIFA26 93 R16 PORTUGAL VS SPAIN 202607070255 202607070600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 93 R16 PORTUGAL VS SPAIN 202607070255 202607070600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1301231.ts
-#EXTINF:-1 tvg-name="FIFA26 94 R16 UNITED STATES VS BELGIUM 202607070755 202607071100" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 94 R16 UNITED STATES VS BELGIUM 202607070755 202607071100
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1301378.ts
-#EXTINF:-1 tvg-name="FIFA26 95 R16 ARGENTINA VS EGYPT 202607072355 202607080300" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 95 R16 ARGENTINA VS EGYPT 202607072355 202607080300
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1302013.ts
-#EXTINF:-1 tvg-name="FIFA26 96 R16 SWITZERLAND VS COLOMBIA 202607080355 202607080700" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 96 R16 SWITZERLAND VS COLOMBIA 202607080355 202607080700
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1302086.ts
-#EXTINF:-1 tvg-name="FIFA26 97 QF FRANCE VS MOROCCO 202607100355 202607100700" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 97 QF FRANCE VS MOROCCO 202607100355 202607100700
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1302596.ts
-#EXTINF:-1 tvg-name="FIFA26 98 QF SPAIN VS BELGIUM 202607110255 202607110600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 98 QF SPAIN VS BELGIUM 202607110255 202607110600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303738.ts
-#EXTINF:-1 tvg-name="FIFA26 99 QF NORWAY VS ENGLAND 202607120455 202607120800" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 99 QF NORWAY VS ENGLAND 202607120455 202607120800
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303739.ts
-#EXTINF:-1 tvg-name="FIFA26 101 SF FRANCE VS SPAIN 202607150255 202607150600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 101 SF FRANCE VS SPAIN 202607150255 202607150600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303827.ts
-#EXTINF:-1 tvg-name="FIFA26 102 SF ENGLAND VS ARGENTINA 202607160255 202607160600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 102 SF ENGLAND VS ARGENTINA 202607160255 202607160600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303828.ts
-#EXTINF:-1 tvg-name="FIFA26 103 3RD FRANCE VS ENGLAND 202607190455 202607190800" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 103 3RD FRANCE VS ENGLAND 202607190455 202607190800
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303829.ts
-#EXTINF:-1 tvg-name="FIFA26 104 FINAL SPAIN VS ARGENTINA 202607200255 202607200600" tvg-logo="https://www.designifier.com/wp-content/uploads/2024/09/World-Cup-2026-DXF-EV0003-image.jpg" group-title="VOD FIFA WORLD CUP",FIFA26 104 FINAL SPAIN VS ARGENTINA 202607200255 202607200600
-http://gdq3yn6a.gts1fma.xyz:80/movie/tf1207144/hWsRP5yqSATv/1303830.ts
+#M3U_EXTRACT: diasporaprimetv.ottct.pro
+#EXTINF:-1 tvg-name="ALWAN SPORT 4 HD" group-title="AR_ Sports",ALWAN SPORT 4 HD
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1742790
+#EXTINF:-1 tvg-name="ALWAN SPORT 5 HD" group-title="AR_ Sports",ALWAN SPORT 5 HD
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1742787
+#EXTINF:-1 tvg-name="BEIN NAT GEO WILD" tvg-logo="http://logo.ottcst.info/BEINNATGEOWILD.png" group-title="beIN Entertainment",BEIN NAT GEO WILD
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/11432
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="http://logo.ottcst.info/BEINSPORTS8.png" group-title="beIN Sports",BEIN SPORTS 8 HEVC
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/618286
+#EXTINF:-1 tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="beIN Sports",BEIN SPORTS NEWS 4K
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/574468
+#EXTINF:-1 tvg-name="NICKELODEON 4 TEEN 4K" tvg-logo="http://logo.ottcst.info/NICKELODEON4TEENHD.png" group-title="Kids",NICKELODEON 4 TEEN 4K
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/12945
+#EXTINF:-1 tvg-name="TELETOON+ HD" tvg-logo="http://logo.ottcst.info/TELETOONHD.png" group-title="Kids",TELETOON+ HD
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/12975
+#EXTINF:-1 tvg-name="TELETOON SD" tvg-logo="http://logo.ottcst.info/TELETOONHD.png" group-title="Kids",TELETOON SD
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/12938
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 4K SS" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS2.png" group-title="beIN Sport_ SS",BEIN SPORTS 2 4K SS
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1128904
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 4K SS" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS3.png" group-title="beIN Sport_ SS",BEIN SPORTS 3 4K SS
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1128905
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 4K SS" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS4.png" group-title="beIN Sport_ SS",BEIN SPORTS 4 4K SS
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1128906
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD SS" tvg-logo="http://logo.ottcst.info/BEINSPORTS6.png" group-title="beIN Sport_ SS",BEIN SPORTS 6 HD SS
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/512977
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD SS" tvg-logo="http://logo.ottcst.info/BEINSPORTS7.png" group-title="beIN Sport_ SS",BEIN SPORTS 7 HD SS
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/512976
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 FHD LIVE" tvg-logo="http://logo.ottcst.info/BEINSPORTS3.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 3 FHD LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1672825
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 4K LIVE" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS4.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 4 4K LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1127770
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 FHD LIVE" tvg-logo="http://logo.ottcst.info/BEINSPORTS5.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 5 FHD LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1672823
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD LIVE" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS6.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 6 HD LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1127789
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD LIVE" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS9.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 9 HD LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1127795
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 SD LIVE" tvg-logo="http://logo.ottcst.info:8080/BEINSPORTS9.png" group-title="beIN Sport_ LIVE",BEIN SPORTS 9 SD LIVE
+http://diasporaprimetv.ottct.pro:80/KMKZEAUMQC/XXMILRQEMS/1127796
