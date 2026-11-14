@@ -1,290 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tring Sport 1 HD AL" group-title="AL_ Tring Sport",Tring Sport 1 HD AL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31563/index.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 2 HD AL" group-title="AL_ Tring Sport",Tring Sport 2 HD AL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31564/index.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 3 HD AL" group-title="AL_ Tring Sport",Tring Sport 3 HD AL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31565/index.m3u8
-#M3U_EXTRACT: aebd0e3f.akadatel.com
-#EXTINF:-1 tvg-name="Arena Premium 1 HD RS" group-title="ARENA Premium",Arena Premium 1 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31599/index.m3u8
-#EXTINF:-1 tvg-name="Arena Premium 2 HD RS" group-title="ARENA Premium",Arena Premium 2 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31600/index.m3u8
-#EXTINF:-1 tvg-name="Arena Premium 3 HD RS" group-title="ARENA Premium",Arena Premium 3 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31601/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 HD RS" group-title="ARENA Sport SR",Arena Sport 1 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31602/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1x2 HD RS" group-title="ARENA Sport SR",Arena Sport 1x2 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31611/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 HD RS" group-title="ARENA Sport SR",Arena Sport 3 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31603/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 HD RS" group-title="ARENA Sport SR",Arena Sport 4 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31605/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 HD RS" group-title="ARENA Sport SR",Arena Sport 5 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31606/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 6 HD RS" group-title="ARENA Sport SR",Arena Sport 6 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31607/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 7 HD RS" group-title="ARENA Sport SR",Arena Sport 7 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31608/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 8 HD RS" group-title="ARENA Sport SR",Arena Sport 8 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31609/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31610/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Haber HD TR" group-title="beIN Sport_ TR",beIN Sports Haber HD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19064/index.m3u8
-#EXTINF:-1 tvg-name="Diema Sport 3 HD BG" group-title="BG_ Sport",Diema Sport 3 HD BG
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31917/index.m3u8
-#EXTINF:-1 tvg-name="BOX SR Sport 4K HDR" group-title="BOX",BOX SR Sport 4K HDR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31455/index.m3u8
-#EXTINF:-1 tvg-name="BOX SR Sport 1 Live 4K HDR" group-title="BOX",BOX SR Sport 1 Live 4K HDR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31550/index.m3u8
-#EXTINF:-1 tvg-name="BOX SR Sport 2 Live 4K HDR" group-title="BOX",BOX SR Sport 2 Live 4K HDR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31551/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 FHD PT" group-title="DAZN PT",DAZN 1 FHD PT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19158/index.m3u8
-#EXTINF:-1 tvg-name="MS Sport HD DE" group-title="DE_ MS Sport",MS Sport HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31343/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 FHD DE" group-title="DE_ Sky Sport",Sky Sport 1 FHD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2478/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE_ Sky Sport",Sky Sport 1 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19028/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE_ Sky Sport",Sky Sport 2 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2479/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 3 HD DE" group-title="DE_ Sky Sport",Sky Sport 3 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19030/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 4 HD DE" group-title="DE_ Sky Sport",Sky Sport 4 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19031/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE_ Sky Sport",Sky Sport 5 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19032/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 6 HD DE" group-title="DE_ Sky Sport",Sky Sport 6 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19033/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 7 HD DE" group-title="DE_ Sky Sport",Sky Sport 7 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19034/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 9 HD DE" group-title="DE_ Sky Sport",Sky Sport 9 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19036/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD DE" group-title="DE_ Sky Sport",Sky Sport Austria 1 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2492/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Austria 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Austria 2 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6113/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 1 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2480/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 2 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7234/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 3 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7235/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 5 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7237/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 6 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7238/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 7 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7239/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 8 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7240/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 9 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/7241/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport F1 FHD DE" group-title="DE_ Sky Sport",Sky Sport F1 FHD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10079/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport F1 HD DE" group-title="DE_ Sky Sport",Sky Sport F1 HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19022/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport F1 DE" group-title="DE_ Sky Sport",Sky Sport F1 DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19027/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE_ Sky Sport",Sky Sport Golf HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5043/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Mix HD DE" group-title="DE_ Sky Sport",Sky Sport Mix HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5039/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Premier League HD DE" group-title="DE_ Sky Sport",Sky Sport Premier League HD DE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5042/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 1 HD NL" group-title="ESPN_ NL",ESPN 1 HD NL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19201/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD NL" group-title="ESPN_ NL",ESPN 2 HD NL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19202/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD NL" group-title="ESPN_ NL",ESPN 3 HD NL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19203/index.m3u8
-#EXTINF:-1 tvg-name="ESPN HD US" group-title="ESPN_ US",ESPN HD US
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19156/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD US" group-title="ESPN_ US",ESPN 2 HD US
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19155/index.m3u8
-#EXTINF:-1 tvg-name="Cytavision Sports 1 GR" group-title="GR_ Cytavision",Cytavision Sports 1 GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31572/index.m3u8
-#EXTINF:-1 tvg-name="Cytavision Sports 2 GR" group-title="GR_ Cytavision",Cytavision Sports 2 GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31573/index.m3u8
-#EXTINF:-1 tvg-name="Cytavision Sports 7 GR" group-title="GR_ Cytavision",Cytavision Sports 7 GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31577/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19127/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Arena HD IT" group-title="IT_ Sky Sport",Sky Sport Arena HD IT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19128/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Golf HD IT" group-title="IT_ Sky Sport",Sky Sport Golf HD IT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19132/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport MotoGP HD IT" group-title="IT_ Sky Sport",Sky Sport MotoGP HD IT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19133/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 1 HD GR" group-title="Magenta Sport",Magenta Sport 1 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31578/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 2 HD GR" group-title="Magenta Sport",Magenta Sport 2 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31579/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 3 HD GR" group-title="Magenta Sport",Magenta Sport 3 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31581/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 4 HD GR" group-title="Magenta Sport",Magenta Sport 4 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31582/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 5 HD GR" group-title="Magenta Sport",Magenta Sport 5 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31583/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 6 HD GR" group-title="Magenta Sport",Magenta Sport 6 HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31584/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport Highlights HD GR" group-title="Magenta Sport",Magenta Sport Highlights HD GR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31588/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL" group-title="PL_ Eleven Sport",Eleven Sports 1 4K PL
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20068/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV+ HD PT" group-title="PT_ SportTV",Sport TV+ HD PT
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31590/index.m3u8
-#EXTINF:-1 tvg-name="Sport Extra HD RO" group-title="RO_ Sport EXTRA",Sport Extra HD RO
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31595/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast HD" group-title="RU_ SportCast",BOX SportCast HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31650/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 1 HD" group-title="RU_ SportCast",BOX SportCast Live 1 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20166/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 2 HD" group-title="RU_ SportCast",BOX SportCast Live 2 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20167/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 3 HD" group-title="RU_ SportCast",BOX SportCast Live 3 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20168/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 4 HD" group-title="RU_ SportCast",BOX SportCast Live 4 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20169/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 5 HD" group-title="RU_ SportCast",BOX SportCast Live 5 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20170/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 6 HD" group-title="RU_ SportCast",BOX SportCast Live 6 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31648/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 7 HD" group-title="RU_ SportCast",BOX SportCast Live 7 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31649/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" group-title="RU_ Матч",Матч! Футбол 1 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/222/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="RU_ Матч",Матч! Футбол 1
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/124/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50" group-title="RU_ Матч",Матч! Футбол 1 HD 50
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10015/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 1 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 1 HD 50 orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5072/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 FHD" group-title="RU_ Матч",Матч! Футбол 2 FHD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2420/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" group-title="RU_ Матч",Матч! Футбол 2 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/211/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="RU_ Матч",Матч! Футбол 2
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/530/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 HD 50" group-title="RU_ Матч",Матч! Футбол 2 HD 50
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10027/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 FHD" group-title="RU_ Матч",Матч! Футбол 3 FHD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2408/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" group-title="RU_ Матч",Матч! Футбол 3 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/206/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50" group-title="RU_ Матч",Матч! Футбол 3 HD 50
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/10016/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 HD 50 orig" group-title="RU_ Матч",Матч! Футбол 3 HD 50 orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5071/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 2 HD orig" group-title="RU_ Матч",Матч! Футбол 2 HD orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/290/index.m3u8
-#EXTINF:-1 tvg-name="Окко Спорт HD" group-title="RU_ Окко",Окко Спорт HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20138/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Спорт HD" group-title="RU_ Спорт",Megogo Спорт HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31612/index.m3u8
-#EXTINF:-1 tvg-name="Суспільне Спорт FHD UA" group-title="RU_ Спорт",Суспільне Спорт FHD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31751/index.m3u8
-#EXTINF:-1 tvg-name="Суспільне Спорт HD UA" group-title="RU_ Спорт",Суспільне Спорт HD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31750/index.m3u8
-#EXTINF:-1 tvg-name="V Sport Ultra HD SE" group-title="SE_ V Sport",V Sport Ultra HD SE
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19163/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="SETANTA",Setanta Sports 1 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/271/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="SETANTA",Setanta Sports 1
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6543/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2 HD" group-title="SETANTA",Setanta Sports 2 HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/270/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2" group-title="SETANTA",Setanta Sports 2
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6544/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 HD orig" group-title="SETANTA",Setanta Sports 1 HD orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6541/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2 HD orig" group-title="SETANTA",Setanta Sports 2 HD orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6542/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 FHD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 FHD KZ
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20065/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 1 HD KZ
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/16026/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2 HD KZ" group-title="SETANTA_ KZ",Setanta Sports 2 HD KZ
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/16025/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports UA" group-title="SETANTA_ UA",Setanta Sports UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31754/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ UA" group-title="SETANTA_ UA",Setanta Sports+ UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31756/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports FHD UA" group-title="SETANTA_ UA",Setanta Sports FHD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/272/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ FHD UA" group-title="SETANTA_ UA",Setanta Sports+ FHD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5068/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD UA" group-title="SETANTA_ UA",Setanta Sports HD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31755/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ HD UA" group-title="SETANTA_ UA",Setanta Sports+ HD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31757/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD UA orig" group-title="SETANTA_ UA",Setanta Sports HD UA orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/15183/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ HD UA orig" group-title="SETANTA_ UA",Setanta Sports+ HD UA orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/15184/index.m3u8
-#EXTINF:-1 tvg-name="Vital Sport Drive" group-title="Sports_ Mix",Vital Sport Drive
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20160/index.m3u8
-#EXTINF:-1 tvg-name="Divi Sport HD UA" group-title="Sports_ Mix",Divi Sport HD UA
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31800/index.m3u8
-#EXTINF:-1 tvg-name="M4 Sport HD HU" group-title="Sports_ Mix",M4 Sport HD HU
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31519/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV HD AZ" group-title="Sports_ Mix",Sport TV HD AZ
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31926/index.m3u8
-#EXTINF:-1 tvg-name="Spor Smart HD TR" group-title="TR_ Spor Smart",Spor Smart HD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20060/index.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2 HD TR" group-title="TR_ Spor Smart",Spor Smart 2 HD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19073/index.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3 HD TR" group-title="TR_ Tivibu Spor",Tivibu Spor 3 HD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19076/index.m3u8
-#EXTINF:-1 tvg-name="TRT Spor FHD TR" group-title="TR_ TRT Spor",TRT Spor FHD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19068/index.m3u8
-#EXTINF:-1 tvg-name="TRT Spor HD TR" group-title="TR_ TRT Spor",TRT Spor HD TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19072/index.m3u8
-#EXTINF:-1 tvg-name="TRT Spor TR" group-title="TR_ TRT Spor",TRT Spor TR
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19067/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4 HD UK" group-title="UK_ TNT Sport",TNT Sports 4 HD UK
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/19054/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport HD" group-title="Viju",Viju+ Sport HD
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2007/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport" group-title="Viju",Viju+ Sport
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/160/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport orig" group-title="Viju",Viju+ Sport orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/9249/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport HD orig" group-title="Viju",Viju+ Sport HD orig
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/5065/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20099/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20103/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20104/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20105/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20106/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 6" group-title="VIP",ViP Sport 6
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20107/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20108/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20109/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20110/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20100/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20101/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/20102/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31674/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31675/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31676/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31677/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/31678/index.m3u8
+#M3U_EXTRACT: shd-gcp-live.edgenextcdn.net
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BiG TIME+
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_34723g21f5.png" group-title="MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvFRSr2C/Mbc2.png" group-title="MBC",MBC 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472dnyni7.png" group-title="MBC",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNTdqHJT/MBC4.png" group-title="MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472g6nf91.jpg" group-title="MBC",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wwd0M16/Mbc-action.jpg" group-title="MBC",MBC ACTION
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb9xFG3/Mbc-Bollywood.jpg" group-title="MBC",MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC DRAMA FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC DRAMA MASR
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC DRAMA PLUS
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472jzadg3.jpg" group-title="MBC",MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC MASR 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3472rlmt67.png" group-title="MBC",MBC MAX
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC MOOD SH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
