@@ -1,72 +1,24 @@
 #EXTM3U
-#M3U_EXTRACT: cdntv.online
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1912.png" group-title="CineMan",Cineman
-http://cdntv.online/high/kf28bzwndi/1912.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1257.png" group-title="CineMan",CineMan Action
-http://cdntv.online/high/kf28bzwndi/1257.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1975.png" group-title="CineMan",CineMan KIDS 4K
-http://cdntv.online/high/kf28bzwndi/1975.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1426.png" group-title="CineMan",CineMan Premium
-http://cdntv.online/high/kf28bzwndi/1426.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1263.png" group-title="CineMan",CineMan VHS
-http://cdntv.online/high/kf28bzwndi/1263.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2214.png" group-title="CineMan",CineMan СССР
-http://cdntv.online/high/kf28bzwndi/2214.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1261.png" group-title="CineMan",CineMan Ужасы
-http://cdntv.online/high/kf28bzwndi/1261.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1588.png" group-title="CineMan",CineMan Фитнес
-http://cdntv.online/high/kf28bzwndi/1588.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2163.png" group-title="LV_ Go3 Sport",Go3 Sport 1 HD
-http://cdntv.online/high/kf28bzwndi/2163.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2166.png" group-title="LV_ Go3 Sport",Go3 Sport 4 HD
-http://cdntv.online/high/kf28bzwndi/2166.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2038.png" group-title="LIBERTY",LIBERTY AVTO GIR
-http://cdntv.online/high/kf28bzwndi/2038.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2036.png" group-title="LIBERTY",LIBERTY KINO ENG FHD
-http://cdntv.online/high/kf28bzwndi/2036.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2058.png" group-title="LIBERTY",LIBERTY Джаз
-http://cdntv.online/high/kf28bzwndi/2058.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2042.png" group-title="LIBERTY",LIBERTY Крош
-http://cdntv.online/high/kf28bzwndi/2042.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2022.png" group-title="LIBERTY",LIBERTY Легенда 4K
-http://cdntv.online/high/kf28bzwndi/2022.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2056.png" group-title="LIBERTY",LIBERTY Микс Музыка
-http://cdntv.online/high/kf28bzwndi/2056.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2062.png" group-title="LIBERTY",LIBERTY Поп Музыка
-http://cdntv.online/high/kf28bzwndi/2062.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2012.png" group-title="LIBERTY",LIBERTY Симпсоны
-http://cdntv.online/high/kf28bzwndi/2012.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",match new
-http://cdntv.online/low/9mlxywika2/48.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1825.png" group-title="SETANTA",Setanta Sports 3
-http://cdntv.online/high/kf28bzwndi/1825.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1541.png" group-title="Sky High",Sky High Archive FHD
-http://cdntv.online/high/kf28bzwndi/1541.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1537.png" group-title="Sky High",Sky High Civil S FHD
-http://cdntv.online/high/kf28bzwndi/1537.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1519.png" group-title="Sky High",Sky High Concert HD
-http://cdntv.online/high/kf28bzwndi/1519.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1521.png" group-title="Sky High",Sky High Firezone FHD
-http://cdntv.online/high/kf28bzwndi/1521.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1543.png" group-title="Sky High",Sky High LO FI HD
-http://cdntv.online/high/kf28bzwndi/1543.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1515.png" group-title="Sky High",Sky High RedRoom FHD
-http://cdntv.online/high/kf28bzwndi/1515.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1526.png" group-title="Sky High",Sky High Tanos S FHD
-http://cdntv.online/high/kf28bzwndi/1526.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SPORTS MATCH_3
-http://cdntv.online/low/9mlxywika2/57.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",sportsMATCH_1
-http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",sportsMATCH_2
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/50.png" group-title="RU_ Матч",Матч! Боец
-http://cdntv.online/high/kf28bzwndi/50.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1680.png" group-title="RU_ Матч",Матч! Планета
-http://cdntv.online/high/kf28bzwndi/1680.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/3.png" group-title="RU_ Матч",Матч! ТВ
-http://cdntv.online/high/kf28bzwndi/3.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1155.png" group-title="RU_ Матч",Матч! Футбол 2+
-http://cdntv.online/high/kf28bzwndi/1155.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/983.png" group-title="RU_ Матч",Матч! Футбол 3
-http://cdntv.online/high/kf28bzwndi/983.m3u8
+#M3U_EXTRACT: fonte.lista.luxe
+#EXTINF:-1 tvg-name="PT DAZN 1 FHD" group-title="DAZN PT",PT DAZN 1 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/7459
+#EXTINF:-1 tvg-name="PT DAZN 1 HD" group-title="DAZN PT",PT DAZN 1 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7458
+#EXTINF:-1 tvg-name="PT DAZN 2 FHD" group-title="DAZN PT",PT DAZN 2 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/7456
+#EXTINF:-1 tvg-name="PT DAZN 3 HD" group-title="DAZN PT",PT DAZN 3 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7452
+#EXTINF:-1 tvg-name="PT DAZN 4 HD" group-title="DAZN PT",PT DAZN 4 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7450
+#EXTINF:-1 tvg-name="SportTV 1 FHD" group-title="PT_ SportTV",SportTV 1 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/7439
+#EXTINF:-1 tvg-name="SportTV 2 HD" group-title="PT_ SportTV",SportTV 2 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7436
+#EXTINF:-1 tvg-name="SportTV 3 FHD" group-title="PT_ SportTV",SportTV 3 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/7433
+#EXTINF:-1 tvg-name="SportTV 3 HD" group-title="PT_ SportTV",SportTV 3 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7432
+#EXTINF:-1 tvg-name="SportTV 4 FHD" group-title="PT_ SportTV",SportTV 4 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/7430
+#EXTINF:-1 tvg-name="SportTV 5 HD" group-title="PT_ SportTV",SportTV 5 HD
+http://fonte.lista.luxe:80/iptvgood/101011/7426
