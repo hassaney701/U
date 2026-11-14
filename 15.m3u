@@ -1,40 +1,14 @@
 #EXTM3U
-#M3U_EXTRACT: cdnvid.dramalvr.com
-#EXTINF:-1 tvg-name="100" group-title="100",fonka
-https://cdnvid.dramalvr.com/hls/LfXo6q2hjs_6ad4d1c83c142/playlist_1080p.m3u8
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",my guard 6
-https://cdnvid.dramalvr.com/hls/HBwsWcuqNR_6af0b054336a9/playlist_1080p.m3u8
-#EXTINF:-1 tvg-name="smgitartplushls" group-title="doctorx4",smartplushls
-https://cdnvid.dramalvr.com/hls/d7CUVJfgmq_6ad395346a075/playlist_1080p.m3u8
-#EXTINF:-1 tvg-name="strem8k" group-title="dgidsuiteorx"
-https://cdnvid.dramalvr.com/hls/pjf4m2xy9x_6ad6247e6b52b/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676985" tvg-name=" dys " group-title="SPORT - رياضة",youm 7
-https://cdnvid.dramalvr.com/hls/5n0a5yFiLW_6af081166d0de/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676985" tvg-name="chzrge 7" group-title="SPORT - رياضة",youm 7
-https://cdnvid.dramalvr.com/hls/XEKvW5I8K7_6ac8febc18002/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676985" tvg-name="disgyse 5 1 (G) - HEVC" group-title="SPORT - رياضة",youm 7
-https://cdnvid.dramalvr.com/hls/5FYh5TTST0_6ae8957365063/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677003" tvg-name="beIN SPORm3u8 1 (F) - HEVC" group-title="SPORT - رياضة",youm 8 من خداع
-https://cdnvid.dramalvr.com/hls/voFKPto7fR_6ae77b990479c/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677003" tvg-name="charge 10  (F) - HEVC" group-title="SPORT - رياضة",youm 8 من خداع
-https://cdnvid.dramalvr.com/hls/Bu7K6RchzI_6ac8f206ba08c/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676986" tvg-name="chrg 6 - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (G) - HEVC
-https://cdnvid.dramalvr.com/hls/ithAMUsUrW_6ac8e3e7b5934/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676986" tvg-name="job 7 - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (G) - HEVC
-https://cdnvid.dramalvr.com/hls/cbSO6A9usY_6ae462d41f780/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676986" tvg-name="odyssey 6 - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (G) - HEVC
-https://cdnvid.dramalvr.com/hls/L0NXRSPFLg_6aeef03058917/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676994" tvg-name="chrg doctor95 de - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 1 (N) - HEVC
-https://cdnvid.dramalvr.com/hls/lYoaYEbltb_6aede88b6c50e/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676994" tvg-name="job 6 de - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 1 (N) - HEVC
-https://cdnvid.dramalvr.com/hls/MgJucAWkB2_6ae462e05b436/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="676994" tvg-name="reakwendnman" group-title="SPORT - رياضة",beIN SPORm3u8 1 (N) - HEVC
-https://cdnvid.dramalvr.com/hls/FGgdLJxlug_6aef8e1acc2ee/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677001" tvg-name="charge 9 " group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://cdnvid.dramalvr.com/hls/5ydQAf2p0Z_6ac8eb3e58f60/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677004" tvg-name="cdisguise8 - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://cdnvid.dramalvr.com/hls/n6LpUlC3O7_6af3464b7a2a6/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677004" tvg-name="charge 8F) - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://cdnvid.dramalvr.com/hls/rNP67yG9am_6ac8f7bb22eea/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="677004" tvg-name="job 8F) - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://cdnvid.dramalvr.com/hls/9QyPazjdwh_6ae45afea5106/playlist_1080p.m3u8
+#M3U_EXTRACT: match-stream.learnwithgedo.workers.dev
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_38843whca1.png" group-title="ALWAN SPORT",ALWAN 1 SD
+https://match-stream.learnwithgedo.workers.dev/dramacardinalv2.php?id=alwan1&.m3u8
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3884x9r0j2.png" group-title="ALWAN SPORT",ALWAN 2 SD
+https://match-stream.learnwithgedo.workers.dev/dramacardinalv2.php?id=alwan2&.m3u8
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3884qsnn42.png" group-title="ALWAN SPORT",ALWAN 3 SD
+https://match-stream.learnwithgedo.workers.dev/dramacardinalv2.php?id=alwan3&.m3u8
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_38845pti51.png" group-title="ALWAN SPORT",ALWAN 4 SD
+https://match-stream.learnwithgedo.workers.dev/dramacardinalv2.php?id=alwan4&.m3u8
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 SD2
+https://match-stream.learnwithgedo.workers.dev/?channel=bein1&.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 SD2
+https://match-stream.learnwithgedo.workers.dev/?channel=bein2&.m3u8
