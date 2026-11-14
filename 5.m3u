@@ -1,46 +1,20 @@
 #EXTM3U
-#M3U_EXTRACT: mag.tivi-one-iptv.net
-#EXTINF:-1 tvg-name="DAZN SERIE A 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 1
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025547&extension=ts&play_token=pfLVQ48ZzG
-#EXTINF:-1 tvg-name="DAZN SERIE A 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025546&extension=ts&play_token=qn9cJPcuui
-#EXTINF:-1 tvg-name="DAZN SERIE A 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 3
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025545&extension=ts&play_token=vw5HHjkLwG
-#EXTINF:-1 tvg-name="DAZN SERIE A 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 5
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025543&extension=ts&play_token=qgvDY8WM3c
-#EXTINF:-1 tvg-name="DAZN SERIE A 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 6
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025542&extension=ts&play_token=kuPuQGAcrl
-#EXTINF:-1 tvg-name="DAZN SERIE A 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 7
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025541&extension=ts&play_token=3j71fuJhld
-#EXTINF:-1 tvg-name="DAZN SERIE A 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 9
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025539&extension=ts&play_token=QADirKNj1t
-#EXTINF:-1 tvg-name="DAZN SERIE A 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="DAZN IT",DAZN SERIE A 10
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025538&extension=ts&play_token=8fMFsdOEpc
-#EXTINF:-1 tvg-name="TNT SPORTS 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 1 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311948&extension=ts&play_token=VxykeP0Dvs
-#EXTINF:-1 tvg-name="TNT SPORTS 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 2 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311950&extension=ts&play_token=V30fQ5LRzL
-#EXTINF:-1 tvg-name="TNT SPORTS 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 3 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311951&extension=ts&play_token=fjfbBtw8pU
-#EXTINF:-1 tvg-name="TNT SPORTS 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 4 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311952&extension=ts&play_token=lFPMGy1PPS
-#EXTINF:-1 tvg-name="TNT SPORTS 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 5 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311953&extension=ts&play_token=14qp8RZiU7
-#EXTINF:-1 tvg-name="TNT SPORTS 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 6 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311954&extension=ts&play_token=SIZSUlNIKx
-#EXTINF:-1 tvg-name="TNT SPORTS 8 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 8 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311956&extension=ts&play_token=ZAQ12Llma9
-#EXTINF:-1 tvg-name="TNT SPORTS 9 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="UK_ TNT Sport",TNT SPORTS 9 SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311957&extension=ts&play_token=Zexc7PXH9j
-#EXTINF:-1 tvg-name="UFC HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UK_ UFC",UFC HEVC FHD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312807&extension=ts&play_token=epnwEDmkBO
-#EXTINF:-1 tvg-name="UFC HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UK_ UFC",UFC HEVC FHD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312809&extension=ts&play_token=eajvtcpna0
-#EXTINF:-1 tvg-name="UFC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UK_ UFC",UFC FHD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312821&extension=ts&play_token=1hMIURmHrY
-#EXTINF:-1 tvg-name="UFC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UK_ UFC",UFC HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312832&extension=ts&play_token=LFhtbm9btX
-#EXTINF:-1 tvg-name="UFC SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UK_ UFC",UFC SD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312840&extension=ts&play_token=I0MBRizDZB
-#EXTINF:-1 tvg-name="UFC 24/7 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UK_ UFC",UFC 24/7 8K
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=828041&extension=ts&play_token=scm1rtD3xK
+#M3U_EXTRACT: d3k8wzt41aflvx.cloudfront.net
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Rai",Rai 1
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="Rai",Rai 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai Italia North Americas
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai Italia South Americas
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVWX6wwm/rainews.jpg" group-title="Rai",RAI NEWS
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai Storia
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Rai",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
