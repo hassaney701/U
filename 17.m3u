@@ -1,32 +1,16 @@
 #EXTM3U
-#M3U_EXTRACT: sansatplus.net
-#EXTINF:-1 tvg-name="ARENA SPORT 1 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="ARENA Sport HR",ARENA SPORT 1 HKURD (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79789
-#EXTINF:-1 tvg-name="ARENA SPORT 2 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="ARENA Sport HR",ARENA SPORT 2 HKURD (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79790
-#EXTINF:-1 tvg-name="ARENA SPORT 3 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="ARENA Sport HR",ARENA SPORT 3 HKURD (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79791
-#EXTINF:-1 tvg-name="ARENA SPORT 4 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_4_HD.png" group-title="ARENA Sport HR",ARENA SPORT 4 HKURD (HR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79792
-#EXTINF:-1 tvg-name="ARENA SPORT 1 HKURD (SR)" group-title="ARENA Premium",ARENA SPORT 1 HKURD (SR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79785
-#EXTINF:-1 tvg-name="ARENA SPORT 2 HKURD (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="ARENA Premium",ARENA SPORT 2 HKURD (SR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79786
-#EXTINF:-1 tvg-name="ARENA SPORT 3 HKURD (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="ARENA Premium",ARENA SPORT 3 HKURD (SR)
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79787
-#EXTINF:-1 tvg-name="ARENA SPORT 6 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_6_HD.png" group-title="ARENA Sport HR",ARENA SPORT 6 HD HR
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192161
-#EXTINF:-1 tvg-name="ARENA SPORT 7 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_7_HD..png" group-title="ARENA Sport HR",ARENA SPORT 7 HD HR
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192162
-#EXTINF:-1 tvg-name="ARENA SPORT 8 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_8_HD.png" group-title="ARENA Sport HR",ARENA SPORT 8 HD HR
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192163
-#EXTINF:-1 tvg-name="ARENA SPORT 9 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_9_HD..png" group-title="ARENA Sport HR",ARENA SPORT 9 HD HR
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192164
-#EXTINF:-1 tvg-name="ARENA SPORT 10 HD HR" group-title="ARENA Sport HR",ARENA SPORT 10 HD HR
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192165
-#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 1 FHD BACKUP" group-title="ARENA Premium",ARENA SPORT PREMIUM 1 FHD BACKUP
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678198
-#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 2 FHD BACKUP" group-title="ARENA Premium",ARENA SPORT PREMIUM 2 FHD BACKUP
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678199
-#EXTINF:-1 tvg-name="NOVA SPORT" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/NOVA_SPORT_HD.png" group-title="GR_ NOVA",NOVA SPORT
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192157
+#M3U_EXTRACT: wideiptv.top
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 SD3
+https://wideiptv.top/player/beINAR2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 SD3
+https://wideiptv.top/player/beINAR3
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 SD2
+https://wideiptv.top/player/beINAR4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 SD2
+https://wideiptv.top/player/beINAR5
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 SD2
+https://wideiptv.top/player/beINAR6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 SD
+https://wideiptv.top/player/beINAR7
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 SD
+https://wideiptv.top/player/beINAR8
