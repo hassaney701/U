@@ -1,38 +1,14 @@
 #EXTM3U
-#M3U_EXTRACT: 212.102.38.45
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/joj.png" group-title="JOJ Sport",JOJ
-http://212.102.38.45/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="JOJ Sport",JOJ Cinema
-http://212.102.38.45/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojkrimi.png" group-title="JOJ Sport",JOJ Krimi
-http://212.102.38.45/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojsport.png" group-title="JOJ Sport",JOJ Šport
-http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Mix_ Documentary",JOJ Svet
-http://212.102.38.45/live/test_joj_svet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/nova.png" group-title="TV mix",Nova
-http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="TV mix",Nova Action
-http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="TV mix",Nova Cinema
-http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="TV mix",Nova Fun
-http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-gold-2.png" group-title="TV mix",Nova Krimi
-http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/novalady.png" group-title="TV mix",Nova Lady
-http://212.102.38.45/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="RO_ Prima Sport",Prima KRIMI
-http://212.102.38.45/live/prima_krimi_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="RO_ Prima Sport",Prima Show
-http://212.102.38.45/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="RO_ Prima Sport",Prima Star
-http://212.102.38.45/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="RO_ Prima Sport",Prima ZOOM
-http://212.102.38.45/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="JOJ Sport",JOJ Family SK
-http://212.102.38.45/live/test_joj_family_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="RO_ Prima Sport",Prima COOL SK
-http://212.102.38.45/live/prima_cool_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="RO_ Prima Sport",Prima love SK
-http://212.102.38.45/live/prima_love_avc_25p/playlist.m3u8
+#M3U_EXTRACT: starhub.pro
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jLfKWrd/bein-movies-action-2-qa-png-(132-99).png" group-title="beIN Entertainment",BEIN MOVIES 2 ACTION
+http://starhub.pro/live/harsh2026mar/harshmar2026/274146.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWF5PL5t/bein-movies-drama-3-qa-png-(132-99).png" group-title="beIN Entertainment",BEIN MOVIES 3 DRAMA
+http://starhub.pro/live/harsh2026mar/harshmar2026/274147.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPdMRB3H/bein-movies-family-4-qa-png-(132-99).png" group-title="beIN Entertainment",BEIN MOVIES 4 FAMILY
+http://starhub.pro/live/harsh2026mar/harshmar2026/274148.ts
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ff/fox-sports-505-us-au.png" group-title="FOX Sport",FOX SPORTS 505
+http://starhub.pro/live/harsh2026mar/harshmar2026/4752.ts
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ff/fox-sports-507-us-au.png" group-title="FOX Sport",FOX SPORTS 507
+http://starhub.pro/live/harsh2026mar/harshmar2026/4754.ts
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png" group-title="TV mix",SONY BBC EARTH
+http://starhub.pro/live/harsh2026mar/harshmar2026/174.ts
