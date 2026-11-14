@@ -1,190 +1,44 @@
 #EXTM3U
-#M3U_EXTRACT: live.exhxx.com
-#EXTINF:-1 tvg-id="" tvg-name="Bein Bara3m" tvg-logo="http://194.163.160.164/BEIN/BEIN.BARAIM.HD.png" group-title="beIN Entertainment",Bein Bara3m
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/230.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Fatafeat HD " tvg-logo="http://194.163.160.164/BEIN/BEIN.FATAFEAT.HD.png" group-title="beIN Entertainment",BeIN Fatafeat HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/2606.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 2 Action HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.MOVIES2.ACTION.png" group-title="beIN Entertainment",BeIN Movies 2 Action HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1658.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies 3 Drama HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.MOVIES3.DRAMA.png" group-title="beIN Entertainment",BeIN Movies 3 Drama HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1659.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Movies Premiere 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.MOVIES.PREMIERE1.png" group-title="beIN Entertainment",BeIN Movies Premiere 1 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1657.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD1.png" group-title="beIN Entertainment",Bein Series 1
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/234.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" group-title="beIN Sports",beIN Sport EXTRA 1
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3138.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" group-title="beIN Sports",beIN Sport EXTRA 2
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3139.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" group-title="beIN Sports",beIN SPORTS 1 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/409.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports",beIN SPORTS 1 English FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/416.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 French FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH1.png" group-title="beIN Sports",beIN SPORTS 1 French FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/419.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS2.png" group-title="beIN Sports",beIN SPORTS 2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/410.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports",BeIN SPORTS 2 English FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/417.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 French FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH2.png" group-title="beIN Sports",beIN SPORTS 2 French FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/420.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" group-title="beIN Sports",beIN SPORTS 3 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/411.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 French FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH3.png" group-title="beIN Sports",beIN SPORTS 3 French FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/421.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" group-title="beIN Sports",beIN SPORTS 4 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/412.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" group-title="beIN Sports",beIN SPORTS 5 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/413.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" group-title="beIN Sports",beIN SPORTS 6 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/414.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" group-title="beIN Sports",beIN SPORTS 7 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/415.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" group-title="beIN Sports",beIN SPORTS 8 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/2132.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" group-title="beIN Sports",beIN SPORTS 9 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/407.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Global" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.GLOBAL.png" group-title="beIN Sports",beIN Sports Global
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/422.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" group-title="beIN Sports",beIN SPORTS NBA FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/418.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" group-title="beIN Sports",beIN Sports News
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/405.ts
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD1.png" group-title="beIN Sports",SERIE A 1 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/423.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="http://194.163.160.164/MBC/MBC1.HD.png" group-title="MBC",MBC 1 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1715.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="http://194.163.160.164/MBC/MBC2.HD.png" group-title="MBC",MBC 2 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1716.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3 4K" tvg-logo="http://194.163.160.164/MBC/MBC3.HD.png" group-title="MBC",MBC 3 4K
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1710.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="http://194.163.160.164/MBC/MBC4.HD.png" group-title="MBC",MBC 4 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1785.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5 4K" tvg-logo="http://194.163.160.164/MBC/MBC5.4K.png" group-title="MBC",MBC 5 4K
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1786.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="http://194.163.160.164/MBC/MBC.ACTION.png" group-title="MBC",MBC Action
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1711.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD HD" tvg-logo="http://194.163.160.164/MBC/MBC.BOLLYWOOD.png" group-title="MBC",MBC BOLLYWOOD HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1791.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC CN HD" tvg-logo="http://194.163.160.164/MBC/MBC.CN.HD.png" group-title="MBC",MBC CN HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1798.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama HD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.png" group-title="MBC",MBC Drama HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3112.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ HD" tvg-logo="http://194.163.160.164/MBC/MBC.DRAMA.png" group-title="MBC",MBC Drama+ HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3111.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq HD" tvg-logo="http://194.163.160.164/MBC/MBC.IRAQ.HD.png" group-title="MBC",MBC Iraq HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1792.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC LBCI HD" tvg-logo="http://194.163.160.164/MBC/MBC.LBCI.HD.png" group-title="MBC",MBC LBCI HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3107.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 1 HD" tvg-logo="http://194.163.160.164/MBC/MBC.MASR1.png" group-title="MBC",MBC Masr 1 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3110.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 HD" tvg-logo="http://194.163.160.164/MBC/MBC.MASR2.HD.png" group-title="MBC",MBC Masr 2 HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3109.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX HD" tvg-logo="http://194.163.160.164/MBC/MBC.MAX.png" group-title="MBC",MBC MAX HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3115.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC PANORAMA HD" tvg-logo="http://194.163.160.164/MBC/PANORAMA.HD.png" group-title="MBC",MBC PANORAMA HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3105.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia HD" tvg-logo="http://194.163.160.164/MBC/MBC.PERSIA.HD.png" group-title="MBC",MBC Persia HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3108.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC SPACETOON 4K" tvg-logo="http://194.163.160.164/MBC/SPACETOON.4K.png" group-title="MBC",MBC SPACETOON 4K
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1797.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC WANASH HD" tvg-logo="http://194.163.160.164/MBC/MBC.WANASH.HD.png" group-title="MBC",MBC WANASH HD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1796.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Al Fann FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALFANN.png" group-title="OSN",OSN Alfa Al Fann FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3065.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn Alfa al safwa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALSAFWA.png" group-title="OSN",Osn Alfa al safwa
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3575.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Alyoum FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALYOUM.png" group-title="OSN",OSN Alfa Alyoum FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3066.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Cinema 1 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.CINEMA1.png" group-title="OSN",OSN Alfa Cinema 1 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3067.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Cinema 2 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.CINEMA2.png" group-title="OSN",OSN Alfa Cinema 2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3068.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Musalsalat FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.MUSALSALAT.png" group-title="OSN",OSN Alfa Musalsalat FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3069.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Musalsalat +2 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.MUSALSALAT2.png" group-title="OSN",OSN Alfa Musalsalat +2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3070.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Art Aflam 1 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ART.AFLAM1.png" group-title="OSN",OSN Art Aflam 1 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3071.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Art Aflam 2 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ART.AFLAM2.png" group-title="OSN",OSN Art Aflam 2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3072.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Art Cinema FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ART.CINEMA.png" group-title="OSN",OSN Art Cinema FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3075.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Art Hekayat 1 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ART.HEKAYAT1.png" group-title="OSN",OSN Art Hekayat 1 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3073.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Art Hekayat 2 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.ART.HEKAYAT2.png" group-title="OSN",OSN Art Hekayat 2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3074.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Baby FHD" tvg-logo="http://194.163.160.164/OSN/OSN.BABY.png" group-title="OSN",OSN Baby FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/389.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="http://194.163.160.164/OSN/OSN.COMEDY.png" group-title="OSN",OSN Comedy
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3077.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn crime FHD" tvg-logo="http://194.163.160.164/OSN/OSN.CRIME.png" group-title="OSN",Osn crime FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/377.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Crime Investigation FHD" tvg-logo="http://194.163.160.164/OSN/OSN.CRIME.INVESTIGATION.png" group-title="OSN",OSN Crime Investigation FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3078.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.png" group-title="OSN",OSN Discovery
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/1728.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery IDX FHD" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.IDX.png" group-title="OSN",OSN Discovery IDX FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3079.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SC FHD" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.SC.png" group-title="OSN",OSN Discovery SC FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3080.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Channel FHD" tvg-logo="http://194.163.160.164/OSN/OSN.DISNEY.CHANNEL.png" group-title="OSN",OSN Disney Channel FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/383.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior FHD" tvg-logo="http://194.163.160.164/OSN/OSN.DISNEY.JUNIOR.png" group-title="OSN",OSN Disney Junior FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/384.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN E! FHD" tvg-logo="http://194.163.160.164/OSN/OSN.E.png" group-title="OSN",OSN E! FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3082.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Ginx eSports" tvg-logo="http://194.163.160.164/OSN/OSN.GINX.ESPORT.png" group-title="OSN",OSN Ginx eSports
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3083.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN History FHD" tvg-logo="http://194.163.160.164/OSN/OSN.HISTORY.png" group-title="OSN",OSN History FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3086.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN History 2 FHD" tvg-logo="http://194.163.160.164/OSN/OSN.HISTORY2.png" group-title="OSN",OSN History 2 FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3085.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Kids Zone FHD" tvg-logo="http://194.163.160.164/OSN/OSN.KIDS.ZONE.png" group-title="OSN",OSN Kids Zone FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="http://194.163.160.164/OSN/OSN.MEZZE.png" group-title="OSN",OSN MEZZE
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3088.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Moonbug Kids" tvg-logo="http://194.163.160.164/OSN/OSN.MOONBUG.KIDS.png" group-title="OSN",OSN Moonbug Kids
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/344.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn movie family" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.FAMILY.png" group-title="OSN",Osn movie family
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/404.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN movies action FHD" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.ACTION.png" group-title="OSN",OSN movies action FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3089.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies hollywood" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.HOLLYWOOD.png" group-title="OSN",OSN Movies hollywood
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3090.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Kids FHD" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.KIDS.png" group-title="OSN",OSN Movies Kids FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/359.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Premiere" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.PREMIERE.png" group-title="OSN",OSN Movies Premiere
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3091.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.png" group-title="OSN",OSN National Geographic FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/397.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic Wild FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.WILD.png" group-title="OSN",OSN National Geographic Wild FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/398.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nick Jr FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NICK.JR.png" group-title="OSN",OSN Nick Jr FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/386.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nickelodeon FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NICKELODEON.png" group-title="OSN",OSN Nickelodeon FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3093.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN NickToon FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NICKTOON.png" group-title="OSN",OSN NickToon FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3094.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Now" tvg-logo="http://194.163.160.164/OSN/OSN.NOW.png" group-title="OSN",OSN Now
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3084.ts
-#EXTINF:-1 tvg-id="" tvg-name="Osn showcase" tvg-logo="http://194.163.160.164/OSN/OSN.SHOWCASE.png" group-title="OSN",Osn showcase
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3577.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Sky News FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NEWS.png" group-title="OSN",OSN Sky News FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/350.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.MOVIES.png" group-title="OSN",OSN Star Movies FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3096.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star World FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN",OSN Star World FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3097.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN TFC" tvg-logo="http://194.163.160.164/OSN/OSN.TFC.png" group-title="OSN",OSN TFC
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3098.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="http://194.163.160.164/OSN/OSN.TLC.png" group-title="OSN",OSN TLC
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3099.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN VH+1" tvg-logo="http://194.163.160.164/OSN/OSN.VH+1.png" group-title="OSN",OSN VH+1
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3100.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala FHD" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.png" group-title="OSN",OSN Yahala FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/362.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aflam FHD" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.AFLAM.png" group-title="OSN",OSN Yahala Aflam FHD
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3101.ts
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Bil Arabi" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.BILARABI.png" group-title="OSN",OSN Yahala Bil Arabi
-http://live.exhxx.com:8080/live/0YjQpM27fWQx2OckVjQ3Tz3R/7w4GiiG172RGhKOzfa2trfAJ/3102.ts
+#M3U_EXTRACT: fast.kwikmotion.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA ACTION
+https://fast.kwikmotion.com/roya/roya_action/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA CARAVAN
+https://fast.kwikmotion.com/roya/caravan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA CHEFMAN
+https://fast.kwikmotion.com/roya/chefman/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA COMEDY
+https://fast.kwikmotion.com/roya/comedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA DOCS
+https://fast.kwikmotion.com/roya/documentaries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA DRAMA
+https://fast.kwikmotion.com/roya/roya_drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA ELQESSA
+https://fast.kwikmotion.com/roya/ana-bahkelak-elqessa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA FANTAHI
+https://fast.kwikmotion.com/roya/fantahi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA HAKI
+https://fast.kwikmotion.com/roya/haki_munawwa3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA JALTA
+https://fast.kwikmotion.com/roya/jalta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA KIDS
+https://fast.kwikmotion.com/roya/kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA KIDS SONGS
+https://fast.kwikmotion.com/roya/kids-songs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA KIDS STORIES
+https://fast.kwikmotion.com/roya/kids-stories/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA KITCHEN
+https://fast.kwikmotion.com/roya/kitchen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA MAHABBA
+https://fast.kwikmotion.com/roya/saet_mahabba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA MOJTAMA
+https://fast.kwikmotion.com/roya/mojtama3y/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA MUSIC
+https://fast.kwikmotion.com/roya/music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA NAKHAT
+https://fast.kwikmotion.com/roya/set_el_nakhat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA PALESTINE
+https://fast.kwikmotion.com/roya/roya_palestine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA PRODUCTION
+https://fast.kwikmotion.com/roya/roya-production/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="AR_ OSN MBC",ROYA WATAR
+https://fast.kwikmotion.com/roya/watan-ala-watar/playlist.m3u8
