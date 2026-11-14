@@ -1,30 +1,32 @@
 #EXTM3U
-#M3U_EXTRACT: rpprod.hbbtv.cdn.cra.cz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novasport1.png" group-title="GR_ NOVA",Nova sport 1
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novasport2.png" group-title="GR_ NOVA",Nova sport 2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/640/novasport3.png" group-title="GR_ NOVA",Nova sport 3
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novasport4.png" group-title="GR_ NOVA",Nova sport 4
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/novasport5.png" group-title="GR_ NOVA",Nova sport 5
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MOD3123/Ikony_TV/refs/heads/master/Nove/novasport6.png" group-title="GR_ NOVA",Nova sport 6
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest?cb=20230901182304" group-title="CANAL+ SK",Canal+ Sport SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 2 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" group-title="CANAL+ SK",Canal+ Sport 2 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 3 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810" group-title="CANAL+ SK",Canal+ Sport 3 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 4 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820" group-title="CANAL+ SK",Canal+ Sport 4 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 5 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CANAL%2B_SPORT_5.svg/revision/latest?cb=20241028202829" group-title="CANAL+ SK",Canal+ Sport 5 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 6 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal%2B_Sport_6.svg/revision/latest?cb=20251106141229" group-title="CANAL+ SK",Canal+ Sport 6 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 7 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Canal%2B_Sport_7.svg/revision/latest?cb=20251106141245" group-title="CANAL+ SK",Canal+ Sport 7 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-name="Canal+ Sport 8 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257" group-title="CANAL+ SK",Canal+ Sport 8 SK
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#M3U_EXTRACT: 212.70.131.37
+#EXTINF:-1 group-title="TV mix",bTV HD
+http://212.70.131.37:8000/play/a04a
+#EXTINF:-1 group-title="TV mix",bTV Action HD
+http://212.70.131.37:8000/play/a025
+#EXTINF:-1 group-title="TV mix",bTV Cinema
+http://212.70.131.37:8000/play/a077
+#EXTINF:-1 group-title="TV mix",bTV Comedy
+http://212.70.131.37:8000/play/a076
+#EXTINF:-1 group-title="TV mix",bTV Story
+http://212.70.131.37:8000/play/a078
+#EXTINF:-1 group-title="BG_ Sport",Diema Sport HD
+http://212.70.131.37:8000/play/a06e
+#EXTINF:-1 group-title="BG_ Sport",Diema Sport 2 HD
+http://212.70.131.37:8000/play/a06p
+#EXTINF:-1 group-title="BG_ Sport",Diema Sport 3 HD
+http://212.70.131.37:8000/play/a06o
+#EXTINF:-1 group-title="BG_ Sport",MAX Sport 1 HD
+http://212.70.131.37:8000/play/a085
+#EXTINF:-1 group-title="BG_ Sport",MAX Sport 2 HD
+http://212.70.131.37:8000/play/a086
+#EXTINF:-1 group-title="BG_ Sport",MAX Sport 3 HD
+http://212.70.131.37:8000/play/a06h
+#EXTINF:-1 group-title="BG_ Sport",MAX Sport 4 HD
+http://212.70.131.37:8000/play/a07n
+#EXTINF:-1 group-title="TV mix",Nova HD
+http://212.70.131.37:8000/play/a08h
+#EXTINF:-1 group-title="TV mix",Nova News HD
+http://212.70.131.37:8000/play/a05g
+#EXTINF:-1 group-title="GR_ NOVA",Nova Sport
+http://212.70.131.37:8000/play/a05p
