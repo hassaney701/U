@@ -1,28 +1,16 @@
 #EXTM3U
-#M3U_EXTRACT: vtvgolive-sctvdrm.vtvdigital.vn
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi" group-title="TV mix",SCTV 3
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/SCTV4_logo_19-01-2023.png/revision/latest?cb=20230323071855&path-prefix=vi" group-title="TV mix",SCTV 4
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/SCTV6.png/revision/latest?cb=20210220103413" group-title="TV mix",SCTV 6
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/SCTV7_logo.png/revision/latest?cb=20220223142137&path-prefix=vi" group-title="TV mix",SCTV 7
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/SCTV9.png/revision/latest/scale-to-width-down/200?cb=20210821040105&path-prefix=vi" group-title="TV mix",SCTV 9
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi" group-title="TV mix",SCTV 11
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/220?cb=20201011030148" group-title="TV mix",SCTV 12
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest?cb=20211211011126&path-prefix=vi" group-title="TV mix",SCTV 13
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/SCTV14_logo_12-02-2026.png/revision/latest?cb=20260301113219&path-prefix=vi" group-title="TV mix",SCTV 14
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi" group-title="TV mix",SCTV 16
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/SCTV18.png/revision/latest?cb=20210820120952&path-prefix=vi" group-title="TV mix",SCTV 18
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20240131141543&path-prefix=vi" group-title="TV mix",SCTV 19
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/1200?cb=20210821042852&path-prefix=vi" group-title="TV mix",SCTV 20
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
+#M3U_EXTRACT: def.ycnapi.com
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3885pqfpt1.png" group-title="beIN ENTERTAINMENT",beIN DRAMA 1
+http://def.ycnapi.com/api/channel/64
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3884cxjr21.png" group-title="beIN ENTERTAINMENT",beIN MOVIES 1 HD
+http://def.ycnapi.com/api/channel/68
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3884d20n11.png" group-title="beIN ENTERTAINMENT",beIN MOVIES 2
+http://def.ycnapi.com/api/channel/69
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3884u1lgu1.jpg" group-title="beIN ENTERTAINMENT",beIN MOVIES 3
+http://def.ycnapi.com/api/channel/70
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3884etxyh1.png" group-title="beIN ENTERTAINMENT",beIN MOVIES 4
+http://def.ycnapi.com/api/channel/71
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3885n5n4l1.png" group-title="beIN ENTERTAINMENT",beIN SERIES 1
+http://def.ycnapi.com/api/channel/66
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3885po00j1.png" group-title="beIN ENTERTAINMENT",beIN SERIES 2
+http://def.ycnapi.com/api/channel/67
