@@ -1,38 +1,14 @@
 #EXTM3U
-#M3U_EXTRACT: 88.212.15.50
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Mix_ Documentary",DISCOVERY
-http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="JOJ Sport",JOJ
-http://88.212.15.50/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Auduch.png" group-title="JOJ Sport",JOJ CINEMA
-http://88.212.15.50/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="JOJ Sport",JOJ FAMILY
-http://88.212.15.50/live/joj_family_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="JOJ Sport",JOJ PLUS
-http://88.212.15.50/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="JOJ Sport",JOJ Šport
-http://88.212.15.50/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="JOJ Sport",JOJ Šport 2
-http://88.212.15.50/live/joj_sport_2_avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/77ztmd9.png" group-title="TV mix",NOVA
-http://88.212.15.50/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRSsfRx.png" group-title="TV mix",NOVA Action
-http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hxm0bV.png" group-title="TV mix",NOVA CINEMA
-http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uN6sgf5.png" group-title="TV mix",NOVA International
-http://88.212.15.50/live/test_nova_int_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CdBHkPE.png" group-title="TV mix",NOVA KRIMI
-http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="RO_ Prima Sport",PRIMA
-http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/TCHEQUIE/PRIMACOOL.png" group-title="RO_ Prima Sport",PRIMA COOL
-http://88.212.15.50/live/prima_cool_cz_hevc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ePrdyLi.png" group-title="RO_ Prima Sport",PRIMA MAX
-http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="RO_ Prima Sport",PRIMA Show
-http://88.212.15.50/live/prima_show_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="RO_ Prima Sport",PRIMA Star
-http://88.212.15.50/live/prima_star_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="RO_ Prima Sport",PRIMA ZOOM
-http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
+#M3U_EXTRACT: 173.208.212.130
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-drama-cn.png" group-title="TV mix",CCTV DRAMA
+http://173.208.212.130:8181/720p/dyjc.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-fashion-music-cn.png" group-title="TV mix",CCTV FASHION MUSIC
+http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-nostalgia-theater-cn.png" group-title="TV mix",CCTV NOSTALGIA THEATER
+http://173.208.212.130:8181/720p/hjjc.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-soccer-cn.png" group-title="TV mix",CCTV SOCCER
+http://173.208.212.130:8181/720p/fyzq.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-theater-cn.png" group-title="TV mix",CCTV THEATER
+http://173.208.212.130:8181/720p/fyjc.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cctv-weapon-technology-channel-cn.png" group-title="TV mix",CCTV WEAPON TECHNOLOGY CHANNEL
+http://173.208.212.130:8181/720p/gfjs.m3u8
