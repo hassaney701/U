@@ -1,142 +1,26 @@
 #EXTM3U
-#M3U_EXTRACT: pfnwl2av.lunexas.top
-#EXTINF:-1 tvg-name="Arena Premium 2 HD RS" group-title="ARENA Premium",Arena Premium 2 HD RS
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31600/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 FHD HR" group-title="ARENA Sport HR",Arena Sport 1 FHD HR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7263/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 HD HR" group-title="ARENA Sport HR",Arena Sport 3 HD HR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7331/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 FHD RS" group-title="ARENA Sport SR",Arena Sport 1 FHD RS
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2550/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 HD RS" group-title="ARENA Sport SR",Arena Sport 1 HD RS
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31602/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31610/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports US" group-title="beIN Sport_ US",beIN Sports US
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31048/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 5 US" group-title="beIN Sport_ US",beIN Sports 5 US
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31052/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports 6 US" group-title="beIN Sport_ US",beIN Sports 6 US
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31053/index.m3u8
-#EXTINF:-1 tvg-name="Diema Sport 2 HD BG" group-title="BG_ Sport",Diema Sport 2 HD BG
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32035/index.m3u8
-#EXTINF:-1 tvg-name="SportsNet New York HD US" group-title="CA_ Sportsnet",SportsNet New York HD US
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11107/index.m3u8
-#EXTINF:-1 tvg-name="Sportsnet ONE HD CA" group-title="CA_ Sportsnet",Sportsnet ONE HD CA
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6438/index.m3u8
-#EXTINF:-1 tvg-name="TSN 2 HD CA" group-title="CA_ TSN Sport",TSN 2 HD CA
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6492/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ HD FR" group-title="CANAL+ FR",Canal+ HD FR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6007/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Kids HD FR" group-title="CANAL+ FR",Canal+ Kids HD FR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6006/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ 360 HD PL" group-title="CANAL+ PL",Canal+ 360 HD PL
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/6105/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport 3 HD PL" group-title="CANAL+ PL",Canal+ Sport 3 HD PL
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32040/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" group-title="DAZN LALIGA",DAZN 4 Bar HD ES
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31862/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 PT" group-title="DAZN PT",DAZN 1 PT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31954/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 5 FHD PT" group-title="DAZN PT",DAZN 5 FHD PT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2535/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE_ Sky Sport",Sky Sport 2 HD DE
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2479/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 5 HD DE" group-title="DE_ Sky Sport",Sky Sport 5 HD DE
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19032/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="DE_ Sky Sport",Sky Sport Bundesliga 3 HD DE
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7235/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 1 HD NL" group-title="ESPN_ NL",ESPN 1 HD NL
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19201/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD NL" group-title="ESPN_ NL",ESPN 3 HD NL
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19203/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 HD US" group-title="ESPN_ US",ESPN 2 HD US
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19155/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 501 Cricket HD AU" group-title="FOX Sport_ AU",Fox Sports 501 Cricket HD AU
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19146/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 506 HD AU" group-title="FOX Sport_ AU",Fox Sports 506 HD AU
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19143/index.m3u8
-#EXTINF:-1 tvg-name="Sport Klub 6 HD HR" group-title="HR_ Sport Klub",Sport Klub 6 HD HR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7274/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 IN" group-title="IN_ Star Sport",Star Sports 2 IN
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2507/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 24 FHD IT" group-title="IT_ Sky Sport",Sky Sport 24 FHD IT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19107/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19127/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport F1 HD IT" group-title="IT_ Sky Sport",Sky Sport F1 HD IT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19105/index.m3u8
-#EXTINF:-1 tvg-name="Best4Sport 2 HD LV" group-title="LV_ Best4Sport",Best4Sport 2 HD LV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18015/index.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 1 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 1 HD LV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18011/index.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport Open HD LV" group-title="LV_ Go3 Sport",Go3 Sport Open HD LV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18025/index.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 1 HD EE" group-title="LV_ Go3 Sport",Go3 Sport 1 HD EE
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18000/index.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 1 HD LT" group-title="LV_ Go3 Sport",Go3 Sport 1 HD LT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32038/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 4 HD GR" group-title="Magenta Sport",Magenta Sport 4 HD GR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31582/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 7 HD GR" group-title="Magenta Sport",Magenta Sport 7 HD GR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31585/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2 HD PL" group-title="PL_ Eleven Sport",Eleven Sports 2 HD PL
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2517/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 1 FHD PT" group-title="PT_ SportTV",Sport TV 1 FHD PT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31942/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 5 HD PT" group-title="PT_ SportTV",Sport TV 5 HD PT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2529/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 7 FHD PT" group-title="PT_ SportTV",Sport TV 7 FHD PT
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31948/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 FHD" group-title="RU_ Матч",Матч! Футбол 3 FHD
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2408/index.m3u8
-#EXTINF:-1 tvg-name="Megogo Спорт HD" group-title="RU_ Спорт",Megogo Спорт HD
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31612/index.m3u8
-#EXTINF:-1 tvg-name="TV4 Sport Live 1 HD SE" group-title="SE_ Sport",TV4 Sport Live 1 HD SE
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/12036/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="SETANTA",Setanta Sports 1 HD
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/271/index.m3u8
-#EXTINF:-1 tvg-name="TV 2 Sport HD DK" group-title="Sports_ Mix",TV 2 Sport HD DK
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7355/index.m3u8
-#EXTINF:-1 tvg-name="TV 2 Sport Premium 2 HD NO" group-title="Sports_ Mix",TV 2 Sport Premium 2 HD NO
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32026/index.m3u8
-#EXTINF:-1 tvg-name="TRT Spor TR" group-title="TR_ TRT Spor",TRT Spor TR
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19067/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 HD 50 UK" group-title="UK_ Sky",Sky Sports F1 HD 50 UK
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/9283/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport HD orig" group-title="Viju",Viju+ Sport HD orig
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/5065/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20099/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20103/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20104/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20105/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20106/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 6" group-title="VIP",ViP Sport 6
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20107/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20108/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20109/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20110/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20100/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20101/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20102/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31674/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31675/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31676/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31677/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31678/index.m3u8
+#M3U_EXTRACT: 199.115.193.116
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_English_1
+http://199.115.193.116:80/90040798278941/90040798278941/8260
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_cinema_1
+http://199.115.193.116:80/90040798278941/90040798278941/352827
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_cinema_2
+http://199.115.193.116:80/90040798278941/90040798278941/352826
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OSNtvأكشن
+http://199.115.193.116:80/90040798278941/90040798278941/352813
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTVياهلا
+http://199.115.193.116:80/90040798278941/90040798278941/352805
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTVياهلا افلام
+http://199.115.193.116:80/90040798278941/90040798278941/352807
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTVياهلا بالعربي
+http://199.115.193.116:80/90040798278941/90040798278941/352806
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnالصفوة
+http://199.115.193.116:80/90040798278941/90040798278941/352824
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnاليوم
+http://199.115.193.116:80/90040798278941/90040798278941/352828
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnفن
+http://199.115.193.116:80/90040798278941/90040798278941/352825
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnمسلسلات
+http://199.115.193.116:80/90040798278941/90040798278941/352830
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnمسلسلات+2
+http://199.115.193.116:80/90040798278941/90040798278941/352829
