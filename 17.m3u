@@ -1,196 +1,32 @@
 #EXTM3U
-#M3U_EXTRACT: www.bobeag.com
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT1HR.png" group-title="ARENA Premium",ARENA SPORT 1 ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33100.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT2HR.png" group-title="ARENA Premium",ARENA SPORT 2 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33101.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT2HR.png" group-title="ARENA Premium",ARENA SPORT 2 ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33102.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT3HR.png" group-title="ARENA Premium",ARENA SPORT 3 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33103.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT3HR.png" group-title="ARENA Premium",ARENA SPORT 3 ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33104.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENA4HD.png" group-title="ARENA Premium",ARENA SPORT 4 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33105.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/ARENASPORT5HR.png" group-title="ARENA Premium",ARENA SPORT 5 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33107.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="ARENA Premium",ARENA SPORT 6 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33108.ts
-#EXTINF:-1 tvg-logo="https://ottapp-appgw-client-a.proda.dtp.tv3cloud.com/images/images/station/20020/4x3/logomedium.png" group-title="ARENA Sport SR",MAK ARENA SPORT 1 FHD
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1955751.ts
-#EXTINF:-1 tvg-logo="https://ottapp-appgw-client-a.proda.dtp.tv3cloud.com/images/images/station/19070/4x3/logomedium.png" group-title="ARENA Sport SR",MAK ARENA SPORT 5 FHD
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1955755.ts
-#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/BULGARIA/MAX%20SPORT1.png" group-title="BG_ Sport",MAX SPORT 1 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/579751.ts
-#EXTINF:-1 tvg-logo="https://lo1.in/exyu/bh1.png" group-title="BOSNA I HERCEGOVINA",BHT 1 HD
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1614479.ts
-#EXTINF:-1 tvg-logo="https://lo1.in/exyu/obn.png" group-title="BOSNA I HERCEGOVINA",BIH ▎OBN TV HD
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1515771.ts
-#EXTINF:-1 tvg-logo="https://www.talentshow.hr/Brands/Masha/Logo.png" group-title="BOSNA I HERCEGOVINA",MAŠA I MEDO
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375313.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/n1.png" group-title="BOSNA I HERCEGOVINA",N1 BA B
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375317.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="BOSNA I HERCEGOVINA",AL JAZEERA BALKANS FHD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375263.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZUk3ck.png" group-title="BOSNA I HERCEGOVINA",ATV BANJA LUKA HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375266.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="BOSNA I HERCEGOVINA",BN TV HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1920338.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/745842877/logotv-01_400x400.png" group-title="BOSNA I HERCEGOVINA",BUJRUM TV HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375273.ts
-#EXTINF:-1 tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/federalna-tv.png" group-title="BOSNA I HERCEGOVINA",FEDERALNA TV FHD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375293.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JugiLHM.png" group-title="BOSNA I HERCEGOVINA",HAYAT HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375298.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/hayat.png" group-title="BOSNA I HERCEGOVINA",HAYAT BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375296.ts
-#EXTINF:-1 tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA",HAYAT 2 HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375295.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatfolk_logo.png" group-title="BOSNA I HERCEGOVINA",HAYAT FOLK HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375297.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Hayat_Stil_i_%C5%BEivot_-_Logo.png" group-title="BOSNA I HERCEGOVINA",HAYAT STIL I ZIVOT HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375300.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal3-prnjavor-logo.png" group-title="BOSNA I HERCEGOVINA",K3 PRNJAVOR FHD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375308.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/m1film-logo.png" group-title="BOSNA I HERCEGOVINA",M1 FILM HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375311.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-igman-logo.png" group-title="BOSNA I HERCEGOVINA",MTV IGMAN HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375315.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/n1.png" group-title="BOSNA I HERCEGOVINA",N1 BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375316.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wTZxn8F.png" group-title="BOSNA I HERCEGOVINA",NOVA BH HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1903797.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EtaHm2P.png" group-title="BOSNA I HERCEGOVINA",NTV IC KAKANJ HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375321.ts
-#EXTINF:-1 tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/49/30/otvvalentino_logo_16_9_light_160x90_a80cbf5a_71e1_4e10_b1b7_efc9e916af94.png" group-title="BOSNA I HERCEGOVINA",OTV VALENTINO ETNO BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375322.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/pinkbh.png" group-title="BOSNA I HERCEGOVINA",PINK HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375324.ts
-#EXTINF:-1 tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA",PRVA HERCEGOVACKA BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375326.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RTV-CAZIN.png" group-title="BOSNA I HERCEGOVINA",RTV CAZIN HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375332.ts
-#EXTINF:-1 tvg-logo="http://logo.skymedia-ott.online:2095/logoi/bh/bh-rtvhb.png" group-title="BOSNA I HERCEGOVINA",RTV HB BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375333.ts
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/RTV-PODRINJE.png" group-title="BOSNA I HERCEGOVINA",RTV PODRINJE BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375339.ts
-#EXTINF:-1 tvg-logo="http://logo.skymedia-ott.online:2095/logoi/bh/bh-sanatv.png" group-title="BOSNA I HERCEGOVINA",RTV SANA HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375340.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LSggaNb.png" group-title="BOSNA I HERCEGOVINA",RTV USK HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375342.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCvbybO.png" group-title="BOSNA I HERCEGOVINA",RTV VOGOSCA HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375344.ts
-#EXTINF:-1 tvg-logo="https://iili.io/HxkZWHN.png" group-title="BOSNA I HERCEGOVINA",SEVDAH TV HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375349.ts
-#EXTINF:-1 tvg-logo="noimage.png" group-title="BOSNA I HERCEGOVINA",SMART TV HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375350.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ToxicTV_logo.png" group-title="BOSNA I HERCEGOVINA",TOXIC HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375360.ts
-#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Toxic_Folk_RS_logo.png" group-title="BOSNA I HERCEGOVINA",TOXIC FOLK HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375359.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mS0wnYg.png" group-title="BOSNA I HERCEGOVINA",TV CAZIN HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375363.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="BOSNA I HERCEGOVINA",TV SLON EXTRA HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375370.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc7rzjJ/IMG-2956.png" group-title="BOSNA I HERCEGOVINA",UNA TV HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375371.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Zadruga_Live_1.png" group-title="BOSNA I HERCEGOVINA",ZADRUGA LIVE 1 HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375373.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Zadruga_Live_2.png" group-title="BOSNA I HERCEGOVINA",ZADRUGA LIVE 2 HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375374.ts
-#EXTINF:-1 tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/11/zadruga-4-384x216-1.png" group-title="BOSNA I HERCEGOVINA",ZADRUGA LIVE 4 HD BA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1375376.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/24KITCHEN.png" group-title="Mix_ Documentary",KITCHEN TV
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33175.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/NATIONALGEOGRAPHIC.png" group-title="Mix_ Documentary",NATIONAL GEOGRAPHIC ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33208.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5079.png" group-title="Mix_ Documentary",NATIONAL GEOGRAPHIC CHANNEL ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30618.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5019.png" group-title="Mix_ Documentary",NATIONAL GEOGRAPHIC WILD ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30617.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/24KITCHEN.png" group-title="Mix_ Documentary",SLOV 24 KITCHEN
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78380.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/NEDERLAND/ANIMALPLANET.png" group-title="Mix_ Documentary",SLOV ANIMAL PLANET
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78384.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/DISCOVERYCHANNEL.png" group-title="Mix_ Documentary",SLOV DISCOVERY CHANNEL
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78296.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/AUSTRALIA/Investigation_Discovery.png" group-title="Mix_ Documentary",SLOV DISCOVERY ID XTRA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78297.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/E%21.png" group-title="Mix_ Documentary",SLOV E !
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78302.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5079.png" group-title="Mix_ Documentary",SLOV NATIONAL GEOGRAPHIC
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78370.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/FOX%20Movies.png" group-title="Movies",FOX MOVIES ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33146.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/Cinemax1HD.png" group-title="TV mix",CINEMAX 1 ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33117.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/Cinemax1HD.png" group-title="TV mix",CINEMAX 1
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33118.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/CINEMAX2.png" group-title="TV mix",CINEMAX 2
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33119.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/3535.png" group-title="TV mix",HBO ADRIA ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33153.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/24%20VESTI.jpg" group-title="TV mix",MAK 24 VESTI
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/51746.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/ALFA.png" group-title="TV mix",MAK ALFA TV
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/51743.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Alsat%20M.jpg" group-title="TV mix",MAK ALSAT M ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/51747.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Alsat%20M.jpg" group-title="TV mix",MAK ALSAT M
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/149885.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Kanal%205.png" group-title="TV mix",MAK KANAL 5 PLUS ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/72496.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/MRT.jpg" group-title="TV mix",MAK MRT 2
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/51738.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/SITEL%203.jpg" group-title="TV mix",MAK SITEL 2 TV
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/51741.ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/TV%20Tera%20Bitola.png" group-title="TV mix",MAK TV TERA BITOLA ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/149952.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK 3 INFO
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30664.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK ACTION
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30663.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK BRAVO
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30661.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK HITS 2
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30649.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK PEDIA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30640.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKPLUS.png" group-title="TV mix",PINK SOAP
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/30632.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/AlJazeera.png" group-title="TV mix",SLOV AL JAZEERA BALKANS
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78382.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/AMC.png" group-title="TV mix",SLOV AMC
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78383.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5070.png" group-title="TV mix",SLOV BOOMERANG
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78331.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/CARTOON_NETWORK.png" group-title="TV mix",SLOV CARTOON NETWORK
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78332.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/CINESTARPREMIERE1.png" group-title="TV mix",SLOV CINESTAR
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78334.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/diva.png" group-title="TV mix",SLOV DIVA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78298.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/Fashion_TV.png" group-title="TV mix",SLOV FASHION TV
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78307.ts
-#EXTINF:-1 tvg-logo="https://golica.si/wp-content/uploads/2019/10/top_logo_white.png" group-title="TV mix",SLOV GOLICA
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78276.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/oto.png" group-title="TV mix",SLOV OTO
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/78278.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_BLIC.svg/640px-Logo_BLIC.svg.png" group-title="TV mix",SRB BLIC TV
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/1264651.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/DISCOVERYCHANNEL.png" group-title="TV mix",SRB DISCOVERY CHANNEL ᵁᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32866.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/KCN2.png" group-title="TV mix",SRB KCN 2
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32902.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Nova_S_logo.png" group-title="TV mix",SRB NOVA S ᴴᴰ
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32908.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/Pink.png" group-title="TV mix",SRB PINK PLUS
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32937.ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/EXYU/PINKROMANCE.png" group-title="TV mix",SRB PINK ROMANCE
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32940.ts
-#EXTINF:-1 tvg-logo="http://www.ass-media.de/pic/upload/2016/03/31/20160331210927-1cba6281.jpg" group-title="TV mix",SRB RTS SVET
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/32969.ts
-#EXTINF:-1 tvg-logo="noimage.png" group-title="TV mix",SRB TV NOVI PAZAR
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/33001.ts
-#EXTINF:-1 tvg-logo="noimage.png" group-title="TV mix",SRB B92 ᵁᴴᴰ B
-http://www.bobeag.com:80/live/20b4d69979b9bbf0/9qi7hrx66q/282677.ts
+#M3U_EXTRACT: sansatplus.net
+#EXTINF:-1 tvg-name="ARENA SPORT 1 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_1_HD.png" group-title="ARENA Sport HR",ARENA SPORT 1 HKURD (HR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79789
+#EXTINF:-1 tvg-name="ARENA SPORT 2 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="ARENA Sport HR",ARENA SPORT 2 HKURD (HR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79790
+#EXTINF:-1 tvg-name="ARENA SPORT 3 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="ARENA Sport HR",ARENA SPORT 3 HKURD (HR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79791
+#EXTINF:-1 tvg-name="ARENA SPORT 4 HKURD (HR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_4_HD.png" group-title="ARENA Sport HR",ARENA SPORT 4 HKURD (HR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79792
+#EXTINF:-1 tvg-name="ARENA SPORT 1 HKURD (SR)" group-title="ARENA Premium",ARENA SPORT 1 HKURD (SR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79785
+#EXTINF:-1 tvg-name="ARENA SPORT 2 HKURD (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_2_HD.png" group-title="ARENA Premium",ARENA SPORT 2 HKURD (SR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79786
+#EXTINF:-1 tvg-name="ARENA SPORT 3 HKURD (SR)" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_3_HD..png" group-title="ARENA Premium",ARENA SPORT 3 HKURD (SR)
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/79787
+#EXTINF:-1 tvg-name="ARENA SPORT 6 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_6_HD.png" group-title="ARENA Sport HR",ARENA SPORT 6 HD HR
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192161
+#EXTINF:-1 tvg-name="ARENA SPORT 7 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_7_HD..png" group-title="ARENA Sport HR",ARENA SPORT 7 HD HR
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192162
+#EXTINF:-1 tvg-name="ARENA SPORT 8 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_8_HD.png" group-title="ARENA Sport HR",ARENA SPORT 8 HD HR
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192163
+#EXTINF:-1 tvg-name="ARENA SPORT 9 HD HR" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/ARENA_SPORT_9_HD..png" group-title="ARENA Sport HR",ARENA SPORT 9 HD HR
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192164
+#EXTINF:-1 tvg-name="ARENA SPORT 10 HD HR" group-title="ARENA Sport HR",ARENA SPORT 10 HD HR
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192165
+#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 1 FHD BACKUP" group-title="ARENA Premium",ARENA SPORT PREMIUM 1 FHD BACKUP
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678198
+#EXTINF:-1 tvg-name="ARENA SPORT PREMIUM 2 FHD BACKUP" group-title="ARENA Premium",ARENA SPORT PREMIUM 2 FHD BACKUP
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/678199
+#EXTINF:-1 tvg-name="NOVA SPORT" tvg-logo="http://vodkom.com:25461/Logo/EXYU.SPORTS/NOVA_SPORT_HD.png" group-title="GR_ NOVA",NOVA SPORT
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/192157
