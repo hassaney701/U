@@ -1,36 +1,36 @@
 #EXTM3U
-#M3U_EXTRACT: 33a28853.cbilant.com
-#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20099/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20103/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20104/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20105/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20106/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 6" group-title="VIP",ViP Sport 6
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20107/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20108/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20109/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20110/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20100/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20101/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/20102/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/31674/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/31675/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/31676/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/31677/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/31678/index.m3u8
+#M3U_EXTRACT: fortv.cc
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Arena
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35238.m3u8
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports F1 FHD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35244.m3u8
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Golf FHD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35240.m3u8
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Main Event
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35243.m3u8
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports News
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35241.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet 360 HD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/2219.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet Ontario (FHD)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/11649.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet Pacific (FHD)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/9860.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet West (FHD)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/20975.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet World HD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/75675.m3u8
+#EXTINF:-1 group-title="CA_ TSN Sport",TSN 3 HD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/10389.m3u8
+#EXTINF:-1 group-title="CA_ TSN Sport",TSN 4 HD
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/16130.m3u8
+#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Cricket FHD (D)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/45940.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet East (D)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/41836.m3u8
+#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet One (E)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/10247.m3u8
+#EXTINF:-1 group-title="CA_ TSN Sport",TSN 1 (E)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/57292.m3u8
+#EXTINF:-1 group-title="CA_ TSN Sport",TSN 2 (R)
+http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/16129.m3u8
