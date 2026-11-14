@@ -1,52 +1,18 @@
 #EXTM3U
-#M3U_EXTRACT: vip.sibfungold.org
-#EXTINF:-1 tvg-name="A LA CARTE 06" group-title="FR_ C+ PLAY & ALA CARTE",A LA CARTE 06
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/70
-#EXTINF:-1 tvg-name="AUTOMOTO LA CHAINE HD" tvg-logo="http://logofun.ddns.net:25461/logo/automotolachaine.png" group-title="FR_ GENERAL",AUTOMOTO LA CHAINE HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/49262
-#EXTINF:-1 tvg-name="C NEWS HD" tvg-logo="http://logofun.ddns.net:25461/logo/cnews.png" group-title="FR_ GENERAL",C NEWS HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/50066
-#EXTINF:-1 tvg-name="CANAL+ HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplus.png" group-title="FR_ CANAL+",CANAL+ HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/3326
-#EXTINF:-1 tvg-name="CANAL+ 360 HD" group-title="FR_ CANAL+",CANAL+ 360 HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/54738
-#EXTINF:-1 tvg-name="CANAL+ sports HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplussport.png" group-title="FR_ CANAL+",CANAL+ sports HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/50145
-#EXTINF:-1 tvg-name="COMEDIE+ HD" tvg-logo="http://logofun.ddns.net:25461/logo/comedieplus.png" group-title="FR_ France",COMEDIE+ HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/1458
-#EXTINF:-1 tvg-name="DAZN 1 HD" group-title="FR_ GENERAL",DAZN 1 HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56313
-#EXTINF:-1 tvg-name="DISNEY JUNIOR HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneyjunior.png" group-title="FR_ France",DISNEY JUNIOR HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/48619
-#EXTINF:-1 tvg-name="E! HD" group-title="FR_ GENERAL",E! HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/49266
-#EXTINF:-1 tvg-name="LIGUE 1 + 2 HD" group-title="FR_ GENERAL",LIGUE 1 + 2 HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56644
-#EXTINF:-1 tvg-name="LIGUE 1 + 3 HD" group-title="FR_ GENERAL",LIGUE 1 + 3 HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56645
-#EXTINF:-1 tvg-name="PLANETE+ HD" tvg-logo="http://logofun.ddns.net:25461/logo/Planete+.png" group-title="FR_ Documentary",PLANETE+ HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/4494
-#EXTINF:-1 tvg-name="PLANETE+ CRIME HD" group-title="FR_ Documentary",PLANETE+ CRIME HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/2058
-#EXTINF:-1 tvg-name="Pluto TV Catastrophe" group-title="FR_ GENERAL",Pluto TV Catastrophe
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56584
-#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="FR_ GENERAL",Pluto TV Paranormal
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56608
-#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="FR_ GENERAL",Pluto TV Romance
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56603
-#EXTINF:-1 tvg-name="Pluto TV Séries Fantastiques" group-title="FR_ GENERAL",Pluto TV Séries Fantastiques
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56591
-#EXTINF:-1 tvg-name="Pluto TV Thrillers" group-title="FR_ GENERAL",Pluto TV Thrillers
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56599
-#EXTINF:-1 tvg-name="Rotana Kids" group-title="Kids",Rotana Kids
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/52701
-#EXTINF:-1 tvg-name="RTL9 HD" tvg-logo="http://logofun.ddns.net:25461/logo/rtl9.png" group-title="FR_ GENERAL",RTL9 HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/375
-#EXTINF:-1 tvg-name="Syfy HD" tvg-logo="http://logofun.ddns.net:25461/logo/syfy.png" group-title="FR_ France",Syfy HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/3220
-#EXTINF:-1 tvg-name="TOONAMI HD" tvg-logo="http://logofun.ddns.net:25461/logo/toonami.png" group-title="FR_ GENERAL",TOONAMI HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/50800
-#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="http://logofun.ddns.net:25461/logo/tv5monde.png" group-title="FR_ Documentary",TV5 MONDE HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/49608
-#EXTINF:-1 tvg-name="W SPORT HD" group-title="Sports_ Mix",W SPORT HD
-http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56312
+#M3U_EXTRACT: hamis.romponalis.st
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXnfSrDC/Bein1.jpg" group-title="beIN SPORTS",beIN SPORTS 1 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=91
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=92
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=93
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=95
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=97
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 HD2
+https://hamis.romponalis.st/premiumtv/daddy4.php?id=98
