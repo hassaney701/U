@@ -1,216 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917476.png" group-title="beIN Sport_ Max",BEIN SPORTS 1 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917476&extension=ts&play_token=fd5dwbStTT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917475.png" group-title="beIN Sport_ Max",BEIN SPORTS 2 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917475&extension=ts&play_token=kevkVNlgNq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917474.png" group-title="beIN Sport_ Max",BEIN SPORTS 3 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917474&extension=ts&play_token=ABk8tU4P4W
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 4 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917473&extension=ts&play_token=bJm3wcSqz7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 5 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917472&extension=ts&play_token=a44CS6Z6ux
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 6 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917471&extension=ts&play_token=83mM7HKiq3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 7 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917470&extension=ts&play_token=E0hdFS39Ar
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 7 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917420&extension=ts&play_token=GuCuhQ7xuu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 8 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917469&extension=ts&play_token=mIOPIKeVAe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 8 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917419&extension=ts&play_token=XYwxrzOLNu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/BEINSPORTSMAX.png" group-title="beIN Sport_ Max",BEIN SPORTS MAX 10 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917417&extension=ts&play_token=XEZNC9Rj3u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="beIN Sport_ Max",EUROSPORT 2 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917465&extension=ts&play_token=GWihcvbl4F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917464.png" group-title="beIN Sport_ Max",INFOSPORT+
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917464&extension=ts&play_token=Clmo9mhjsK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1917480.png" group-title="beIN Sport_ Max",SPORT EN FRANCE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917480&extension=ts&play_token=TReVFxpCu2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="beIN Sport_ UK",BEIN SPORT 1 EN HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=49226&extension=ts&play_token=bWv9GBFjWQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="beIN Sport_ UK",BEIN SPORT 2 EN FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=483920&extension=ts&play_token=FNGWb7Xt7R
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="beIN Sport_ UK",BEIN SPORTS 1 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=238265&extension=ts&play_token=grIbTV5QEy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="beIN Sport_ UK",BEIN SPORTS 1 EN SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=735946&extension=ts&play_token=FVfi9VpyjY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="beIN Sport_ UK",BEIN SPORTS 1 PREMIUM HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=238261&extension=ts&play_token=8iMjm4jAEb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="beIN Sport_ UK",BEIN SPORTS 2 PREMIUM HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=238262&extension=ts&play_token=gZyCV8Ec6F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="beIN Sport_ UK",BEIN SPORTS 3 EN SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=735944&extension=ts&play_token=eabNVQouEH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="beIN Sport_ UK",BEIN SPORTS 5 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=238268&extension=ts&play_token=j5FPbew2QY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="beIN Sport_ UK",BEIN SPORTS 6 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=238269&extension=ts&play_token=Oml87y2HMK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="beIN Sport_ UK",BEIN SPORTS ASIA 2
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=923431&extension=ts&play_token=hO6c1zq61P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="beIN Sport_ UK",BEIN SPORTS ASIA 3
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=923430&extension=ts&play_token=dK5jyd9JOj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="beIN Sport_ UK",BEIN SPORTS AU 1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1348093&extension=ts&play_token=G5CTXo46Fr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="beIN Sport_ UK",BEIN SPORTS AU 2
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1348102&extension=ts&play_token=mQN5DzBUkH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917186.png" group-title="beIN Sport_ Xtra",BEIN SPORT XTRA 2 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917186&extension=ts&play_token=7WNTdnFl0V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917183.png" group-title="beIN Sport_ Xtra",BEIN SPORT XTRA 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917183&extension=ts&play_token=6YMFgzMEP5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917182.png" group-title="beIN Sport_ Xtra",BEIN SPORT XTRA 3 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917182&extension=ts&play_token=f3kMG5raXd
-#M3U_EXTRACT: innovationtv.eu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917206.png" group-title="beIN Sports",BEIN SPORT 1 4K
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917206&extension=ts&play_token=LUP7jynP9S
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917215.png" group-title="beIN Sports",BEIN SPORT 01 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917215&extension=ts&play_token=vMoXalgPz0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917197.png" group-title="beIN Sports",BEIN SPORT 01 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917197&extension=ts&play_token=YKaJaGp2UV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917223.png" group-title="beIN Sports",BEIN SPORT 02 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917223&extension=ts&play_token=k9zqaxADjC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917213.png" group-title="beIN Sports",BEIN SPORT 03 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917213&extension=ts&play_token=Qh9hJ9msKR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917203.png" group-title="beIN Sports",BEIN SPORT 4 4K
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917203&extension=ts&play_token=krtGNpMIYd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917194.png" group-title="beIN Sports",BEIN SPORT 04 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917194&extension=ts&play_token=xzWpFynp6y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917193.png" group-title="beIN Sports",BEIN SPORT 05 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917193&extension=ts&play_token=VudkWdFMlY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917192.png" group-title="beIN Sports",BEIN SPORT 06 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917192&extension=ts&play_token=giYhYjo2XE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917209.png" group-title="beIN Sports",BEIN SPORT 07 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917209&extension=ts&play_token=kcXuSYyyJR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917199.png" group-title="beIN Sports",BEIN SPORT 8 4K
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917199&extension=ts&play_token=wJlimTjLDH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1917190.png" group-title="beIN Sports",BEIN SPORT 08 SD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917190&extension=ts&play_token=aYlVvPTlzz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="CANAL+ Sport",CANAL+ SPORT 1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917594&extension=ts&play_token=Mlt2EqqAVV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png" group-title="CANAL+ Sport",CANAL+ SPORT 4
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917591&extension=ts&play_token=mwt2JJekuV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png" group-title="DAZN Sport",DAZN EUROSPORT 1 IT HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917691&extension=ts&play_token=JH3Rpi96oi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="DE_ Sky Sport",SKY SPORT 8 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917534&extension=ts&play_token=bPGzg2AdHg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="DE_ Sky Sport",SKY SPORT BUNDESLIGA 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917530&extension=ts&play_token=36BIQoqcFv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="DE_ Sky Sport",SKY SPORT BUNDESLIGA 8 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917524&extension=ts&play_token=lZXjT78UQW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="DE_ Sky Sport",SKY SPORT GOLF HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917543&extension=ts&play_token=XQbNUuv2i9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="DE_ Sky Sport",SKY SPORT PREMIER LEAGUE HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917546&extension=ts&play_token=yd6OMUt00J
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917364.png" group-title="GR_ NOVA",NOVA SPORTS 1 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917364&extension=ts&play_token=X1Gj7Vn0NH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917362.png" group-title="GR_ NOVA",NOVA SPORTS 3 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917362&extension=ts&play_token=og37Tu7IVe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917361.png" group-title="GR_ NOVA",NOVA SPORTS 4 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917361&extension=ts&play_token=WKbDhoxg4L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917360.png" group-title="GR_ NOVA",NOVA SPORTS 5 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917360&extension=ts&play_token=P1ZK8DVp4m
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917368.png" group-title="GR_ NOVA",NOVA SPORTS NEWS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917368&extension=ts&play_token=Mq8wuw4xmC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917367.png" group-title="GR_ NOVA",NOVA SPORTS PREMIER LEAGUE
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917367&extension=ts&play_token=UU04pfdmgR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="IT_ Sky Sport",SKY SPORT ARENA
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917714&extension=ts&play_token=bWjSfVGQVJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917347.png" group-title="Magenta Sport",MAGENTA SPORTS 5 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917347&extension=ts&play_token=hwfhR68voD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917345.png" group-title="Magenta Sport",MAGENTA SPORTS 7 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917345&extension=ts&play_token=ggWXXuVylL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917344.png" group-title="Magenta Sport",MAGENTA SPORTS 8 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917344&extension=ts&play_token=klaEIbu7U7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917342.png" group-title="Magenta Sport",MAGENTA SPORTS HIGHLIGHT HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917342&extension=ts&play_token=PlX4Gz6WKm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917552.png" group-title="NL_ Ziggo",ZIGGO SPORT HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917552&extension=ts&play_token=yGArc3e2qX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917561.png" group-title="NL_ Ziggo",ZIGGO SPORT 1 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917561&extension=ts&play_token=uByAJMKGkp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917559.png" group-title="NL_ Ziggo",ZIGGO SPORT 3 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917559&extension=ts&play_token=nwF49tlCZs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917618.png" group-title="PL_ Eleven Sport",ELEVEN SPORT 1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917618&extension=ts&play_token=WFZABdZ3I6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917614.png" group-title="PL_ Polsat",POLSAT SPORT 1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917614&extension=ts&play_token=yWQoTsHiTB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917612.png" group-title="PL_ Polsat",POLSAT SPORT 3
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917612&extension=ts&play_token=vAVQJBD430
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917605.png" group-title="PL_ Polsat",POLSAT SPORT FIGHT
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917605&extension=ts&play_token=49CX3yylqg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917258.png" group-title="RO_ Prima Sport",RO DIGI SPORT 3 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917258&extension=ts&play_token=JyLjzuXFpd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917253.png" group-title="RO_ Prima Sport",RO PRIMA SPORT 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917253&extension=ts&play_token=oemJfzQzZ5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917249.png" group-title="RO_ Prima Sport",RO PRIMA SPORT PPV1
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917249&extension=ts&play_token=yGEc0BhHkU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917248.png" group-title="RO_ Prima Sport",RO PRIMA SPORT PPV2
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917248&extension=ts&play_token=214ffeG7Kx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917246.png" group-title="RO_ Prima Sport",RO SPORT EXTRA HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917246&extension=ts&play_token=spu6lYqOBG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917245.png" group-title="RO_ Prima Sport",RO TVR SPORT HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917245&extension=ts&play_token=4Sx6wNPR2a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="Sky Sport",SKY SPORT CRICKET
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917637&extension=ts&play_token=rCnp3RV5FN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="Sky Sport",SKY SPORT GOLF
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917633&extension=ts&play_token=AmvY8o6UsE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="Sky Sport",SKY SPORT NEWS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917638&extension=ts&play_token=RgbNTNciI6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png" group-title="Sky Sport",SKY SPORT TENNIS
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917628&extension=ts&play_token=wje0ySzFsk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917355.png" group-title="Sports_ Mix",NOVA EXTRA SPORTS 1 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917355&extension=ts&play_token=c8s0AM8AoZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917255.png" group-title="TV mix",RO EUROSPORT 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917255&extension=ts&play_token=l5tgPgjgTG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905926.png" group-title="UK_ GENERAL",NOWTV PREMIER SPORTS 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905926&extension=ts&play_token=nIUQMMJYyb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905867.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS ACTION FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905867&extension=ts&play_token=3iDQPHedGC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905854.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS GOLF HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905854&extension=ts&play_token=0699GXAbUS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905849.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS MIX HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905849&extension=ts&play_token=1OvXHfDF0q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905847.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS NEWS HQ FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905847&extension=ts&play_token=ySb3o3A8Ae
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905846.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS NEWS HQ HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905846&extension=ts&play_token=PXOGmFWYhv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905842.png" group-title="UK_ GENERAL",NOWTV SKY SPORTS PREMIER LEAGUE HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905842&extension=ts&play_token=9oO6EQKDcU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="UK_ GENERAL",NOWTV TNT SPORT 2 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905815&extension=ts&play_token=FMjujhEqTP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="UK_ GENERAL",NOWTV TNT SPORT 3 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905813&extension=ts&play_token=qK8Vv0NPbt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png" group-title="UK_ GENERAL",NOWTV TNT SPORTS 4 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1905808&extension=ts&play_token=WRxt6XuVJN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK_ Premier League",PREMIER SPORTS 1 HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=45235&extension=ts&play_token=CDDrnrm6h0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK_ Premier League",PREMIER SPORTS 1 IRELAND HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458647&extension=ts&play_token=dBWkzF6wvH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="UK_ SKY Sport",SKY SPORTS + FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458676&extension=ts&play_token=jMyBD7Fv6k
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30501.png" group-title="UK_ SKY Sport",SKY SPORTS ACTION FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=30501&extension=ts&play_token=1ZjVXjiEAP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK_ SKY Sport",SKY SPORTS ACTION HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=83456&extension=ts&play_token=GcthZjpbm6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK_ SKY Sport",SKY SPORTS CRICKET HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458675&extension=ts&play_token=7Q1JhxHH11
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK_ SKY Sport",SKY SPORTS FOOTBALL HEVC HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458660&extension=ts&play_token=SAK0FAReBf
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79478.png" group-title="UK_ SKY Sport",SKY SPORTS FOOTBALL
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=79478&extension=ts&play_token=fA8OxaDZ7f
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79476.png" group-title="UK_ SKY Sport",SKY SPORTS MAIN EVENT
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=79476&extension=ts&play_token=QK7TOQDcYh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK_ SKY Sport",SKY SPORTS MIX HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458671&extension=ts&play_token=jBjSrVdAoS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK_ SKY Sport",SKY SPORTS NEWS HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458670&extension=ts&play_token=CMu58L5xTX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK_ SKY Sport",SKY SPORTS TENNIS HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458813&extension=ts&play_token=fqrBWR0Pfp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK_ SKY Sport",SKY SPORTS TENNIS HEVC HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458814&extension=ts&play_token=Kf9noN6HNk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1917623.png" group-title="UK_ TNT Sport",TNT SPORT 4
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1917623&extension=ts&play_token=8Edbbl2bgD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK_ TNT Sport",TNT SPORTS 3 HEVC FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458665&extension=ts&play_token=5EbbFCbfVm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK_ TNT Sport",TNT SPORTS 3 HEVC HD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1458652&extension=ts&play_token=hPeFdnrBqs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK_ TNT Sport",TNT SPORTS 4 FHD
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:D2:23:37&stream=1019935&extension=ts&play_token=vqPAEFnewK
+#M3U_EXTRACT: neonqptan.top
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN ES",DAZN F1 HD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57484
+#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA FHD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54668
+#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA FHD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57359
+#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/25125
+#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57344
+#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/63431
+#EXTINF:-1 tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN ES",DAZN LALIGA 2
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57476
+#EXTINF:-1 tvg-name="(FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(FHD) M+ LALIGA
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54532
+#EXTINF:-1 tvg-name="(HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(HD) M+ LALIGA
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5758
+#EXTINF:-1 tvg-name="(FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(FHD) M+ LIGA DE CAMPEONES
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54531
+#EXTINF:-1 tvg-name="(SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(SD) M+ LIGA DE CAMPEONES
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57367
+#EXTINF:-1 tvg-name="(FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES_ M+ LIGA",(FHD) M+ LIGA DE CAMPEONES 2
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5663
+#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 4
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5665
+#EXTINF:-1 tvg-name="(FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(FHD REPUESTO) M+ LALIGA
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57362
+#EXTINF:-1 tvg-name="(HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(HD REPUESTO) M+ LALIGA
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54535
+#EXTINF:-1 tvg-name="(FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57363
