@@ -1,38 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="beIN Sport_ FR",beIN MAX 6 4K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248617.ts
-#EXTINF:-1 group-title="beIN Sport_ FR",beIN MAX 6 HD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248605.ts
-#EXTINF:-1 group-title="beIN Sport_ FR",beIN MAX 6 SD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248611.ts
-#M3U_EXTRACT: legendking.net
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 1 HD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248600.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 1 SD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248606.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 1 8K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248618.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 2 4K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248613.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 2 HD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248601.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 2 SD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248607.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 2 8K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248619.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 3 4K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248614.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 3 HD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248602.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 3 SD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248608.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 3 8K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248620.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 4 4K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248615.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 4 HD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248603.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 4 SD
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248609.ts
-#EXTINF:-1 group-title="beIN Sport_ Max",4K beIN MAX 4 8K
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248621.ts
+#M3U_EXTRACT: smart-d24k.live
+#EXTINF:-1 tvg-name="DAZN FORMULA 1 ᵁᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHPglJ1QV99Jam_mIG9yHjg3yOD8m7ZWDqJS6jKfRsw&s=10" group-title="DAZN ES",DAZN FORMULA 1 ᵁᴴᴰ
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/21015.ts
+#EXTINF:-1 tvg-name="M. Deportes 4 ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Deportes_4_por_Movistar_Plus%2B_2023.png/revision/latest/scale-to-width-down/185?cb=20230721201006" group-title="ES_ M+ Deportes",M. Deportes 4 ᵁᴴᴰ
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/201487.ts
+#EXTINF:-1 tvg-name="M+ LALIGA BAR ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/LaLiga_por_Movistar_Plus%2B_2025.svg/revision/latest?cb=20251220163137" group-title="ES_ M+ LALIGA",M+ LALIGA BAR ᵁᴴᴰ
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/683809.ts
+#EXTINF:-1 tvg-name="M+LCAMPEON 11 ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Liga_de_Campeones_11_por_Movistar_Plus%2B.png/revision/latest/scale-to-width-down/185?cb=2023070817181" group-title="ES_ M+",M+LCAMPEON 11 ᵁᴴᴰ
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/482755.ts
+#EXTINF:-1 tvg-name="M+ Vamos 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES_ VAMOS",M+ Vamos 2 FHD
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/1947043.ts
+#EXTINF:-1 tvg-name="ELLAS #V FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ES_ Sport",ELLAS #V FHD (SAT)
+http://smart-d24k.live/live/yfhuiri4m2/zkjdvijgzb/1279302.ts
