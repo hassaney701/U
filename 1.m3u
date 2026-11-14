@@ -1,68 +1,18 @@
 #EXTM3U
-#M3U_EXTRACT: main.light-ott.net
-#EXTINF:-1 tvg-name="BEST DIRECT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/BEST DIRECT.png" group-title="UK_ GENERAL",BEST DIRECT
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170606&extension=ts&play_token=mZLkfoXzkB
-#EXTINF:-1 tvg-name="BLAZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/BLAZE.png" group-title="UK_ GENERAL",BLAZE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170582&extension=ts&play_token=aPseoNhl0W
-#EXTINF:-1 tvg-name="CLUBLAND" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/CLUBLAND.png" group-title="UK_ GENERAL",CLUBLAND
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=827923&extension=ts&play_token=vpnbhZy4tc
-#EXTINF:-1 tvg-name="GREAT ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT ACTION.png" group-title="UK_ GENERAL",GREAT ACTION
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170619&extension=ts&play_token=sHEH4wfEfz
-#EXTINF:-1 tvg-name="GREAT ACTION +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ACTION +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823776&extension=ts&play_token=wZPczE9HOw
-#EXTINF:-1 tvg-name="GREAT MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT MOVIES
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823779&extension=ts&play_token=uG7va03hN7
-#EXTINF:-1 tvg-name="GREAT MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT MOVIES.png" group-title="UK_ GENERAL",GREAT MOVIES
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170620&extension=ts&play_token=9PsPiiqLE2
-#EXTINF:-1 tvg-name="GREAT MOVIES +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT MOVIES +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823778&extension=ts&play_token=RsHomZPNMP
-#EXTINF:-1 tvg-name="GREAT ROMANACE" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ROMANACE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823775&extension=ts&play_token=fM6ZGePxVH
-#EXTINF:-1 tvg-name="GREAT ROMANCE +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT ROMANCE +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823774&extension=ts&play_token=VXJ0wXiYzz
-#EXTINF:-1 tvg-name="GREAT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823781&extension=ts&play_token=X04Q47yHdX
-#EXTINF:-1 tvg-name="GREAT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/GREAT TV.png" group-title="UK_ GENERAL",GREAT TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170618&extension=ts&play_token=rTdUDqeyuY
-#EXTINF:-1 tvg-name="GREAT TV +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/GREATTVLOGO.png" group-title="UK_ GENERAL",GREAT TV +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823780&extension=ts&play_token=92heDUNAC3
-#EXTINF:-1 tvg-name="MOVIES 24" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/2/MOVIES24TV.png" group-title="UK_ GENERAL",MOVIES 24
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=823768&extension=ts&play_token=dWkAv6yvMf
-#EXTINF:-1 tvg-name="QUEST HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST.png" group-title="UK_ GENERAL",QUEST HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170572&extension=ts&play_token=SzCmrqzMaR
-#EXTINF:-1 tvg-name="QUEST +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST.png" group-title="UK_ GENERAL",QUEST +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170573&extension=ts&play_token=sUpKkNlclT
-#EXTINF:-1 tvg-name="QUEST RED" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST RED.png" group-title="UK_ GENERAL",QUEST RED
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170574&extension=ts&play_token=zsS7o10iG5
-#EXTINF:-1 tvg-name="QUEST RED +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST RED +1.png" group-title="UK_ GENERAL",QUEST RED +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170575&extension=ts&play_token=l6CrEtGqK8
-#EXTINF:-1 tvg-name="QVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC.png" group-title="UK_ GENERAL",QVC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170595&extension=ts&play_token=4k4SQesU1d
-#EXTINF:-1 tvg-name="QVC BEAUTY" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC BEAUTY.png" group-title="UK_ GENERAL",QVC BEAUTY
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170596&extension=ts&play_token=XeRCo34vCk
-#EXTINF:-1 tvg-name="QVC EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QVC EXTRA.png" group-title="UK_ GENERAL",QVC EXTRA
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170597&extension=ts&play_token=14q16VDz0i
-#EXTINF:-1 tvg-name="VIRGIN MEDIA FOUR 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN4.png" group-title="TV mix",VIRGIN MEDIA FOUR 4K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833957&extension=ts&play_token=bHNz7tYaq3
-#EXTINF:-1 tvg-name="VIRGIN MEDIA ONE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN1.png" group-title="TV mix",VIRGIN MEDIA ONE 4K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833962&extension=ts&play_token=Zt8PngmhKN
-#EXTINF:-1 tvg-name="VIRGIN MEDIA ONE +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN1.png" group-title="TV mix",VIRGIN MEDIA ONE +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833961&extension=ts&play_token=xQEHt0xcxs
-#EXTINF:-1 tvg-name="VIRGIN MEDIA THREE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/IEVIRGINMEDIA.png" group-title="TV mix",VIRGIN MEDIA THREE 4K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833958&extension=ts&play_token=cg6L8Ac4x7
-#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO 4K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833959&extension=ts&play_token=OrzFwzVd90
-#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO 8K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=833960&extension=ts&play_token=90SchXPQlP
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 1 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 1 HD NL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894968&extension=ts&play_token=teT3lzURJ7
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 3 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 3 HD NL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894970&extension=ts&play_token=NxJV6JEjRq
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 4 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 4 HD NL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894971&extension=ts&play_token=qrkAGYA9G9
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 5 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 5 HD NL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894972&extension=ts&play_token=KknWrX6kE1
-#EXTINF:-1 tvg-name="UCL ZIGGO SPORT 6 HD NL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="NL_ Ziggo",UCL ZIGGO SPORT 6 HD NL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894973&extension=ts&play_token=C0y4v4tpqa
-#EXTINF:-1 tvg-name="VIRGIN MEDIA TWO HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/IRELAND/VIRGIN2.png" group-title="TV mix",VIRGIN MEDIA TWO HD ⏺ʳᵉᶜ
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=595789&extension=ts&play_token=HODXGGkZJE
+#M3U_EXTRACT: cold-breeze-9b95.learnwithgedo.workers.dev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXnfSrDC/Bein1.jpg" group-title="beIN SPORTS",beIN SPORTS 1 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/4.m3u8
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/6.m3u8
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/8.m3u8
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/10.m3u8
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 HD
+https://cold-breeze-9b95.learnwithgedo.workers.dev/data/stream/11.m3u8
