@@ -1,32 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1339248" tvg-name="AR - ALWAN AFLAM 4 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR _ ALWAN ENTERTAINMENT", AR - ALWAN AFLAM 4 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339248.ts
-#EXTINF:-1 tvg-id="1388358" tvg-name="##### AR - ALWAN ENTERTAINMENT##### " tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR _ ALWAN ENTERTAINMENT", ##### AR - ALWAN ENTERTAINMENT#####
-http://kobatv.xyz/live/Home2027/6ZQ770K/1388358.ts
-#EXTINF:-1 tvg-id="1339235" tvg-name="AR - ALWAN QURAN 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR _ ALWAN ENTERTAINMENT", AR - ALWAN QURAN 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339235.ts
-#M3U_EXTRACT: kobatv.xyz
-#EXTINF:-1 tvg-name="ALWAN AFLAM 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN AFLAM 1 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339245.ts
-#EXTINF:-1 tvg-name="ALWAN AFLAM 2 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN AFLAM 2 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339246.ts
-#EXTINF:-1 tvg-name="ALWAN AFLAM 3 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN AFLAM 3 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339247.ts
-#EXTINF:-1 tvg-name="ALWAN AGHANI 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN AGHANI 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339239.ts
-#EXTINF:-1 tvg-name="ALWAN ALWATHAEQYE 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN ALWATHAEQYE 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339238.ts
-#EXTINF:-1 tvg-name="ALWAN ANIME 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN ANIME 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339236.ts
-#EXTINF:-1 tvg-name="ALWAN ATFAL 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN ATFAL 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339237.ts
-#EXTINF:-1 tvg-name="ALWAN BOLLYWOOD 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN BOLLYWOOD 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339241.ts
-#EXTINF:-1 tvg-name="ALWAN KOREA 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN KOREA 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339240.ts
-#EXTINF:-1 tvg-name="ALWAN MOSALSALAT 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN MOSALSALAT 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339242.ts
-#EXTINF:-1 tvg-name="ALWAN MOSALSALAT+ 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN MOSALSALAT+ 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339243.ts
-#EXTINF:-1 tvg-name="ALWAN TURKEY 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR_ OSN MBC",ALWAN TURKEY 4K
-http://kobatv.xyz/live/Home2027/6ZQ770K/1339244.ts
+#M3U_EXTRACT: playlist.fasttvcdn.com
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ADEL - iMAM TV
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN DRAMA
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN كوميدي
+https://playlist.fasttvcdn.com:443/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/0.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordanأرشيف
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",إقرأ
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",إقرأ قرأن كريم
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا كوميدي
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عادل إمام
+https://playlist.fasttvcdn.com:443/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
