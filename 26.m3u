@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Roya TV (Jordan)" group-title="AR_ OSN MBC",Roya TV (Jordan)
-https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Maraya KiDS
-https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",maraya_Live
-https://live.kwikmotion.com/smcottlive/ott1.smil/smcottpublish/ott1_source/chunks.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المستقبل
-https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472zfrg75.png" group-title="NEWS",ALARABY
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic
-#M3U_EXTRACT: live.kwikmotion.com
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",al-araby_FHD
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-Araby-720
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_720p/chunks.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Quran Kareem shariqa
-https://live.kwikmotion.com:443/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Quran karem (FM)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shariqa Quran (FM)
-https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",السنة النبوية (FM)
-https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#M3U_EXTRACT: 3.3loka.site
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_38843whca1.png" group-title="ALWAN SPORT",ALWAN 1 FHD
+https://3.3loka.site/aloka1313/aloka1313/125
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3884x9r0j2.png" group-title="ALWAN SPORT",ALWAN 2 FHD
+https://3.3loka.site/aloka1313/aloka1313/126
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3884qsnn42.png" group-title="ALWAN SPORT",ALWAN 3 FHD
+https://3.3loka.site/aloka1313/aloka1313/127
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_38845pti51.png" group-title="ALWAN SPORT",ALWAN 4 FHD
+https://3.3loka.site/aloka1313/aloka1313/128
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 FHD
+https://3.3loka.site/aloka1214/aloka1214/11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 FHD
+https://3.3loka.site/aloka1214/aloka1214/12
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 FHD
+https://3.3loka.site/aloka1214/aloka1214/13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 FHD
+https://3.3loka.site/aloka1214/aloka1214/14
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 FHD
+https://3.3loka.site/aloka1214/aloka1214/15
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 FHD
+https://3.3loka.site/aloka1214/aloka1214/16
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 FHD
+https://3.3loka.site/aloka1214/aloka1214/17
