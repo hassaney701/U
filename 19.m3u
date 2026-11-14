@@ -1,256 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="beIN Sport_ EN",beIN Sports Xtra en Espanol
-http://013tv.com:8080/F24657/f44540b5/306948
-#EXTINF:-1 group-title="CANAL+ Sport",Canal 5
-http://013tv.com:8080/F24657/f44540b5/303782
-#EXTINF:-1 group-title="CANAL+ Sport",Canal 8 TV+
-http://013tv.com:8080/F24657/f44540b5/302456
-#EXTINF:-1 group-title="CANAL+ Sport",CANAL 11 CDN
-http://013tv.com:8080/F24657/f44540b5/303783
-#EXTINF:-1 group-title="CANAL+ Sport",Canal Capital
-http://013tv.com:8080/F24657/f44540b5/306783
-#EXTINF:-1 group-title="CANAL+ Sport",Canal DTV
-http://013tv.com:8080/F24657/f44540b5/308800
-#EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga 1
-http://013tv.com:8080/F24657/f44540b5/297787
-#EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga 2
-http://013tv.com:8080/F24657/f44540b5/298745
-#EXTINF:-1 group-title="DAZN LALIGA",DAZN LaLiga 1 FHD VIP
-http://013tv.com:8080/F24657/f44540b5/309520
-#EXTINF:-1 group-title="DAZN Sport",DAZN 1
-http://013tv.com:8080/F24657/f44540b5/64711
-#EXTINF:-1 group-title="DAZN Sport",DAZN 2
-http://013tv.com:8080/F24657/f44540b5/64712
-#EXTINF:-1 group-title="DAZN Sport",DAZN 3
-http://013tv.com:8080/F24657/f44540b5/269912
-#EXTINF:-1 group-title="DAZN Sport",DAZN 4
-http://013tv.com:8080/F24657/f44540b5/269911
-#EXTINF:-1 group-title="DAZN Sport",DAZN F1
-http://013tv.com:8080/F24657/f44540b5/1672
-#EXTINF:-1 group-title="ES_ ESPÃNA",AMC
-http://013tv.com:8080/F24657/f44540b5/1174
-#EXTINF:-1 group-title="ES_ ESPÃNA",AMC Break
-http://013tv.com:8080/F24657/f44540b5/297245
-#EXTINF:-1 group-title="ES_ ESPÃNA",AXN
-http://013tv.com:8080/F24657/f44540b5/1172
-#EXTINF:-1 group-title="ES_ ESPÃNA",AXN Movies
-http://013tv.com:8080/F24657/f44540b5/298734
-#EXTINF:-1 group-title="ES_ ESPÃNA",AXN White
-http://013tv.com:8080/F24657/f44540b5/1171
-#EXTINF:-1 group-title="ES_ ESPÃNA",Calle 13
-http://013tv.com:8080/F24657/f44540b5/1168
-#EXTINF:-1 group-title="ES_ ESPÃNA",Canal Hollywood
-http://013tv.com:8080/F24657/f44540b5/1154
-#EXTINF:-1 group-title="ES_ ESPÃNA",Comedia Espanola
-http://013tv.com:8080/F24657/f44540b5/309715
-#EXTINF:-1 group-title="ES_ ESPÃNA",Comedy Central
-http://013tv.com:8080/F24657/f44540b5/1164
-#EXTINF:-1 group-title="ES_ ESPÃNA",Dark
-http://013tv.com:8080/F24657/f44540b5/121514
-#EXTINF:-1 group-title="ES_ ESPÃNA",DMAX
-http://013tv.com:8080/F24657/f44540b5/2762
-#EXTINF:-1 group-title="ES_ ESPÃNA",Energy
-http://013tv.com:8080/F24657/f44540b5/2217
-#EXTINF:-1 group-title="ES_ ESPÃNA",Factoria de Ficcion/FDF
-http://013tv.com:8080/F24657/f44540b5/2207
-#EXTINF:-1 group-title="ES_ ESPÃNA",FOX
-http://013tv.com:8080/F24657/f44540b5/1158
-#EXTINF:-1 group-title="ES_ ESPÃNA",Fox Life
-http://013tv.com:8080/F24657/f44540b5/295164
-#EXTINF:-1 group-title="ES_ ESPÃNA",Hollywood
-http://013tv.com:8080/F24657/f44540b5/309714
-#EXTINF:-1 group-title="ES_ ESPÃNA",Movistar Comedia
-http://013tv.com:8080/F24657/f44540b5/1146
-#EXTINF:-1 group-title="ES_ ESPÃNA",Movistar Comedia Espanola
-http://013tv.com:8080/F24657/f44540b5/309716
-#EXTINF:-1 group-title="ES_ ESPÃNA",Nova
-http://013tv.com:8080/F24657/f44540b5/2189
-#EXTINF:-1 group-title="ES_ ESPÃNA",Paramount Network
-http://013tv.com:8080/F24657/f44540b5/2209
-#EXTINF:-1 group-title="ES_ ESPÃNA",Sundance TV
-http://013tv.com:8080/F24657/f44540b5/2757
-#EXTINF:-1 group-title="ES_ ESPÃNA",SYFY
-http://013tv.com:8080/F24657/f44540b5/1135
-#EXTINF:-1 group-title="ES_ ESPÃNA",TCM
-http://013tv.com:8080/F24657/f44540b5/1134
-#EXTINF:-1 group-title="ES_ ESPÃNA",Warner TV
-http://013tv.com:8080/F24657/f44540b5/298814
-#EXTINF:-1 group-title="ES_ Hypermotion",LaLiga TV Hypermotion
-http://013tv.com:8080/F24657/f44540b5/300830
-#EXTINF:-1 group-title="ES_ Hypermotion",LaLiga TV Hypermotion 2
-http://013tv.com:8080/F24657/f44540b5/300831
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar LaLiga
-http://013tv.com:8080/F24657/f44540b5/1141
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar LaLiga 2
-http://013tv.com:8080/F24657/f44540b5/5311
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar LaLiga 3
-http://013tv.com:8080/F24657/f44540b5/281772
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones FHD
-http://013tv.com:8080/F24657/f44540b5/2800
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 2 FHD
-http://013tv.com:8080/F24657/f44540b5/81096
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 3
-http://013tv.com:8080/F24657/f44540b5/298805
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 4
-http://013tv.com:8080/F24657/f44540b5/298806
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 5
-http://013tv.com:8080/F24657/f44540b5/298807
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 6
-http://013tv.com:8080/F24657/f44540b5/298808
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 7
-http://013tv.com:8080/F24657/f44540b5/146661
-#EXTINF:-1 group-title="ES_ MOVISTAR",Movistar Liga De Campeones 8
-http://013tv.com:8080/F24657/f44540b5/301581
-#M3U_EXTRACT: 013tv.com
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 1
-http://013tv.com:8080/F24657/f44540b5/12107
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 2
-http://013tv.com:8080/F24657/f44540b5/12108
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 3
-http://013tv.com:8080/F24657/f44540b5/12109
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 4
-http://013tv.com:8080/F24657/f44540b5/12110
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 6
-http://013tv.com:8080/F24657/f44540b5/15931
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 7
-http://013tv.com:8080/F24657/f44540b5/11819
-#EXTINF:-1 group-title="ES_ Spain",Alquiler 8
-http://013tv.com:8080/F24657/f44540b5/281769
-#EXTINF:-1 group-title="ES_ Spain",Atreseries (A3 Series)
-http://013tv.com:8080/F24657/f44540b5/9102
-#EXTINF:-1 group-title="ES_ Spain",Bom Cine
-http://013tv.com:8080/F24657/f44540b5/75926
-#EXTINF:-1 group-title="ES_ Spain",Cosmopolitan TV
-http://013tv.com:8080/F24657/f44540b5/2215
-#EXTINF:-1 group-title="ES_ Spain",Mad
-http://013tv.com:8080/F24657/f44540b5/2213
-#EXTINF:-1 group-title="ES_ Spain",Movistar Accion
-http://013tv.com:8080/F24657/f44540b5/1148
-#EXTINF:-1 group-title="ES_ Spain",Movistar Cine Espanol
-http://013tv.com:8080/F24657/f44540b5/64788
-#EXTINF:-1 group-title="ES_ Spain",Movistar Clasicos
-http://013tv.com:8080/F24657/f44540b5/281773
-#EXTINF:-1 group-title="ES_ Spain",Movistar Drama
-http://013tv.com:8080/F24657/f44540b5/1144
-#EXTINF:-1 group-title="ES_ Spain",Movistar Estrenos
-http://013tv.com:8080/F24657/f44540b5/1143
-#EXTINF:-1 group-title="ES_ Spain",Movistar Indie
-http://013tv.com:8080/F24657/f44540b5/300840
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Action Movies Spain
-http://013tv.com:8080/F24657/f44540b5/309388
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Cine Español
-http://013tv.com:8080/F24657/f44540b5/309384
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Comedy Movies Spain
-http://013tv.com:8080/F24657/f44540b5/309379
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Drama Movies Spain
-http://013tv.com:8080/F24657/f44540b5/309371
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Family Movies Spain
-http://013tv.com:8080/F24657/f44540b5/309366
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Thrillers Spain
-http://013tv.com:8080/F24657/f44540b5/309351
-#EXTINF:-1 group-title="ES_ Spain",Rakuten TV Top Movies Spain
-http://013tv.com:8080/F24657/f44540b5/309348
-#EXTINF:-1 group-title="ES_ Spain",Somos
-http://013tv.com:8080/F24657/f44540b5/16274
-#EXTINF:-1 group-title="ES_ Spain",Star Life
-http://013tv.com:8080/F24657/f44540b5/304141
-#EXTINF:-1 group-title="ES_ Spain",Univers TV
-http://013tv.com:8080/F24657/f44540b5/307488
-#EXTINF:-1 group-title="ES_ Spain",XTRM
-http://013tv.com:8080/F24657/f44540b5/11148
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN
-http://013tv.com:8080/F24657/f44540b5/5779
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN 3
-http://013tv.com:8080/F24657/f44540b5/3032
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN 4
-http://013tv.com:8080/F24657/f44540b5/295304
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN 5
-http://013tv.com:8080/F24657/f44540b5/303752
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN Deportes
-http://013tv.com:8080/F24657/f44540b5/6446
-#EXTINF:-1 group-title="ESPN_ Autre",ESPN Premium
-http://013tv.com:8080/F24657/f44540b5/306507
-#EXTINF:-1 group-title="FOX Sport",FOX Sports
-http://013tv.com:8080/F24657/f44540b5/40839
-#EXTINF:-1 group-title="FOX Sport",FOX Sports 2
-http://013tv.com:8080/F24657/f44540b5/40840
-#EXTINF:-1 group-title="FOX Sport",FOX Sports 3
-http://013tv.com:8080/F24657/f44540b5/3042
-#EXTINF:-1 group-title="Mix_ Documentary",ANIMAL PLANET
-http://013tv.com:8080/F24657/f44540b5/2997
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery Civilization
-http://013tv.com:8080/F24657/f44540b5/5773
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery en Español
-http://013tv.com:8080/F24657/f44540b5/309939
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery H&H
-http://013tv.com:8080/F24657/f44540b5/5774
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery Kids
-http://013tv.com:8080/F24657/f44540b5/3020
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery Turbo
-http://013tv.com:8080/F24657/f44540b5/3023
-#EXTINF:-1 group-title="Mix_ Documentary",Discovery World
-http://013tv.com:8080/F24657/f44540b5/8894
-#EXTINF:-1 group-title="Mix_ Documentary",History
-http://013tv.com:8080/F24657/f44540b5/3060
-#EXTINF:-1 group-title="Mix_ Documentary",Investigation Discovery
-http://013tv.com:8080/F24657/f44540b5/3063
-#EXTINF:-1 group-title="Mix_ Documentary",NAT GEO
-http://013tv.com:8080/F24657/f44540b5/3073
-#EXTINF:-1 group-title="Mix_ Documentary",NAT GEO Mundo
-http://013tv.com:8080/F24657/f44540b5/267311
-#EXTINF:-1 group-title="Mix_ Documentary",NAT GEO Wild
-http://013tv.com:8080/F24657/f44540b5/8745
-#EXTINF:-1 group-title="Movies",FOX Movies
-http://013tv.com:8080/F24657/f44540b5/303740
-#EXTINF:-1 group-title="Movies",Sony Movies
-http://013tv.com:8080/F24657/f44540b5/303737
-#EXTINF:-1 group-title="TV mix",Cinema Dinamita
-http://013tv.com:8080/F24657/f44540b5/3010
-#EXTINF:-1 group-title="TV mix",Cinemax
-http://013tv.com:8080/F24657/f44540b5/5770
-#EXTINF:-1 group-title="TV mix",CNN International
-http://013tv.com:8080/F24657/f44540b5/303777
-#EXTINF:-1 group-title="TV mix",Disney Channel
-http://013tv.com:8080/F24657/f44540b5/3025
-#EXTINF:-1 group-title="TV mix",Disney Junior
-http://013tv.com:8080/F24657/f44540b5/3026
-#EXTINF:-1 group-title="TV mix",Disney XD
-http://013tv.com:8080/F24657/f44540b5/285172
-#EXTINF:-1 group-title="TV mix",FOX Action
-http://013tv.com:8080/F24657/f44540b5/303745
-#EXTINF:-1 group-title="TV mix",FX
-http://013tv.com:8080/F24657/f44540b5/34561
-#EXTINF:-1 group-title="TV mix",Golden
-http://013tv.com:8080/F24657/f44540b5/303791
-#EXTINF:-1 group-title="TV mix",Golden Plus
-http://013tv.com:8080/F24657/f44540b5/303790
-#EXTINF:-1 group-title="TV mix",Golden Premier
-http://013tv.com:8080/F24657/f44540b5/303789
-#EXTINF:-1 group-title="TV mix",HBO
-http://013tv.com:8080/F24657/f44540b5/3055
-#EXTINF:-1 group-title="TV mix",HBO Family
-http://013tv.com:8080/F24657/f44540b5/3057
-#EXTINF:-1 group-title="TV mix",HBO Pop
-http://013tv.com:8080/F24657/f44540b5/3069
-#EXTINF:-1 group-title="TV mix",HBO Signature
-http://013tv.com:8080/F24657/f44540b5/3059
-#EXTINF:-1 group-title="TV mix",Sony Channel
-http://013tv.com:8080/F24657/f44540b5/3081
-#EXTINF:-1 group-title="TV mix",Studio Universal
-http://013tv.com:8080/F24657/f44540b5/3083
-#EXTINF:-1 group-title="TV mix",Telemundo 52 KVEA TV
-http://013tv.com:8080/F24657/f44540b5/300575
-#EXTINF:-1 group-title="TV mix",Telemundo Al Día
-http://013tv.com:8080/F24657/f44540b5/305045
-#EXTINF:-1 group-title="TV mix",Telemundo Atlantic City New Jersey WWSI TV
-http://013tv.com:8080/F24657/f44540b5/3119
-#EXTINF:-1 group-title="TV mix",Telemundo Chicago Illinois WSNS TV
-http://013tv.com:8080/F24657/f44540b5/290482
-#EXTINF:-1 group-title="TV mix",Telemundo Corpus Christi
-http://013tv.com:8080/F24657/f44540b5/308790
-#EXTINF:-1 group-title="TV mix",Telemundo Providence WYCN LD
-http://013tv.com:8080/F24657/f44540b5/198326
-#EXTINF:-1 group-title="TV mix",CNN ES
-http://013tv.com:8080/F24657/f44540b5/306788
-#EXTINF:-1 group-title="UK_ GENERAL",BBC Drama
-http://013tv.com:8080/F24657/f44540b5/309267
+#M3U_EXTRACT: 88.212.15.50
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Mix_ Documentary",DISCOVERY
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="JOJ Sport",JOJ
+http://88.212.15.50/live/test_joj_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Auduch.png" group-title="JOJ Sport",JOJ CINEMA
+http://88.212.15.50/live/test_joj_cinema_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="JOJ Sport",JOJ FAMILY
+http://88.212.15.50/live/joj_family_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="JOJ Sport",JOJ PLUS
+http://88.212.15.50/live/test_pluska_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="JOJ Sport",JOJ Šport
+http://88.212.15.50/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="JOJ Sport",JOJ Šport 2
+http://88.212.15.50/live/joj_sport_2_avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77ztmd9.png" group-title="TV mix",NOVA
+http://88.212.15.50/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRSsfRx.png" group-title="TV mix",NOVA Action
+http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hxm0bV.png" group-title="TV mix",NOVA CINEMA
+http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uN6sgf5.png" group-title="TV mix",NOVA International
+http://88.212.15.50/live/test_nova_int_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CdBHkPE.png" group-title="TV mix",NOVA KRIMI
+http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="RO_ Prima Sport",PRIMA
+http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/TCHEQUIE/PRIMACOOL.png" group-title="RO_ Prima Sport",PRIMA COOL
+http://88.212.15.50/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePrdyLi.png" group-title="RO_ Prima Sport",PRIMA MAX
+http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="RO_ Prima Sport",PRIMA Show
+http://88.212.15.50/live/prima_show_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="RO_ Prima Sport",PRIMA Star
+http://88.212.15.50/live/prima_star_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="RO_ Prima Sport",PRIMA ZOOM
+http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
