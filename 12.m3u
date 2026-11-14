@@ -1,34 +1,18 @@
 #EXTM3U
-#M3U_EXTRACT: neonqptan.top
-#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN ES",DAZN F1 HD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57484
-#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA FHD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54668
-#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA FHD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57359
-#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/25125
-#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57344
-#EXTINF:-1 tvg-name="DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN ES",DAZN LALIGA HD
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/63431
-#EXTINF:-1 tvg-name="DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN ES",DAZN LALIGA 2
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57476
-#EXTINF:-1 tvg-name="(FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(FHD) M+ LALIGA
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54532
-#EXTINF:-1 tvg-name="(HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(HD) M+ LALIGA
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5758
-#EXTINF:-1 tvg-name="(FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(FHD) M+ LIGA DE CAMPEONES
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54531
-#EXTINF:-1 tvg-name="(SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(SD) M+ LIGA DE CAMPEONES
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57367
-#EXTINF:-1 tvg-name="(FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES_ M+ LIGA",(FHD) M+ LIGA DE CAMPEONES 2
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5663
-#EXTINF:-1 tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES_ M+ LIGA",M+ LIGA DE CAMPEONES 4
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/5665
-#EXTINF:-1 tvg-name="(FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(FHD REPUESTO) M+ LALIGA
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57362
-#EXTINF:-1 tvg-name="(HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES_ M+ LALIGA",(HD REPUESTO) M+ LALIGA
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/54535
-#EXTINF:-1 tvg-name="(FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES_ M+ LIGA",(FHD REPUESTO) M+ LIGA DE CAMPEONES
-http://neonqptan.top:8080/6321786904471/afe4b6d7deb5/57363
+#M3U_EXTRACT: man1ted.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXnfSrDC/Bein1.jpg" group-title="beIN SPORTS",beIN SPORTS 1 SD
+https://man1ted.com/get.php?ch=beee1
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3472yez4k3.png" group-title="beIN SPORTS",beIN SPORTS 2 SD
+https://man1ted.com/get.php?ch=beee2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3KPXXL8/IMG-20250610-124131-856.png" group-title="beIN SPORTS",beIN SPORTS 3 SD
+https://man1ted.com/get.php?ch=beee3
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3472njzde1.png" group-title="beIN SPORTS",beIN SPORTS 4 SD
+https://man1ted.com/get.php?ch=beee4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNwc6JB/IMG-20250610-124142-353.png" group-title="beIN SPORTS",beIN SPORTS 5 SD
+https://man1ted.com/get.php?ch=beee5
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_34728biwp7.png" group-title="beIN SPORTS",beIN SPORTS 6 SD
+https://man1ted.com/get.php?ch=beee6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNL7gRL5/IMG-20250610-124148-440.png" group-title="beIN SPORTS",beIN SPORTS 7 SD2
+https://man1ted.com/get.php?ch=beee7
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472fncu45.png" group-title="beIN SPORTS",beIN SPORTS 8 SD2
+https://man1ted.com/get.php?ch=beee8
