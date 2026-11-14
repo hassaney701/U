@@ -1,202 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tring Sport 1 HD AL" group-title="AL_ Tring Sport",Tring Sport 1 HD AL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31563/index.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 2 HD AL" group-title="AL_ Tring Sport",Tring Sport 2 HD AL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31564/index.m3u8
-#M3U_EXTRACT: 7b4ecc7c.edmonst.net
-#EXTINF:-1 tvg-name="Arena Premium 1 HD RS" group-title="ARENA Premium",Arena Premium 1 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31599/index.m3u8
-#EXTINF:-1 tvg-name="Arena Premium 3 HD RS" group-title="ARENA Premium",Arena Premium 3 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31601/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 HD HR" group-title="ARENA Sport HR",Arena Sport 2 HD HR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7330/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 FHD HR" group-title="ARENA Sport HR",Arena Sport 4 FHD HR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7266/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 FHD HR" group-title="ARENA Sport HR",Arena Sport 5 FHD HR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7267/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 HD HR" group-title="ARENA Sport HR",Arena Sport 5 HD HR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7333/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 FHD RS" group-title="ARENA Sport SR",Arena Sport 1 FHD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2550/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1x2 HD RS" group-title="ARENA Sport SR",Arena Sport 1x2 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31611/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 HD RS" group-title="ARENA Sport SR",Arena Sport 3 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31603/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 HD RS" group-title="ARENA Sport SR",Arena Sport 4 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31605/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 HD RS" group-title="ARENA Sport SR",Arena Sport 5 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31606/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 7 HD RS" group-title="ARENA Sport SR",Arena Sport 7 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31608/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 8 HD RS" group-title="ARENA Sport SR",Arena Sport 8 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31609/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 9 HD RS" group-title="ARENA Sport SR",Arena Sport 9 HD RS
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31610/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Haber HD TR" group-title="beIN Sport_ TR",beIN Sports Haber HD TR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19064/index.m3u8
-#EXTINF:-1 tvg-name="beIN Sports US" group-title="beIN Sport_ US",beIN Sports US
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31048/index.m3u8
-#EXTINF:-1 tvg-name="Diema Sport 3 HD BG" group-title="BG_ Sport",Diema Sport 3 HD BG
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31917/index.m3u8
-#EXTINF:-1 tvg-name="SportsNet New York HD US" group-title="CA_ Sportsnet",SportsNet New York HD US
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/11107/index.m3u8
-#EXTINF:-1 tvg-name="Sportsnet East HD CA" group-title="CA_ Sportsnet",Sportsnet East HD CA
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6477/index.m3u8
-#EXTINF:-1 tvg-name="Sportsnet ONE HD CA" group-title="CA_ Sportsnet",Sportsnet ONE HD CA
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6438/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ FR" group-title="CANAL+ FR",Canal+ FR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6005/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Kids HD FR" group-title="CANAL+ FR",Canal+ Kids HD FR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6006/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Sport HD FR" group-title="CANAL+ FR",Canal+ Sport HD FR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2502/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Bar HD ES" group-title="DAZN LALIGA",DAZN 1 Bar HD ES
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31831/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 2 Bar HD ES" group-title="DAZN LALIGA",DAZN 2 Bar HD ES
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31832/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" group-title="DAZN LALIGA",DAZN 4 Bar HD ES
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31862/index.m3u8
-#EXTINF:-1 tvg-name="DAZN LaLiga HD ES" group-title="DAZN LALIGA",DAZN LaLiga HD ES
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31856/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 FHD PT" group-title="DAZN PT",DAZN 1 FHD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19158/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 PT" group-title="DAZN PT",DAZN 1 PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31954/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 2 HD PT" group-title="DAZN PT",DAZN 2 HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31955/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 4 HD PT" group-title="DAZN PT",DAZN 4 HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31957/index.m3u8
-#EXTINF:-1 tvg-name="DAZN 5 FHD PT" group-title="DAZN PT",DAZN 5 FHD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2535/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Golf HD DE" group-title="DE_ Sky Sport",Sky Sport Golf HD DE
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/5043/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 HD NL" group-title="ESPN_ NL",ESPN 3 HD NL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19203/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 IN" group-title="IN_ Star Sport",Star Sports 1 IN
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2508/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 IN" group-title="IN_ Star Sport",Star Sports 2 IN
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2507/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 24 HD IT" group-title="IT_ Sky Sport",Sky Sport 24 HD IT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19127/index.m3u8
-#EXTINF:-1 tvg-name="ČT sport HD CZ" group-title="JOJ Sport",ČT sport HD CZ
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2551/index.m3u8
-#EXTINF:-1 tvg-name="Best4Sport HD LV" group-title="LV_ Best4Sport",Best4Sport HD LV
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/18016/index.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 1 HD LV" group-title="LV_ Go3 Sport",Go3 Sport 1 HD LV
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/18011/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 2 HD GR" group-title="Magenta Sport",Magenta Sport 2 HD GR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31579/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 4 HD GR" group-title="Magenta Sport",Magenta Sport 4 HD GR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31582/index.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 5 HD GR" group-title="Magenta Sport",Magenta Sport 5 HD GR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31583/index.m3u8
-#EXTINF:-1 tvg-name="Ziggo Sport 2 HD NL" group-title="NL_ Ziggo",Ziggo Sport 2 HD NL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2561/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1 4K PL" group-title="PL_ Eleven Sport",Eleven Sports 1 4K PL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20068/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD PL" group-title="PL_ Eleven Sport",Eleven Sports 1 HD PL
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2518/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV+ FHD PT" group-title="PT_ SportTV",Sport TV+ FHD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31941/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV+ HD PT" group-title="PT_ SportTV",Sport TV+ HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31590/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 1 HD PT" group-title="PT_ SportTV",Sport TV 1 HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2525/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 2 FHD PT" group-title="PT_ SportTV",Sport TV 2 FHD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31943/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 4 HD PT" group-title="PT_ SportTV",Sport TV 4 HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2528/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 5 FHD PT" group-title="PT_ SportTV",Sport TV 5 FHD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31946/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV 5 HD PT" group-title="PT_ SportTV",Sport TV 5 HD PT
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2529/index.m3u8
-#EXTINF:-1 tvg-name="DIGI Sport 2 HD RO" group-title="RO_ DIGI Sport",DIGI Sport 2 HD RO
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2522/index.m3u8
-#EXTINF:-1 tvg-name="Sport Extra HD RO" group-title="RO_ Sport EXTRA",Sport Extra HD RO
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31595/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 1 HD" group-title="RU_ SportCast",BOX SportCast Live 1 HD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20166/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 2 HD" group-title="RU_ SportCast",BOX SportCast Live 2 HD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20167/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 4 HD" group-title="RU_ SportCast",BOX SportCast Live 4 HD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20169/index.m3u8
-#EXTINF:-1 tvg-name="BOX SportCast Live 6 HD" group-title="RU_ SportCast",BOX SportCast Live 6 HD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31648/index.m3u8
-#EXTINF:-1 tvg-name="TV3 Sport SE" group-title="SE_ Sport",TV3 Sport SE
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/12100/index.m3u8
-#EXTINF:-1 tvg-name="TV4 Sport Live 4 HD SE" group-title="SE_ Sport",TV4 Sport Live 4 HD SE
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/12039/index.m3u8
-#EXTINF:-1 tvg-name="V Sport Football SE" group-title="SE_ V Sport",V Sport Football SE
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/11110/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 HD orig" group-title="SETANTA",Setanta Sports 1 HD orig
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6541/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ UA" group-title="SETANTA_ UA",Setanta Sports+ UA
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31756/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports FHD UA" group-title="SETANTA_ UA",Setanta Sports FHD UA
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/272/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport" group-title="Sports_ Mix",Viju+ Sport
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/160/index.m3u8
-#EXTINF:-1 tvg-name="We Sport TV MD" group-title="Sports_ Mix",We Sport TV MD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2471/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport HD orig" group-title="Sports_ Mix",Viju+ Sport HD orig
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/5065/index.m3u8
-#EXTINF:-1 tvg-name="Sport TV HD AZ" group-title="Sports_ Mix",Sport TV HD AZ
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31926/index.m3u8
-#EXTINF:-1 tvg-name="TV 2 Sport 2 HD NO" group-title="Sports_ Mix",TV 2 Sport 2 HD NO
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2540/index.m3u8
-#EXTINF:-1 tvg-name="TV 2 Sport HD DK" group-title="Sports_ Mix",TV 2 Sport HD DK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7355/index.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2 HD TR" group-title="TR_ Spor Smart",Spor Smart 2 HD TR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19073/index.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3 HD TR" group-title="TR_ Tivibu Spor",Tivibu Spor 3 HD TR
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/19076/index.m3u8
-#EXTINF:-1 tvg-name="Окко Прайм Спорт HD" group-title="TV mix",Окко Прайм Спорт HD
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20135/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Action HD 50 UK" group-title="UK_ Sky",Sky Sports Action HD 50 UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/9155/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix HD 50 UK" group-title="UK_ Sky",Sky Sports Mix HD 50 UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/9310/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League HD 50 UK" group-title="UK_ Sky",Sky Sports Premier League HD 50 UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/9334/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Action HD UK" group-title="UK_ Sky",Sky Sports Action HD UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7340/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix HD UK" group-title="UK_ Sky",Sky Sports Mix HD UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7339/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League HD UK" group-title="UK_ Sky",Sky Sports Premier League HD UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/7335/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 1 FHD UK" group-title="UK_ TNT Sport",TNT Sports 1 FHD UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/2505/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3 HD UK" group-title="UK_ TNT Sport",TNT Sports 3 HD UK
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/6564/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 1" group-title="VIP",ViP Sport 1
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20099/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 2" group-title="VIP",ViP Sport 2
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20103/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 3" group-title="VIP",ViP Sport 3
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20104/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 4" group-title="VIP",ViP Sport 4
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20105/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 5" group-title="VIP",ViP Sport 5
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20106/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 7" group-title="VIP",ViP Sport 7
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20108/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 8" group-title="VIP",ViP Sport 8
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20109/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 9" group-title="VIP",ViP Sport 9
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20110/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 10" group-title="VIP",ViP Sport 10
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20100/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 11" group-title="VIP",ViP Sport 11
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20101/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 12" group-title="VIP",ViP Sport 12
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/20102/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 13" group-title="VIP",ViP Sport 13
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31674/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 14" group-title="VIP",ViP Sport 14
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31675/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 15" group-title="VIP",ViP Sport 15
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31676/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 16" group-title="VIP",ViP Sport 16
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31677/index.m3u8
-#EXTINF:-1 tvg-name="ViP Sport 17" group-title="VIP",ViP Sport 17
-http://7b4ecc7c.edmonst.net/iptv/3PSGY2LLR9PCWQS2MD5ELFVC/31678/index.m3u8
+#M3U_EXTRACT: vtvgolive-sctvdrm.vtvdigital.vn
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi" group-title="TV mix",SCTV 3
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/SCTV4_logo_19-01-2023.png/revision/latest?cb=20230323071855&path-prefix=vi" group-title="TV mix",SCTV 4
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/SCTV6.png/revision/latest?cb=20210220103413" group-title="TV mix",SCTV 6
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/SCTV7_logo.png/revision/latest?cb=20220223142137&path-prefix=vi" group-title="TV mix",SCTV 7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/SCTV9.png/revision/latest/scale-to-width-down/200?cb=20210821040105&path-prefix=vi" group-title="TV mix",SCTV 9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi" group-title="TV mix",SCTV 11
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/220?cb=20201011030148" group-title="TV mix",SCTV 12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest?cb=20211211011126&path-prefix=vi" group-title="TV mix",SCTV 13
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/SCTV14_logo_12-02-2026.png/revision/latest?cb=20260301113219&path-prefix=vi" group-title="TV mix",SCTV 14
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi" group-title="TV mix",SCTV 16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/SCTV18.png/revision/latest?cb=20210820120952&path-prefix=vi" group-title="TV mix",SCTV 18
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20240131141543&path-prefix=vi" group-title="TV mix",SCTV 19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/1200?cb=20210821042852&path-prefix=vi" group-title="TV mix",SCTV 20
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
