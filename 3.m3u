@@ -1,130 +1,20 @@
 #EXTM3U
-#M3U_EXTRACT: 186.148.196.250
-#EXTINF:0 group-title="Mix_ Documentary",Animal Planet HD
-http://186.148.196.250:81/play/a04c/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Animal Planet
-http://186.148.196.250:81/play/a0el/index.m3u8
-#EXTINF:0 group-title="UK_ GENERAL",BBC News
-http://186.148.196.250:81/play/a0c7/index.m3u8
-#EXTINF:0 group-title="UK_ GENERAL",BBC News
-http://186.148.196.250:81/play/a0fu/index.m3u8
-#EXTINF:0 group-title="CANAL+ Sport",CANAL 13
-http://186.148.196.250:81/play/a0ng/index.m3u8
-#EXTINF:0 group-title="CANAL+ Sport",Canal N
-http://186.148.196.250:81/play/a0o6/index.m3u8
-#EXTINF:0 group-title="CANAL+ Sport",Canal TUVES
-http://186.148.196.250:81/play/a0om/index.m3u8
-#EXTINF:0 group-title="TV mix",Cinemax
-http://186.148.196.250:81/play/a0g9/index.m3u8
-#EXTINF:0 group-title="TV mix",CNN Espanol
-http://186.148.196.250:81/play/a0nb/index.m3u8
-#EXTINF:0 group-title="TV mix",CNN Espaol
-http://186.148.196.250:81/play/a099/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Channel HD
-http://186.148.196.250:81/play/a04d/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Channel
-http://186.148.196.250:81/play/a0lu/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids HD
-http://186.148.196.250:81/play/a0oc/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids
-http://186.148.196.250:81/play/a0lv/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Kids
-http://186.148.196.250:81/play/a0na/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Science
-http://186.148.196.250:81/play/a077/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Theater HD
-http://186.148.196.250:81/play/a0cm/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery Turbo
-http://186.148.196.250:81/play/a0en/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Discovery World HD
-http://186.148.196.250:81/play/a0il/index.m3u8
-#EXTINF:0 group-title="TV mix",Disney Channel
-http://186.148.196.250:81/play/a0od/index.m3u8
-#EXTINF:0 group-title="TV mix",Disney Jr
-http://186.148.196.250:81/play/a0nn/index.m3u8
-#EXTINF:0 group-title="TV mix",Disney Junior
-http://186.148.196.250:81/play/a075/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN HD
-http://186.148.196.250:81/play/a0cv/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 2 HD
-http://186.148.196.250:81/play/a0cr/index.m3u8
-#EXTINF:11 group-title="ESPN_ Autre",ESPN 2 HD
-http://186.148.196.250:81/play/a0id/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 2
-http://186.148.196.250:81/play/a0m9/index.m3u8
-#EXTINF:11 group-title="ESPN_ Autre",ESPN 2
-http://186.148.196.250:81/play/a0nq/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 3 HD
-http://186.148.196.250:81/play/a0in/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 4 HD
-http://186.148.196.250:81/play/a0io/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 5 HD
-http://186.148.196.250:81/play/a0fy/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 5
-http://186.148.196.250:81/play/a0g2/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 6 HD
-http://186.148.196.250:81/play/a0i7/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 7
-http://186.148.196.250:81/play/a0lw/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN 7HD
-http://186.148.196.250:81/play/a04i/index.m3u8
-#EXTINF:0 group-title="ESPN_ Autre",ESPN Premium
-http://186.148.196.250:81/play/a0ni/index.m3u8
-#EXTINF:0 group-title="TV mix",FX HD
-http://186.148.196.250:81/play/a09i/index.m3u8
-#EXTINF:0 group-title="TV mix",Golden HD
-http://186.148.196.250:81/play/a0m0/index.m3u8
-#EXTINF:0 group-title="TV mix",Golden
-http://186.148.196.250:81/play/a0me/index.m3u8
-#EXTINF:0 group-title="TV mix",Golden Edge
-http://186.148.196.250:81/play/a0md/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO HD
-http://186.148.196.250:81/play/a0ik/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO 2
-http://186.148.196.250:81/play/a0nj/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Family HD
-http://186.148.196.250:81/play/a0cy/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Family
-http://186.148.196.250:81/play/a0nm/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Mundi
-http://186.148.196.250:81/play/a0cc/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Plus
-http://186.148.196.250:81/play/a0mh/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Plus
-http://186.148.196.250:81/play/a0nk/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO POP HD
-http://186.148.196.250:81/play/a0cs/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Signature
-http://186.148.196.250:81/play/a0cb/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Xtreme HD
-http://186.148.196.250:81/play/a0cz/index.m3u8
-#EXTINF:0 group-title="TV mix",HBO Xtreme SD
-http://186.148.196.250:81/play/a0nl/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",History 2
-http://186.148.196.250:81/play/a0m1/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",History Channel HD
-http://186.148.196.250:81/play/a04e/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",History Channel
-http://186.148.196.250:81/play/a0lx/index.m3u8
-#EXTINF:0 group-title="Mix_ Documentary",Nat Geo HD
-http://186.148.196.250:81/play/a04f/index.m3u8
-#EXTINF:0 group-title="TV mix",Sony HD
-http://186.148.196.250:81/play/a04j/index.m3u8
-#EXTINF:0 group-title="Movies",Sony Movies
-http://186.148.196.250:81/play/a0oo/index.m3u8
-#EXTINF:0 group-title="TV mix",Studio Universal HD
-http://186.148.196.250:81/play/a0d5/index.m3u8
-#EXTINF:0 group-title="TV mix",Studio Universal SD
-http://186.148.196.250:81/play/a0hs/index.m3u8
-#EXTINF:0 group-title="TV mix",Studio Universal
-http://186.148.196.250:81/play/a0np/index.m3u8
-#EXTINF:0 group-title="TV mix",Telemundo
-http://186.148.196.250:81/play/a078/index.m3u8
-#EXTINF:0 group-title="UK_ TNT Sport",TNT SPORTS
-http://186.148.196.250:81/play/a0of/index.m3u8
-#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premium SD
-http://186.148.196.250:81/play/a0ck/index.m3u8
-#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premium
-http://186.148.196.250:81/play/a0nh/index.m3u8
-#EXTINF:0 group-title="UK_ TNT Sport",TNT Sports Premiun HD
-http://186.148.196.250:81/play/a0cq/index.m3u8
+#M3U_EXTRACT: rr2.vip2ip.com
+#EXTINF:-1 tvg-name="Setanta Sport Moldova" group-title="SETANTA",Setanta Sport Moldova
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63395/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sport Premium UA" group-title="SETANTA_ UA",Setanta Sport Premium UA
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/82731/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sport Qazaqstan" group-title="SETANTA",Setanta Sport Qazaqstan
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/29837/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="SETANTA",Setanta Sports 1
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/45141/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 Baltic" group-title="SETANTA",Setanta Sports 1 Baltic
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/62005/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2" group-title="SETANTA",Setanta Sports 2
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63626/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 Baltic" group-title="SETANTA",Setanta Sports 2 Baltic
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/38208/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports Ukraine +" group-title="SETANTA",Setanta Sports Ukraine +
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/30727/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports Ukraine" group-title="SETANTA",Setanta Sports Ukraine
+http://rr2.vip2ip.com/~301736870633659706B394B427A6F/63945/hls/pl.m3u8
