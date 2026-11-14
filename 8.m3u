@@ -1,46 +1,24 @@
 #EXTM3U
-#M3U_EXTRACT: scccrwb-live.cdn.intigral-ott.net
-#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3472t0n9v6.png" group-title="الرياضة العربية",DUBAI SPORT 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DBSH/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpdwhdGC/image.png" group-title="الرياضة العربية",DUBAI SPORT 2
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DBS2/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cxmGgmx/image.png" group-title="الرياضة العربية",KSA SPORT 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSAS1/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_34722s5eg4.png" group-title="الرياضة العربية",KSA SPORT 2
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS2/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3472h7e6p2.png" group-title="ROTANA",ROTANA AFLAM
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTFP/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zH66bfQG/Rocinma.png" group-title="ROTANA",ROTANA CINEMA
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCK/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3472z7qb84.png" group-title="ROTANA",ROTANA COMEDY
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTF/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1fRk9PJZ/Rokhal.png" group-title="ROTANA",ROTANA KHALIJIA
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTK/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3472j88y36.png" group-title="ROTANA",ROTANA KIDS
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTI/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xc4Vhqq/image.png" group-title="STARZPLAY",STARZPLAY SPORT 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3703ckq6e2.png" group-title="STARZPLAY",STARZPLAY SPORT 2
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFvsThtC/image.png" group-title="STARZPLAY",STARZPLAY SPORT 3
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3703nmg0u6.png" group-title="STC SPORT",STC CINEMA
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3703mb7zk4.png" group-title="STC SPORT",STC DRAMA
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pVNDsqk/file-0000000008e471f68182ff3c3319bfdd.png" group-title="STC SPORT",STC FAMILY
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sp3qhzkc/image.png" group-title="STC SPORT",STC SPORT 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3703a62uo3.png" group-title="STC SPORT",STC SPORT 3
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKTsb1s3/image.png" group-title="STC SPORT",STC SPORT 4
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xc4Vhqq/image.png" group-title="STARZPLAY",أبوظبي الرياضية 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD2/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://k.top4top.io/p_37043lmvl0.png" group-title="الرياضة العربية",ثمانية 1
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rG20pJKV/image.png" group-title="الرياضة العربية",ثمانية 2
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3704w70u52.png" group-title="الرياضة العربية",ثمانية 3
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd
+#M3U_EXTRACT: 46.53.200.153
+#EXTINF:-1 group-title="Viju",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Viju",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Viju",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Viju",viju Sport
+http://46.53.200.153:7777/play/a01m/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 novella HD (1080p)" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="Viju",viju TV1000 novella HD (1080p)
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Viju",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 group-title="Viju",Viju TV 1000
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1 group-title="TV mix",VIP Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="TV mix",VIP Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 group-title="TV mix",VIP Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 group-title="TV mix",VIP Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
