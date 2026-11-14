@@ -1,36 +1,12 @@
 #EXTM3U
-#M3U_EXTRACT: fortv.cc
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Arena
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35238.m3u8
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports F1 FHD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35244.m3u8
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Golf FHD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35240.m3u8
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Main Event
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35243.m3u8
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports News
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/35241.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet 360 HD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/2219.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet Ontario (FHD)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/11649.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet Pacific (FHD)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/9860.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet West (FHD)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/20975.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet World HD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/75675.m3u8
-#EXTINF:-1 group-title="CA_ TSN Sport",TSN 3 HD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/10389.m3u8
-#EXTINF:-1 group-title="CA_ TSN Sport",TSN 4 HD
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/16130.m3u8
-#EXTINF:-1 group-title="UK_ GENERAL",Sky Sports Cricket FHD (D)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/45940.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet East (D)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/41836.m3u8
-#EXTINF:-1 group-title="CA_ Sportsnet",Sportsnet One (E)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/10247.m3u8
-#EXTINF:-1 group-title="CA_ TSN Sport",TSN 1 (E)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/57292.m3u8
-#EXTINF:-1 group-title="CA_ TSN Sport",TSN 2 (R)
-http://fortv.cc:8080/live/PsGv7bTEpB/b2MQgWBBxg/16129.m3u8
+#M3U_EXTRACT: 82.39.115.26
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--SPORTS_1ª
+http://82.39.115.26:3000/live/1.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--SPORTS_2ª
+http://82.39.115.26:3000/live/2.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--SPORTS_3ª
+http://82.39.115.26:3000/live/3.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--SPORTS_4ª
+http://82.39.115.26:3000/live/4.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--SPORTS_5ª
+http://82.39.115.26:3000/live/5.m3u8
